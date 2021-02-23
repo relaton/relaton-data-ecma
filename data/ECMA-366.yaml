@@ -1,0 +1,70 @@
+---
+id: ECMA-366
+title:
+  content: WS-Session - Web services for application session services
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-366/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-366_3rd_edition_december_2011.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-366
+  type: ECMA
+date:
+  type: published
+  value: 2011-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2011-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies Web Services (in WSDL, in Clause 5) and SOAP bindings (in Clause 6) for the Application Session Services defined in ECMA-354. The Application Session Services allow Applications to create and maintain a relationship with Servers termed Application Session. The Web services specified herein, allow Service Requesters (Applications in ECMA-354) and Service Providers (Servers in ECMA-354) to create and maintain such Application Sessions.
+    This Standard builds upon and imports the XML schema definitions from ECMA-354. The method of making the WSDL description of the specified services available to Service Provider and Requester is out of the scope of this Standard.
+    The Notification WSDL specifies the ApplicationSessionTerminated operation. The operation specifies one input message for the event notification that Service Requesters receive from the Service Provider. Service Requesters may also receive the event notifications from web services, e.g. ECMA-348, that use this Standard for session management.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-366_1st_edition_june_2005.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-366
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-366_2nd_edition_june_2008.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-366
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-366_ws-session_3rdedition.zip
+      type: doi
+    edition: ''
+    formattedref:
+      content: WSDL and SOAP sources in zip format
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

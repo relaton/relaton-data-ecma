@@ -1,0 +1,49 @@
+---
+id: ECMA-130
+title:
+  content: Data interchange on read-only 120 mm optical data disks (CD-ROM)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-130/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-130_2nd_edition_june_1996.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-130
+  type: ECMA
+date:
+  type: published
+  value: 1996-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1996-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies the characteristics of 120 mm optical disks for information interchange between information processing systems and for information storage, called CD-ROM.
+    The optical disk specified by this Standard is of the type in which the information is recorded before delivery to the user and can only be read from the disk.
+    This Standard specifies:
+    These characteristics are specified for tracks recorded with digital data. According to this Standard, a disk may also contain one or more tracks recorded with digital audio data. Such tracks shall be recorded according to IEC Publication 908.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-130_1st_edition_july_1988.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-130
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

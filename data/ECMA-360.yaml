@@ -1,0 +1,36 @@
+---
+id: ECMA-360
+title:
+  content: Corporate telecommunication networks - Signalling interworking between
+    QSIG and SIP - Call diversion
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-360/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-360_1st_edition_december_2004.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-360
+  type: ECMA
+date:
+  type: published
+  value: 2004-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2004-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This document specifies signalling interworking between “QSIG” and the Session Initiation Protocol (SIP) in support of call diversion within a corporate telecommunication network (CN), also known as enterprise networks.
+    “QSIG” is a signalling protocol that operates between Private Integrated services Network eXchanges (PINX) within a Private Integrated Services Network (PISN). A PISN provides circuit-switched basic services and supplementary services to its users. QSIG is specified in Ecma Standards, in particular [1] (call control in support of basic services), [2] (generic functional protocol for the support of supplementary services) and a number of Standards specifying individual supplementary services. Diversion services are specified in [4] and the QSIG signalling protocol in support of these services is specified in [5]. In particular, this signalling protocol signals information about call diversion to the users involved. SIP is an application layer protocol for establishing, terminating and modifying multimedia sessions. It is typically carried over IP [8], [10]. Telephone calls are considered as a type of multimedia session where just audio is exchanged. SIP is defined in [11]. An extension to SIP provides history information [14] that can be used to signal information about the retargeting of a request, in particular a call establishment request, as it is routed through a network. This document specifies signalling interworking for call diversion during the establishment of calls between a PISN employing QSIG and a corporate IP network employing SIP. It covers both the impact on SIP of call diversion in the QSIG network and the impact on QSIG of request retargeting in the SIP network. Signalling interworking for call diversion operates on top of signalling interworking for basic calls, which is specified in [6]. Call diversion interworking between a PISN employing QSIG and a public IP network employing SIP is outside the scope of this specification. However, the functionality specified in this specification is in principle applicable to such a scenario when deployed in conjunction with other relevant functionality (e.g., number translation, security functions, etc.). This specification is applicable to any interworking unit that can act as a gateway between a PISN employing QSIG and a corporate IP network employing SIP.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

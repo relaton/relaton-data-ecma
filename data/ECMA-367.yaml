@@ -1,0 +1,48 @@
+---
+id: ECMA-367
+title:
+  content: 'Eiffel: Analysis, design and programming language'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-367/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-367_2nd_edition_june_2006.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-367
+  type: ECMA
+date:
+  type: published
+  value: 2006-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2006-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This document provides the full reference for the Eiffel language. Eiffel is a method of software construction and a language applicable to the analysis, design, implementation and maintenance of software systems. This Standard covers only the language, with an emphasis on the implementation aspects. As a consequence, the word “Eiffel” in the rest of this document is an abbreviation for “the Eiffel language”.
+    The Standard specifies:
+    The Standard does not specify:
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-367_1st_edition_june_2005.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-367
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

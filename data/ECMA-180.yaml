@@ -1,0 +1,37 @@
+---
+id: ECMA-180
+title:
+  content: Protocol for Computer Supported Telecommunications Applications (CSTA)
+    Phase I
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-180/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-180_1st_edition_june_1992.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-180
+  type: ECMA
+date:
+  type: published
+  value: 1992-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1992-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies application protocol data units (APDUs) for the services described in Standard ECMA-179, Services for Computer-Supported Telecommunications Applications. The field of application of this Standard is the interconnection of switches and computers in a private telecommunications environment.
+    Section 2 (clause 5 to clause 7 inclusive) describes the concepts underlying the Remote Operations model, notation and service. Section 3 (clause 8 to clause 16 inclusive) contains CSTA-specific protocol details and forms the main body of this Standard.
+    Further information on the CSTA topic is also available.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

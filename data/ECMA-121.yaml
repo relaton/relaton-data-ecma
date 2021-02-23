@@ -1,0 +1,47 @@
+---
+id: ECMA-121
+title:
+  content: 8-bit single-byte coded graphic character sets - Latin/Hebrew alphabet
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-121/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-121_2nd_edition_december_2000.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-121
+  type: ECMA
+date:
+  type: published
+  value: 2000-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2000-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard defines a set of 153 graphic characters identified as Latin/Hebrew Alphabet, and specifies the coded representation of each of these characters by means of a single 8-bit byte. None of these characters are “non-spacing”.
+    The use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-121_1st_edition_july_1987.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-121
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

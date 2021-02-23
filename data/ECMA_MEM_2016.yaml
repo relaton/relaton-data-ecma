@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/2016
+title:
+  content: '"Memento 2016" for year2016'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/2016
+  type: ECMA
+date:
+  type: published
+  value: 2016-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2016-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

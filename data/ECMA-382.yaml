@@ -1,0 +1,49 @@
+---
+id: ECMA-382
+title:
+  content: 120 mm (8,54 Gbytes per side) and 80 mm (2,66 Gbytes per side) DVD recordable
+    dsk for dual layer (DVD-R for DL)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-382/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-382_2nd_edition_june_2010.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-382
+  type: ECMA
+date:
+  type: published
+  value: 2010-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2010-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies the mechanical, physical and optical characteristics of a 120 mm and an 80 mm dual layer DVD Recordable disk to enable the interchange of such disks. It specifies the quality of the pre-recorded, unrecorded and the recorded signals, the format of the data, the format of the information zone, the format of the unrecorded zone, and the recording method, thereby allowing for information interchange by means of such disks. This disk is identified as a DVD Recordable disk for Dual Layer (DVD-R for DL).
+    This Ecma Standard specifies:
+    This Ecma Standard provides for interchange of disks between disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-382_1st_edition_june_2008.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-382
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

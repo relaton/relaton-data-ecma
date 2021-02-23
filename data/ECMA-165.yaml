@@ -1,0 +1,76 @@
+---
+id: ECMA-165
+title:
+  content: Private Integrated Services Network (PISN) - Generic functional protocol
+    for the support of supplementary services - Inter-exchange signalling procedures
+    and protocol (QSIG-GF)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-165/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-165_4th_edition_june_2001.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-165
+  type: ECMA
+date:
+  type: published
+  value: 2001-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+edition: '4'
+revdate: 2001-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard defines the signalling protocol for the control of Supplementary Services and Additional Network Features (ANFs) at the Q reference point. The protocol is part of Private Signalling System no. 1 (PSS1), known informally as QSIG. The Q reference point exists between Private Integrated services Network eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN) and is defined in ECMA-133.
+    Detailed procedures applicable to individual supplementary services and ANFs are beyond the scope of this Standard and will be specified by other standards for those services which are standardised and by individual manufacturers for proprietary services using the capabilities defined in this Standard.
+    Standard ECMA-143 defines the Layer 3 protocol for circuit-switched call control at the Q reference point. This Standard defines additional protocol procedures, to be used in conjunction with those defined in ECMA-143 for the control of supplementary services and ANFs.
+    NOTE 1 – Typical examples of the application of these generic functional procedures to some supplementary services are provided in annex C, for explanatory and illustrative purposes only.
+    NOTE 2 – Specific supplementary services and Additional Network Features may require additional information transfer mechanisms which are service or feature specific and are beyond the scope of this Standard.
+    The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-165_1st_edition_march_1992.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-165
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-165_2nd_edition_june_1993.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-165
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-165_3rd_edition_june_1997.pdf
+      type: doi
+    edition: '3'
+    formattedref:
+      content: ECMA-165
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

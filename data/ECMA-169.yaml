@@ -1,0 +1,37 @@
+---
+id: ECMA-169
+title:
+  content: 8 mm wide magnetic tape cartridge dual azimuth format for information interchange
+    - Helical scan recording
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-169/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-169_1st_edition_august_1992.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-169
+  type: ECMA
+date:
+  type: published
+  value: 1992-08
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1992-08
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies the physical and magnetic characteristics of an 8 mm wide magnetic tape cartridge to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, the format and the recording method, thus allowing, together with Standard ECMA-13 for Magnetic Tape Labelling, full data interchange by means of such magnetic tape cartridges.
+    It is based on ECMA-145, 8 mm Wide Magnetic Tape Cartridge for Information Interchange – Helical Scan Recording -, but uses Dual Azimuth Recording to allow the raw capacity to be doubled.
+    The format supports variable length Logical Records, high speed search, and the use of a registered data compression algorithm.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

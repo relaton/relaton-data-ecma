@@ -1,0 +1,44 @@
+---
+id: ECMA-239
+title:
+  content: 'Data interchange on 90 mm optical disk cartridges - HS-1 format - Capacity:
+    650 Megabytes per cartridge'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-239/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-239_1st_edition_june_1996.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-239
+  type: ECMA
+date:
+  type: published
+  value: 1996-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1996-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies the characteristics of 90 mm Optical Disk Cartridges (ODC) with a capacity of 650 Mbytes per Cartridge. The Standard specifies three related, but different implementations of such cartridges, viz.
+    Type R/W
+    Provides for data to be written and read many times over the recording surface of the disk using the thermo-magnetic and magneto-optical effects.
+    Type P-ROM
+    Provides for a part of the recording surface of the disk to be embossed by stamping or other means. This part of the disk is read without recourse to the magneto-optical effect. The part which is not embossed provides for data to meet the requirements of Type R/W.
+    Type O-ROM
+    Provides for the recording surface of the disk to be embossed and reproduced by stamping or other means. This type of disk is read without recourse to the magneto-optical effect.
+    Type R/W, Type P-ROM and Type O-ROM are also referred to as “fully rewritable”, “partially embossed” and “fully embossed”, respectively.
+    This Ecma Standard specifies:
+    This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

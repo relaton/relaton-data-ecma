@@ -1,0 +1,35 @@
+---
+id: ECMATR/46
+title:
+  content: Security in open systems - A security framework
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-46/
+  type: src
+- content: "/publications-and-standards/technical-reports/"
+  type: doi
+type: standard
+docid:
+  id: ECMA TR/46
+  type: ECMA
+date:
+  type: published
+  value: 1988-07
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1988-07
+language: en
+script: Latn
+abstract:
+  content: |-
+    Many different security needs can be met by a common set of secure functions to be provided outside application processes. These functions will affect the interactions between users and productive applications, and between productive applications and supportive applications. They will also affect the installation, maintenance and management of applications and of the underlying system. These functions, their interactions and their management constitute the scope of security in this Report.
+    The level of view addressed in this Report is the level of the “secure environment”. This has close parallels with the concept of Open Distributed Processing. The security requirements of distributed applications that are specific to the nature of these applications (e.g. access controls to the objects owned by a given application) are addressed here only to the extent that generally applicable functions and their interactions can be identified.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

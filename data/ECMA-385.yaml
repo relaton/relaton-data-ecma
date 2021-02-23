@@ -1,0 +1,71 @@
+---
+id: ECMA-385
+title:
+  content: 'NFC-SEC: NFCIP-1 security services and protocol'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-385/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-385_4th_edition_june_2015.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-385
+  type: ECMA
+date:
+  type: published
+  value: 2015-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+edition: '4'
+revdate: 2015-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies the NFC-SEC secure channel and shared secret services for NFCIP-1 and the PDUs and protocol for those services.
+    The NFC-SEC cryptography standards identified in the PID registry complement and use the services and protocol specified in this Standard.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-385_1st_edition_december_2008.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-385
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-385_2nd_edition_june_2010.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-385
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-385_3rd_edition_june_2013.pdf
+      type: doi
+    edition: '3'
+    formattedref:
+      content: ECMA-385
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

@@ -1,0 +1,42 @@
+---
+id: ECMA-240
+title:
+  content: 'Data interchange on 120 mm optical disk cartridges using phase change
+    PD format - Capacity: 650 Mbytes per cartridge'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-240/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-240_1st_edition_june_1996.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-240
+  type: ECMA
+date:
+  type: published
+  value: 1996-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1996-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies the characteristics of 120 mm Optical Disk Cartridges (ODCs) with a capacity of 650 Mbytes using Phase Change PD format. The present Ecma Standard specifies two related, but different implementations of such cartridges, viz.
+    Type R/W
+    Provides for data to be written, read and overwritten many times over the whole recording surface of the disk using the phase change recording and read-out method.
+    Type WORM
+    Provides for data to be written once and read many times over the whole recording surface of the disk using the phase change recording and read-out method.
+    Type R/W and Type WORM are also referred to as “rewritable” and “write-once” respectively.
+    This Ecma Standard specifies:
+    This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

@@ -1,0 +1,58 @@
+---
+id: ECMA-267
+title:
+  content: 120 mm DVD - Read-only disk
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-267/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-267_3rd_edition_april_2001.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-267
+  type: ECMA
+date:
+  type: published
+  value: 2001-04
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2001-04
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies
+    This Ecma Standard provides for interchange of disks between disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-267_1st_edition_december_1997.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-267
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-267_2nd_edition_december_1999.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-267
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

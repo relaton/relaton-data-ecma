@@ -1,0 +1,36 @@
+---
+id: ECMA-145
+title:
+  content: 8 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-145/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-145_1st_edition_december_1990.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-145
+  type: ECMA
+date:
+  type: published
+  value: 1990-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1990-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of an 8 mm wide magnetic tape cartridge to enable interchangeability of such cartridges.
+    It also provides a format and recording method, thus allowing, together with Standard ECMA-13 for Magnetic Tape Labelling, full data interchange by means of such magnetic tape cartridges.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

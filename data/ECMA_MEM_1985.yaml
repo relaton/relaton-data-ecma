@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/1985
+title:
+  content: '"Memento 1985" for year1985'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/1985
+  type: ECMA
+date:
+  type: published
+  value: 1985-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1985-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

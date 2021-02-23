@@ -1,0 +1,7 @@
+= Publications bibliographic data for Relaton-ECMA
+
+This repository is used by Relaton-ECMA to represent known publications.
+
+Data is stored in Relaton YAML format.
+
+This repository contains a crawler script which runs daly. The script parses site https://www.ecma-international.org and store documents into the data directory.

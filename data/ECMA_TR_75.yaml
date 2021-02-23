@@ -1,0 +1,49 @@
+---
+id: ECMATR/75
+title:
+  content: Corporate Telecommunication Networks (CN) - Standardization plan
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-75/
+  type: src
+- content: "/publications-and-standards/technical-reports/"
+  type: doi
+type: standard
+docid:
+  id: ECMA TR/75
+  type: ECMA
+date:
+  type: published
+  value: 2000-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2000-06
+language: en
+script: Latn
+abstract:
+  content: This Technical Report defines the work areas and contents of the standardization
+    work programme for Corporate telecommunication Networks (CN). The aim is to manage,
+    co-ordinate and give visibility to the standardization process spread over various
+    technical bodies (TBs) in Ecma and ETSI. It can also be used to guide the international
+    standardization process in ISO/IEC JTC1.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-75_1st_edition_june_1999.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA TR/75
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

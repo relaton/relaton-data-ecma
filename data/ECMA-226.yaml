@@ -1,0 +1,42 @@
+---
+id: ECMA-226
+title:
+  content: Private Integrated Services Network (PISN) - Mapping functions for the
+    employment of dedicated circuit mode connections as inter-PTNX connections (MAPPING-CM-STATIC)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-226/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-226_1st_edition_june_1995.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-226
+  type: ECMA
+date:
+  type: published
+  value: 1995-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1995-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard defines the mapping functions in exchanges of Private Integrated Services Networks (PISNs) required for the utilization of intervening network (IVN) scenarios which provide dedicated circuit mode connections for carrying inter-PINX signalling and user information.
+    In order to connect a Private Integrated Services Network Exchange (PINX) to another PINX, mapping functions are required to adapt the specific interfaces at the C reference point to the application at the Q reference point. As such, mapping functions provide for physical adaptation to the interface at the C reference point. Mapping functions also provide for the mapping of user channels and signalling information at the Q reference point to the appropriate channels or time-slots at the C reference point.
+    The C and Q reference points are defined in ISO/IEC 11579-1.
+    The types of interfaces at the C reference point covered by this Standard are:
+    The IVN can be a dedicated transmission system or a cross connect system. IVNs which include inverse multiplexer techniques (e.g. channel aggregation in accordance with ISO/IEC 13871) are covered by this Standard as far as they support one of the interfaces listed above.
+    At the Q reference point the mappings provide a 64 kbit/s service for user channels and a packet mode service for the signalling channel. Bearer conditioning is outside the scope of this Standard, except for deriving 64 kbit/s channels and for providing the services of layer 2 for the signalling channel. The applied mapping is a static mapping, i.e. there is a fixed relationship between user and signalling channels at the Q reference point and the timeslots of the interface at the C reference point; any changes are subject to administrative actions.
+    Management functions relating to failure management are outside the scope of this Standard.
+    This Standard is applicable to PINXs which can be interconnected to form a Private Integrated Services Network (PISN) and which support signalling protocols at the Q reference point.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

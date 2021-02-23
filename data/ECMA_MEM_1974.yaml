@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/1974
+title:
+  content: '"Memento 1974" for year1974'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/1974
+  type: ECMA
+date:
+  type: published
+  value: 1974-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1974-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

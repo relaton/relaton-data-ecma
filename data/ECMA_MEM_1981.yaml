@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/1981
+title:
+  content: '"Memento 1981" for year1981'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/1981
+  type: ECMA
+date:
+  type: published
+  value: 1981-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1981-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

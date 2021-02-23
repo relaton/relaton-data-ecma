@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/2017
+title:
+  content: '"Memento 2017" for year2017'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/2017
+  type: ECMA
+date:
+  type: published
+  value: 2017-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2017-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

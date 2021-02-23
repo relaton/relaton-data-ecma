@@ -1,0 +1,40 @@
+---
+id: ECMA-270
+title:
+  content: Portable Common Tool Environment (PCTE) - Mapping from CASE Data Interchange
+    Format (CDIF) to PCTE
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-270/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-270_1st_edition_december_1997.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-270
+  type: ECMA
+date:
+  type: published
+  value: 1997-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1997-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies a mapping of CDIF to PCTE or, more specifically, of a CDIF subject area to a PCTE Schema Definition Set (SDS).
+    The mapping may be applied to standard CDIF subject areas and to CDIF subject areas defined as user extensions, provided they follow the restrictions used in the CDIF subject area standards.
+    PCTE (ECMA-149) is an interface to a set of facilities that forms the basis for constructing environments supporting systems engineering projects. These facilities are designed particularly to provide an infrastructure for programs which may be part of such environments. Such programs, which are used as aids to systems development, are often referred to as tools or CASE tools.
+    CDIF (EIA/IS-107) is an architecture and facilities for transferring information, often referred to as models, between CASE tools, including repositories. The CDIF architecture includes a modelling language, the CDIF meta-meta-model, for defining an integrated meta-model that in turn defines the information models for subject areas of systems engineering. The CDIF architecture also includes a transfer format for transferring models between tools.
+    Application of this mapping to a CDIF subject area generates a derived PCTE SDS that is semantically equivalent to the CDIF subject area. Such derived SDSs provide:
+    The derived SDSs are not sufficient:
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

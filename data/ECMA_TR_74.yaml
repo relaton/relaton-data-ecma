@@ -1,0 +1,37 @@
+---
+id: ECMATR/74
+title:
+  content: A guide to the application of the EMC directive to ITE
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-74/
+  type: src
+- content: "/publications-and-standards/technical-reports/"
+  type: doi
+type: standard
+docid:
+  id: ECMA TR/74
+  type: ECMA
+date:
+  type: published
+  value: 1999-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1999-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    The EMC Directive[1] and the European Commission Guidelines[2] apply to a great diversity of equipment and are therefore written in general terms. Interpretation of how the requirements apply to ITE is often difficult and can lead to widely differing practices between manufacturers. This Guide is intended to supplement the European Commission Guidelines and clarify their application to ITE.
+    It represents the interpretations and recommendations agreed by the Ecma member companies, and is not intended in any way to be legal advice. Ecma accepts no responsibility for any consequences a manufacturer may face as a result of following these recommendations.
+    [1] Council Directive 89/336/EEC of 3rd May 1989 on the approximation of the laws of the Member States relating to electromagnetic compatibility (Official Journal of the European Communities, L139, 23rd May 1989).
+    [2] Electromagnetic Compatibility EMC – Guide to the application of Directive 89/336/EEC (Office for Official Publications of the European Communities, 1997 – ISBN 92-828-0762-2).
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

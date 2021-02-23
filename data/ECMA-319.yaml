@@ -1,0 +1,40 @@
+---
+id: ECMA-319
+title:
+  content: Data interchange on 12,7 mm - 384-track magnetic tape cartridges - Ultrium-1
+    format
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-319/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-319_1st_edition_june_2001.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-319
+  type: ECMA
+date:
+  type: published
+  value: 2001-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2001-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of magnetictape cartridges, using magnetic tape 12,65 mm wide so as to provide physical interchange of such cartridges between drives. It also specifies the quality of the recorded signals, the recording method and the recorded format, thereby allowing data interchange between drives by means of such cartridges. The format supports variable length Logical Records, high speed search, and the use of a registered algorithm for data compression.
+    This Ecma Standard specifies four types of cartridges depending on the length of tape contained in the case. These four types are referred to as Type A, Type B, Type C and Type D; their nominal capacity is 100 Gbytes, 50 Gbytes, 30 Gbytes and 10 Gbytes, respectively.
+    NOTE – One Gbyte contains 1 000 000 000 bytes.
+    Information interchange between systems also requires, at a minimum, agreement between the interchange parties upon the interchange code(s) and the specification of the structure and labeling of the information on the interchanged cartridge.
+    This Ecma Standard shall be used only in conjunction with ECMA-321.
+    Together with a standard for volume and file structure, e.g. Standard ECMA-13, this document provides for full data interchange between data processing systems.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

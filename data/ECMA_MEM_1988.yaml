@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/1988
+title:
+  content: '"Memento 1988" for year1988'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/1988
+  type: ECMA
+date:
+  type: published
+  value: 1988-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1988-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/2003
+title:
+  content: '"Memento 2003" for year2003'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/2003
+  type: ECMA
+date:
+  type: published
+  value: 2003-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2003-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/2004
+title:
+  content: '"Memento 2004" for year2004'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/2004
+  type: ECMA
+date:
+  type: published
+  value: 2004-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2004-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

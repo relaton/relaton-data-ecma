@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/1968
+title:
+  content: '"Memento 1968" for year1968'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/1968
+  type: ECMA
+date:
+  type: published
+  value: 1968-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1968-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

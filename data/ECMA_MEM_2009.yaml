@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/2009
+title:
+  content: '"Memento 2009" for year2009'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/2009
+  type: ECMA
+date:
+  type: published
+  value: 2009-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2009-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

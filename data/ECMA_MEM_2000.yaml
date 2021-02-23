@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/2000
+title:
+  content: '"Memento 2000" for year2000'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/2000
+  type: ECMA
+date:
+  type: published
+  value: 2000-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2000-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

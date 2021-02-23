@@ -1,0 +1,36 @@
+---
+id: ECMA-265
+title:
+  content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange
+    signalling protocol - Signalling ATM adaptation layer (B-QSIG-SAAL)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-265/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-265_1st_edition_september_1997.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-265
+  type: ECMA
+date:
+  type: published
+  value: 1997-09
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1997-09
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies the signalling ATM adaptation layer (SAAL) protocol used at the interface between Broadband PINXs and between Broadband PISNs within the framework of the B-QSIG signalling system protocol family. The B-QSIG SAAL uses the functions provided by the ATM layer, and provides the services required by the B-QSIG Layer 3 signalling protocols.
+    The protocol defined in this Standard forms part of the B-QSIG protocol.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

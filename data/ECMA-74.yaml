@@ -1,0 +1,222 @@
+---
+id: ECMA-74
+title:
+  content: Measurement of airborne noise emitted by information technology and telecommunications
+    equipment
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-74/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_17th_edition_december_2019.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-74
+  type: ECMA
+date:
+  type: published
+  value: 2019-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+edition: '17'
+revdate: 2019-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies procedures for measuring and reporting the noise emission of information technology and telecommunications equipment.
+    NOTE 1  This Standard is considered part of a noise test code (see 3.1.2) for this type of equipment, and is based on basic noise emission standards (see 3.1.1) ISO 3741, ISO 3744, ISO 3745 and ISO 11201.
+    The basic emission quantity is the A‑weighted sound power level which may be used for comparing equipment of the same type but from different manufacturers, or for comparing different equipment.
+    Three basic noise emission standards for determination of the sound power levels are specified in this Ecma Standard in order to avoid undue restriction on existing facilities and experience. ISO 3741 specifies comparison measurements in a reverberation test room; ISO 3744 and ISO 3745 specify measurements in an essentially free field over a reflecting plane. Any one of these three basic noise emission standards can be selected and used exclusively in accordance with this Standard when determining sound power levels of a machine.
+    The A‑weighted sound power level is supplemented by the A‑weighted emission sound pressure level determined at the operator position or the bystander positions, based on the basic noise emission standard ISO 11201. This sound pressure level is not a worker’s noise immission at a work station (see 3.2.12), but it can assist in identifying any potential problems that could cause annoyance, activity interference or hearing damage to operators and bystanders.
+    Method for determination of whether the noise emission includes prominent discrete tones is specified in Annex D.
+    A psychoacoustic tonality calculation method on the identification and evaluation of prominent tonalities is specified in Annex G (based on the hearing model approach in Annex F). This method complements the procedures for determining prominent discrete tones contained in Annex D.
+    This Standard is suitable for type tests and provides methods for manufacturers and testing laboratories to obtain comparable results.
+    The methods specified in this Standard allow the determination of noise emission levels for a functional unit (see 3.1.4) tested individually.
+    The procedures apply to equipment which emits broad-band noise, narrow-band noise and noise which contains discrete-frequency components, or impulsive noise.
+    The sound power and emission sound pressure levels obtained can serve noise emission declaration and comparison purposes (see ECMA‑109).
+    NOTE 2 The sound power levels and emission sound pressure levels obtained are not intended to be considered as installation noise immission levels; however they can be used for installation planning (see ECMA TR/27).
+    If sound power levels obtained are determined for a number of functional units of the same production series, they can be used to determine a statistical value for that production series (see ECMA‑109).
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    edition: '1'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_2nd_edition_december_1987.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_3rd_edition_december_1992.pdf
+      type: doi
+    edition: '3'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-4th-Edition-December-1996.pdf
+      type: doi
+    edition: '4'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-5th-Edition-December-1997.pdf
+      type: doi
+    edition: '5'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-6th-edition-December-1999.pdf
+      type: doi
+    edition: '6'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-7th-edition-December-2002.pdf
+      type: doi
+    edition: '7'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-8th-edition-December-2003.pdf
+      type: doi
+    edition: '8'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-9th-edition-December-2005-.pdf
+      type: doi
+    edition: '9'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-10th-edition-December-2008.pdf
+      type: doi
+    edition: '10'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-11th-edition-December-2010.pdf
+      type: doi
+    edition: '11'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-12th-edition-December-2012.pdf
+      type: doi
+    edition: '12'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-13th-edition-June-2015.pdf
+      type: doi
+    edition: '13'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-14th-edition-December-2017.pdf
+      type: doi
+    edition: '14'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-15th-edition-June-2018.pdf
+      type: doi
+    edition: '15'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_16th_edition_june_2019-1.pdf
+      type: doi
+    edition: '16'
+    formattedref:
+      content: ECMA-74
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

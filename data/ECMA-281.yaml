@@ -1,0 +1,61 @@
+---
+id: ECMA-281
+title:
+  content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Private User Mobility (PUM) - Registration supplementary
+    service (PUMRSD)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-281/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-281_3rd_edition_december_2001.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-281
+  type: ECMA
+date:
+  type: published
+  value: 2001-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2001-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies the Supplementary Service (SS) Private User Mobility Registration (PUMR), which is applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.
+    SS-PUMR is a supplementary service that enables a PUM user to register at, or de-register from, any wired or wireless terminal within the PISN. The ability to register at different wired and wireless terminals in the PISN at different times enables the PUM user to maintain the provided services (including the ability to make and receive calls) at different access points.
+    Supplementary service specifications are produced in three stages, according to the method described in ITU-T Rec. I.130. This Standard contains the stage 1 and stage 2 specifications of SS-PUMR. The stage 1 specification (clause 6) specifies the general feature principles and capabilities. The stage 2 specification (clause 7) identifies the Functional Entities involved in the supplementary service and the information flows between them.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-281_1st_edition_december_1998.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-281
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-281_2nd_edition_june_2000.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-281
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

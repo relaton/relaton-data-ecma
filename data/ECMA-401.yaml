@@ -1,0 +1,34 @@
+---
+id: ECMA-401
+title:
+  content: Close Capacitive Coupling Communication Physical Layer  (CCCC PHY)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-401/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-401_1st_edition_december_2011.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-401
+  type: ECMA
+date:
+  type: published
+  value: 2011-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2011-12
+language: en
+script: Latn
+abstract:
+  content: This Ecma Standard specifies the CCCC PHY for Full duplex and Broadcast
+    communication in time slots on frequency division multiplex channels.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

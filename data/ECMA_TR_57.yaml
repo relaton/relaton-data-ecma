@@ -1,0 +1,53 @@
+---
+id: ECMATR/57
+title:
+  content: Private Integrated Services Networks
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-57/
+  type: src
+- content: "/publications-and-standards/technical-reports/"
+  type: doi
+type: standard
+docid:
+  id: ECMA TR/57
+  type: ECMA
+date:
+  type: published
+  value: 1999-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1999-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    As a portion, a Corporate telecommunication Network (CN) can comprise a Private Integrated Services Network (PISN) which provides connection oriented switching and transmission functions for the provision of telecommunication services to its users which are similar to those provided by public ISDNs. In addition, a PISN can also extend to its users services provided by public ISDNs. Public ISDNs are described in ITU-T recommendations.
+    As another portion, CNs can employ connectionless services, as offered by internet and intranet technology (“IP technology”).
+    This Technical Report concentrates on the issues of narrow-band PISNs (N-PISN). N-PISN are based on the switching capability of 64 kbit/s channels.
+    The main purpose of a CN, and in the context of this Technical Report thus of a PISN, is to serve the communication needs of an organization rather than to provide services to the general public.
+    A PISN comprises one or more interconnected Private Integrated Services Network Exchanges (PINXs) and their interconnecting links as provided by intervening networks. It may also be supported by Virtual Private Network (VPN) features offered by an interconnecting network.
+    This Technical Report discusses some of the technical aspects of PISNs and identifies areas for standardization. It also provides a common framework of concepts and terminology for standards in this field.
+    The discussion of VPN features provided by an interconnecting network is beyond the scope of this Technical Report. However, if VPN features are offered by other networks, they should follow the concepts established in this Technical Report and related Standards for PISNs consisting of PINXs. For VPNs see ETSI TCRTR 033.
+    Management aspects of PISNs are not subject of this Technical Report.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-57_1st_edition_december_1991.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA TR/57
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

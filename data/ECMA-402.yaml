@@ -1,0 +1,105 @@
+---
+id: ECMA-402
+title:
+  content: ECMAScript® 2020 internationalization API specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-402/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-402.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-402
+  type: ECMA
+date:
+  type: published
+  value: 2020-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+edition: '7'
+revdate: 2020-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard defines the application programming interface for ECMAScript objects that support programs that need to adapt to the linguistic and cultural conventions used by different human languages and countries.
+    Kindly note that the normative copy is the HTML version; the PDF version has been produced to generate a printable document.
+    This edition has been prepared under the Ecma RF patent policy.
+     
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_1st_edition_december_2012.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-402
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_2nd_edition_june_2015.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-402
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_3rd_edition_june_2016.pdf
+      type: doi
+    edition: '3'
+    formattedref:
+      content: ECMA-402
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_4th_edition_june_2017.pdf
+      type: doi
+    edition: '4'
+    formattedref:
+      content: ECMA-402
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_5th_edition_june_2018.pdf
+      type: doi
+    edition: '5'
+    formattedref:
+      content: ECMA-402
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-402-6th-edition-June-2019.pdf
+      type: doi
+    edition: '6'
+    formattedref:
+      content: ECMA-402
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

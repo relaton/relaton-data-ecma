@@ -1,0 +1,38 @@
+---
+id: ECMATR/108
+title:
+  content: Proposal of new parameters, T-TNR and T-PR for total evaluation of multiple
+    tones
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-108/
+  type: src
+- content: "/publications-and-standards/technical-reports/"
+  type: doi
+type: standard
+docid:
+  id: ECMA TR/108
+  type: ECMA
+date:
+  type: published
+  value: 2019-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2019-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This document describes new methodologies to physically evaluate the tonal prominence of noise emitted by small air-moving devices.
+    The parameters proposed are T-TNR (total tone-to-noise ratio) and T-PR (total prominence ratio), which are based on TNR (tone-to-noise ratio) and PR (prominence ratio) defined in ECMA-74 Annex D, respectively.
+    The existing parameters, TNR and PR focus single discrete tone in the noise spectrum of interest. On the other hand, T-TNR and T-PR calculate their values by power summation of the values of TNR and PR of all discrete tones, respectively.
+    In the technical study of this Technical Report, the proposed methodology applies to both real sample data of small fan noise and their simulated test sound. It is anticipated, however, that users can use the proposed parameters to any other kind of noise emissions, provided that the noise can be analyzed by the procedures for TNR and PR stated in ECMA-74.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

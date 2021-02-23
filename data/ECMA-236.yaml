@@ -1,0 +1,38 @@
+---
+id: ECMA-236
+title:
+  content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording - DDS-3 format using 125 m length tapes
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-236/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-236_1st_edition_june_1996.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-236
+  type: ECMA
+date:
+  type: published
+  value: 1996-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1996-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of a 3,81 mm wide magnetic tape cartridge to enable physical interchangeability of such cartridges between drives.
+    It also specifies the quality of the recorded signals, the recording method and the recorded format – called Digital Data Storage (DDS) – thereby allowing data interchange between drives by means of such magnetic tape cartridges.
+    Information interchange between systems also requires, at a minimum, agreement between the interchange parties upon the interchange code(s) and the specifications of the structure and labelling of the information on the interchanged cartridge.
+    Under information interchange circumstances in which a processing algorithm, e.g. for lossless data compression as specified in ECMA-151, is applied to the host data prior to recording on the tape and a complementary reprocessing algorithm is applied after the data is read from the tape, agreement upon these by the interchange parties is also required.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

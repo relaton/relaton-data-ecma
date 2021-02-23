@@ -1,0 +1,60 @@
+---
+id: ECMA-410
+title:
+  content: 'NFC-SEC-03: NFC-SEC entity authentication and key agreement using asymmetric
+    cryptography'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-410/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-410_3rd_edition_june_2017.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-410
+  type: ECMA
+date:
+  type: published
+  value: 2017-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2017-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies the message contents and the cryptographic mechanisms for PID 03.
+    This Standard specifies key agreement and confirmation mechanisms providing mutual authentication, using asymmetric cryptography, and the transport protocol requirements for the exchange between Sender and TTP.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-410_1st_edition_december_2014.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-410
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-410_2nd_edition_june_2015.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-410
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

@@ -1,0 +1,39 @@
+---
+id: ECMA-277
+title:
+  content: Private Integrated Services Network (PISN) - Circuit emulation specification
+    - Emulation of basic access by ATM networks
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-277/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-277_1st_edition_june_1998.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-277
+  type: ECMA
+date:
+  type: published
+  value: 1998-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1998-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies the functions for the emulation of a basic access over ATM, thus providing an efficient way to connect existing N-ISDN terminal equipment to a PINX over a digital ATM section. Such an ATM connection can be either a (semi-)permanent connection, but might also be a switched virtual connection as defined in related ATM Forum specifications.
+    The objective of this Standard therefore is to specify a mapping scheme for the three types of basic access information (two B channels: the B1 and B2 channels, the D channel as well as maintenance/control/status information) into ATM cells. Part of the maintenance/control/status information has to be terminated by an IWU and has to be substituted by other information applicable at the ATM connection. A reference configuration lays down that the point of emulation has to be placed at the network side of an extension line.
+    This Standard specifies the static mapping of basic access information to ATM cells.
+    This Standard complements the work of the ATM Forum on circuit emulation services for higher bandwidth.
+    This Standard applies for private networks, however, it is also suitable for public networks.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

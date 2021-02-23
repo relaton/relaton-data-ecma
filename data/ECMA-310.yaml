@@ -1,0 +1,37 @@
+---
+id: ECMA-310
+title:
+  content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Simple dialog supplementary service (SDSD)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-310/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-310_1st_edition_june_2000.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-310
+  type: ECMA
+date:
+  type: published
+  value: 2000-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2000-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies the supplementary service Simple Dialog (SS-SD), which is applicable to various basic services supported by Private Integrated Services Networks (PISNs). Basic services are specified in ECMA-142.
+    Supplementary service SD enables a user to communicate with another user or application by the exchange of keypad and display information transparently over a PISN.
+    Service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-SD. The stage 1 specification (clause 6) specifies the supplementary service as seen by users of PISNs. The stage 2 specification (clause 7) specifies the functional entities involved in the supplementary service and the information flows between them.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

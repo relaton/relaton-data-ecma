@@ -1,0 +1,38 @@
+---
+id: ECMATR/61
+title:
+  content: User interface taxonomy
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-61/
+  type: src
+- content: "/publications-and-standards/technical-reports/"
+  type: doi
+type: standard
+docid:
+  id: ECMA TR/61
+  type: ECMA
+date:
+  type: published
+  value: 1992-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1992-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    User interface design is an area where research and standardization are still in progress. Therefore, this technical report cannot be exhaustive.
+    Most existing work on user interface models has focussed on the technical aspects, with particular emphasis on implementation issues. By contrast, this report attempts to concentrate on conceptual aspects. For this reason, it is not always easy to relate the model described in this technical report to those proposed by others.
+    This Ecma Technical Report describes user interface elements and concepts and their relationships and dependencies. It should support the description of existing user interfaces and the specification of future ones in terms of these elements and concepts and their structure.
+    It is not the purpose of this Ecma Technical Report to give value judgement on the choices for specific user interfaces.
+    This Ecma Technical Report should assist in improving communication on user interfaces in general by providing a common framework and terminology. It might also assist:
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

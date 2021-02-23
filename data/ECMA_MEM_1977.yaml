@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/1977
+title:
+  content: '"Memento 1977" for year1977'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/1977
+  type: ECMA
+date:
+  type: published
+  value: 1977-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1977-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

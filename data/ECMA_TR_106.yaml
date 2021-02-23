@@ -1,0 +1,36 @@
+---
+id: ECMATR/106
+title:
+  content: Guidance and comparison between 60950-1 and 62368-1
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-106/
+  type: src
+- content: "/publications-and-standards/technical-reports/"
+  type: doi
+type: standard
+docid:
+  id: ECMA TR/106
+  type: ECMA
+date:
+  type: published
+  value: 2013-02
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2013-02
+language: en
+script: Latn
+abstract:
+  content: This Ecma Technical Report provides a mapping and comparison between the
+    clauses of the traditional IEC 60950-1 Second edition, 2005-12 and the corresponding
+    clauses, requirements and test methods in the new IEC 62368-1 Edition 1.0, 2010-01
+    standard.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

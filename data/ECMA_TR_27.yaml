@@ -1,0 +1,49 @@
+---
+id: ECMATR/27
+title:
+  content: Method for the prediction of installation noise levels
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-27/
+  type: src
+- content: "/publications-and-standards/technical-reports/"
+  type: doi
+type: standard
+docid:
+  id: ECMA TR/27
+  type: ECMA
+date:
+  type: published
+  value: 1995-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1995-06
+language: en
+script: Latn
+abstract:
+  content: This Ecma Technical Report specifies a method for the prediction of installation
+    noise levels. This method takes into account the acoustical properties of the
+    room in which computer and business equipment is installed, the location(s) of
+    the noise emitting equipment and their noise emission level(s), determined in
+    accordance with Standard ECMA-74, and the locations(s) of interest.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-27_1st_edition_march-1985-1.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA TR/27
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

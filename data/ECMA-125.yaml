@@ -1,0 +1,38 @@
+---
+id: ECMA-125
+title:
+  content: Data interchange on 90 mm flexible disk cartridges using MFM recording
+    at 15 916 ftprad on 80 tracks on each side - ISO type 302
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-125/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-125_1st_edition_december_1987.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-125
+  type: ECMA
+date:
+  type: published
+  value: 1987-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1987-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies the characteristics of 90 mm flexible disk cartridges recorded at 15 916 ftprad using modified frequency modulation recording, on 80 tracks on each side – ISO Type 302.
+    It specifies the mechanical, physical and magnetic characteristics of the cartridge, so as to provide physical interchangeability between data processing systems.
+    It also specifies the method of recording, the quality of the recorded signals, the track layout and the track format.
+    Together with the labelling scheme of Standard ECMA-107, this Standard provides for full data interchange between data processing systems.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

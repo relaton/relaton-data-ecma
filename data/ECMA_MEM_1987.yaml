@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/1987
+title:
+  content: '"Memento 1987" for year1987'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/1987
+  type: ECMA
+date:
+  type: published
+  value: 1987-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1987-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

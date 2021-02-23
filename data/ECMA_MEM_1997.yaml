@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/1997
+title:
+  content: '"Memento 1997" for year1997'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/1997
+  type: ECMA
+date:
+  type: published
+  value: 1997-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1997-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

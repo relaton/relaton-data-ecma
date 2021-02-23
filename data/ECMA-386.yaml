@@ -1,0 +1,60 @@
+---
+id: ECMA-386
+title:
+  content: 'NFC-SEC-01: NFC-SEC cryptography standard using ECDH and AES'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-386/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-386_3rd_edition_june_2015.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-386
+  type: ECMA
+date:
+  type: published
+  value: 2015-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2015-06
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies the message contents and the cryptographic methods for PID 01.
+    This Standard specifies cryptographic mechanisms that use the Elliptic Curves Diffie-Hellman (ECDH) protocol for key agreement and the AES algorithm for data encryption and integrity.
+    The mechanisms are for use with the Services and Protocol specified in ECMA-385.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-386_1st_edition_december_2008.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-386
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-386_2nd_edition_june_2010.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-386
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

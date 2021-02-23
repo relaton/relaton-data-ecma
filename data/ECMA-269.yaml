@@ -1,0 +1,169 @@
+---
+id: ECMA-269
+title:
+  content: Services for Computer Supported Telecommunications Applications (CSTA)
+    Phase III
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-269/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_9th_edition_december_2011.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-269
+  type: ECMA
+date:
+  type: published
+  value: 2011-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+edition: '9'
+revdate: 2011-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Standard specifies an interface and services between two entities that request and provide communication services (e.g. Applications, middleware, PBX, IP-PBX, Softswitch, phone, softphone, software devices).
+    CSTA operates with existing interfaces, so that differences among various existing interfaces are hidden.
+    Services defined in this Standard allow functional integration between a computing network and a telecommunications network.
+    This Standard is part of a suite of CSTA Standards and Technical Reports. See documentation.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    edition: '1'
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_2nd_edition_june_1998.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_1.pdf
+      type: doi
+    edition: ''
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_2.pdf
+      type: doi
+    edition: ''
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_3.pdf
+      type: doi
+    edition: ''
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_4.pdf
+      type: doi
+    edition: ''
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_4th_edition_june_2000.pdf
+      type: doi
+    edition: '4'
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_5th_edition_december_2002.pdf
+      type: doi
+    edition: '5'
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_6th_edition_june_2004.pdf
+      type: doi
+    edition: '6'
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_7th_edition_december_2006.pdf
+      type: doi
+    edition: '7'
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_8th_edition_june_2009.pdf
+      type: doi
+    edition: '8'
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_9th_edition_changes_since_the_previous_edition.pdf
+      type: doi
+    edition: '9'
+    formattedref:
+      content: ECMA-269
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document

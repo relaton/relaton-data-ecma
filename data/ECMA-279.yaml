@@ -1,0 +1,37 @@
+---
+id: ECMA-279
+title:
+  content: 80 mm (1,23 Gbytes per side) and 120 mm (3,95 Gbytes per side) DVD-Recordable
+    disk (DVD-R)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-279/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-279_1st_edition_december_1998.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-279
+  type: ECMA
+date:
+  type: published
+  value: 1998-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1998-12
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Ecma Standard specifies the mechanical, physical and optical characteristics of an 80 mm and a 120 mm DVD – Recordable disk to enable the interchange of such disks. It specifies the quality of the pre-recorded, unrecorded and the recorded signals, the format of the data, the format of the information zone, the format of the unrecorded zone, and the recording method, thereby allowing for information interchange by means of such disks. This disk is identified as a DVD – Recordable (DVD-R) disk. Once data has been recorded on a DVD-R disk it cannot be modified. It can be read many times. Further data may be appended.
+    This Ecma Standard specifies:
+    This Ecma Standard provides for interchange of disks between disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

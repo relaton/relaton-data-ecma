@@ -1,0 +1,23 @@
+---
+id: ECMAMEM/2021
+title:
+  content: '"Memento 2021" for year2021'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: ECMA MEM/2021
+  type: ECMA
+date:
+  type: published
+  value: 2021-01
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2021-01
+language: en
+script: Latn
+place: Geneva
+doctype: document

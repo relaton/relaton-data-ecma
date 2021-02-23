@@ -1,0 +1,61 @@
+---
+id: ECMA-120
+title:
+  content: Data interchange on 12,7 mm 18-track magnetic tape cartridges
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-120/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-120_3rd_edition_december_1993.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA-120
+  type: ECMA
+date:
+  type: published
+  value: 1993-12
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 1993-12
+language: en
+script: Latn
+abstract:
+  content: This Ecma Standard specifies the physical and magnetic characteristics
+    of a 12,7 mm wide, 18-track magnetic tape cartridge to enable interchangeability
+    of such cartridges. It also specifies the quality of the recorded signals, the
+    format and the recording method thus allowing, together with Standard ECMA-13
+    for Magnetic Tape Labelling, full data interchange by means of such magnetic tape
+    cartridges.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-120_1st_edition_december_1986.pdf
+      type: doi
+    edition: '1'
+    formattedref:
+      content: ECMA-120
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-120_2nd_edition_december_1987.pdf
+      type: doi
+    edition: '2'
+    formattedref:
+      content: ECMA-120
+      language: en
+      script: Latn
+      format: text/plain
+place: Geneva
+doctype: document
