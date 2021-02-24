@@ -156,8 +156,8 @@ t1 = Time.now
 puts "Started at: #{t1}"
 
 url = 'https://www.ecma-international.org/publications-and-standards/'
-# html_index agent, url, workers, 'standards'
-# html_index agent, url, workers, 'technical-reports'
+html_index agent, url, workers, 'standards'
+html_index agent, url, workers, 'technical-reports'
 html_index agent, url, workers, 'mementos'
 
 workers.end
