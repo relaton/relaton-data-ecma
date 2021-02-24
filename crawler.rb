@@ -55,7 +55,9 @@ end
 def fetch_link(doc, url = nil)
   link = []
   link << RelatonBib::TypedUri.new(type: 'src', content: url) if url
-  ref = doc.at('//div[@class="ecma-item-content-wrapper"]/span/a', '//div/a')
+  ref = doc.at('//div[@class="ecma-item-content-wrapper"]/span/a',
+               '//div[@class="ecma-item-content-wrapper"]/a',
+               '//div/p/a')
   link << RelatonBib::TypedUri.new(type: 'doi', content: ref[:href]) if ref
   link
 end
@@ -154,8 +156,8 @@ t1 = Time.now
 puts "Started at: #{t1}"
 
 url = 'https://www.ecma-international.org/publications-and-standards/'
-html_index agent, url, workers, 'standards'
-html_index agent, url, workers, 'technical-reports'
+# html_index agent, url, workers, 'standards'
+# html_index agent, url, workers, 'technical-reports'
 html_index agent, url, workers, 'mementos'
 
 workers.end
