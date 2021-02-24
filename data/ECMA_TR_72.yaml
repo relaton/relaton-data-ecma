@@ -9,7 +9,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-72/
   type: src
-- content: "/publications-and-standards/technical-reports/"
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-72_3rd_edition_june_2000.pdf
   type: doi
 type: standard
 docid:

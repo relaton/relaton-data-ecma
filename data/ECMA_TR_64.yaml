@@ -8,7 +8,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-64/
   type: src
-- content: "/publications-and-standards/technical-reports/"
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-64_1st_edition_december_1993.pdf
   type: doi
 type: standard
 docid:

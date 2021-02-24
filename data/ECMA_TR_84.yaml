@@ -9,7 +9,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-84/
   type: src
-- content: "/publications-and-standards/technical-reports/"
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_6th_edition_june_2012.pdf
   type: doi
 type: standard
 docid:
