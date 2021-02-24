@@ -5,6 +5,9 @@ title:
   language: en
   script: Latn
   format: text/plain
+link:
+  content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-2021-public.pdf
+  type: doi
 type: standard
 docid:
   id: ECMA MEM/1997
