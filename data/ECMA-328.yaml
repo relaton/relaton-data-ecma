@@ -10,7 +10,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-328/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-328-1-10th-edition-December-2020-1.pdf
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-328-1-10th-edition-December-2020.pdf
   type: doi
 type: standard
 docid:
@@ -138,17 +138,6 @@ relation:
   bibitem:
     link:
       content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_part_1_8th_edition_june_2017.pdf
-      type: doi
-    edition: ''
-    formattedref:
-      content: ECMA-328
-      language: en
-      script: Latn
-      format: text/plain
-- type: updates
-  bibitem:
-    link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_part_2_8th_edition_june_2017.pdf
       type: doi
     edition: ''
     formattedref:
