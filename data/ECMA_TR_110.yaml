@@ -1,0 +1,35 @@
+---
+id: ECMATR/110
+title:
+  content: Recommendations and best practices for scripts on connected sensing devices
+  language: en
+  script: Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-110/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-TR-110.pdf
+  type: doi
+type: standard
+docid:
+  id: ECMA TR/110
+  type: ECMA
+date:
+  type: published
+  value: 2021-06
+contributor:
+  organization:
+    name: Ecma International
+  role: publisher
+revdate: 2021-06
+language: en
+script: Latn
+abstract:
+  content: This document is non-normative and intended to provide TC53 practitioners
+    with guidance related to designing and implementing connected systems capable
+    of capturing and transmitting useful and integrous data.
+  language: en
+  script: Latn
+  format: text/plain
+place: Geneva
+doctype: document

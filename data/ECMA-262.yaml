@@ -1,14 +1,14 @@
 ---
 id: ECMA-262
 title:
-  content: ECMAScript® 2020 language specification
+  content: ECMAScript® 2021 language specification
   language: en
   script: Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-262.pdf
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_12th_edition_june_2021.pdf
   type: doi
 type: standard
 docid:
@@ -16,20 +16,20 @@ docid:
   type: ECMA
 date:
   type: published
-  value: 2020-06
+  value: 2021-06
 contributor:
   organization:
     name: Ecma International
   role: publisher
-edition: '11'
-revdate: 2020-06
+edition: '12'
+revdate: 2021-06
 language: en
 script: Latn
 abstract:
   content: |-
-    This Standard defines the ECMAScript 2020 general-purpose programming language.
+    This Standard defines the ECMAScript 2021 general-purpose programming language.
     Kindly note that the normative copy is the HTML version; the PDF version has been produced to generate a printable document.
-    This 11th edition has been prepared under the Ecma RF patent policy.
+    This 12th edition has been prepared under the Ecma RF patent policy.
     Please note that for ECMAScript Edition 4 the Ecma standard number “ECMA-262 Edition 4” was reserved but not used in the Ecma publication process. Therefore “ECMA-262 Edition 4” as an Ecma International publication does not exist.
     The latest drafts are available at: https://tc39.github.io/ecma262/. Reporters should generally only file bugs if the bug is still present in the latest drafts.
     Please find hereafter the place to file bugs: https://github.com/tc39/ecma262#ecmascript.
@@ -150,6 +150,17 @@ relation:
       content: https://www.ecma-international.org/wp-content/uploads/ECMA-262-10th-edition-June-2019.pdf
       type: doi
     edition: '10'
+    formattedref:
+      content: ECMA-262
+      language: en
+      script: Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+      content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_11th_edition_june_2020.pdf
+      type: doi
+    edition: '11'
     formattedref:
       content: ECMA-262
       language: en
