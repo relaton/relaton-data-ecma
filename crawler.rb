@@ -14,7 +14,7 @@ module RelatonEcma
     # @param code [String]
     # @return [Array<RelatonBib::DocumentIdentifier>]
     def fetch_docid(code)
-      [RelatonBib::DocumentIdentifier.new(type: 'ECMA', id: code)]
+      [RelatonBib::DocumentIdentifier.new(type: 'ECMA', id: code, primary: true)]
     end
 
     # @param doc [Nokogiri::HTML::Document]
