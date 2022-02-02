@@ -1,10 +1,12 @@
 ---
 id: ECMA-316
 title:
-  content: 8 mm wide magnetic tape cartridge for information interchange - Helical
+- content: 8 mm wide magnetic tape cartridge for information interchange - Helical
     scan recording - VXA-1 format
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-316/
@@ -13,38 +15,48 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-316
+- id: ECMA-316
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2001-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2001-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the physical and magnetic characteristics of an 8 mm wide magnetic tape cartridge to enable physical interchange of such cartridges between drives. It also specifies the quality of the recorded signals, the recording method and the recorded format called VXA-1, and thereby allowing data interchange between drives by means of such magnetic tape cartridges.
     This Ecma Standard specifies three types depending on the length of magnetic tape contained in the case, referred to as Type A, Type B and Type C.
     Information interchange between systems also requires, at a minimum, agreement between the interchange parties upon the interchange code(s) and the specifications of the structure and labelling of the information on the interchanged cartridge.
     If compression is used with this format, it shall be according to Standard ECMA-222.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-316_1st_edition_december_2000.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-316_1st_edition_december_2000.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-316
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

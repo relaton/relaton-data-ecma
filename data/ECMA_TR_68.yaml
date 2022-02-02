@@ -1,10 +1,12 @@
 ---
 id: ECMATR/68
 title:
-  content: Scenarios for Computer Supported Telecommunications Applications (CSTA)
+- content: Scenarios for Computer Supported Telecommunications Applications (CSTA)
     Phase II
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-68/
@@ -13,26 +15,34 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA TR/68
+- id: ECMA TR/68
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1994-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1994-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The intention of this Technical report is to illustrate how the services offered by CSTA Phase II are intended to be used by application developers and switch manufacturers. The illustrations are based upon a range of call scenarios. The Services for Computer Supported Telecommunications Applications are defined by Standard ECMA-217 and the Protocol for those services by Standard ECMA-218.
     The scenarios are only for information and as such ECMA-217 (Services) and ECMA-218 (Protocol) standards may define additional options or parameters. The purpose of this Technical Report is to provide examples of some CSTA Service invocations and illustrate associated call event reports.
     It is not an exhaustive document and some implementations may not perform as illustrated within this document. A method of providing these scenarios as a collection of smaller building blocks which may then be connected together to form more complex scenarios is under study.
     These scenarios show a strict order of messaging (i.e. a service request is always followed by a service acknowledgement). However, in a true implementation an acknowledgement to a service request may be received in an asynchronous mode by the computing function. Events are generated throughout the life of a call and as such represent the passing of time in these scenarios.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

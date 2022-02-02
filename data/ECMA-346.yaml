@@ -1,11 +1,13 @@
 ---
 id: ECMA-346
 title:
-  content: Private Integrated Services Network (PISN) – Specification, functional
+- content: Private Integrated Services Network (PISN) – Specification, functional
     model and information flows – Message Centre Monitoring and Mailbox Identification
     supplementary services (MCM-SD / MID-SD)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-346/
@@ -14,26 +16,34 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-346
+- id: ECMA-346
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2003-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2003-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies supplementary service Message Centre Monitoring/Mailbox Identification (SS-MCM/MID), which is related, but not limited, to various basic services supported by Private Integrated Services Networks (PISNs). Basic services are specified in ECMA-142.
     The supplementary service MCM enables a Served User to get informed by a Message Centre about the status and status changes of messages stored in that Served Users Mailbox.
     The supplementary service MID enables a Message Centre to identify a specific mailbox of a Served User in case that the Served User has more than one Mailbox within the Message Centre. In addition SS-MID enables a Served User to authenticate himself/herself at a specific Mailbox located within the Message Centre.
     Service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-MCM/MID. The stage 1 specification (clause 6 and 7) specifies the supplementary service as seen by users of PISNs. The stage 2 specification (clause 8 and 9) specifies the functional entities involved in the supplementary service and the information flows between them.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

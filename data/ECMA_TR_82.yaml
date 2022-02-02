@@ -1,10 +1,12 @@
 ---
 id: ECMATR/82
 title:
-  content: Scenarios for Computer Supported Telecommunications Applications (CSTA)
+- content: Scenarios for Computer Supported Telecommunications Applications (CSTA)
     Phase III
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-82/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA TR/82
+- id: ECMA TR/82
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2009-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2009-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Technical Report illustrates call scenarios for Services for Computer Supported Telecommunications Applications (CSTA Phase III).
     The scenarios are only for information and as such ECMA-269 (Services) and ECMA-285 (Protocol) Standards may define additional options or parameters. The purpose of this Technical Report is to provide examples of some CSTA Service invocations and illustrate associated call event reports. It is not an exhaustive document and some implementations may not perform as illustrated within this document, while still conforming to the Standard.
     Each scenario includes a textual description and an illustration.
@@ -34,31 +41,38 @@ abstract:
     All mandatory parameters is CSTA messages are provided. In addition, all conditional parameters that are required in the context of the scenario are provided. Optional parameters are generally not included unless they are useful in the context of illustrating a specific scenario. The mandatory, conditional, and optional classification of parameters in CSTA messages are specified in ECMA-269.
     The monitorCrossRefID parameter in events is not shown.
     DeviceIDs are illustrated by Dn and ConnectionIDs in the form DnCn. All Device IDs are within the same switching sub-domain unless otherwise indicated or stated. Any exception comments are made in the final column Comments.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-82_1st_edition_december_2000.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-82_1st_edition_december_2000.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA TR/82
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-82_errata_april_2008.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-82_errata_april_2008.pdf
       type: doi
     edition: ''
     formattedref:
       content: ECMA TR/82
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

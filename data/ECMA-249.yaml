@@ -1,10 +1,12 @@
 ---
 id: ECMA-249
 title:
-  content: 8 mm wide magnetic tape cartridge for information interchange - Helical
+- content: 8 mm wide magnetic tape cartridge for information interchange - Helical
     scan recording - DA-2 format
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-249/
@@ -13,33 +15,43 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-249
+- id: ECMA-249
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1998-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1998-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the physical and magnetic characteristics of a 8 mm wide magnetic tape cartridge to enable physical interchange of such cartridges between drives. It also specifies the quality of the recorded signals, the recording method and the recorded format, thereby allowing data interchange between drives by means of such magnetic tape cartridges.
     Information interchange between systems also requires, at a minimum, agreement between the interchange parties upon the interchange code(s) and the specifications of the structure and labelling of the information on the interchanged cartridge.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     edition: '1'
     formattedref:
       content: ECMA-249
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

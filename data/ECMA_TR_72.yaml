@@ -1,10 +1,12 @@
 ---
 id: ECMATR/72
 title:
-  content: Glossary of definitions and terminology for Computer Supported Telecommunications
+- content: Glossary of definitions and terminology for Computer Supported Telecommunications
     Applications (CSTA) Phase III
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-72/
@@ -13,46 +15,58 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA TR/72
+- id: ECMA TR/72
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2000-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2000-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Technical Report contains definitions of technical terms and acronyms
+- content: This Technical Report contains definitions of technical terms and acronyms
     used throughout the suite of publications comprising CSTA Phase III.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-72_1st_edition_june_1998.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-72_1st_edition_june_1998.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA TR/72
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-72_2nd_edition_december_1998.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-72_2nd_edition_december_1998.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA TR/72
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

@@ -1,9 +1,11 @@
 ---
 id: ECMA-144
 title:
-  content: 8-Bit Single-Byte Coded Character Sets - Latin Alphabet No. 6
-  language: en
-  script: Latn
+- content: 8-Bit Single-Byte Coded Character Sets - Latin Alphabet No. 6
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-144/
@@ -12,47 +14,59 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-144
+- id: ECMA-144
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2000-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2000-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies a set of 191 graphic characters identified as Latin Alphabet No. 6, and specifies the coded representation of each of these characters by means of a single 8-bit byte. None of these characters are “non-spacing”.
     The use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-144_1st_edition_december_1990.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-144_1st_edition_december_1990.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-144
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-144_2nd_edition_december_1992.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-144_2nd_edition_december_1992.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-144
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

@@ -1,9 +1,11 @@
 ---
 id: ECMA-399
 title:
-  content: Procedure for the registration of assigned numbers for ECMA-398
-  language: en
-  script: Latn
+- content: Procedure for the registration of assigned numbers for ECMA-398
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-399/
@@ -12,25 +14,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-399
+- id: ECMA-399
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2011-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2011-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Ecma Standard specifies the procedure to be followed by a Registration
+- content: This Ecma Standard specifies the procedure to be followed by a Registration
     Authority in preparing, maintaining and publishing International Register of assigned
     numbers and associated descriptions for entries specified in Clause 4, for use
     with ECMA-398.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

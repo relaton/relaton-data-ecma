@@ -1,10 +1,12 @@
 ---
 id: ECMA-345
 title:
-  content: Private Integrated Services Network (PISN) – Use of QSIG for Message Centre
+- content: Private Integrated Services Network (PISN) – Use of QSIG for Message Centre
     Access (MCA) profile standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-345/
@@ -13,24 +15,32 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-345
+- id: ECMA-345
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2003-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2003-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Profile Standard specifies the combination of base standards, together with the selection of appropriate options and parameter values, necessary to specify how QSIG / PSS1 can be used for Message Centre Access (MCA) procedures.
     This Standard identifies the necessary or optional employment of particular functions, procedures and services for
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

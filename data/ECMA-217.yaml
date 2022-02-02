@@ -1,10 +1,12 @@
 ---
 id: ECMA-217
 title:
-  content: Services for Computer Supported Telecommunications Applications (CSTA)
+- content: Services for Computer Supported Telecommunications Applications (CSTA)
     Phase II
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-217/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-217
+- id: ECMA-217
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1994-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1994-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Services and Event Reports supported by Computer Supported Telecommunications Applications CSTA Phase II are defined in this Standard.
     It is focused on providing an application service interface between a Switching Function and a Computing Function. The CSTA application interface is disassociated from the various user-network interfaces and network-network interfaces CSTA applications may serve, observe or manipulate. Because CSTA operates with existing telecommunications interfaces indirectly, it operates generically, so that differences among various existing interfaces are hidden from CSTA applications. Support of user-to-network interfaces is outside the scope of CSTA.
     The individual Services needed to support the CSTA applications are covered in this Standard. To enable these Services CSTA provides an OSI Application Layer Protocol that supports a peer-to-peer relationship between computing and telecommunications networks. This protocol is defined in Standard ECMA-218. Every instance of each CSTA Service is a client-server relationship.
@@ -34,8 +41,11 @@ abstract:
     Communication between the computing and switching (i.e. telecommunications) networks may take place via intervening networks ranging from simple point-to-point connections to local- or wide-area telecommunications networks.
     A companion Technical Report ECMA TR/68, CSTA Scenarios, illustrates practical applications of CSTA Services to implement common call handling and monitoring procedures. ECMA TR/68 is intended to serve as a guide to better understanding of CSTA and provides recommended (but not mandatory) examples of Service Requests with particular parameter values and Event Reports associated with typical CSTA-based procedures.
     Phase II of CSTA extends the range of features offered by CSTA Phase I.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

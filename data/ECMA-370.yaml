@@ -1,9 +1,11 @@
 ---
 id: ECMA-370
 title:
-  content: TED - The ECO declaration
-  language: en
-  script: Latn
+- content: TED - The ECO declaration
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-370/
@@ -12,21 +14,26 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-370
+- id: ECMA-370
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2019-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 edition: '6'
 revdate: 2019-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies environmental attributes and measurement methods for ICT and CE products according to known regulations, standards, guidelines and currently accepted practices. The Standard is also applicable to products used as subassemblies, components, accessories and/or optional parts.
     The standard addresses company programs and product related attributes, however not manufacturing processes and logistic aspects. Although the declaration templates as defined in annexes A, B1 and B2 are optimized for application in the European Union, this Standard is intended for global use. Additional annexes may be added for other regions. The annexes cover the following items:
     Company environmental profile (Annex A)
@@ -41,176 +48,220 @@ abstract:
     A “change history” webpage is regularly updated.
     NOTE
     The Guidance documents are not part of the ECMA-370 Standard and can be amended without any prior notification.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-1st-edition-June-2006-Jp.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-1st-edition-June-2006-Jp.pdf
       type: doi
     edition: ''
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_2nd_edition_december_2006_japanese.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_2nd_edition_december_2006_japanese.pdf
       type: doi
     edition: ''
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_3rd_edition_december_2008_japanese.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_3rd_edition_december_2008_japanese.pdf
       type: doi
     edition: ''
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_1st_edition_june_2006.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_1st_edition_june_2006.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_2nd_edition_december_2006.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_2nd_edition_december_2006.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_3rd_edition_december_2008.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_3rd_edition_december_2008.pdf
       type: doi
     edition: '3'
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_4th_edition_june_2009.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_4th_edition_june_2009.pdf
       type: doi
     edition: '4'
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_5th_edition_june_2015.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_5th_edition_june_2015.pdf
       type: doi
     edition: '5'
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
-      format: text/plain
-- type: updates
-  bibitem:
-    edition: ''
-    formattedref:
-      content: ECMA-370
-      language: en
-      script: Latn
-      format: text/plain
-- type: updates
-  bibitem:
-    edition: ''
-    formattedref:
-      content: ECMA-370
-      language: en
-      script: Latn
-      format: text/plain
-- type: updates
-  bibitem:
-    edition: ''
-    formattedref:
-      content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Acoustic-noise.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Annex-A.doc
       type: doi
     edition: ''
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Chemical-emissions.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Annex-B1-withcorrigendum-1.doc
       type: doi
     edition: ''
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Chemical-substances.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Annex-B2-withcorrigendum-1.doc
       type: doi
     edition: ''
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Energy-efficiency-computers-and-computers-monitors.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Acoustic-noise.pdf
       type: doi
     edition: ''
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Energy-efficiency-imaging-equipment.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Chemical-emissions.pdf
       type: doi
     edition: ''
     formattedref:
       content: ECMA-370
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+- type: updates
+  bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Chemical-substances.pdf
+      type: doi
+    edition: ''
+    formattedref:
+      content: ECMA-370
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Energy-efficiency-computers-and-computers-monitors.pdf
+      type: doi
+    edition: ''
+    formattedref:
+      content: ECMA-370
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Energy-efficiency-imaging-equipment.pdf
+      type: doi
+    edition: ''
+    formattedref:
+      content: ECMA-370
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
 doctype: document

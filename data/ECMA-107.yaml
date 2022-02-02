@@ -1,9 +1,11 @@
 ---
 id: ECMA-107
 title:
-  content: Volume and file structure of disk cartridges for information interchange
-  language: en
-  script: Latn
+- content: Volume and file structure of disk cartridges for information interchange
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-107/
@@ -12,20 +14,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-107
+- id: ECMA-107
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1995-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1995-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the volume and file structure of disk cartridges for the interchange of information between users of information processing systems. It also specifies an optional record structure.
     NOTE – All the descriptions (except those in annex B) of Flexible Disk Cartridges (FDC) can be applied to Optical Disk Cartridges (ODC) as well.
     This Ecma Standard is applicable to various types of disk cartridges including those identified in clause 3, and other types which may be the subject of future International Standards.
@@ -33,20 +40,25 @@ abstract:
     This Ecma Standard also specifies requirements for the processes which are provided within information processing systems to enable information to be interchanged between different systems, utilizing recorded FDCs as the medium of interchange. For this purpose it specifies the functions within systems which are intended to originate or to receive FDCs which conform to this Ecma Standard.
     This Ecma Standard provides a method for the allocation of space that is independent of the number of files which are recorded on the volume. It also enables the sizes of the recorded files to be expanded or contracted during processing, subject only to the availability of unused recording space when needed.
     The content and organization of the files are not specified by this Ecma Standard and are subject to agreement between the originator and the recipient of the interchanged FDC.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-107_1st_edition_december_1985.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-107_1st_edition_december_1985.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-107
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

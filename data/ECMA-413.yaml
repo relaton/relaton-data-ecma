@@ -1,9 +1,11 @@
 ---
 id: ECMA-413
 title:
-  content: Data migration method for BD recordable and BD rewritable disks
-  language: en
-  script: Latn
+- content: Data migration method for BD recordable and BD rewritable disks
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-413/
@@ -12,47 +14,59 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-413
+- id: ECMA-413
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2018-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2018-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the data migration method which can sustain the recorded data on BD Recordable and BD Rewritable disks for long-term data preservation.
     This Ecma Standard specifies:
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_1st_edition_june_2016.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_1st_edition_june_2016.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-413
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-413
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

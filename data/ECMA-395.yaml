@@ -1,9 +1,11 @@
 ---
 id: ECMA-395
 title:
-  content: Recordable compact disc systems CD-RW ultra-speed
-  language: en
-  script: Latn
+- content: Recordable compact disc systems CD-RW ultra-speed
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-395/
@@ -12,24 +14,32 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-395
+- id: ECMA-395
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2010-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2010-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The CD ReWritable (CD-RW) system gives the opportunity to write, erase, overwrite and read CD information. The recorded CD‑RW disc has a lower reflectivity than a “Red Book compatible” disc, so it must be played back on “CD-RW enabled CD‑players”. A CD‑RW enabled CD‑player can read out CD‑RW discs described in this document, as well as CD‑R and conventional CD discs. The CD‑RW format gives the possibility for both Audio and Data recording.
     In the CD‑RW system the disc contains a recording material which shows a reflection decrease due to writing, a reflection increase due to erase, and a reflection decrease or increase due to overwriting.  The CD‑RW disc has a lower reflectivity in comparison with conventional CD discs, but satisfies almost all the remaining specifications as written in the chapter DISC SPECIFICATION of the Red Book. The CD‑RW disc contains a wobbled pre‑groove for tracking, CLV speed control and timing purposes.  Recording takes place in the groove. The CD-RW system is described in the Orange Book, Part III. Volume 1 describes the 1-4x disc type; Volume 2 describes the 4-10x (High Speed) type and Volume 3 defines two types of Ultra Speed CD-RW discs:
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

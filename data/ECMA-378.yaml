@@ -1,10 +1,12 @@
 ---
 id: ECMA-378
 title:
-  content: 'Information interchange on Read-Only Memory Holographic Versatile Disc
+- content: 'Information interchange on Read-Only Memory Holographic Versatile Disc
     (HVD-ROM) – Capacity: 100 Gbytes per disk'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-378/
@@ -13,27 +15,35 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-378
+- id: ECMA-378
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2007-05
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2007-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the mechanical, physical, and optical characteristics of a holographic disk that employs holographic storage to enable data interchange between such disks.
     The disk is of the ROM (Read Only Memory) type providing for stored data to be read a multiplicity of times.
     The 120 mm diameter disk has a nominal capacity of 100 Gigabytes.
     This Ecma Standard specifies
     This Ecma Standard provides for interchange between holographic disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems. The disks specified by this Ecma Standard may be enclosed in cases according to Standard ECMA-375 as specified therein.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

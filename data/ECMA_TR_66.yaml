@@ -1,9 +1,11 @@
 ---
 id: ECMATR/66
 title:
-  content: Mapping of PCTE to the Ecma/NIST frameworks reference model
-  language: en
-  script: Latn
+- content: Mapping of PCTE to the Ecma/NIST frameworks reference model
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-66/
@@ -12,25 +14,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA TR/66
+- id: ECMA TR/66
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1994-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1994-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Technical Report provides a mapping of the PCTE, Standard ECMA-149 relative to the Reference Model (RM) for Frameworks of Software Engineering Environments.
     A mapping of PCTE should include a description of the SEE components defined in PCTE using the common reference terms and structures provided by the RM. In this way it will provide a basis for comparing components of PCTE with other SEE components and related standards.
     The mapping consists of a section for each of the services described in the RM which are covered by PCTE. The main part of this document is structured in a way corresponding to the RM in order to facilitate comparisons and references to either other mappings, or with the RM document itself.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

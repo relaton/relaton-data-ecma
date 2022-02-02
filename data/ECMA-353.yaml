@@ -1,10 +1,12 @@
 ---
 id: ECMA-353
 title:
-  content: Data interchange on 90 mm optical disk cartridges - Capacity 2,3 Gbytes
+- content: Data interchange on 90 mm optical disk cartridges - Capacity 2,3 Gbytes
     per cartridge
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-353/
@@ -13,26 +15,34 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-353
+- id: ECMA-353
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2004-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2004-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard defines the characteristics of 90 mm Optical Disk Cartridges (ODC) with a capacity of 2,3 Gbytes per Cartridge. The Standard specifies only Type R/W for 2 048-byte sectors of such cartridge.
     Type R/W provides for data to be written, read and erased many times over the entire recording surface of the disk using the thermo-magnetic and magneto-optical effects. It is also referred to as “fully rewritable”. This Ecma Standard provides for 2 048-byte sectors only. All sectors on a disk are of the same size.
     This Ecma Standard specifies:
     This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

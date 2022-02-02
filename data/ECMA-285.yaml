@@ -1,10 +1,12 @@
 ---
 id: ECMA-285
 title:
-  content: ASN.1 for Computer Supported Telecommunications Applications (CSTA) phase
+- content: ASN.1 for Computer Supported Telecommunications Applications (CSTA) phase
     III
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-285/
@@ -13,21 +15,26 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-285
+- id: ECMA-285
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2011-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 edition: '4'
 revdate: 2011-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies application protocol data units (APDUs) for the services described in ECMA-269.
     Clause 5 to clause 7 inclusive describes the concepts underlying the Remote Operations model, notation and service.
     Clause 8 to clause 27 inclusive contains CSTA-specific protocol details and forms the main part of this Standard.
@@ -36,53 +43,64 @@ abstract:
     Further information on the CSTA topic is also available.
     The file “ECMA-285, 4th edition, December 2011, source_files.zip” contains the following files:
     Note: depending upon the compiler used, two duplicate tags can be expected (Reject, ACSEUserInformationForCSTA). These are normal and should not affect the compiled output.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_1st_edition_december_1998.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_1st_edition_december_1998.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-285
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_2nd_edition_june_2000.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_2nd_edition_june_2000.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-285
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_3rd_edition_december_2010.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_3rd_edition_december_2010.pdf
       type: doi
     edition: '3'
     formattedref:
       content: ECMA-285
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_4th_edition_source_files.zip
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_4th_edition_source_files.zip
       type: doi
     edition: '4'
     formattedref:
       content: ECMA-285
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

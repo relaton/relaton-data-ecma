@@ -1,10 +1,12 @@
 ---
 id: ECMA-225
 title:
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
     protocol - Transit counter additional network feature (QSIG-TC)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-225/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-225
+- id: ECMA-225
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1997-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1997-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the signalling protocol for the support of the Transit Counter additional network feature (ANF-TC) at the Q reference point between Private Integrated Services Network Exchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
     ANF-TC is a feature that limits the number of Transit PINXs that a call setup request may be routed through e.g., to protect the network against indefinite looping.
     The Q reference point is defined in ISO/IEC 11579-1.
@@ -35,20 +42,25 @@ abstract:
     This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between ANF-TC and other supplementary services and ANFs.
     This Standard is applicable to PINXs that can interconnect to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-225_1st_edition_june_1995.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-225_1st_edition_june_1995.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-225
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

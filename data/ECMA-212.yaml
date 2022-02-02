@@ -1,10 +1,12 @@
 ---
 id: ECMA-212
 title:
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
     protocol - Advice of charge supplementary services (QSIG-AOC)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-212/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-212
+- id: ECMA-212
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2001-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2001-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the signalling protocol for the support of the Advice Of Charge supplementary services (SS-AOC) at the Q reference point between Private Integrated services Network eXchanges (PINX) connected together within a Private Integrated Services Network (PISN).
     SS-AOC is a set of supplementary services which enable a user to receive information about the charging of its calls that leave the PISN and enter another network.
     The three AOC supplementary services are:
@@ -37,31 +44,38 @@ abstract:
     NOTE – Additional interactions that have no impact on the signalling protocol at the Q reference point can be found in the relevant stage 1 specifications.
     This Standard is applicable to PINXs which can interconnect to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-212_1st_edition_december_1994.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-212_1st_edition_december_1994.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-212
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-212_2nd_edition_june_1997.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-212_2nd_edition_june_1997.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-212
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

@@ -1,9 +1,11 @@
 ---
 id: ECMA-354
 title:
-  content: Application session services
-  language: en
-  script: Latn
+- content: Application session services
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-354/
@@ -12,37 +14,47 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-354
+- id: ECMA-354
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2004-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2004-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The services defined in this Standard are used to establish and maintain a relationship between an application and a server for the purpose of exchanging application messages. For the purpose of this Standard this relationship is called an application session.
     Some application protocols, like ECMA-323 for example, require that a relationship such as this be established before application messages are exchanged. ECMA-269 specifies several mechanisms for establishing an application context. One possible mechanism is ACSE (ISO/IEC 8649) – but since ASCE uses ASN.1 encoding for its services, it is not desirable for use with XML based protocols such as ECMA-323.
     This Standard provides an XML-based option for establishing an application session for protocols such as ECMA-323.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-354_xsds_02_august_2004.zip
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-354_xsds_02_august_2004.zip
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-354
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

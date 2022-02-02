@@ -1,9 +1,11 @@
 ---
 id: ECMA-412
 title:
-  content: Framework for distributed real-time access systems
-  language: en
-  script: Latn
+- content: Framework for distributed real-time access systems
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-412/
@@ -12,47 +14,59 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-412
+- id: ECMA-412
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2019-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2019-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies a framework for a distributed real-time access system.
     It includes:
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-412_1st_edition_june_2015.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-412_1st_edition_june_2015.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-412
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-412_2nd_edition_june_2017.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-412_2nd_edition_june_2017.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-412
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

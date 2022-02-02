@@ -1,9 +1,11 @@
 ---
 id: ECMA-373
 title:
-  content: Near Field Communication Wired Interface (NFC-WI)
-  language: en
-  script: Latn
+- content: Near Field Communication Wired Interface (NFC-WI)
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-373/
@@ -12,37 +14,47 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-373
+- id: ECMA-373
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2012-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2012-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the digital wire interface between a Transceiver and a Front-end. The specification includes the signal wires, binary signals, the state diagrams and the bit encodings for three data rates. See also companion Front-end configuration (NFC-FEC) standard.
     This Standard was originally developed by TC47. The work of TC47 was transferred to TC51-TG1.
      
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-373_1st_edition_june_2006.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-373_1st_edition_june_2006.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-373
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

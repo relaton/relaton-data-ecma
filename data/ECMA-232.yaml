@@ -1,10 +1,12 @@
 ---
 id: ECMA-232
 title:
-  content: Private Integrated Services Network (PISN) - Profile standard for the connection
+- content: Private Integrated Services Network (PISN) - Profile standard for the connection
     of Radio Paging Equipment (RPE) to a PISN
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-232/
@@ -13,26 +15,34 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-232
+- id: ECMA-232
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1995-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1995-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Profile Standard specifies the combination of base standards, together with the selection of appropriate options and parameter values, necessary to interface a Radio Paging Equipment, RPE, to a PINX.
     The standard provides for two methods of connection of an RPE to a PINX. With the first method, the RPE is connected in a similar manner to a TE connected at the S reference point using an ISDN basic access interface at layer 1. With the second method the RPE is connected in a similar manner to another PINX connected at the C reference point using an ISDN basic access interface or a primary rate interface at layer 1. In this case static mapping is employed between the C reference point and the Q reference point. The C, Q and S reference points are defined in ISO/IEC 11579-1.
     This Standard states requirements upon implementations to achieve interoperability between equipment on each side of the RPE/PINX interface.
     NOTE – Implementation of one or more profiles from this Standard does not preclude a manufacturer from offering other means of interconnection.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

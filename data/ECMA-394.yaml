@@ -1,9 +1,11 @@
 ---
 id: ECMA-394
 title:
-  content: Recordable compact disc systems CD-R multi-speed
-  language: en
-  script: Latn
+- content: Recordable compact disc systems CD-R multi-speed
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-394/
@@ -12,27 +14,35 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-394
+- id: ECMA-394
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2010-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2010-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The CD Recordable (CD-R) system gives the opportunity to write once and read many times CD information.  The recorded CD-R disc is ‘Red Book compatible’, so it can be played back on conventional CD-players.  The CD-R format gives the possibility for both Audio and Data recording.
     In the CD-R system the disc contains recording material which shows a reflection decrease due to recording.  After recording, the CD-R disc satisfies the specifications as written in the chapter DISC SPECIFICATION of the Red Book.  The CD-R disc contains a wobbled pre‑groove for tracking, CLV speed control and timing purposes.  Recording takes place in the groove. This document defines 6 types of discs allowing recording speeds up to 16x, 20x, 24x, 32x, 40x or 48x nominal CD speed using a high‑speed write strategy.
     For backwards compatibility with recorders compliant to Volume 1, also speeds of 1x (optional), 2x and 4x nominal CD speed using the write strategies according to Volume 1 shall be supported. Multi-Speed CD-R discs that can be recorded at 1x, 2x and 4x according to the descriptions in Volume 1 are called “Full-range Volume 1 compliant”.Only Full-range Volume 1 compliant Multi-Speed CD-R discs are allowed for Unrestricted Use (use in Consumer CD-recorders, see chapter 4.4.1.3).
     To enable high speed power calibration, a second Power Calibration Area (PCA2) at the outer diameter of the disc has been specified. Additional disc capacity could be realized by giving the opportunity to fully exploit all area up to the PCA2 for User Data storage with only the minimum Lead-out required. When the Lead-out is being positioned as close as possible before the PCA2, the remaining area preceding the Lead-out can all be used for User Data storage. The area between the address mentioned in ATIP Special Information 3 and the PCA2 is now called: “Additional Capacity & Lead-out Area”.
     Therefore the “last possible start time of Lead-out Area”, given in Special Information 3, has been renamed “Start of Additional Capacity & Lead-out Area” (SAL). The length of this area is indicated as the “Length of Additional Capacity & Lead-out Area” (LAL) in the Additional Information 1 in ATIP code.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

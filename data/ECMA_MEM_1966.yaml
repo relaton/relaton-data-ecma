@@ -1,26 +1,34 @@
 ---
 id: ECMAMEM/1966
 title:
-  content: '"Memento 1966" for year1966'
-  language: en
-  script: Latn
+- content: '"Memento 1966" for year1966'
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-2021-public.pdf
+- content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-2022-public.pdf
   type: doi
 type: standard
 docid:
-  id: ECMA MEM/1966
+- id: ECMA MEM/1966
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1966-01
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1966-01
-language: en
-script: Latn
-place: Geneva
+language:
+- en
+script:
+- Latn
+place:
+- Geneva
 doctype: document

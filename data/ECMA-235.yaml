@@ -1,9 +1,11 @@
 ---
 id: ECMA-235
 title:
-  content: The Ecma GSS-API Mechanism
-  language: en
-  script: Latn
+- content: The Ecma GSS-API Mechanism
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-235/
@@ -12,25 +14,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-235
+- id: ECMA-235
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1996-03
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1996-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Following on from Standard ECMA-219, that defines services, data elements and operations for authentication, Privilege Attribute and key distribution applications (the APA-Application), this Standard ECMA-235 defines the syntax of the tokens that enable distributed applications implementing the APA-Application and related data elements specified in Standard ECMA-219 to interwork.
     The tokens defined in this Standard are :
     In order to provide a basic set of implementation options, this Standard also defines some key distribution schemes based on symmetric and asymmetric cryptographic technologies. These include specification of the encryption algorithms and methods to be used.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

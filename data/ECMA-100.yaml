@@ -1,10 +1,12 @@
 ---
 id: ECMA-100
 title:
-  content: Data interchange on 90 mm flexible disk cartridges using MFM recording
+- content: Data interchange on 90 mm flexible disk cartridges using MFM recording
     at 7 958 ftprad on 80 tracks on each side - ISO type 301
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-100/
@@ -13,38 +15,48 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-100
+- id: ECMA-100
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1988-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1988-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the characteristics of 90 mm flexible disk cartridges recorded at 7 958 ftprad using modified frequency modulation recording, on 80 tracks on each side – ISO Type 301.
     It specifies the mechanical, physical and magnetic characteristics of the cartridge, so as to provide physical interchangeability between data processing systems.
     It also specifies the method of recording, the quality of the recorded signals, the track layout and the track format.
     Together with the labelling scheme of Standard ECMA-107, this Standard provides for full data interchange between data processing systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-100_1st_edition_september_1985.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-100_1st_edition_september_1985.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-100
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

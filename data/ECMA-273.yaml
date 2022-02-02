@@ -1,9 +1,11 @@
 ---
 id: ECMA-273
 title:
-  content: Case for 120 mm DVD-RAM disks
-  language: en
-  script: Latn
+- content: Case for 120 mm DVD-RAM disks
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-273/
@@ -12,26 +14,34 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-273
+- id: ECMA-273
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1998-02
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1998-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the characteristics of a case for use with 120 mm DVD-RAM disks as specified in Standard ECMA-272.
     The present Ecma Standard specifies three related, but different implementations of such cases, viz.
     This Ecma Standard specifies:
     This Ecma Standard provides for mechanical interchange between optical disk drives. Together with Standard ECMA-272 for 120 mm DVD-RAM disks and a standard for volume and file structure, it provides for full data interchange between data processing systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

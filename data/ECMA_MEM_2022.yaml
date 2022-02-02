@@ -1,7 +1,7 @@
 ---
-id: ECMAMEM/2008
+id: ECMAMEM/2022
 title:
-- content: '"Memento 2008" for year2008'
+- content: '"Memento 2022" for year2022'
   language:
   - en
   script:
@@ -12,19 +12,19 @@ link:
   type: doi
 type: standard
 docid:
-- id: ECMA MEM/2008
+- id: ECMA MEM/2022
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2008-01
+  value: 2022-01
 contributor:
 - organization:
     name:
     - Ecma International
   role:
   - publisher
-revdate: 2008-01
+revdate: 2022-01
 language:
 - en
 script:

@@ -1,10 +1,12 @@
 ---
 id: ECMA-109
 title:
-  content: Declared noise emission values of information technology and telecommunications
+- content: Declared noise emission values of information technology and telecommunications
     equipment
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-109/
@@ -13,21 +15,26 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-109
+- id: ECMA-109
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2020-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 edition: '10'
 revdate: 2020-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard applies to information technology and telecommunications equipment.
     This Ecma Standard specifies:
     a)    for a batch of equipment, the method for determining the following values:
@@ -39,108 +46,129 @@ abstract:
     For verification purposes, an additional quantity is required to be declared: the statistical adder for verification, Kv. This is a quantity that is added to the declared mean A-weighted sound power level, LWA,m and used in the verification section of this Standard to provide a consistent and predictable probability of acceptance for the batch of equipment. The declared mean A-weighted sound power level for the batch of equipment permits comparison of noise emissions between different products and permits predictions of installation or work-place noise immission levels, as described in ECMA TR/27.
     Although the most useful quantity for calculating immission levels due to one or more sound sources is the A‑weighted sound power level of the individual source(s), the A‑weighted emission sound pressure level may also be useful in estimating the immission level in the immediate vicinity of an isolated piece of equipment.
     To avoid confusion between sound power levels and emission sound pressure levels, the declared mean A‑weighted sound power level, LWA,m is expressed in bels (B) and the declared mean A‑weighted emission sound pressure level, LpA,m is expressed in decibels (dB).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_1st_edition_december_1985.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_1st_edition_december_1985.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-109
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_2nd_edition_december_1987.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_2nd_edition_december_1987.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-109
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_3rd_edition_december_1992.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_3rd_edition_december_1992.pdf
       type: doi
     edition: '3'
     formattedref:
       content: ECMA-109
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_4th_edition_december_1996.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_4th_edition_december_1996.pdf
       type: doi
     edition: '4'
     formattedref:
       content: ECMA-109
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_5th_edition_december_2010.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_5th_edition_december_2010.pdf
       type: doi
     edition: '5'
     formattedref:
       content: ECMA-109
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_6th_edition_december_2012.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_6th_edition_december_2012.pdf
       type: doi
     edition: '6'
     formattedref:
       content: ECMA-109
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_7th_edition_december_2016.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_7th_edition_december_2016.pdf
       type: doi
     edition: '7'
     formattedref:
       content: ECMA-109
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-109-8th-edition-June-2019-1.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109-8th-edition-June-2019-1.pdf
       type: doi
     edition: '8'
     formattedref:
       content: ECMA-109
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-109-9th-edition-December-2019-1.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109-9th-edition-December-2019-1.pdf
       type: doi
     edition: '9'
     formattedref:
       content: ECMA-109
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

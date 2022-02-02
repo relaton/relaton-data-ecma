@@ -1,9 +1,11 @@
 ---
 id: ECMA-389
 title:
-  content: Procedure for the registration of categories for ECMA-383
-  language: en
-  script: Latn
+- content: Procedure for the registration of categories for ECMA-383
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-389/
@@ -12,24 +14,32 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-389
+- id: ECMA-389
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2009-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2009-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Standard specifies the procedure to be followed by the Registration
+- content: This Standard specifies the procedure to be followed by the Registration
     Authority in preparing, maintaining and publishing International Registers of
     desktop, notebook and Ultra Low Energy (ULE) computer categories for use with ECMA-383.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

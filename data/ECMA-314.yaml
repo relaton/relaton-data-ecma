@@ -1,10 +1,12 @@
 ---
 id: ECMA-314
 title:
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
     protocol - Call Identification and Call Linkage additional network feature (QSIG-CIDL)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-314/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-314
+- id: ECMA-314
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2001-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2001-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the signalling protocol for the support of the Call Identification and Call Linkage additional network feature (ANF-CIDL) at the Q reference point between Private Integrated Network services eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
     ANF-CIDL is an additional network feature which allows the assignment of a Global Call Identification (GID) to identify a call end-to-end over the call route (i.e. between the two end PINXs). As an option, a Thread Identification (TID) may be assigned to different calls which are logically linked together due to the operation of other supplementary services and/or ANFs. Additionally a Leg Identification (LID) may be assigned, to identify the different legs of a call.
     NOTE 1 – This ANF has been developed to support the use of CSTA (ECMA-269) in a networked environment, i.e. in a PISN. Use of this ANF for other applications is not precluded.
@@ -36,20 +43,25 @@ abstract:
     This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between Call Identification and Call Linkage and other supplementary services and ANFs.
     This Standard is applicable to PINXs which can be interconnected to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-314_1st_edition_september_2000.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-314_1st_edition_september_2000.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-314
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

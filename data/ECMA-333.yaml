@@ -1,10 +1,12 @@
 ---
 id: ECMA-333
 title:
-  content: Private Integrated Services Network (PISN) - Mapping functions for the
+- content: Private Integrated Services Network (PISN) - Mapping functions for the
     tunnelling of QSIG through H.323 networks
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-333/
@@ -13,38 +15,48 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-333
+- id: ECMA-333
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2003-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2003-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies functions for using an H.323 packet network in order to interconnect two Private Integrated services Network eXchanges (PINXs) forming part of a Private Integrated Services Network (PISN). Interconnection is achieved by carrying the inter-PINX signalling protocol over the H.323 call signalling channel, making use of the protocol tunnelling facilities of H.323, and inter-PINX user information (e.g., voice) over logical channels established through H.323. Each logical channel usually represents a unidirectional media stream conveyed by means of the Real-time Transport Protocol (RTP). The inter-PINX signalling protocol is assumed to be QSIG, as specified in ECMA-143, ECMA-165 and other standards.
     The Standard provides for an on-demand type of interconnection, where a separate H.323 call is established at the start of each PISN call and cleared down at the end of that call. A semi-permanent scenario where a single H.323 call with an indefinite lifetime carries QSIG on behalf of many PISN calls is described as an additional option.
     In the scenarios covered in this Standard, the PINXs participating in a call are not necessarily aware of the H.323 network providing the interconnection, and the features available are those of the QSIG network. This is different from a scenario where true interworking between QSIG and H.323 (i.e. QSIG-H.323-QSIG) is used to connect two PISNs or two parts of the same PISN. In this latter case all networks participate in a call on equal terms, and features are limited to those available in all networks and supported by the gateways. This latter scenario is outside the scope of this Standard.
     This Standard is applicable to PINXs that can be interconnected to form a PISN using QSIG as the inter-PINX signalling protocol.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-333_1st_edition_december_2001.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-333_1st_edition_december_2001.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-333
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

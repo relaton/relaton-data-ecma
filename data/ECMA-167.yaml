@@ -1,10 +1,12 @@
 ---
 id: ECMA-167
 title:
-  content: Volume and file structure for write-once and rewritable media using non-sequential
+- content: Volume and file structure for write-once and rewritable media using non-sequential
     recording for information interchange
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-167/
@@ -13,27 +15,34 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-167
+- id: ECMA-167
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1997-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1997-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies a format and associated system requirements for volume and boot block recognition, volume structure, file structure and record structure for the interchange of information on media between users of information processing systems.
     The media shall be recorded as if the recording of sectors may be done in any order.
     NOTE – The medium is not restricted to being of one type; the type of medium may be either write once, or read only, or rewritable, or a combination of these types.
     This Standard consists of the following five Parts:
     Part 1 specifies references, definitions, notation and basic structures that apply to the other four Parts.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
@@ -41,19 +50,24 @@ relation:
     edition: '1'
     formattedref:
       content: ECMA-167
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-167_2nd_edition_december_1994.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-167_2nd_edition_december_1994.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-167
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

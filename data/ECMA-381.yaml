@@ -1,9 +1,11 @@
 ---
 id: ECMA-381
 title:
-  content: Procedure for the registration of assigned numbers for ECMA-368 and ECMA-369
-  language: en
-  script: Latn
+- content: Procedure for the registration of assigned numbers for ECMA-368 and ECMA-369
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-381/
@@ -12,25 +14,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-381
+- id: ECMA-381
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2007-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2007-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Standard specifies the procedure to be followed by a Registration
+- content: This Standard specifies the procedure to be followed by a Registration
     Authority in preparing, maintaining and publishing the International Registers of
     assigned numbers and associated descriptions for entries specified in 4, for use
     with ECMA-368 and ECMA-369.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

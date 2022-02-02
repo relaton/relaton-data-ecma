@@ -1,10 +1,12 @@
 ---
 id: ECMA-384
 title:
-  content: 120 mm (8,54 Gbytes per side) and 80 mm (2,66 Gbytes per side) DVD re-recordable
+- content: 120 mm (8,54 Gbytes per side) and 80 mm (2,66 Gbytes per side) DVD re-recordable
     disk for dual layer (DVD-RW for DL)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-384/
@@ -13,25 +15,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-384
+- id: ECMA-384
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2008-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2008-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the mechanical, physical and optical characteristics of a 120 mm and an 80 mm dual layer DVD Re-recordable disk to enable the interchange of such disks. It specifies the quality of the embossed, unrecorded and the recorded signals, the format of the data, the format of the information zone, the format of the unrecorded zone, and the recording method, thereby allowing for information interchange by means of such disks. This disk is identified as a DVD Re-recordable disk for Dual Layer (DVD-RW for DL).
     This Ecma Standard specifies:
     This Ecma Standard provides for interchange of disks between disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

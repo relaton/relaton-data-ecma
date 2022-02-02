@@ -1,9 +1,11 @@
 ---
 id: ECMATR/87
 title:
-  content: Using CSTA for SIP phone user agents (uaCSTA)
-  language: en
-  script: Latn
+- content: Using CSTA for SIP phone user agents (uaCSTA)
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-87/
@@ -12,28 +14,36 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA TR/87
+- id: ECMA TR/87
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2004-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2004-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The Session Initiation Protocol (SIP) is a control (signalling) protocol for creating, modifying, and terminating sessions with one or more participants. These sessions include Internet telephone calls, multimedia distribution, and multimedia conferences.
     CSTA standardizes a very powerful and flexible set of application services to observe and control voice and non-voice media calls as well as control and observe non-call related features.
     This Ecma Technical Report describes how CSTA can be used to provide a subset of CSTA call control functionality, called 1st party call control, for SIP user agents. The term uaCSTA (for user agent CSTA) refers to transporting ECMA-323 (CSTA XML) messages over a SIP session.
     uaCSTA leverages SIP mechanisms to provide a highly featured, robust, and extensible set of features to support applications in the Enterprise environment.
     uaCSTA can be implemented by several different types of SIP user agents:
      
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

@@ -1,9 +1,11 @@
 ---
 id: ECMA-158
 title:
-  content: Portable Common Tool Environment (PCTE) - C programming language binding
-  language: en
-  script: Latn
+- content: Portable Common Tool Environment (PCTE) - C programming language binding
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-158/
@@ -12,26 +14,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-158
+- id: ECMA-158
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1997-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 edition: '4'
 revdate: 1997-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard defines the binding of the Portable Common Tool Environment (PCTE), as specified in ECMA-149, to the C programming language.
     A number of features are not completely defined in ECMA-149, some freedom being allowed to the implementor.  Some of these features are specified as implementation limits.  Some constraints are placed on these implementation limits by this Ecma Standard.  These constraints are specified in clause 24, Implementation Limits.
     PCTE is an interface to a set of facilities that forms the basis for constructing environments supporting systems engineering projects.  These facilities are designed particularly to provide an infrastructure for programs which may be part of such environments. Such programs, which are used as aids to system development, are often referred to as tools.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
@@ -39,24 +48,31 @@ relation:
     edition: '1'
     formattedref:
       content: ECMA-158
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     edition: '2'
     formattedref:
       content: ECMA-158
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     edition: '3'
     formattedref:
       content: ECMA-158
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

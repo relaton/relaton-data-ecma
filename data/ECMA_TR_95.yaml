@@ -1,9 +1,11 @@
 ---
 id: ECMATR/95
 title:
-  content: Next Generation Corporate Networks (NGCN) - General
-  language: en
-  script: Latn
+- content: Next Generation Corporate Networks (NGCN) - General
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-95/
@@ -12,25 +14,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA TR/95
+- id: ECMA TR/95
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2008-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2008-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Technical Report is part of a series of publications that provides an overview of IP-based enterprise communication involving Corporate telecommunication Networks (CNs) (also known as enterprise networks) and in particular Next Generation Corporate Networks (NGCN). The series particularly focuses on session level communication based on the Session Initiation Protocol (SIP) (IETF RFC 3261), with an emphasis on inter-domain communication. This includes communication between parts of the same enterprise (on dedicated infrastructures and/or hosted), between enterprises and between enterprises and public networks. Key technical issues are investigated, current standardisation work and gaps in this area are identified and a number of requirements are stated.
     This particular Technical Report provides general information on the subject, defines some architectural concepts, identifies various communication scenarios, and provides a framework in support of other publications that provide greater detail on particular topics. At the time of publication of this Technical Report, one further document in the series has been published, on the subject of identification and routing (ECMA TR/96).
     The scope of this Technical Report is limited to communications with a real-time element, including voice, video, real-time text and instant messaging.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

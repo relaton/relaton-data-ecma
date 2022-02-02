@@ -1,10 +1,12 @@
 ---
 id: ECMA-143
 title:
-  content: Private Integrated Services Network (PISN) - Circuit mode bearer services
+- content: Private Integrated Services Network (PISN) - Circuit mode bearer services
     - Inter-exchange signalling procedures and protocol (QSIG-BC)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-143/
@@ -13,28 +15,35 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-143
+- id: ECMA-143
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2001-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 edition: '4'
 revdate: 2001-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard defines the signalling procedures and protocol for the purpose of circuit-switched Call Control at the Q-reference point between Private Integrated services Network eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
     The Q reference point is defined in ECMA-133.
     This Standard is based upon that described in Recommendation Q.931, including the provisions for symmetrical operation described in annex D of that recommendation.
     Service specifications are produced in three stages and according to the method specified in ETS 300 387. This Standard contains the stage 3 specification for the Q reference point and satisfies the requirements identified by the stage 1 and stage 2 specifications in ECMA-142, ECMA-148 and ISO/IEC 11584.
     This Standard is applicable to PINXs which interconnect to form a PISN.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
@@ -42,30 +51,37 @@ relation:
     edition: ''
     formattedref:
       content: ECMA-143
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-143_2nd_edition_december_1992.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-143_2nd_edition_december_1992.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-143
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-143_3rd_edition_june_1997.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-143_3rd_edition_june_1997.pdf
       type: doi
     edition: '3'
     formattedref:
       content: ECMA-143
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

@@ -1,10 +1,12 @@
 ---
 id: ECMA-278
 title:
-  content: Data interchange on 12,7 mm 128-track magnetic tape cartridge - Parallel
+- content: Data interchange on 12,7 mm 128-track magnetic tape cartridge - Parallel
     serpentine format
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-278/
@@ -13,37 +15,47 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-278
+- id: ECMA-278
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2000-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2000-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the physical and magnetic characteristics of a magnetic tape cartridge, using a magnetic tape 12,7 mm wide, so as to provide physical interchange of such cartridges between drives. It also specifies the quality of the recorded signals, the recording method and the recorded format known as Parallel Serpentine, thereby allowing data interchange between drives by means of such cartridges. The format supports variable length Logical Records, high speed search, and the use of the algorithm for data compression specified in Standard.
     Information interchange between systems also requires, at a minimum, agreement between the interchange parties upon the interchange code(s) and the specification of the structure and labelling of the information on the interchanged cartridge.
     Together with a standard for volume and file structure, e.g. Standard ECMA-13, this Ecma Standard provides for full data interchange between data processing systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-278_1st_edition_december_1998.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-278_1st_edition_december_1998.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-278
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

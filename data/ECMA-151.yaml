@@ -1,10 +1,12 @@
 ---
 id: ECMA-151
 title:
-  content: Data compression for information interchange - Adaptive coding with embedded
+- content: Data compression for information interchange - Adaptive coding with embedded
     dictionary - DCLZ algorithm
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-151/
@@ -13,25 +15,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-151
+- id: ECMA-151
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1991-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1991-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies a lossless compression algorithm to reduce the number of bits required to represent information coded by means of 8-bit bytes. This algorithm is known as DCLZ (Data Compression according to Lempel and Ziw).
     This Ecma Standard specifies neither the strategy for resetting the dictionary nor that for freezing it, as these are implementation-dependent.
     This algorithm is particularly useful when information has to be recorded on an interchangeable medium. Its use is not limited to this application.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

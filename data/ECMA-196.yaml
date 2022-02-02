@@ -1,9 +1,11 @@
 ---
 id: ECMA-196
 title:
-  content: Data interchange on 12,7 mm 36-track magnetic tape cartridges
-  language: en
-  script: Latn
+- content: Data interchange on 12,7 mm 36-track magnetic tape cartridges
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-196/
@@ -12,28 +14,36 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-196
+- id: ECMA-196
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1993-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1993-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the physical and magnetic characteristics of 12,7 mm wide, 36-track magnetic tape cartridges to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, the format and the recording method, thus allowing, together with Standard ECMA-13 or equivalent, full data interchange by means of such magnetic tape cartridges.
     This Standard specifies two types of cartridge which, for the purposes of this Standard, are referred to as Cartridge System Tape (CST) and Extended Capacity Cartridge System Tape (ECCST), and contain tape of different thicknesses and lengths.
     CST cartridges have a nominal uncompressed capacity of approximately 400 Mbytes.
     ECCST cartridges have a nominal uncompressed capacity of approximately 800 Mbytes.
     This Ecma Standard specifies extensions and modifications to the recorded format that is described in Standard ECMA-152.
     These extensions and modifications
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

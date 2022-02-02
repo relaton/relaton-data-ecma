@@ -1,9 +1,11 @@
 ---
 id: ECMA-407
 title:
-  content: Scalable Sparse Spatial Sound System (S5) - Base S5 coding
-  language: en
-  script: Latn
+- content: Scalable Sparse Spatial Sound System (S5) - Base S5 coding
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-407/
@@ -12,24 +14,32 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-407
+- id: ECMA-407
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2014-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2014-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the base S5 encoder and decoder in terms of configuration data, downmix, inverse coding parameter data and upmix.
     In addition it provides reference and guidance on how to incorporate further components to form a scalable multichannel coding system for audio data compression.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

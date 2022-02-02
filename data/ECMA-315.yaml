@@ -1,10 +1,12 @@
 ---
 id: ECMA-315
 title:
-  content: 12,65 mm wide magnetic tape cassette for information interchange - Helical
+- content: 12,65 mm wide magnetic tape cassette for information interchange - Helical
     scan recording - DTF-2
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-315/
@@ -13,25 +15,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-315
+- id: ECMA-315
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2000-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2000-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the physical and magnetic characteristics of magnetic tape cassettes, using magnetic tape 12,65 mm wide so as to provide physical interchange of such cassettes between drives. It also specifies the quality of the recorded signals, the recording method and the recording format, called Digital Tape Format-2 (DTF-2), thereby allowing data interchange between drives by means of suh cassettes. The format supports variable length Logical Records, high-speed search, and the use of a registered algorithm for data compression.
     This Ecma Standard specifies two sizes of cassette. For the purposes of this Ecma Standard the larger cassette is referred to as Type L, and the smaller as Type S.
     Together with a standard for volume and file structure, e.g. Standard ECMA-13, this Ecma Standard provides for full data interchange between data processing systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

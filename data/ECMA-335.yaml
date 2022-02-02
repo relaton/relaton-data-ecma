@@ -1,9 +1,11 @@
 ---
 id: ECMA-335
 title:
-  content: Common Language Infrastructure (CLI)
-  language: en
-  script: Latn
+- content: Common Language Infrastructure (CLI)
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-335/
@@ -12,100 +14,177 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-335
+- id: ECMA-335
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2012-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 edition: '6'
 revdate: 2012-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard defines the Common Language Infrastructure (CLI) in which applications written in multiple high-level languages can be executed in different system environments without the need to rewrite those applications to take into consideration the unique characteristics of those environments. This Standard consists of the following parts:
     Consisting of XML specification, see also ECMA TR/84, see also ECMA TR/89, Common Generics.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_1st_edition_december_2001.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_1st_edition_december_2001.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-335
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_2nd_edition_december_2002.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_2nd_edition_december_2002.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-335
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_3rd_edition_june_2005.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_3rd_edition_june_2005.pdf
       type: doi
     edition: '3'
     formattedref:
       content: ECMA-335
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_4th_edition_june_2006.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_4th_edition_june_2006.pdf
       type: doi
     edition: '4'
     formattedref:
       content: ECMA-335
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_5th_edition_december_2010.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_5th_edition_december_2010.pdf
       type: doi
     edition: '5'
     formattedref:
       content: ECMA-335
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-335.zip
+    - content: https://www.ecma-international.org/wp-content/uploads/Ecma-335_2nd_edition-xml.zip
       type: doi
-    edition: '6'
+    edition: ''
     formattedref:
-      content: ECMA-335
-      language: en
-      script: Latn
+      content: Zipped XML specification for the 2nd edition
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/Ecma-335_3rd_edition-xml.zip
+      type: doi
     edition: ''
     formattedref:
-      content: Microsoft patent statement
-      language: en
-      script: Latn
+      content: Zipped XML specification for the 3rd edition
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+- type: updates
+  bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/Ecma-335_4th_edition-xml.zip
+      type: doi
+    edition: ''
+    formattedref:
+      content: Zipped XML specification for the 4th edition
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/Ecma-335_5th_edition-xml.zip
+      type: doi
+    edition: ''
+    formattedref:
+      content: Zipped XML specification for the 5th edition
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/Ecma-335_6th_edition-xml.zip
+      type: doi
+    edition: ''
+    formattedref:
+      content: Zipped XML specification for the 6th edition
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335-4th-edition-Microsoft-patent-statement.pdf
+      type: doi
+    edition: '4'
+    formattedref:
+      content: Microsoft patent statement for ECMA-335
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
 doctype: document

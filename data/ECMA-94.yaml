@@ -1,10 +1,12 @@
 ---
 id: ECMA-94
 title:
-  content: 8-bit single-byte coded graphic character sets - Latin alphabets No. 1
+- content: 8-bit single-byte coded graphic character sets - Latin alphabets No. 1
     to No. 4
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-94/
@@ -13,37 +15,47 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-94
+- id: ECMA-94
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1986-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1986-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard defines four 8-bit coded graphic character sets identified as Latin Alphabets No 1 to No 4, and specifies the coded representation of each character by means of a single 8-bit byte.
     Characters common to two or more sets are allocated to the same code position. None of these characters are “non-spacing”.
     The use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-94_1st_edition_march_1985.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-94_1st_edition_march_1985.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-94
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

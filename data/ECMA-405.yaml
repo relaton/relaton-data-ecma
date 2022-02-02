@@ -1,9 +1,11 @@
 ---
 id: ECMA-405
 title:
-  content: Data interchange on parallel write/read disk format for 5 optical disks
-  language: en
-  script: Latn
+- content: Data interchange on parallel write/read disk format for 5 optical disks
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-405/
@@ -12,25 +14,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-405
+- id: ECMA-405
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2013-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2013-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies optical disk formats that provide parallel read/write methods with written data divided among 5 disks.
     This Standard specifies two types of optical disk formats:
     This Standard specifies the read/write area and the data structure.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

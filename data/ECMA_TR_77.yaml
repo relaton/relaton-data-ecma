@@ -1,9 +1,11 @@
 ---
 id: ECMATR/77
 title:
-  content: Telephony system with integrated internet access - Overview
-  language: en
-  script: Latn
+- content: Telephony system with integrated internet access - Overview
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-77/
@@ -12,25 +14,33 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA TR/77
+- id: ECMA TR/77
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1999-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1999-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Technical Report investigate Screenphones and network functionality
+- content: This Technical Report investigate Screenphones and network functionality
     in support of Screenphones. Possible standardization activities in this area are
     identified. Screenphones requiring no additional network functionality are outside
     the scope of this Technical Report.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

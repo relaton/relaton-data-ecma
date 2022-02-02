@@ -1,10 +1,12 @@
 ---
 id: ECMA-276
 title:
-  content: Private Integrated Services Network (PISN) - Reference configuration for
+- content: Private Integrated Services Network (PISN) - Reference configuration for
     PINX extension lines
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-276/
@@ -13,27 +15,35 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-276
+- id: ECMA-276
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1998-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1998-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies a reference configuration (RC) for the extension line of a private integrated services network exchange (PINX) including high level functions in addition to the physical termination system specified in part 1 of this Standard.
     Since such high level functions appear application dependent and can occur, in principle, in any multiplicity and combination, no firm allocation of functional groupings and thus no firm reference points can be indicated. Instead, the principles for combining functional groupings associated with the physical termination system and allocating reference points are specified in this Standard.
     Examples for some combinations of functional groupings and the allocation of reference points are given in Annex A.
     The principles are not intended to require any specific implementation of a PINX, but only to provide guidance for the specification of PINX capabilities.
     The principles are sufficient to support ISDN-like applications. It can be extended to also support non-ISDN-like applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

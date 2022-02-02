@@ -1,9 +1,11 @@
 ---
 id: ECMA-417
 title:
-  content: Architecture for a distributed real-time access system
-  language: en
-  script: Latn
+- content: Architecture for a distributed real-time access system
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-417/
@@ -12,47 +14,59 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-417
+- id: ECMA-417
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2021-08
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2021-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the architecture for a distributed real-time access system.
     The architecture specifies the function group concept of the system, functionalities of each function group, and interfaces. Communication between function group and functions are not in the scope of this Standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-417_1st_edition_december_2018.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-417_1st_edition_december_2018.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-417
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-417_2nd_edition_june_2019.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-417_2nd_edition_june_2019.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-417
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

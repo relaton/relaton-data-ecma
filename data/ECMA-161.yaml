@@ -1,11 +1,13 @@
 ---
 id: ECMA-161
 title:
-  content: Private Telecommunication Networks (PTN) - Signalling at the S reference
+- content: Private Telecommunication Networks (PTN) - Signalling at the S reference
     point - Generic feature key management protocol for the control of supplementary
     services (SSIG-FK)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-161/
@@ -14,37 +16,47 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-161
+- id: ECMA-161
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1993-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1993-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard defines the Feature Key Management signalling protocol for the purpose of supplementary service control at an interface at the S reference point between a Terminal Equipment (TE) and a Private Telecommunication Network (PTN).
     The Feature Key Management protocol operates in conjunction with the signalling protocol specified in Standard ETS 300 192 for circuit-switched call control. It is based on the use of the two information elements, Feature activation and Feature indication. While the procedures associated with feature key invocation and indication are specified in this Standard, the allocation of actual codes used to designate individual supplementary services is outside the scope of this Standard.
     This Standard is applicable to the user accesses of PTNs and to Tes which are intended for connection to PTNs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-161_1st_edition_december_1991.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-161_1st_edition_december_1991.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-161
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

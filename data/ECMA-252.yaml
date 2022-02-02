@@ -1,10 +1,12 @@
 ---
 id: ECMA-252
 title:
-  content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange
+- content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange
     signalling protocol - Transit counter additional network feature (B-QSIG-TC)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-252/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-252
+- id: ECMA-252
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1996-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1996-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the signalling protocol for the support of the Transit Counter additional network feature (ANF-TC) at the Q reference point between Private Integrated Services Network Exchanges (PINXs) connected together within a Broadband Private Integrated Services Network (B-PISN).
     ANF-TC is a feature that limits the number of Transit PINXs that a call/connection setup request may be routed through e.g., to protect the network against indefinite looping.
     The Q reference point is defined in ISO/IEC 11579-1.
@@ -34,8 +41,11 @@ abstract:
     The signalling protocol for ANF-TC operates in association with the signalling protocols for basic call/connection control (as specified in ISO/IEC 13247) and call independent (connection oriented) signalling connections (as specified in ECMA-254).
     This Standard is applicable to PINXs that can interconnect to form a PISN.
     The protocol defined in this Standard forms part of the B-QSIG protocol.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

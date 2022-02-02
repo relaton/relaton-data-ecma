@@ -1,9 +1,11 @@
 ---
 id: ECMATR/71
 title:
-  content: DVD read-only disk - File system specifications
-  language: en
-  script: Latn
+- content: DVD read-only disk - File system specifications
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-71/
@@ -12,27 +14,35 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA TR/71
+- id: ECMA TR/71
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1998-02
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1998-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Technical Report specifies a profile of Standard ECMA-167 titled Volume and File Structure for Write-Once and Rewritable Media using Non-Sequential Recording for Information Interchange for implementations of the Standard on DVD Read-Only disks conforming to the Ecma-ROM Standard. Specifically, this Technical Report specifies a new bridge format for the volume and file structure on DVD Read-Only disks to support the interchange of information between users of both computer systems and dedicated DVD content players.
     This new bridge format, which is commonly known as the “UDF Bridge” format. It is based on Standard ECMA-167 and shall conform to OSTA Universal Disk Format (UDF 1.02) specification and ECMA-119 Standard.
     The OSTA UDF specification defines a subset of Standard ECMA-167 in order to maximise data interchange and to minimize the cost and complexity on implementing of Standard ECMA-167. In this Technical Report, imposes some restrictions and additional requirements to OSTA UDF specification for its application to DVD Read-Only disks. These restrictions are necessary to make the development of dedicated DVD content player feasible.
     Additionally, the UDF Bridge format has a compatible volume and file structure with the ECMA-119 Standard commonly used with CD-ROM therefore providing the advantage of being easily implemented by existing computer systems.
     DVD-Video is one specific application field on the UDF Bridge format, and defines the “DVD-Video Compliant” domain. DVD-Video compliant domain imposes some restrictions on parameter fields for volume and file structures using the UDF Bridge format. These restrictions provide for OS independence and a simple data structure for DVD-Video disks.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

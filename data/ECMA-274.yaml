@@ -1,10 +1,12 @@
 ---
 id: ECMA-274
 title:
-  content: 'Data interchange on 120 mm optical disk using +RW Format - Capacity: 3,0
+- content: 'Data interchange on 120 mm optical disk using +RW Format - Capacity: 3,0
     Gbytes and 6,0 Gbyte'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-274/
@@ -13,37 +15,47 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-274
+- id: ECMA-274
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1999-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1999-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the mechanical, physical and optical characteristics of 120 mm rewritable optical disks with capacities of 3,0 Gbytes and 6,0 Gbytes. It specifies the quality of the recorded and unrecorded signals, the format of the data and the recording method, thereby allowing for information interchange by means of such disks. The data can be written, read and overwritten many times using the phase change method. These disks are identified as +RW.
     This Ecma Standard specifies
     This Ecma Standard provides for the interchange of disks between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-274_1st_edition_april_1998.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-274_1st_edition_april_1998.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-274
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

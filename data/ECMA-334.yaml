@@ -1,9 +1,11 @@
 ---
 id: ECMA-334
 title:
-  content: C# language specification
-  language: en
-  script: Latn
+- content: C# language specification
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-334/
@@ -12,21 +14,26 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-334
+- id: ECMA-334
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2017-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 edition: '5'
 revdate: 2017-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This specification describes the form and establishes the interpretation of programs written in the C# programming language.
     It describes
     This specification does not describe
@@ -34,77 +41,94 @@ abstract:
     which is freely available here .
      
      
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_1st_edition_december_2001.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_1st_edition_december_2001.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-334
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_2nd_edition_december_2002.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_2nd_edition_december_2002.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-334
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_3rd_edition_june_2005.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_3rd_edition_june_2005.pdf
       type: doi
     edition: '3'
     formattedref:
       content: ECMA-334
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_4th_edition_june_2006.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_4th_edition_june_2006.pdf
       type: doi
     edition: '4'
     formattedref:
       content: ECMA-334
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     edition: ''
     formattedref:
       content: ECMA-334 1st edition Hewlett-Packard patent statement
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     edition: ''
     formattedref:
       content: ECMA-334 1st edition Microsoft patent statement
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     edition: ''
     formattedref:
       content: Patent statements' list
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

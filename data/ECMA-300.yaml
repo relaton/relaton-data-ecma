@@ -1,10 +1,12 @@
 ---
 id: ECMA-300
 title:
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
     protocol - Single step call transfer supplementary service (QSIG-SSCT)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-300/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-300
+- id: ECMA-300
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2001-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2001-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the signalling protocol for the support of the Single Step Call Transfer supplementary service (SS-SSCT) at the Q reference point between Private Integrated Network services eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
     SS-SSCT is a supplementary service which enables a user, user A, to transform an existing call between user A and user B into a new call between user B and a user C whereby user A does not have a call established with user C prior to call transfer.
     The Q reference point is defined in ECMA-133.
@@ -35,20 +42,25 @@ abstract:
     This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between Single Step Call Transfer and other supplementary services and ANFs.
     This Standard is applicable to PINXs which can interconnect to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-300
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

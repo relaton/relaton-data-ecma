@@ -1,9 +1,11 @@
 ---
 id: ECMA-118
 title:
-  content: 8-bit single-byte coded graphic character sets - Latin/Greek alphabet
-  language: en
-  script: Latn
+- content: 8-bit single-byte coded graphic character sets - Latin/Greek alphabet
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-118/
@@ -12,24 +14,32 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-118
+- id: ECMA-118
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1986-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1986-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard defines a set of 185 graphic characters identified as Latin/Greek Alphabet, and specifies the coded representation of each of these characters by means of a single 8-bit byte. None of these characters are “non-spacing”.
     The use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

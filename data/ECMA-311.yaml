@@ -1,10 +1,12 @@
 ---
 id: ECMA-311
 title:
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
     protocol - Simple dialog supplementary service (QSIG-SD)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-311/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-311
+- id: ECMA-311
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2001-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2001-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the signalling protocol for the support of the Simple Dialog supplementary service (SS-SD) at the Q reference point between Private Integrated services Network eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
     Supplementary service SD enables a user to communicate with another user or application by the exchange of keypad and display information transparently over a PISN.
     The Q reference point is defined in ECMA-133.
@@ -35,20 +42,25 @@ abstract:
     This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between SS-SD and other supplementary services and ANFs.
     This Standard is applicable to PINXs which can interconnect to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-311_1st_edition_june_2000.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-311_1st_edition_june_2000.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-311
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

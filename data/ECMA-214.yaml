@@ -1,10 +1,12 @@
 ---
 id: ECMA-214
 title:
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
     protocol - Recall supplementary service (QSIG-RE)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-214/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-214
+- id: ECMA-214
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2001-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2001-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the signalling protocol for the support of Recall supplementary service (SS-RE) at the Q reference point between Private Integrated services Network eXchanges (PINXs) connected together within Private Integrated Services Network (PISN).
     SS-RE is a supplementary service which provides for the re-direction of a transferred call back to the served user if the call is unanswered. SS-RE is only applicable after transfer by join, not after transfer by rerouteing.
     The Q reference point is defined in ECMA-133.
@@ -36,31 +43,38 @@ abstract:
     NOTE – Additional interactions that have no impact on the signalling protocol at the Q reference point can be found in the relevant stage 1 specifications.
     This Standard is applicable to PINXs which can be interconnected to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-214_1st_edition_december_1994.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-214_1st_edition_december_1994.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-214
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-214_2nd_edition_june_1997.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-214_2nd_edition_june_1997.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-214
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

@@ -1,9 +1,11 @@
 ---
 id: ECMA-397
 title:
-  content: Short Distance Visible Light Communication (SDVLC)
-  language: en
-  script: Latn
+- content: Short Distance Visible Light Communication (SDVLC)
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-397/
@@ -12,24 +14,32 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-397
+- id: ECMA-397
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2010-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2010-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies a PHY and MAC for communication of up to 10 cm distance with an fm of 120 MHz using visual light with the wavelength between 380 and 780 nm.
     In addition it specifies human detectable brightness control that is independent from the modulation for the data transfer.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

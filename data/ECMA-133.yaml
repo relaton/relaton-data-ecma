@@ -1,10 +1,12 @@
 ---
 id: ECMA-133
 title:
-  content: Private Integrated Services Network (PISN) - Reference configuration for
+- content: Private Integrated Services Network (PISN) - Reference configuration for
     PISN exchanges (PINX)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-133/
@@ -13,37 +15,47 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-133
+- id: ECMA-133
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1998-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1998-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies a reference configuration (RC) for private integrated services network exchanges (PINXs) for their interconnection to form private integrated services networks (PISNs). The configuration is not intended to require any specific implementation of a PINX, but only to provide guidance for the specification of PINX capabilities.
     This RC is sufficient to support ISDN-like applications. It can be extended to also support non-ISDN-like applications.
     This RC describes a conceptual PINX. By combining multiple PINXs to a private integrated services network the RC becomes applicable to a PISN.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-133_1st_edition_april_1989.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-133_1st_edition_april_1989.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-133
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

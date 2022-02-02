@@ -1,10 +1,12 @@
 ---
 id: ECMA-106
 title:
-  content: Private Telecommunication Networks (PTN) - Signalling protocol at the S
+- content: Private Telecommunication Networks (PTN) - Signalling protocol at the S
     reference point - Circuit mode basic services (SSIG-BC)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-106/
@@ -13,49 +15,61 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-106
+- id: ECMA-106
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1993-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1993-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard defines the Layer 3 protocol for signalling for the support of circuit-mode bearer services (used either on their own or in support of teleservices) at an interface at the S reference point between a Terminal Equipment (TE) and a Private Telecommunication Network (PTN). The S reference point is defined in ENV 41004.
     This Standard is based upon ETS 300 102-1, which defines the equivalent protocol for the T and coincident T and S reference points between a user and a public ISDN. Many of the clauses of ETS 300 102-1 are incorporated by reference. Any reference in the text of ETS 300 102-1 to annex D of that document are not applicable to this Standard. Annex F contains information on terminal interchangeability between PTNs and public ISDNs.
     This Standard is applicable to basic and primary rate accesses of PTNXs and to TEs that are intended for connection to such accesses.
     The conveyance of non-standardized (e.g. manufacturer-specific) information in messages is outside the scope of this Standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-106_1st_edition_september_1985.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-106_1st_edition_september_1985.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-106
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-106_2nd-edition_-june_1991.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-106_2nd-edition_-june_1991.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-106
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

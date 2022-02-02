@@ -1,10 +1,12 @@
 ---
 id: ECMA-178
 title:
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
     protocol - Call transfer supplementary service (QSIG-CT)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-178/
@@ -13,20 +15,25 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-178
+- id: ECMA-178
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2001-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 2001-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the signalling protocol for the support of the Call Transfer supplementary service (SS-CT) at the Q reference point between Private Integrated Network services eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
     SS-CT is a supplementary service which enables a User to transform two of that User’s calls (at least one of which must be answered) into a new call between the two other users in the two calls.
     The Q reference point is defined in ECMA-133.
@@ -35,8 +42,10 @@ abstract:
     This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between Call Transfer and other supplementary services and ANFs.
     This Standard is applicable to PINXs which can interconnect to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
@@ -44,19 +53,24 @@ relation:
     edition: '1'
     formattedref:
       content: ECMA-178
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-178_2nd_edition_september_1997.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-178_2nd_edition_september_1997.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-178
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

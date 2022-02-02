@@ -1,10 +1,12 @@
 ---
 id: ECMA-210
 title:
-  content: 12,65 mm wide magnetic tape cartridge for information interchange - Helical
+- content: 12,65 mm wide magnetic tape cartridge for information interchange - Helical
     scan recording - DATA-D3-1 format
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-210/
@@ -13,40 +15,50 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-210
+- id: ECMA-210
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 1995-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 revdate: 1995-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Ecma Standard specifies the physical and magnetic characteristics of a magnetic tape cartridge, using magnetic tape 12,65 mm wide, so as to provide physical interchangeability of such cartridges. It also specifies the quality of the recorded signals, the recording method and the recorded format, thereby allowing data interchange between drives by means of such magnetic tape cartridges.
     This Ecma Standard specifies three types of cartridge which, for the purposes of this Standard, are referred to as Type A, Type B and Type C.
     For Type A, the magnetic tape has a nominal length of 91 m and a nominal capacity of 10 GBytes.
     For Type B, the magnetic tape has a nominal length of 204 m and a nominal capacity of 25 GBytes.
     For Type C, the magnetic tape has a nominal length of 392 m and a nominal capacity of 50 GBytes.
     Together with a Standard for Volume and File Structure this Standard provides for full data interchange between data processing systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-210_1st_edition_december_1994.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-210_1st_edition_december_1994.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-210
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

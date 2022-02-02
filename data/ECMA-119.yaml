@@ -1,9 +1,11 @@
 ---
 id: ECMA-119
 title:
-  content: Volume and file structure of CDROM for information interchange
-  language: en
-  script: Latn
+- content: Volume and file structure of CDROM for information interchange
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-119/
@@ -12,59 +14,73 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-119
+- id: ECMA-119
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2019-06
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 edition: '4'
 revdate: 2019-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies the volume and file structure of compact read only optical disks (CD-ROM) for the interchange of information between users of information processing systems.
     This Standard specifies:
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-119_1st_edition_december_1986.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-119_1st_edition_december_1986.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-119
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-119_2nd_edition_december_1987.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-119_2nd_edition_december_1987.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-119
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-119_3rd_edition_december_2017.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-119_3rd_edition_december_2017.pdf
       type: doi
     edition: '3'
     formattedref:
       content: ECMA-119
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document

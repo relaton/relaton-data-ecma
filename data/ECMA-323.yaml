@@ -1,10 +1,12 @@
 ---
 id: ECMA-323
 title:
-  content: XML protocol for Computer Supported Telecommunications Applications (CSTA)
+- content: XML protocol for Computer Supported Telecommunications Applications (CSTA)
     Phase III
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-323/
@@ -13,106 +15,128 @@ link:
   type: doi
 type: standard
 docid:
-  id: ECMA-323
+- id: ECMA-323
   type: ECMA
+  primary: true
 date:
-  type: published
+- type: published
   value: 2011-12
 contributor:
-  organization:
-    name: Ecma International
-  role: publisher
+- organization:
+    name:
+    - Ecma International
+  role:
+  - publisher
 edition: '6'
 revdate: 2011-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Standard specifies an XML protocol for the services described in ECMA-269, Services for Computer Supported Telecommunications Applications (CSTA) Phase III.
     This Standard provides an alternative to the ASN.1 based protocol specified in ECMA-285.
     WSDL Standard ECMA-348 refers to the XML message types specified in this Standard.
     NOTE – The top-level schema is CSTA.xsd as specified in Clause 10 in ECMA-323; developers may delete unneeded or unimplemented features from CSTA.xsd.
     Implementations may refer to RFC 4119 specified data types to resolve the LocationInfo element.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_1st_edition_june_2001.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_1st_edition_june_2001.pdf
       type: doi
     edition: '1'
     formattedref:
       content: ECMA-323
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_2nd_edition_december_2002.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_2nd_edition_december_2002.pdf
       type: doi
     edition: '2'
     formattedref:
       content: ECMA-323
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_3rd_edition_june_2004.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_3rd_edition_june_2004.pdf
       type: doi
     edition: '3'
     formattedref:
       content: ECMA-323
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_4th_edition_december_2006.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_4th_edition_december_2006.pdf
       type: doi
     edition: '4'
     formattedref:
       content: ECMA-323
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_5th_edition_june_2009.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_5th_edition_june_2009.pdf
       type: doi
     edition: '5'
     formattedref:
       content: ECMA-323
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ecma323ed6xsds.zip
+    - content: https://www.ecma-international.org/wp-content/uploads/ecma323ed6xsds.zip
       type: doi
     edition: '6'
     formattedref:
       content: ECMA-323
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
 - type: updates
   bibitem:
     link:
-      content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_6th_edition_changes_since_the_previous_edition-1.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-323_6th_edition_changes_since_the_previous_edition-1.pdf
       type: doi
     edition: '6'
     formattedref:
       content: ECMA-323
-      language: en
-      script: Latn
+      language:
+      - en
+      script:
+      - Latn
       format: text/plain
-place: Geneva
+place:
+- Geneva
 doctype: document
