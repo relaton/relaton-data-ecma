@@ -35,7 +35,7 @@ abstract:
 - content: |-
     This Standard specifies the definitions, rules and methods for the NFC-SEC-TEST standard and the necessary test apparatus.
     The test report templates are provided in Annexes A and B.
-    This Standard was originally developed by TC47. The work of TC47 has been tranferred to TC51-TG1.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
   language:
   - en
   script:
@@ -43,4 +43,5 @@ abstract:
   format: text/plain
 place:
 - Geneva
+fetched: '2022-06-23'
 doctype: document

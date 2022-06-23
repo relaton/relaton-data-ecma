@@ -110,16 +110,12 @@ module RelatonEcma
     end
 
     # @param hit [Nokogiri::HTML::Element]
-    def parse_page(hit)
-      bib = { type: 'standard', language: ['en'], script: ['Latn'], contributor: contributor,
-              place: ['Geneva'], doctype: 'document' }
+    def parse_page(hit) # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
+      bib = { fetched: Date.today.to_s, type: 'standard', language: ['en'], script: ['Latn'],
+              contributor: contributor, place: ['Geneva'], doctype: 'document' }
       if hit[:href]
         AGENT.user_agent_alias = Mechanize::AGENT_ALIASES.keys[rand(21)]
         AGENT.cookie_jar.clear!
-        # t = 6 - (Time.now - @last_call_time)
-        # sleep rand(2..6) # t if t.positive?
-        # doc = AGENT.get hit[:href]
-        # @last_call_time = Time.now
         doc = get_page hit[:href]
         bib[:docid] = fetch_docid(hit.text)
         bib[:link] = fetch_link(doc, hit[:href])
@@ -149,7 +145,7 @@ module RelatonEcma
     end
 
     # @param type [String]
-    def html_index(type)
+    def html_index(type) # rubocop:disable Metrics/MethodLength
       AGENT.user_agent_alias = Mechanize::AGENT_ALIASES.keys[rand(21)]
       result = AGENT.get "#{URL}#{type}/"
       # @last_call_time = Time.now

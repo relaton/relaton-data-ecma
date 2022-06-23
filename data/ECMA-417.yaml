@@ -10,7 +10,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-417/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-417.pdf
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-417_3rd_edition_august_2021.pdf
   type: doi
 type: standard
 docid:
@@ -69,4 +69,5 @@ relation:
       format: text/plain
 place:
 - Geneva
+fetched: '2022-06-23'
 doctype: document

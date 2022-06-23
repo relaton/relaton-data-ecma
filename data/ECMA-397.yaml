@@ -35,6 +35,7 @@ abstract:
 - content: |-
     This Ecma Standard specifies a PHY and MAC for communication of up to 10 cm distance with an fm of 120 MHz using visual light with the wavelength between 380 and 780 nm.
     In addition it specifies human detectable brightness control that is independent from the modulation for the data transfer.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
   language:
   - en
   script:
@@ -42,4 +43,5 @@ abstract:
   format: text/plain
 place:
 - Geneva
+fetched: '2022-06-23'
 doctype: document

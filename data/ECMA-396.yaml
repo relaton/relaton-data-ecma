@@ -11,7 +11,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-396/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-396_4th_edition_june_2017-1.pdf
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-396_4th_edition_june_2017.pdf
   type: doi
 type: standard
 docid:
@@ -90,4 +90,5 @@ relation:
       format: text/plain
 place:
 - Geneva
+fetched: '2022-06-23'
 doctype: document

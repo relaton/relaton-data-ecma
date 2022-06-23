@@ -50,7 +50,7 @@ relation:
 - type: updates
   bibitem:
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-355_1st_edition_june_2004-1.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-355_1st_edition_june_2004.pdf
       type: doi
     edition: '1'
     formattedref:
@@ -63,7 +63,7 @@ relation:
 - type: updates
   bibitem:
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-355_2nd_edition_june_2005-1.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-355_2nd_edition_june_2005.pdf
       type: doi
     edition: '2'
     formattedref:
@@ -75,4 +75,5 @@ relation:
       format: text/plain
 place:
 - Geneva
+fetched: '2022-06-23'
 doctype: document

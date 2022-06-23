@@ -32,9 +32,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This Ecma Standard specifies the close capacitive coupling communication
-    physical layer (CCCC PHY) for full duplex and broadcast communication in time
-    slots on frequency division multiplex channels.
+- content: |-
+    This Ecma Standard specifies the close capacitive coupling communication physical layer (CCCC PHY) for full duplex and broadcast communication in time slots on frequency division multiplex channels.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
   language:
   - en
   script:
@@ -56,4 +56,5 @@ relation:
       format: text/plain
 place:
 - Geneva
+fetched: '2022-06-23'
 doctype: document

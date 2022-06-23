@@ -10,7 +10,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-334/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_5th_edition_december_2017.pdf
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_6th_edition_june_2022.pdf
   type: doi
 type: standard
 docid:
@@ -19,15 +19,15 @@ docid:
   primary: true
 date:
 - type: published
-  value: 2017-12
+  value: 2022-06
 contributor:
 - organization:
     name:
     - Ecma International
   role:
   - publisher
-edition: '5'
-revdate: 2017-12
+edition: '6'
+revdate: 2022-06
 language:
 - en
 script:
@@ -37,10 +37,6 @@ abstract:
     This specification describes the form and establishes the interpretation of programs written in the C# programming language.
     It describes
     This specification does not describe
-    This Ecma publication has also been approved as ISO/IEC 23270:2018,
-    which is freely available here .
-     
-     
   language:
   - en
   script:
@@ -101,9 +97,12 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    edition: ''
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_5th_edition_december_2017.pdf
+      type: doi
+    edition: '5'
     formattedref:
-      content: ECMA-334 1st edition Hewlett-Packard patent statement
+      content: ECMA-334
       language:
       - en
       script:
@@ -111,9 +110,12 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_Hewlett-Packard_patent_statement_october_2001.pdf
+      type: doi
     edition: ''
     formattedref:
-      content: ECMA-334 1st edition Microsoft patent statement
+      content: ECMA-334 Hewlett-Packard patent statement
       language:
       - en
       script:
@@ -121,9 +123,12 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_Microsoft_patent_statement_october_2001.pdf
+      type: doi
     edition: ''
     formattedref:
-      content: Patent statements' list
+      content: ECMA-334 Microsoft patent statement
       language:
       - en
       script:
@@ -131,4 +136,5 @@ relation:
       format: text/plain
 place:
 - Geneva
+fetched: '2022-06-23'
 doctype: document

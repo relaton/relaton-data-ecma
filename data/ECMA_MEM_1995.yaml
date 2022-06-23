@@ -31,4 +31,5 @@ script:
 - Latn
 place:
 - Geneva
+fetched: '2022-06-23'
 doctype: document
