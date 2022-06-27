@@ -38,7 +38,7 @@ module RelatonEcma
     # @return [String]
     def fetch_edition(doc)
       cnt = doc.at('//p[@class="ecma-item-edition"]')&.text&.match(/^\d+(?=th)/)&.to_s
-      [RelatonBib::Edition.new(content: cnt)]
+      RelatonBib::Edition.new(content: cnt) if cnt && !cnt.empty?
     end
 
     # @param doc [Nokogiri::HTML::Document]
@@ -47,10 +47,13 @@ module RelatonEcma
       doc.xpath("//ul[@class='ecma-item-archives']/li").map do |rel|
         ref, ed, on = rel.at('span').text.split ', '
         fref = RelatonBib::FormattedRef.new content: ref, language: 'en', script: 'Latn'
+        docid = RelatonBib::DocumentIdentifier.new(type: 'ECMA', id: ref, primary: true)
         date = []
         date << RelatonBib::BibliographicDate.new(type: 'published', on: on) if on
         link = rel.xpath('span/a').map { |l| RelatonBib::TypedUri.new type: 'doi', content: l[:href] }
-        bibitem = RelatonBib::BibliographicItem.new formattedref: fref, edition: ed&.match(/^\d+/).to_s, link: link
+        ed_cnt = ed&.match(/^\d+/).to_s
+        edition = RelatonBib::Edition.new content: ed_cnt if ed_cnt && !ed_cnt.empty?
+        bibitem = RelatonBib::BibliographicItem.new docid: [docid], formattedref: fref, edition: edition, link: link
         { type: 'updates', bibitem: bibitem }
       end
     end
