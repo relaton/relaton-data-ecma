@@ -37,7 +37,8 @@ module RelatonEcma
     # @param doc [Nokogiri::HTML::Document]
     # @return [String]
     def fetch_edition(doc)
-      doc.at('//p[@class="ecma-item-edition"]')&.text&.match(/^\d+(?=th)/)&.to_s
+      cnt = doc.at('//p[@class="ecma-item-edition"]')&.text&.match(/^\d+(?=th)/)&.to_s
+      [RelatonBib::Edition.new(content: cnt)]
     end
 
     # @param doc [Nokogiri::HTML::Document]

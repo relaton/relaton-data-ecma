@@ -17,17 +17,9 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.0
-      - name: Use cahed gems
-        uses: actions/cache@v2
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
       - name: Update gems
         run: |
           gem install bundler
-          bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
       - name: Fetch documents
         run: bundle exec ruby fetcher.rb
