@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '4'
+edition:
+  content: '4'
 revdate: 2022-06
 language:
 - en
@@ -44,10 +45,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-413
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_1st_edition_june_2016.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-413
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-413
       language:
@@ -57,10 +64,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-413
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-413
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-413
       language:
@@ -70,10 +83,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-413
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_3rd_edition_december_2018.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-413
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-413
       language:
@@ -83,5 +102,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

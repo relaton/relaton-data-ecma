@@ -27,7 +27,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '19'
+edition:
+  content: '19'
 revdate: 2021-12
 language:
 - en
@@ -56,7 +57,13 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    edition: '1'
+    id: ECMA-74
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-74
       language:
@@ -66,10 +73,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_2nd_edition_december_1987.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-74
       language:
@@ -79,10 +92,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_3rd_edition_december_1992.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-74
       language:
@@ -92,10 +111,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-4th-Edition-December-1996.pdf
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-74
       language:
@@ -105,10 +130,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-5th-Edition-December-1997.pdf
       type: doi
-    edition: '5'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '5'
     formattedref:
       content: ECMA-74
       language:
@@ -118,10 +149,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-6th-edition-December-1999.pdf
       type: doi
-    edition: '6'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '6'
     formattedref:
       content: ECMA-74
       language:
@@ -131,10 +168,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-7th-edition-December-2002.pdf
       type: doi
-    edition: '7'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '7'
     formattedref:
       content: ECMA-74
       language:
@@ -144,10 +187,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-8th-edition-December-2003.pdf
       type: doi
-    edition: '8'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '8'
     formattedref:
       content: ECMA-74
       language:
@@ -157,10 +206,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-9th-edition-December-2005-.pdf
       type: doi
-    edition: '9'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '9'
     formattedref:
       content: ECMA-74
       language:
@@ -170,10 +225,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-10th-edition-December-2008.pdf
       type: doi
-    edition: '10'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '10'
     formattedref:
       content: ECMA-74
       language:
@@ -183,10 +244,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-11th-edition-December-2010.pdf
       type: doi
-    edition: '11'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '11'
     formattedref:
       content: ECMA-74
       language:
@@ -196,10 +263,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-12th-edition-December-2012.pdf
       type: doi
-    edition: '12'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '12'
     formattedref:
       content: ECMA-74
       language:
@@ -209,10 +282,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-13th-edition-June-2015.pdf
       type: doi
-    edition: '13'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '13'
     formattedref:
       content: ECMA-74
       language:
@@ -222,10 +301,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-14th-edition-December-2017.pdf
       type: doi
-    edition: '14'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '14'
     formattedref:
       content: ECMA-74
       language:
@@ -235,10 +320,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74-15th-edition-June-2018.pdf
       type: doi
-    edition: '15'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '15'
     formattedref:
       content: ECMA-74
       language:
@@ -248,10 +339,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_16th_edition_june_2019-1.pdf
       type: doi
-    edition: '16'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '16'
     formattedref:
       content: ECMA-74
       language:
@@ -261,10 +358,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_17th_edition_december_2019.pdf
       type: doi
-    edition: '17'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '17'
     formattedref:
       content: ECMA-74
       language:
@@ -274,10 +377,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-74
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_18th_edition_june_2021.pdf
       type: doi
-    edition: '18'
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '18'
     formattedref:
       content: ECMA-74
       language:
@@ -287,5 +396,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

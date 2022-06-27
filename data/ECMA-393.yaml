@@ -44,10 +44,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-393
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-393_1st_edition_february_2010.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-393
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-393
       language:
@@ -57,10 +63,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: Patentstatementandlicensingdeclaration
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-393_patent_statement.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: Patent statement and licensing declaration
+      type: ECMA
+      primary: true
     formattedref:
       content: Patent statement and licensing declaration
       language:
@@ -70,5 +80,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

@@ -49,10 +49,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMATR/101
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-101_1st_edition_december_2009.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA TR/101
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA TR/101
       language:
@@ -62,5 +68,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

@@ -44,10 +44,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-387
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-387_1st_edition_december_2008.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-387
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-387
       language:
@@ -57,5 +63,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

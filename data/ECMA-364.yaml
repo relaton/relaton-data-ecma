@@ -46,10 +46,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-364
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-364_1st_edition_june_2005.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-364
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-364
       language:
@@ -59,10 +65,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-364
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-364_2nd_edition_june_2006.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-364
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-364
       language:
@@ -72,5 +84,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

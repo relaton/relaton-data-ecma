@@ -53,10 +53,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-160
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-160_1st_edition_december_1991.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-160
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-160
       language:
@@ -66,5 +72,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

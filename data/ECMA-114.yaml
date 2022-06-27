@@ -43,10 +43,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-114
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-114_1st_edition_june_1986.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-114
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-114
       language:
@@ -56,5 +62,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

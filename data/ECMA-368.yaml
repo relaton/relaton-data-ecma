@@ -46,10 +46,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-368
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-368_1st_edition_december_2005.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-368
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-368
       language:
@@ -59,10 +65,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-368
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-368_2nd_edition_december_2007.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-368
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-368
       language:
@@ -72,5 +84,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

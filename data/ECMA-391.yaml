@@ -44,10 +44,15 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: GerbermanufacturingdataforthePrintedCircuitBoardforReferenceAntenna#1.Thezipfilecontains5Gerberfiles.
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/reference_-antenna1.zip
       type: doi
-    edition: ''
+    docid:
+    - id: 'Gerber manufacturing data for the Printed Circuit Board for Reference Antenna
+        #1. The zip file contains 5 Gerber files.'
+      type: ECMA
+      primary: true
     formattedref:
       content: 'Gerber manufacturing data for the Printed Circuit Board for Reference
         Antenna #1. The zip file contains 5 Gerber files.'
@@ -58,5 +63,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

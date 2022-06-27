@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '6'
+edition:
+  content: '6'
 revdate: 1994-12
 language:
 - en
@@ -46,10 +47,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-35
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_1st_edition_december_1971.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-35
       language:
@@ -59,10 +66,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-35
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_2nd_edition_january_1980.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-35
       language:
@@ -72,10 +85,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-35
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_3rd_edition_january_1982.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-35
       language:
@@ -85,10 +104,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-35
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_4th_edition_march_1985.pdf
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-35
       language:
@@ -98,7 +123,13 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    edition: '5'
+    id: ECMA-35
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    edition:
+      content: '5'
     formattedref:
       content: ECMA-35
       language:
@@ -108,5 +139,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

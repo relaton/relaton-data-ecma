@@ -44,7 +44,11 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    edition: ''
+    id: JISX3061-2021(Japanesetranslation)
+    docid:
+    - id: JIS X 3061:2021 (Japanese translation)
+      type: ECMA
+      primary: true
     formattedref:
       content: JIS X 3061:2021 (Japanese translation)
       language:
@@ -54,10 +58,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-404
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-404_1st_edition_october_2013.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-404
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-404
       language:
@@ -67,5 +77,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

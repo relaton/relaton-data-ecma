@@ -51,10 +51,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-304
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-304_1st_edition_june_2000.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-304
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-304
       language:
@@ -64,5 +70,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

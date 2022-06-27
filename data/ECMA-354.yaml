@@ -44,10 +44,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-354
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-354_xsds_02_august_2004.zip
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-354
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-354
       language:
@@ -57,5 +63,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

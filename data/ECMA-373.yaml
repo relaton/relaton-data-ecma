@@ -44,10 +44,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-373
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-373_1st_edition_june_2006.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-373
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-373
       language:
@@ -57,5 +63,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

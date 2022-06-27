@@ -27,7 +27,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '6'
+edition:
+  content: '6'
 revdate: 2012-06
 language:
 - en
@@ -46,10 +47,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMATR/84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_1st_edition_december_2001.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA TR/84
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA TR/84
       language:
@@ -59,10 +66,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMATR/84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_2nd_edition_december_2002.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA TR/84
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA TR/84
       language:
@@ -72,10 +85,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMATR/84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_3rd_edition_june_2005.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA TR/84
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA TR/84
       language:
@@ -85,10 +104,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMATR/84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_4th_edition_june_2006.pdf
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA TR/84
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA TR/84
       language:
@@ -98,10 +123,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMATR/84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_5th_edition_december_2010.pdf
       type: doi
-    edition: '5'
+    docid:
+    - id: ECMA TR/84
+      type: ECMA
+      primary: true
+    edition:
+      content: '5'
     formattedref:
       content: ECMA TR/84
       language:
@@ -111,10 +142,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: Zippedmachine-readablespecification
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-tr-84-1st_edition_files.zip
       type: doi
-    edition: ''
+    docid:
+    - id: Zipped machine-readable specification
+      type: ECMA
+      primary: true
     formattedref:
       content: Zipped machine-readable specification
       language:
@@ -124,10 +159,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: Zippedmachine-readablespecification
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-tr-84-2nd_edition_files.zip
       type: doi
-    edition: ''
+    docid:
+    - id: Zipped machine-readable specification
+      type: ECMA
+      primary: true
     formattedref:
       content: Zipped machine-readable specification
       language:
@@ -137,10 +176,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: Zippedmachine-readablespecification
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-tr-84-3nd_edition_files.zip
       type: doi
-    edition: ''
+    docid:
+    - id: Zipped machine-readable specification
+      type: ECMA
+      primary: true
     formattedref:
       content: Zipped machine-readable specification
       language:
@@ -150,10 +193,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: Zippedmachine-readablespecification
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-tr-84-4th_edition_files.zip
       type: doi
-    edition: ''
+    docid:
+    - id: Zipped machine-readable specification
+      type: ECMA
+      primary: true
     formattedref:
       content: Zipped machine-readable specification
       language:
@@ -163,10 +210,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: Zippedmachine-readablespecification
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-tr-84-5th_edition_files.zip
       type: doi
-    edition: ''
+    docid:
+    - id: Zipped machine-readable specification
+      type: ECMA
+      primary: true
     formattedref:
       content: Zipped machine-readable specification
       language:
@@ -176,10 +227,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: Zippedmachine-readablespecification
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-tr-84-6th_edition_files.zip
       type: doi
-    edition: ''
+    docid:
+    - id: Zipped machine-readable specification
+      type: ECMA
+      primary: true
     formattedref:
       content: Zipped machine-readable specification
       language:
@@ -189,5 +244,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

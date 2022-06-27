@@ -45,10 +45,14 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ConversiontableofAnnexD
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/Annex-D.txt
       type: doi
-    edition: ''
+    docid:
+    - id: Conversion table of Annex D
+      type: ECMA
+      primary: true
     formattedref:
       content: Conversion table of Annex D
       language:
@@ -58,5 +62,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

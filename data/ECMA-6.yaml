@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '6'
+edition:
+  content: '6'
 revdate: 1991-12
 language:
 - en
@@ -48,7 +49,13 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    edition: '1'
+    id: ECMA-6
+    docid:
+    - id: ECMA-6
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-6
       language:
@@ -58,7 +65,13 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    edition: '2'
+    id: ECMA-6
+    docid:
+    - id: ECMA-6
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-6
       language:
@@ -68,7 +81,13 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    edition: '3'
+    id: ECMA-6
+    docid:
+    - id: ECMA-6
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-6
       language:
@@ -78,10 +97,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-6
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-6_4th_edition_august_1973.pdf
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-6
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-6
       language:
@@ -91,10 +116,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-6
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-6_5th_edition_march_1985.pdf
       type: doi
-    edition: '5'
+    docid:
+    - id: ECMA-6
+      type: ECMA
+      primary: true
+    edition:
+      content: '5'
     formattedref:
       content: ECMA-6
       language:
@@ -104,5 +135,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

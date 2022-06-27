@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '4'
+edition:
+  content: '4'
 revdate: 1985-12
 language:
 - en
@@ -45,10 +46,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-13
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-13_1st_edition_november_1967.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-13
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-13
       language:
@@ -58,10 +65,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-13
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-13_2nd_edition_august_1973.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-13
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-13
       language:
@@ -71,10 +84,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-13
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-13_3rd_edition_january_1978.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-13
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-13
       language:
@@ -84,5 +103,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

@@ -45,10 +45,14 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-388.xps
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-388.xps
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-388.xps
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-388.xps
       language:
@@ -58,10 +62,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: WC3Schemas.zip
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/OpenXPS-WC3-Schemas.zip
       type: doi
-    edition: ''
+    docid:
+    - id: WC3 Schemas.zip
+      type: ECMA
+      primary: true
     formattedref:
       content: WC3 Schemas.zip
       language:
@@ -71,10 +79,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: RelaxNGSchemas.zip
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/OpenXPS-RELAX-NG-Schemas.zip
       type: doi
-    edition: ''
+    docid:
+    - id: Relax NG Schemas.zip
+      type: ECMA
+      primary: true
     formattedref:
       content: Relax NG Schemas.zip
       language:
@@ -84,5 +96,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

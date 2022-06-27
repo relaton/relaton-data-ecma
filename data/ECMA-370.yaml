@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '6'
+edition:
+  content: '6'
 revdate: 2019-12
 language:
 - en
@@ -56,10 +57,14 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-1st-edition-June-2006-Jp.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -69,10 +74,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_2nd_edition_december_2006_japanese.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -82,10 +91,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_3rd_edition_december_2008_japanese.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -95,10 +108,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_1st_edition_june_2006.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-370
       language:
@@ -108,10 +127,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_2nd_edition_december_2006.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-370
       language:
@@ -121,10 +146,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_3rd_edition_december_2008.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-370
       language:
@@ -134,10 +165,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_4th_edition_june_2009.pdf
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-370
       language:
@@ -147,10 +184,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_5th_edition_june_2015.pdf
       type: doi
-    edition: '5'
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
+    edition:
+      content: '5'
     formattedref:
       content: ECMA-370
       language:
@@ -160,10 +203,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Annex-A.doc
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -173,10 +220,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Annex-B1-withcorrigendum-1.doc
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -186,10 +237,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Annex-B2-withcorrigendum-1.doc
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -199,10 +254,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Acoustic-noise.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -212,10 +271,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Chemical-emissions.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -225,10 +288,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Chemical-substances.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -238,10 +305,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Energy-efficiency-computers-and-computers-monitors.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -251,10 +322,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-370
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Guidance-Energy-efficiency-imaging-equipment.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-370
       language:
@@ -264,5 +339,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

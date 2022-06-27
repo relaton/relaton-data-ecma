@@ -46,10 +46,14 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-292
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-292_1st_edition_december_1999_annex_d-1.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-292
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-292
       language:
@@ -59,5 +63,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

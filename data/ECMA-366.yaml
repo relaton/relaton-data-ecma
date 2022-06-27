@@ -44,10 +44,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-366
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-366_1st_edition_june_2005.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-366
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-366
       language:
@@ -57,10 +63,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-366
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-366_2nd_edition_june_2008.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-366
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-366
       language:
@@ -70,10 +82,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: WSDLandSOAPsourcesinzipformat
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-366_ws-session_3rdedition.zip
       type: doi
-    edition: ''
+    docid:
+    - id: WSDL and SOAP sources in zip format
+      type: ECMA
+      primary: true
     formattedref:
       content: WSDL and SOAP sources in zip format
       language:
@@ -83,5 +99,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

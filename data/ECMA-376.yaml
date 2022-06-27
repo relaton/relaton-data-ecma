@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '5'
+edition:
+  content: '5'
 revdate: 2021-12
 language:
 - en
@@ -45,10 +46,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-376
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-376_first_edition_december_2006.zip
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-376
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-376
       language:
@@ -58,10 +65,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-376
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-376_second_edition_december_2008.zip
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-376
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-376
       language:
@@ -71,10 +84,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-376
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-376_third_edition_june_2011.zip
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-376
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-376
       language:
@@ -84,10 +103,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-376
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ecma-376_fourth_edition_december_2012.zip
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-376
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-376
       language:
@@ -97,10 +122,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: OfficeOpenXMLoverview
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/OpenXML-White-Paper.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: Office Open XML overview
+      type: ECMA
+      primary: true
     formattedref:
       content: Office Open XML overview
       language:
@@ -110,5 +139,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

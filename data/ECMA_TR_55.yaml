@@ -42,10 +42,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMATR/55
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-55_1st_edition_december_1990.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA TR/55
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA TR/55
       language:
@@ -55,10 +61,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMATR/55
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-55_2nd_edition_december_1991.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA TR/55
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA TR/55
       language:
@@ -68,5 +80,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

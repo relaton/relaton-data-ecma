@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '4'
+edition:
+  content: '4'
 revdate: 1997-12
 language:
 - en
@@ -45,7 +46,13 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    edition: '1'
+    id: ECMA-162
+    docid:
+    - id: ECMA-162
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-162
       language:
@@ -55,7 +62,13 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    edition: '2'
+    id: ECMA-162
+    docid:
+    - id: ECMA-162
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-162
       language:
@@ -65,7 +78,13 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    edition: '3'
+    id: ECMA-162
+    docid:
+    - id: ECMA-162
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-162
       language:
@@ -75,5 +94,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

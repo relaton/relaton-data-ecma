@@ -44,10 +44,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-271
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-271_1st_edition_december_1997.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-271
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-271
       language:
@@ -57,5 +63,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

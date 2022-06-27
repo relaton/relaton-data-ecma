@@ -47,7 +47,13 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    edition: '1'
+    id: ECMA-168
+    docid:
+    - id: ECMA-168
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-168
       language:
@@ -57,5 +63,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

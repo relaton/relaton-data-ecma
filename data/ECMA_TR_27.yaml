@@ -45,10 +45,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMATR/27
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-27_1st_edition_march-1985-1.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA TR/27
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA TR/27
       language:
@@ -58,5 +64,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

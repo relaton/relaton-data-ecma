@@ -44,10 +44,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMATR/107
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-107_1st_edition_june_2015.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA TR/107
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA TR/107
       language:
@@ -57,10 +63,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMATR/107
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-107_2nd_edition_december_2016.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA TR/107
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA TR/107
       language:
@@ -70,10 +82,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: AspreadsheetimplementingtheproceduresofECMATR/107
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/spreadsheet_implementing_the_procedures_of_ecma_tr107.zip
       type: doi
-    edition: ''
+    docid:
+    - id: A spreadsheet implementing the procedures of ECMA TR/107
+      type: ECMA
+      primary: true
     formattedref:
       content: A spreadsheet implementing the procedures of ECMA TR/107
       language:
@@ -83,5 +99,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

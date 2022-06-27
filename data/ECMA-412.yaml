@@ -43,10 +43,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-412
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-412_1st_edition_june_2015.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-412
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-412
       language:
@@ -56,10 +62,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-412
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-412_2nd_edition_june_2017.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-412
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-412
       language:
@@ -69,5 +81,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '4'
+edition:
+  content: '4'
 revdate: 2010-12
 language:
 - en
@@ -48,10 +49,14 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-341
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-341_japanese_2nd_edition_december_2004.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-341
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-341
       language:
@@ -61,10 +66,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-341
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-341_1st_edition_december_2002-1.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-341
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-341
       language:
@@ -74,10 +85,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-341
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-341_2nd_edition_december_2004.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-341
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-341
       language:
@@ -87,10 +104,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-341
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-341_3rd_edition_june_2008.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-341
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-341
       language:
@@ -100,5 +123,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

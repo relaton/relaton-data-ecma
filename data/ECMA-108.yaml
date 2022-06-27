@@ -27,7 +27,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '6'
+edition:
+  content: '6'
 revdate: 2016-12
 language:
 - en
@@ -45,10 +46,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-108
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_1st_edition_december_1985.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-108
       language:
@@ -58,10 +65,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-108
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_2nd_edition_june_1989.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-108
       language:
@@ -71,10 +84,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-108
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_3rd_edition_december_1996.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-108
       language:
@@ -84,10 +103,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-108
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_4th_edition_december_2008.pdf
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-108
       language:
@@ -97,10 +122,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-108
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_5th_edition_december_2010.pdf
       type: doi
-    edition: '5'
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    edition:
+      content: '5'
     formattedref:
       content: ECMA-108
       language:
@@ -110,5 +141,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

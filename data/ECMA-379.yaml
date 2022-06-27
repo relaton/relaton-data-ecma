@@ -45,10 +45,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-379
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-379_1st_edition_june_2007.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-379
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-379
       language:
@@ -58,10 +64,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-379
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-379_2nd_edition_december_2008.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-379
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-379
       language:
@@ -71,5 +83,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

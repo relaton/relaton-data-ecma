@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '5'
+edition:
+  content: '5'
 revdate: 1991-06
 language:
 - en
@@ -49,7 +50,13 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    edition: '1'
+    id: ECMA-48
+    docid:
+    - id: ECMA-48
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-48
       language:
@@ -59,10 +66,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-48
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-48_2nd_edition_august_1979.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-48
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-48
       language:
@@ -72,10 +85,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-48
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-48_3rd_edition_march_1984.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-48
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-48
       language:
@@ -85,10 +104,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-48
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-48_4th_edition_december_1986.pdf
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-48
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-48
       language:
@@ -98,5 +123,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

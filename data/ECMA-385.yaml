@@ -26,7 +26,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '4'
+edition:
+  content: '4'
 revdate: 2015-06
 language:
 - en
@@ -45,10 +46,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-385
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-385_1st_edition_december_2008.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-385
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-385
       language:
@@ -58,10 +65,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-385
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-385_2nd_edition_june_2010.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-385
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-385
       language:
@@ -71,10 +84,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-385
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-385_3rd_edition_june_2013.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-385
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-385
       language:
@@ -84,5 +103,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

@@ -51,10 +51,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-253
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-253_1st_edition_december_1996.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-253
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-253
       language:
@@ -64,5 +70,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

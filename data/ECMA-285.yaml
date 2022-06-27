@@ -27,7 +27,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '4'
+edition:
+  content: '4'
 revdate: 2011-12
 language:
 - en
@@ -51,10 +52,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-285
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_1st_edition_december_1998.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-285
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-285
       language:
@@ -64,10 +71,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-285
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_2nd_edition_june_2000.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-285
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-285
       language:
@@ -77,10 +90,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-285
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_3rd_edition_december_2010.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-285
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-285
       language:
@@ -90,10 +109,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-285
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_4th_edition_source_files.zip
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-285
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-285
       language:
@@ -103,5 +128,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

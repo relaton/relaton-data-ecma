@@ -27,7 +27,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '9'
+edition:
+  content: '9'
 revdate: 2011-12
 language:
 - en
@@ -47,7 +48,13 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    edition: '1'
+    id: ECMA-269
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-269
       language:
@@ -57,10 +64,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_2nd_edition_june_1998.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-269
       language:
@@ -70,10 +83,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_1.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-269
       language:
@@ -83,10 +100,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_2.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-269
       language:
@@ -96,10 +117,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_3.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-269
       language:
@@ -109,10 +134,14 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_4.pdf
       type: doi
-    edition: ''
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
     formattedref:
       content: ECMA-269
       language:
@@ -122,10 +151,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_4th_edition_june_2000.pdf
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-269
       language:
@@ -135,10 +170,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_5th_edition_december_2002.pdf
       type: doi
-    edition: '5'
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    edition:
+      content: '5'
     formattedref:
       content: ECMA-269
       language:
@@ -148,10 +189,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_6th_edition_june_2004.pdf
       type: doi
-    edition: '6'
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    edition:
+      content: '6'
     formattedref:
       content: ECMA-269
       language:
@@ -161,10 +208,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_7th_edition_december_2006.pdf
       type: doi
-    edition: '7'
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    edition:
+      content: '7'
     formattedref:
       content: ECMA-269
       language:
@@ -174,10 +227,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_8th_edition_june_2009.pdf
       type: doi
-    edition: '8'
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    edition:
+      content: '8'
     formattedref:
       content: ECMA-269
       language:
@@ -187,10 +246,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-269
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_9th_edition_changes_since_the_previous_edition.pdf
       type: doi
-    edition: '9'
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    edition:
+      content: '9'
     formattedref:
       content: ECMA-269
       language:
@@ -200,5 +265,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

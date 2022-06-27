@@ -52,10 +52,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-302
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-302_1st_edition_june_2000.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-302
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-302
       language:
@@ -65,5 +71,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

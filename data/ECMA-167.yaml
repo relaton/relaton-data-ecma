@@ -47,7 +47,13 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    edition: '1'
+    id: ECMA-167
+    docid:
+    - id: ECMA-167
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-167
       language:
@@ -57,10 +63,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-167
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-167_2nd_edition_december_1994.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-167
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-167
       language:
@@ -70,5 +82,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

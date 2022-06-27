@@ -27,7 +27,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '5'
+edition:
+  content: '5'
 revdate: 2020-12
 language:
 - en
@@ -51,10 +52,16 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: ECMA-275
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-275_1st_edition_june_1998.pdf
       type: doi
-    edition: '1'
+    docid:
+    - id: ECMA-275
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-275
       language:
@@ -64,10 +71,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-275
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-275_2nd_edition_december_2002.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-275
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-275
       language:
@@ -77,10 +90,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-275
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-275_3rd_edition_june_2015.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-275
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-275
       language:
@@ -90,10 +109,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-275-1andECMA-275-2
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-275-1_and_2_4th_edition_december_2017-1.zip
       type: doi
-    edition: '4'
+    docid:
+    - id: ECMA-275-1 and ECMA-275-2
+      type: ECMA
+      primary: true
+    edition:
+      content: '4'
     formattedref:
       content: ECMA-275-1 and ECMA-275-2
       language:
@@ -103,5 +128,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document

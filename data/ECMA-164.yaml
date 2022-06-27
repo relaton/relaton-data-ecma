@@ -27,7 +27,8 @@ contributor:
     - Ecma International
   role:
   - publisher
-edition: '4'
+edition:
+  content: '4'
 revdate: 2001-12
 language:
 - en
@@ -54,7 +55,13 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    edition: '1'
+    id: ECMA-164
+    docid:
+    - id: ECMA-164
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
     formattedref:
       content: ECMA-164
       language:
@@ -64,10 +71,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-164
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-164_2nd_edition_june_1993.pdf
       type: doi
-    edition: '2'
+    docid:
+    - id: ECMA-164
+      type: ECMA
+      primary: true
+    edition:
+      content: '2'
     formattedref:
       content: ECMA-164
       language:
@@ -77,10 +90,16 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
+    id: ECMA-164
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-164_3rd_edition_september_1997.pdf
       type: doi
-    edition: '3'
+    docid:
+    - id: ECMA-164
+      type: ECMA
+      primary: true
+    edition:
+      content: '3'
     formattedref:
       content: ECMA-164
       language:
@@ -90,5 +109,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-06-23'
+fetched: '2022-06-27'
 doctype: document
