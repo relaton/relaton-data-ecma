@@ -23,7 +23,7 @@ date:
 contributor:
 - organization:
     name:
-    - Ecma International
+    - content: Ecma International
   role:
   - publisher
 revdate: 2017-12
@@ -81,5 +81,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-08-19'
+fetched: '2022-08-22'
 doctype: document
