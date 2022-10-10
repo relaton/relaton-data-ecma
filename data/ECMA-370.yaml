@@ -10,7 +10,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-370/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_6th_edition_june_2019.pdf
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_6th_edition_june_2019_withcorrigendum.pdf
   type: doi
 type: standard
 docid:
@@ -39,7 +39,7 @@ abstract:
     The standard addresses company programs and product related attributes, however not manufacturing processes and logistic aspects. Although the declaration templates as defined in annexes A, B1 and B2 are optimized for application in the European Union, this Standard is intended for global use. Additional annexes may be added for other regions. The annexes cover the following items:
     Company environmental profile (Annex A)
     The company environmental profile is split into legal and market requirements such as:
-    Product environmental attributes (Annex B1 and B2, corrected in December 2019)
+    Product environmental attributes (Annex B1 and B2, corrected in a Corrigendum in December 2019)
     The Product environmental attributes are split into legal and market requirements on:
     The attributes are listed without differentiation between products categories. Not all attributes do necessarily apply to each product category.
     Based on frequently asked questions from customers, some product attributes such as safety, and ergonomics have been included although they are not considered environmental matters.
@@ -205,6 +205,25 @@ relation:
   bibitem:
     id: ECMA-370
     link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_6th_edition_june_2019.pdf
+      type: doi
+    docid:
+    - id: ECMA-370
+      type: ECMA
+      primary: true
+    edition:
+      content: '6'
+    formattedref:
+      content: ECMA-370
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-370
+    link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370-Annex-A.doc
       type: doi
     docid:
@@ -339,5 +358,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-10-09'
+fetched: '2022-10-10'
 doctype: document
