@@ -23,7 +23,7 @@ contributor:
     name:
     - content: Ecma International
   role:
-  - publisher
+  - type: publisher
 revdate: 2019-01
 language:
 - en
@@ -31,5 +31,5 @@ script:
 - Latn
 place:
 - Geneva
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: document
