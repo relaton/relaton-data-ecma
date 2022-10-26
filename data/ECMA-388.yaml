@@ -25,7 +25,7 @@ contributor:
     name:
     - content: Ecma International
   role:
-  - publisher
+  - type: publisher
 revdate: 2009-06
 language:
 - en
@@ -96,5 +96,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-10-24'
+fetched: '2022-10-26'
 doctype: document
