@@ -10,7 +10,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-328/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-328-1-10th-edition-December-2020.pdf
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-328-1_10th_edition_december_2020.pdf
   type: doi
 type: standard
 docid:
@@ -275,5 +275,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-11-02'
+fetched: '2022-11-03'
 doctype: document
