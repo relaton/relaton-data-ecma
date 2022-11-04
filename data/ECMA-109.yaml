@@ -190,7 +190,7 @@ relation:
   bibitem:
     id: ECMA-109
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109-8th-edition-June-2019-1.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_8th_edition_june_2019-1.pdf
       type: doi
     docid:
     - id: ECMA-109
@@ -209,7 +209,7 @@ relation:
   bibitem:
     id: ECMA-109
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109-9th-edition-December-2019-1.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_9th_edition_december_2019.pdf
       type: doi
     docid:
     - id: ECMA-109
@@ -226,5 +226,5 @@ relation:
       format: text/plain
 place:
 - Geneva
-fetched: '2022-11-03'
+fetched: '2022-11-04'
 doctype: document
