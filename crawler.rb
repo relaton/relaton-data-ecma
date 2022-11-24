@@ -115,7 +115,7 @@ module RelatonEcma
 
     # @param hit [Nokogiri::HTML::Element]
     def parse_page(hit) # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
-      bib = { fetched: Date.today.to_s, type: 'standard', language: ['en'], script: ['Latn'],
+      bib = { type: 'standard', language: ['en'], script: ['Latn'],
               contributor: contributor, place: ['Geneva'], doctype: 'document' }
       if hit[:href]
         AGENT.user_agent_alias = Mechanize::AGENT_ALIASES.keys[rand(21)]
