@@ -1,5 +1,6 @@
 ---
-id: ECMATR/110
+schema-version: v1.2.1
+id: ECMATR-110
 title:
 - content: Recommendations and best practices for scripts on connected sensing devices
   language:

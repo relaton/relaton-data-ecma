@@ -1,5 +1,6 @@
 ---
-id: ECMATR/78
+schema-version: v1.2.1
+id: ECMATR-78
 title:
 - content: Ecma protection profile - E-COFC public business class
   language:

@@ -1,5 +1,6 @@
 ---
-id: ECMATR/104
+schema-version: v1.2.1
+id: ECMATR-104
 title:
 - content: ECMAScript® test suite
   language:
@@ -43,7 +44,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/104
+    id: ECMATR-104
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-104_1st_edition_december_2011.pdf
       type: doi

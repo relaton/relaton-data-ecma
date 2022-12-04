@@ -1,5 +1,6 @@
 ---
-id: ECMATR/46
+schema-version: v1.2.1
+id: ECMATR-46
 title:
 - content: Security in open systems - A security framework
   language:

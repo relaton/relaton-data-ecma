@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-373
 title:
 - content: Near Field Communication Wired Interface (NFC-WI)

@@ -1,5 +1,6 @@
 ---
-id: ECMATR/71
+schema-version: v1.2.1
+id: ECMATR-71
 title:
 - content: DVD read-only disk - File system specifications
   language:

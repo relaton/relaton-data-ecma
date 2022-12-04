@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-159
 title:
 - content: Data compression for information interchange - Binary arithmetic coding

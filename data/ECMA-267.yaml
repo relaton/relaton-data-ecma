@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-267
 title:
 - content: 120 mm DVD - Read-only disk

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-269
 title:
 - content: Services for Computer Supported Telecommunications Applications (CSTA)

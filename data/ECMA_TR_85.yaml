@@ -1,5 +1,6 @@
 ---
-id: ECMATR/85
+schema-version: v1.2.1
+id: ECMATR-85
 title:
 - content: Using ECMA-323 (CSTA XML) in a voice browser environment
   language:

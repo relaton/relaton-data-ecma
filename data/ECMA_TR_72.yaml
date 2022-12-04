@@ -1,5 +1,6 @@
 ---
-id: ECMATR/72
+schema-version: v1.2.1
+id: ECMATR-72
 title:
 - content: Glossary of definitions and terminology for Computer Supported Telecommunications
     Applications (CSTA) Phase III
@@ -43,7 +44,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/72
+    id: ECMATR-72
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-72_1st_edition_june_1998.pdf
       type: doi
@@ -62,7 +63,7 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    id: ECMATR/72
+    id: ECMATR-72
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-72_2nd_edition_december_1998.pdf
       type: doi

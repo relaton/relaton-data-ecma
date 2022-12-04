@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-331
 title:
 - content: Cases for 120 mm and 80 mm DVD-RAM disks

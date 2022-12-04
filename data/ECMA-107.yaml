@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-107
 title:
 - content: Volume and file structure of disk cartridges for information interchange

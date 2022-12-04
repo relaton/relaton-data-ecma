@@ -1,5 +1,6 @@
 ---
-id: ECMATR/107
+schema-version: v1.2.1
+id: ECMATR-107
 title:
 - content: An optional alternate background noise correction sensitive to the steadiness
     of background noise
@@ -44,7 +45,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/107
+    id: ECMATR-107
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-107_1st_edition_june_2015.pdf
       type: doi
@@ -63,7 +64,7 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    id: ECMATR/107
+    id: ECMATR-107
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-107_2nd_edition_december_2016.pdf
       type: doi
@@ -82,7 +83,7 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    id: AspreadsheetimplementingtheproceduresofECMATR/107
+    id: AspreadsheetimplementingtheproceduresofECMATR-107
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/spreadsheet_implementing_the_procedures_of_ecma_tr107.zip
       type: doi

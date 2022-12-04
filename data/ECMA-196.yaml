@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-196
 title:
 - content: Data interchange on 12,7 mm 36-track magnetic tape cartridges

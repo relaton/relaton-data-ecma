@@ -1,5 +1,6 @@
 ---
-id: ECMATR/69
+schema-version: v1.2.1
+id: ECMATR-69
 title:
 - content: Reference model for project support environments
   language:

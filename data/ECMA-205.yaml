@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-205
 title:
 - content: Commercially Oriented Functionality Class for security evaluation (COFC)

@@ -1,5 +1,6 @@
 ---
-id: ECMATR/53
+schema-version: v1.2.1
+id: ECMATR-53
 title:
 - content: Handling of bi-directional texts
   language:
@@ -43,7 +44,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/53
+    id: ECMATR-53
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-53_1st_edition_december_1990.pdf
       type: doi

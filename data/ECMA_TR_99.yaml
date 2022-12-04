@@ -1,5 +1,6 @@
 ---
-id: ECMATR/99
+schema-version: v1.2.1
+id: ECMATR-99
 title:
 - content: Constant sound power fan curves for small air-moving devices
   language:
@@ -43,7 +44,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/99
+    id: ECMATR-99
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-99_1st_edition_december_2009.pdf
       type: doi

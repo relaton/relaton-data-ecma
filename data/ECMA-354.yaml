@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-354
 title:
 - content: Application session services

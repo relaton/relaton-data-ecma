@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-418
 title:
 - content: Psychoacoustic metrics for ITT equipment

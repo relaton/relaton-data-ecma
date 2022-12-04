@@ -1,5 +1,6 @@
 ---
-id: ECMATR/79
+schema-version: v1.2.1
+id: ECMATR-79
 title:
 - content: Private Integrated Services Networks (PISN) - Wireless Terminal Mobility
     (WTM) - WTM between networks - Requirements

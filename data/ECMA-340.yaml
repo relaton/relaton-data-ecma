@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-340
 title:
 - content: Near Field Communication Interface and Protocol (NFCIP-1)

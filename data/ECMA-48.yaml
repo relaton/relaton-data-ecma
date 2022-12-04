@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-48
 title:
 - content: Control functions for coded character sets

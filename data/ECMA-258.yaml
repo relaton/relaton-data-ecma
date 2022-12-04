@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-258
 title:
 - content: Data Interchange on 12,7 mm 128-track magnetic tape cartridges - DLT 3-XT

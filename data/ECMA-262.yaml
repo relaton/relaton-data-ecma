@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-262
 title:
 - content: ECMAScript® 2022 language specification

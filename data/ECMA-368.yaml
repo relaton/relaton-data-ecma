@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-368
 title:
 - content: High rate ultra wideband PHY and MAC standard

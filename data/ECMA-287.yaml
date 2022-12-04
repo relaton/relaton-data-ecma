@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-287
 title:
 - content: Safety of electronic equipment

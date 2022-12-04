@@ -1,5 +1,6 @@
 ---
-id: ECMATR/87
+schema-version: v1.2.1
+id: ECMATR-87
 title:
 - content: Using CSTA for SIP phone user agents (uaCSTA)
   language:

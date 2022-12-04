@@ -1,5 +1,6 @@
 ---
-id: ECMATR/61
+schema-version: v1.2.1
+id: ECMATR-61
 title:
 - content: User interface taxonomy
   language:

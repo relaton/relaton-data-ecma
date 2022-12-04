@@ -1,5 +1,6 @@
 ---
-id: ECMATR/76
+schema-version: v1.2.1
+id: ECMATR-76
 title:
 - content: Private Integrated Services Networks (PISN) - Architecture and Scenarios
     for Private Integrated Services Networking

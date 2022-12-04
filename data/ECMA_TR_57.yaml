@@ -1,5 +1,6 @@
 ---
-id: ECMATR/57
+schema-version: v1.2.1
+id: ECMATR-57
 title:
 - content: Private Integrated Services Networks
   language:
@@ -49,7 +50,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/57
+    id: ECMATR-57
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-57_1st_edition_december_1991.pdf
       type: doi

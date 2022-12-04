@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-235
 title:
 - content: The Ecma GSS-API Mechanism

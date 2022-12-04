@@ -1,5 +1,6 @@
 ---
-id: ECMATR/64
+schema-version: v1.2.1
+id: ECMATR-64
 title:
 - content: Secure information processing versus the context of product evaluation
   language:

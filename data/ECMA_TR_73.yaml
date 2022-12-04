@@ -1,5 +1,6 @@
 ---
-id: ECMATR/73
+schema-version: v1.2.1
+id: ECMATR-73
 title:
 - content: H.323 / B-ISDN signalling interoperability
   language:

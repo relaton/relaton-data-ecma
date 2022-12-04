@@ -1,5 +1,6 @@
 ---
-id: ECMATR/27
+schema-version: v1.2.1
+id: ECMATR-27
 title:
 - content: Method for the prediction of installation noise levels
   language:
@@ -45,7 +46,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/27
+    id: ECMATR-27
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-27_1st_edition_march-1985-1.pdf
       type: doi

@@ -1,5 +1,6 @@
 ---
-id: ECMATR/83
+schema-version: v1.2.1
+id: ECMATR-83
 title:
 - content: One standard - One test, Supplier's Declaration of Conformity (11SDoC)
     - Scorecard objectives and concept

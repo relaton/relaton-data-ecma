@@ -1,5 +1,6 @@
 ---
-id: ECMATR/88
+schema-version: v1.2.1
+id: ECMATR-88
 title:
 - content: Designing an object model for ECMA-269 (CSTA)
   language:

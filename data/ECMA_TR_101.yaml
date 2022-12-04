@@ -1,5 +1,6 @@
 ---
-id: ECMATR/101
+schema-version: v1.2.1
+id: ECMATR-101
 title:
 - content: Next Generation Corporate Networks (NGCN) - Emergency calls
   language:
@@ -49,7 +50,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/101
+    id: ECMATR-101
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-101_1st_edition_december_2009.pdf
       type: doi

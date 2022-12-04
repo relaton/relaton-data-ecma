@@ -1,5 +1,6 @@
 ---
-id: ECMATR/100
+schema-version: v1.2.1
+id: ECMATR-100
 title:
 - content: Next Generation Corporate Networks (NGCN) - Security of session-based communications
   language:

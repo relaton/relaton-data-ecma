@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-398
 title:
 - content: Close proximity electric induction wireless communications

@@ -1,5 +1,6 @@
 ---
-id: ECMATR/103
+schema-version: v1.2.1
+id: ECMATR-103
 title:
 - content: Business trunking - NGCN-NGN interfaces implementation guide
   language:

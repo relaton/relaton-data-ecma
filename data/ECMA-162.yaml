@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-162
 title:
 - content: Portable Common Tool Environment (PCTE) - Ada programming language binding

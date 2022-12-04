@@ -1,5 +1,6 @@
 ---
-id: ECMATR/80
+schema-version: v1.2.1
+id: ECMATR-80
 title:
 - content: Migrating to CSTA Phase III
   language:

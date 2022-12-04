@@ -1,5 +1,6 @@
 ---
-id: ECMATR/18
+schema-version: v1.2.1
+id: ECMATR-18
 title:
 - content: The meaning of conformance to standards
   language:

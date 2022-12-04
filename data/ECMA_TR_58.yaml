@@ -1,5 +1,6 @@
 ---
-id: ECMATR/58
+schema-version: v1.2.1
+id: ECMATR-58
 title:
 - content: Databases and networking
   language:

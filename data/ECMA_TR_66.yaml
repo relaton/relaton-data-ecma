@@ -1,5 +1,6 @@
 ---
-id: ECMATR/66
+schema-version: v1.2.1
+id: ECMATR-66
 title:
 - content: Mapping of PCTE to the Ecma/NIST frameworks reference model
   language:

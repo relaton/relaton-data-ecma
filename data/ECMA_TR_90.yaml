@@ -1,5 +1,6 @@
 ---
-id: ECMATR/90
+schema-version: v1.2.1
+id: ECMATR-90
 title:
 - content: Session management, Event notification, and computing function services
     - Amendments for ECMA-348

@@ -1,5 +1,6 @@
 ---
-id: ECMATR/96
+schema-version: v1.2.1
+id: ECMATR-96
 title:
 - content: Next Generation Corporate Networks (NGCN) - Identification and routing
   language:

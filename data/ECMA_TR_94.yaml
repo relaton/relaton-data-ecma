@@ -1,5 +1,6 @@
 ---
-id: ECMATR/94
+schema-version: v1.2.1
+id: ECMATR-94
 title:
 - content: Assessment of the human exposure to electromagnetic fields for low power
     electronic and electrical apparatus according to EN 50371:2002

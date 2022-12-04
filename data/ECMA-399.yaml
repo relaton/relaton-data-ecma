@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-399
 title:
 - content: Procedure for the registration of assigned numbers for ECMA-398

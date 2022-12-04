@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-106
 title:
 - content: Private Telecommunication Networks (PTN) - Signalling protocol at the S

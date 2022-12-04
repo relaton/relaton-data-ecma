@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-219
 title:
 - content: Authentication and privilege attribute security application with related

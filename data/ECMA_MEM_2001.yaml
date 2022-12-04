@@ -1,5 +1,6 @@
 ---
-id: ECMAMEM/2001
+schema-version: v1.2.1
+id: ECMAMEM-2001
 title:
 - content: '"Memento 2001" for year2001'
   language:

@@ -1,5 +1,6 @@
 ---
-id: ECMATR/86
+schema-version: v1.2.1
+id: ECMATR-86
 title:
 - content: Corporate Telecommunication Networks - User identification in a SIP/QSIG
     environment

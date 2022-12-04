@@ -1,5 +1,6 @@
 ---
-id: ECMATR/59
+schema-version: v1.2.1
+id: ECMATR-59
 title:
 - content: Object-oriented databases
   language:

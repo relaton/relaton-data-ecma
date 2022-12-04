@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-384
 title:
 - content: 120 mm (8,54 Gbytes per side) and 80 mm (2,66 Gbytes per side) DVD re-recordable

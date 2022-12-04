@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-130
 title:
 - content: Data interchange on read-only 120 mm optical data disks (CD-ROM)

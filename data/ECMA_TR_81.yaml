@@ -1,5 +1,6 @@
 ---
-id: ECMATR/81
+schema-version: v1.2.1
+id: ECMATR-81
 title:
 - content: Interoperation of PISNs with IP networks
   language:

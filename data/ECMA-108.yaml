@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-108
 title:
 - content: Determination of high-frequency sound power levels emitted by information

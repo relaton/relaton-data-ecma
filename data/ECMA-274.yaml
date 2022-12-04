@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-274
 title:
 - content: 'Data interchange on 120 mm optical disk using +RW Format - Capacity: 3,0

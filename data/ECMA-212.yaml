@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-212
 title:
 - content: Private Integrated Services Network (PISN) - Inter-exchange signalling

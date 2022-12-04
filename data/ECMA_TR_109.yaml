@@ -1,5 +1,6 @@
 ---
-id: ECMATR/109
+schema-version: v1.2.1
+id: ECMATR-109
 title:
 - content: Class specifications for embedded hardware components
   language:

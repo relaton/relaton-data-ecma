@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-125
 title:
 - content: Data interchange on 90 mm flexible disk cartridges using MFM recording

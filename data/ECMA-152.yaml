@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-152
 title:
 - content: Data interchange on 12,7 mm 18-track magnetic tape cartridges - Extended

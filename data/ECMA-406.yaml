@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-406
 title:
 - content: Disk cassette for 5 disks with 120 mm diameter

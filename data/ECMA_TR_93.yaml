@@ -1,5 +1,6 @@
 ---
-id: ECMATR/93
+schema-version: v1.2.1
+id: ECMATR-93
 title:
 - content: Measuring emissions from modules
   language:

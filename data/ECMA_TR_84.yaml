@@ -1,5 +1,6 @@
 ---
-id: ECMATR/84
+schema-version: v1.2.1
+id: ECMATR-84
 title:
 - content: Common Language Infrastructure (CLI) - Information derived from Partition
     IV XML file
@@ -47,7 +48,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/84
+    id: ECMATR-84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_1st_edition_december_2001.pdf
       type: doi
@@ -66,7 +67,7 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    id: ECMATR/84
+    id: ECMATR-84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_2nd_edition_december_2002.pdf
       type: doi
@@ -85,7 +86,7 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    id: ECMATR/84
+    id: ECMATR-84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_3rd_edition_june_2005.pdf
       type: doi
@@ -104,7 +105,7 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    id: ECMATR/84
+    id: ECMATR-84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_4th_edition_june_2006.pdf
       type: doi
@@ -123,7 +124,7 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    id: ECMATR/84
+    id: ECMATR-84
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-84_5th_edition_december_2010.pdf
       type: doi

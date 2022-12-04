@@ -1,5 +1,6 @@
 ---
-id: ECMATR/108
+schema-version: v1.2.1
+id: ECMATR-108
 title:
 - content: Proposal of new parameters, T-TNR and T-PR for total evaluation of multiple
     tones

@@ -1,5 +1,6 @@
 ---
-id: ECMATR/98
+schema-version: v1.2.1
+id: ECMATR-98
 title:
 - content: JPEG File Interchange Format (JFIF)
   language:

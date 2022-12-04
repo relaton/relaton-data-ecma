@@ -1,5 +1,6 @@
 ---
-id: ECMATR/105
+schema-version: v1.2.1
+id: ECMATR-105
 title:
 - content: A shaped noise file representative of speech
   language:

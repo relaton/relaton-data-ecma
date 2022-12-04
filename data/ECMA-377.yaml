@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-377
 title:
 - content: 'Information interchange on Holographic Versatile Disc (HVD) recordable

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-362
 title:
 - content: NFCIP-1 - Protocol test methods

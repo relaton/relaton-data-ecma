@@ -1,5 +1,6 @@
 ---
-id: ECMATR/55
+schema-version: v1.2.1
+id: ECMATR-55
 title:
 - content: Reference model for frameworks of software engineering environments
   language:
@@ -42,7 +43,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/55
+    id: ECMATR-55
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-55_1st_edition_december_1990.pdf
       type: doi
@@ -61,7 +62,7 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    id: ECMATR/55
+    id: ECMATR-55
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-55_2nd_edition_december_1991.pdf
       type: doi

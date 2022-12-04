@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-74
 title:
 - content: Measurement of Airborne Noise emitted by Information Technology and Telecommunications
