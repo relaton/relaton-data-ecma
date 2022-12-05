@@ -1,5 +1,6 @@
 ---
-id: ECMATR/82
+schema-version: v1.2.1
+id: ECMATR-82
 title:
 - content: Scenarios for Computer Supported Telecommunications Applications (CSTA)
     Phase III
@@ -49,7 +50,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/82
+    id: ECMATR-82
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-82_1st_edition_december_2000.pdf
       type: doi
@@ -68,7 +69,7 @@ relation:
       format: text/plain
 - type: updates
   bibitem:
-    id: ECMATR/82
+    id: ECMATR-82
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-82_errata_april_2008.pdf
       type: doi

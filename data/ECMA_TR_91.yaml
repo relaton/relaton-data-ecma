@@ -1,5 +1,6 @@
 ---
-id: ECMATR/91
+schema-version: v1.2.1
+id: ECMATR-91
 title:
 - content: Enterprise communication in Next Generation Corporate Networks (NGCN) involving
     public Next Generation Networks (NGN)

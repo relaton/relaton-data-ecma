@@ -1,5 +1,6 @@
 ---
-id: ECMATR/75
+schema-version: v1.2.1
+id: ECMATR-75
 title:
 - content: Corporate Telecommunication Networks (CN) - Standardization plan
   language:
@@ -45,7 +46,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ECMATR/75
+    id: ECMATR-75
     link:
     - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-75_1st_edition_june_1999.pdf
       type: doi
