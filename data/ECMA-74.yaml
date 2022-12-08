@@ -12,7 +12,7 @@ title:
 link:
 - content: https://www.ecma-international.org/publications-and-standards/standards/ecma-74/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_19th_edition_december_2021.pdf
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_20th_edition_december_2022.pdf
   type: doi
 type: standard
 docid:
@@ -21,7 +21,7 @@ docid:
   primary: true
 date:
 - type: published
-  value: 2021-12
+  value: 2022-12
 contributor:
 - organization:
     name:
@@ -29,8 +29,8 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: '19'
-revdate: 2021-12
+  content: '20'
+revdate: 2022-12
 language:
 - en
 script:
@@ -388,6 +388,25 @@ relation:
       primary: true
     edition:
       content: '18'
+    formattedref:
+      content: ECMA-74
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-74
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-74_19th_edition_december_2021.pdf
+      type: doi
+    docid:
+    - id: ECMA-74
+      type: ECMA
+      primary: true
+    edition:
+      content: '19'
     formattedref:
       content: ECMA-74
       language:

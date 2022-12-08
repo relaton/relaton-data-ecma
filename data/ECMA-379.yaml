@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ECMA-379
 title:
 - content: Test method for the estimation of the archival lifetime of optical media
