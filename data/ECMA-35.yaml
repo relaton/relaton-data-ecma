@@ -39,7 +39,7 @@ abstract:
     This Standard specifies the structure of 8-bit codes and 7-bit codes which provide for the coding of character sets. The code elements used in the structure are common to both the 8-bit and 7-bit codes. The codes use a variety of techniques for extending the capabilities of elementary 8-bit and 7-bit codes. Greater emphasis is given to 8-bit codes in this edition of the Standard than in previous editions because they are now more widely used.
     The use of common elements in the 8-bit and 7-bit code structure enables any specific conforming 8-bit code to be transformed into an equivalent 7-bit code, and vice versa, in a simple and direct fashion.
     Standard ECMA-43 conforms to the 8-bit code structure specified here, and Standard ECMA-6 conforms to the 7-bit code structure specified here.
-    The sixth edition of this Standard is fully identical with International Standard ISO/IEC 2022:1994 .
+    The sixth edition of this Standard is fully identical with International Standard ISO/IEC 2022:1994.
   language:
   - en
   script:
