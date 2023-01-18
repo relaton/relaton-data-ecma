@@ -239,7 +239,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262-10th-edition-June-2019.pdf
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_10th_edition_june_2019.pdf
       type: doi
     docid:
     - id: ECMA-262
