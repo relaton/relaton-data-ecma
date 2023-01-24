@@ -1,8 +1,8 @@
 ---
 schema-version: v1.2.1
-id: ECMAMEM-1987
+id: ECMAMEM-2023
 title:
-- content: '"Memento 1987" for year1987'
+- content: '"Memento 2023" for year2023'
   language:
   - en
   script:
@@ -13,19 +13,19 @@ link:
   type: doi
 type: standard
 docid:
-- id: ECMA MEM/1987
+- id: ECMA MEM/2023
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1987-01
+  value: 2023-01
 contributor:
 - organization:
     name:
     - content: Ecma International
   role:
   - type: publisher
-revdate: 1987-01
+revdate: 2023-01
 language:
 - en
 script:
