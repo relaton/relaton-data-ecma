@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: ECMA-413
 title:
 - content: Data migration method for BD recordable and BD rewritable disks
