@@ -2791,3 +2791,186 @@
     :id: ECMA TR/18
     :ed: '1'
   :file: data/ECMA_TR_18-1.yaml
+- :id:
+    :id: ECMA MEM/2023
+  :file: data/ECMA_MEM_2023.yaml
+- :id:
+    :id: ECMA MEM/2022
+  :file: data/ECMA_MEM_2022.yaml
+- :id:
+    :id: ECMA MEM/2021
+  :file: data/ECMA_MEM_2021.yaml
+- :id:
+    :id: ECMA MEM/2020
+  :file: data/ECMA_MEM_2020.yaml
+- :id:
+    :id: ECMA MEM/2019
+  :file: data/ECMA_MEM_2019.yaml
+- :id:
+    :id: ECMA MEM/2018
+  :file: data/ECMA_MEM_2018.yaml
+- :id:
+    :id: ECMA MEM/2017
+  :file: data/ECMA_MEM_2017.yaml
+- :id:
+    :id: ECMA MEM/2016
+  :file: data/ECMA_MEM_2016.yaml
+- :id:
+    :id: ECMA MEM/2015
+  :file: data/ECMA_MEM_2015.yaml
+- :id:
+    :id: ECMA MEM/2014
+  :file: data/ECMA_MEM_2014.yaml
+- :id:
+    :id: ECMA MEM/2013
+  :file: data/ECMA_MEM_2013.yaml
+- :id:
+    :id: ECMA MEM/2012
+  :file: data/ECMA_MEM_2012.yaml
+- :id:
+    :id: ECMA MEM/2011
+  :file: data/ECMA_MEM_2011.yaml
+- :id:
+    :id: ECMA MEM/2010
+  :file: data/ECMA_MEM_2010.yaml
+- :id:
+    :id: ECMA MEM/2009
+  :file: data/ECMA_MEM_2009.yaml
+- :id:
+    :id: ECMA MEM/2008
+  :file: data/ECMA_MEM_2008.yaml
+- :id:
+    :id: ECMA MEM/2007
+  :file: data/ECMA_MEM_2007.yaml
+- :id:
+    :id: ECMA MEM/2006
+  :file: data/ECMA_MEM_2006.yaml
+- :id:
+    :id: ECMA MEM/2005
+  :file: data/ECMA_MEM_2005.yaml
+- :id:
+    :id: ECMA MEM/2004
+  :file: data/ECMA_MEM_2004.yaml
+- :id:
+    :id: ECMA MEM/2003
+  :file: data/ECMA_MEM_2003.yaml
+- :id:
+    :id: ECMA MEM/2002
+  :file: data/ECMA_MEM_2002.yaml
+- :id:
+    :id: ECMA MEM/2001
+  :file: data/ECMA_MEM_2001.yaml
+- :id:
+    :id: ECMA MEM/2000
+  :file: data/ECMA_MEM_2000.yaml
+- :id:
+    :id: ECMA MEM/1999
+  :file: data/ECMA_MEM_1999.yaml
+- :id:
+    :id: ECMA MEM/1998
+  :file: data/ECMA_MEM_1998.yaml
+- :id:
+    :id: ECMA MEM/1997
+  :file: data/ECMA_MEM_1997.yaml
+- :id:
+    :id: ECMA MEM/1996
+  :file: data/ECMA_MEM_1996.yaml
+- :id:
+    :id: ECMA MEM/1995
+  :file: data/ECMA_MEM_1995.yaml
+- :id:
+    :id: ECMA MEM/1994
+  :file: data/ECMA_MEM_1994.yaml
+- :id:
+    :id: ECMA MEM/1993
+  :file: data/ECMA_MEM_1993.yaml
+- :id:
+    :id: ECMA MEM/1992
+  :file: data/ECMA_MEM_1992.yaml
+- :id:
+    :id: ECMA MEM/1991
+  :file: data/ECMA_MEM_1991.yaml
+- :id:
+    :id: ECMA MEM/1990
+  :file: data/ECMA_MEM_1990.yaml
+- :id:
+    :id: ECMA MEM/1989
+  :file: data/ECMA_MEM_1989.yaml
+- :id:
+    :id: ECMA MEM/1988
+  :file: data/ECMA_MEM_1988.yaml
+- :id:
+    :id: ECMA MEM/1987
+  :file: data/ECMA_MEM_1987.yaml
+- :id:
+    :id: ECMA MEM/1986
+  :file: data/ECMA_MEM_1986.yaml
+- :id:
+    :id: ECMA MEM/1985
+  :file: data/ECMA_MEM_1985.yaml
+- :id:
+    :id: ECMA MEM/1984
+  :file: data/ECMA_MEM_1984.yaml
+- :id:
+    :id: ECMA MEM/1983
+  :file: data/ECMA_MEM_1983.yaml
+- :id:
+    :id: ECMA MEM/1982
+  :file: data/ECMA_MEM_1982.yaml
+- :id:
+    :id: ECMA MEM/1981
+  :file: data/ECMA_MEM_1981.yaml
+- :id:
+    :id: ECMA MEM/1980
+  :file: data/ECMA_MEM_1980.yaml
+- :id:
+    :id: ECMA MEM/1979
+  :file: data/ECMA_MEM_1979.yaml
+- :id:
+    :id: ECMA MEM/1978
+  :file: data/ECMA_MEM_1978.yaml
+- :id:
+    :id: ECMA MEM/1977
+  :file: data/ECMA_MEM_1977.yaml
+- :id:
+    :id: ECMA MEM/1976
+  :file: data/ECMA_MEM_1976.yaml
+- :id:
+    :id: ECMA MEM/1975
+  :file: data/ECMA_MEM_1975.yaml
+- :id:
+    :id: ECMA MEM/1974
+  :file: data/ECMA_MEM_1974.yaml
+- :id:
+    :id: ECMA MEM/1973
+  :file: data/ECMA_MEM_1973.yaml
+- :id:
+    :id: ECMA MEM/1972
+  :file: data/ECMA_MEM_1972.yaml
+- :id:
+    :id: ECMA MEM/1971
+  :file: data/ECMA_MEM_1971.yaml
+- :id:
+    :id: ECMA MEM/1970
+  :file: data/ECMA_MEM_1970.yaml
+- :id:
+    :id: ECMA MEM/1969
+  :file: data/ECMA_MEM_1969.yaml
+- :id:
+    :id: ECMA MEM/1968
+  :file: data/ECMA_MEM_1968.yaml
+- :id:
+    :id: ECMA MEM/1967
+  :file: data/ECMA_MEM_1967.yaml
+- :id:
+    :id: ECMA MEM/1966
+  :file: data/ECMA_MEM_1966.yaml
+- :id:
+    :id: ECMA MEM/1965
+  :file: data/ECMA_MEM_1965.yaml
+- :id:
+    :id: ECMA MEM/1964
+  :file: data/ECMA_MEM_1964.yaml
+- :id:
+    :id: ECMA MEM/1962
+  :file: data/ECMA_MEM_1962.yaml
