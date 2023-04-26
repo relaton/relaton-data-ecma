@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.3
+id: ECMATR-62
+title:
+- content: Product noise emission of computer and business equipment
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-62/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-62_1st_edition_june_1993.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/62
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1993-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1993-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    ECMA TR/62 gives an overview of the latest developments in noise control standards and the interpretation of noise emission values of computer and business equipment. It describes the standardized quantities for the measurement and declaration of product noise emission of such equipment. This information may be useful when comparing the noise emission of equipment of the same product category as well as of different equipment used in the same environment.
+    A comprehensive collection of product noise emission values for various categories of computer and business equipment is provided which supports such comparisons and helps in the interpretation of product noise emission.
+    The applications of this Technical Report are in product design and announcement, product literature and data sheets as well as in product selection for specific user requirements.
+    It is not the purpose of this TR/62 to define product noise level specifications nor to establish noise exposure limits for persons working in the vicinity of computer and business equipment in a given environment.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

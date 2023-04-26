@@ -1,0 +1,103 @@
+---
+schema-version: v1.2.3
+id: ECMA-251
+title:
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Common information additional network feature (QSIG-CMN)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-251_2nd_edition_december_1998.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-251
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1998-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1998-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the signalling protocol for the support of the Common Information additional network feature (ANF-CMN) at the Q reference point between Private Integrated services Network eXchanges (PINX) connected together within a Private Integrated Services Network (PISN).
+    ANF-CMN is an additional network feature which enables the exchange of Common Information between entities acting on behalf of the two ends of a connection through a PISN. This Common Information is a collection of miscellaneous information that relates to the user or equipment at one end of a connection and includes one or more of the following: Feature Identifiers, Party Category, Equipment Identity. This information, when received by an entity, can be used for any purpose, e.g. as the basis for indications to the local user or to another network or in order to filter feature requests.
+    The Q reference point is defined in ECMA-133.
+    Additional network feature specifications are produced in three stages and according to the method described in ETS 300 387. This Standard contains the stage 3 specification for the Q reference point and satisfies the requirements identified by the stage 1 and stage 2 specifications in ECMA-250.
+    The signalling protocol for ANF-CMN operates on top of the signalling protocol for basic circuit switched call control, as specified in ECMA-143, and uses certain aspects of the generic procedures for the control of supplementary services specified in ECMA-165.
+    This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between ANF-CMN and other supplementary services and ANFs.
+    NOTE – Additional interactions that have no impact on the signalling protocol at the Q reference point can be found in the relevant stage 1 specifications.
+    This Standard is applicable to PINXs which can interconnect to form a PISN.
+    The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-251
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-251_1st_edition_december_1996.pdf
+      type: pdf
+    docid:
+    - id: ECMA-251
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1996-12
+    edition:
+      content: '1'
+    revdate: 1996-12
+    formattedref:
+      content: ECMA-251
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-251
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-251_2nd_edition_december_1998.pdf
+      type: pdf
+    docid:
+    - id: ECMA-251
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '2'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-251
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

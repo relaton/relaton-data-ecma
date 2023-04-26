@@ -1,0 +1,148 @@
+---
+schema-version: v1.2.3
+id: ECMA-275
+title:
+- content: Measurement of structure-borne vibration induced by small air moving devices
+    (AMDs)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-275_1st_edition_june_1998.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-275
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1998-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1998-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This part of ECMA-275 specifies methods for measuring the airborne noise emitted by small air-moving devices (AMDs), such as those used for cooling electronic, electrical, and mechanical equipment where the sound power level of the AMD is of interest.
+    Examples of these AMDs include propeller fans, tube-axial fans, vane-axial fans, centrifugal fans, motorized impellers, and their variations.
+    This part of ECMA-275 describes, by referencing to ISO 10302-1:2011, the test apparatus and methods for determining the airborne noise emitted by small AMDs as a function of the volume flow rate and the fan static pressure developed by the AMD on the test apparatus. It is intended for use by AMD manufacturers, by manufacturers who use AMDs for cooling electronic equipment and similar applications, and by testing laboratories. It provides a method for AMD manufacturers, equipment manufacturers and testing laboratories to obtain comparable results. Results of measurements made in accordance with this part of ECMA-275 are expected to be used for engineering information and performance verification, and the methods can be cited in purchase specifications and contracts between buyers and sellers. The ultimate purpose of the measurements is to provide data to assist the designers of electronic, electrical or mechanical equipment which contains one or more AMDs.
+    Based on experimental data, a method is given for calculating the maximum volume flow rate of the scaled plenum up to which this part of ECMA-275 is applicable.
+    This part of ECMA-275 covers vibration levels from small air-moving devices (AMDs) with mounting footprints of less than 0,48 m × 0,90 m for the full-size test plenum defined in ISO 10302‑1 and less than 0,18 m × 0,3 m for the half size.
+    It covers all types of AMDs which can be mounted on, and are self-supported at, the discharge or inlet plane of a test plenum box as specified in ISO 10302‑1. Some guidance is given for non-self-supporting AMDs.
+    The procedures defined in this part of ECMA-275 specify methods for determining the vibration levels that a small AMD would induce in an average structure used in information technology and telecommunications equipment. The methods specified in this part of ECMA-275 allow the determination of induced vibration levels for the individual AMD that is tested. These data may be used to determine the statistical values of vibration levels for a production series if levels are measured for several units of that series.
+    The two parts of the Standard are the following:
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-275
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-275_1st_edition_june_1998.pdf
+      type: pdf
+    docid:
+    - id: ECMA-275
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-06
+    edition:
+      content: '1'
+    revdate: 1998-06
+    formattedref:
+      content: ECMA-275
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-275
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-275_2nd_edition_december_2002.pdf
+      type: pdf
+    docid:
+    - id: ECMA-275
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2002-12
+    edition:
+      content: '2'
+    revdate: 2002-12
+    formattedref:
+      content: ECMA-275
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-275
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-275_3rd_edition_june_2015.pdf
+      type: pdf
+    docid:
+    - id: ECMA-275
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2015-06
+    edition:
+      content: '3'
+    revdate: 2015-06
+    formattedref:
+      content: ECMA-275
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-275-1andECMA-275-2
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-275-1_and_2_4th_edition_december_2017-1.zip
+      type: pdf
+    docid:
+    - id: ECMA-275-1 and ECMA-275-2
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2017-12
+    edition:
+      content: '4'
+    revdate: 2017-12
+    formattedref:
+      content: ECMA-275-1 and ECMA-275-2
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

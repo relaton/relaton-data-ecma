@@ -1,0 +1,165 @@
+---
+schema-version: v1.2.3
+id: ECMA-108
+title:
+- content: Determination of high-frequency sound power levels emitted by information
+    technology and telecommunications equipment
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_1st_edition_december_1985.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-108
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1985-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1985-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard ECMA‑108 specifies four methods for the determination of the sound power levels of high-frequency noise emitted by information technology and telecommunications equipment in the frequency range covered by the octave band centred at 16 kHz, which includes frequencies between 11,2 kHz and 22,4 kHz. They are complementary to the methods described in Standard ECMA‑74, ISO 3741 and ISO 3744. The first three methods are based on the reverberation test room technique. The fourth method makes use of a free field over a reflecting plane.
+    The test conditions which prescribe the installation and operation of the equipment are those specified in ECMA-74.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-108
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_1st_edition_december_1985.pdf
+      type: pdf
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1985-12
+    edition:
+      content: '1'
+    revdate: 1985-12
+    formattedref:
+      content: ECMA-108
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-108
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_2nd_edition_june_1989.pdf
+      type: pdf
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1989-06
+    edition:
+      content: '2'
+    revdate: 1989-06
+    formattedref:
+      content: ECMA-108
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-108
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_3rd_edition_december_1996.pdf
+      type: pdf
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1996-12
+    edition:
+      content: '3'
+    revdate: 1996-12
+    formattedref:
+      content: ECMA-108
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-108
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_4th_edition_december_2008.pdf
+      type: pdf
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2008-12
+    edition:
+      content: '4'
+    revdate: 2008-12
+    formattedref:
+      content: ECMA-108
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-108
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_5th_edition_december_2010.pdf
+      type: pdf
+    docid:
+    - id: ECMA-108
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2010-12
+    edition:
+      content: '5'
+    revdate: 2010-12
+    formattedref:
+      content: ECMA-108
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

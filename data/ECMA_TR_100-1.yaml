@@ -1,0 +1,53 @@
+---
+schema-version: v1.2.3
+id: ECMATR-100
+title:
+- content: Next Generation Corporate Networks (NGCN) - Security of session-based communications
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-100/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-100_1st_edition_december_2009.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/100
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2009-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2009-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Technical Report is one of a series of publications that provides an overview of IP-based enterprise communication involving Corporate telecommunication Networks (CNs) (also known as enterprise networks) and in particular Next Generation Corporate Networks (NGCN).
+    The series particularly focuses on session level communication based on the Session Initiation Protocol (SIP), with an emphasis on inter-domain communication. This includes communication between parts of the same enterprise (on dedicated infrastructures and/or hosted), between enterprises and between enterprises and public networks. Particular consideration is given to Next Generation Networks (NGN) as public networks and as providers of hosted enterprise capabilities. Key technical issues are investigated, current standardisation work and gaps in this area are identified, and a number of requirements and recommendations are stated. Among other uses, this series of publications can act as a reference for other standardisation bodies working in this field, including ETSI TISPAN, 3GPP, IETF and ITU‑T.
+    This particular Technical Report discusses security of session-based communications. It uses terminology and concepts developed in ECMA TR/95. It identifies a number of requirements impacting NGN standardisation and makes a number of recommendations concerning deployment of enterprise networks. Also a number of standardisation gaps are identified. Both signalling security and media security are considered.
+    The scope of this Technical Report is limited to communications with a real-time element, including but not limited to voice, video, real-time text, instant messaging and combinations of these (multi-media). The non-real-time streaming of media is not considered. For media, only security of transport (e.g., securing the Real-time Transport Protocol, RTP) is considered, and higher level security measures (e.g., digital rights management) are not considered. Peer-to-peer signalling between SIP user agents (without involving SIP intermediaries) is not considered.
+    Detailed considerations for lawful interception are outside the scope of this Technical Report, although general considerations for call recording and audit are discussed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

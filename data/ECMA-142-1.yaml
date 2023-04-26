@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.3
+id: ECMA-142
+title:
+- content: Private Integrated Services Network (PISN) - Circuit mode 64kbit/s bearer
+    services - Service description, functional capabilities and information flows
+    (BCSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-142_1st_edition_june_1990.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-142
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1990-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1990-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the service description and control aspects, including functional capabilities and information flows, of standardised circuit-mode bearer services which may be supported by a Private Integrated Services Network (PISN).
+    This Standard includes the following basic services:
+    A PISN shall support at least one of the above three bearer services to conform with this Standard.
+    The scope of this Standard does not include:
+    This Standard includes optional procedures for the provision of functions equivalent to the following public ISDN supplementary services: Subaddress and Multiple Subscriber Number.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-142
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-142_1st_edition_june_1990.pdf
+      type: pdf
+    docid:
+    - id: ECMA-142
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1990-06
+    edition:
+      content: '1'
+    revdate: 1990-06
+    formattedref:
+      content: ECMA-142
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-142
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-142_2nd_edition_june_1997.pdf
+      type: pdf
+    docid:
+    - id: ECMA-142
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1997-06
+    edition:
+      content: '2'
+    revdate: 1997-06
+    formattedref:
+      content: ECMA-142
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

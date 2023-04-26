@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.3
+id: ECMA-392
+title:
+- content: MAC and PHY for operation in TV white space
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-392_1st_edition_december_2009.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-392
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2009-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2009-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies a medium access control (MAC) sub-layer and a physical (PHY) layer for personal/portable cognitive wireless networks operating in TV bands. This Standard also specifies a MUX sublayer for higher layer protocols.
+    This Standard specifies a number of incumbent protection mechanisms which may be used to meet regulatory requirements.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-392
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-392_1st_edition_december_2009.pdf
+      type: pdf
+    docid:
+    - id: ECMA-392
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2009-12
+    edition:
+      content: '1'
+    revdate: 2009-12
+    formattedref:
+      content: ECMA-392
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

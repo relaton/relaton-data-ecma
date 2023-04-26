@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: ECMATR-79
+title:
+- content: Private Integrated Services Networks (PISN) - Wireless Terminal Mobility
+    (WTM) - WTM between networks - Requirements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-79/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-79_1st_edition_february_2000.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/79
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2000-02
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2000-02
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Technical Report identifies various requirements for a mobility service that allow users with Wireless Terminals (WTs) to freely move beyond the domain of their home network and still be able to access the telecommunication services of their own Private Integrated Services Network (PISN), also called the home network.
+    The WTM service described in this Technical Report builds upon/extends the WTM service defined for a single PISN found in the following standards:
+    The intended use of each of the requirements is briefly described in this Technical Report. The requirements are restricted to a WTM service that is provided to private WTM users only regardless where the WTM user may be roaming in his own PISN, to another PISN or into a public telecommunications network supporting WTM.
+    Inter-working in terms of mobility (e.g. roaming, which may imply identification, authentication and location handling) with analogue networks is outside the scope of this Technical Report.
+    Requirements for CTM users roaming from a public network into a PISN are, however, outside the scope of this Technical Report.
+    The document also indicates how some of the requirements may be put together in order to provide a WTM service of a certain ambition level.
+    Charging principles are not discussed in this Technical Report.
+    This Technical Report also contains a roadmap for converting existing regional and international standards for wireless terminal mobility in private networks into a unified set of international standards. The proposed roadmap also suggests how new international standards within this filed should be developed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

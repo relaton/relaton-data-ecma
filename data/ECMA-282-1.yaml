@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.3
+id: ECMA-282
+title:
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Private User Mobility (PUM) - Registration supplementary service (QSIG-PUMR)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-282_1st_edition_december_1998.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-282
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1998-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1998-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the signalling protocol for the support of the Private User Mobility Registration supplementary service (SS-PUMR) at the Q reference point between Private Integrated services Network eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
+    SS-PUMR is a supplementary service which enables a PUM user to register at, or de-register from, any wired or wireless terminal within the PISN. The ability to register at different locations in the PISN at different times enables the PUM user to maintain the provided services (including the ability to make and receive calls) at different access points. De-registration is used to inform the PISN that the PUM user is temporarily unable to make use of the provided services (including the receipt of calls). SS-PUMR may provide the PUM user with the ability to obtain information on the current registration sessions (interrogation).
+    The Q reference point is defined in ECMA-133.
+    Service specifications are produced in three stages and according to the method specified in ITU-T Rec. I.130. This Standard contains the stage 3 specification for the Q reference point and satisfies the requirements identified by the stage 1 and stage 2 specifications in ECMA-281.
+    The signalling protocol for SS-PUMR uses certain aspects of the generic procedures for the control of supplementary services specified in ECMA-165.
+    This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between SS-PUMR and other supplementary services and ANFs.
+    NOTE – Additional interactions that have no impact on the signalling protocol at the Q reference point can be found in the relevant stage 1 specifications.
+    This Standard is applicable to PINXs which can interconnect to form a PISN.
+    This Standard applies to PUM only within a single PISN.
+    The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-282
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-282_1st_edition_december_1998.pdf
+      type: pdf
+    docid:
+    - id: ECMA-282
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '1'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-282
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-282
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-282_2nd_edition_june_2000.pdf
+      type: pdf
+    docid:
+    - id: ECMA-282
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2000-06
+    edition:
+      content: '2'
+    revdate: 2000-06
+    formattedref:
+      content: ECMA-282
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

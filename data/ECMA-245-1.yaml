@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.3
+id: ECMA-245
+title:
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - PINX clock synchronization (SYNC-SIG)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-245_1st_edition_june_1996.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-245
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1996-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1996-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the signalling protocol for the support of clock synchronization (SYNC-SIG) between Private Integrated Services Network Exchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
+    This protocol supports the synchronization of a PISN using the different sources of clocks available to each PINX. The protocol is based on the method of synchronization described in annex F of the International Standard ISO/IEC 11573.
+    This Standard is applicable to PINXs which can be interconnected to form a PISN.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-245
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-245_1st_edition_june_1996.pdf
+      type: pdf
+    docid:
+    - id: ECMA-245
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1996-06
+    edition:
+      content: '1'
+    revdate: 1996-06
+    formattedref:
+      content: ECMA-245
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,53 @@
+---
+schema-version: v1.2.3
+id: ECMA-171
+title:
+- content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording - DATA/DAT-DC format using 60 m and 90 m length tapes
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-171/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-171_1st_edition_june_1992.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-171
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1992-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1992-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of a 3,81 mm wide magnetic tape cartridge to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, the recorded format and the recording method, thereby allowing data interchange between drives by means of such magnetic tape cartridges.
+    This Ecma Standard specifies two types of cartridges which, for the purpose of this Ecma Standard, are referred to as Type A and Type B.
+    For Type A, the magnetic tape has a nominal thickness of 13 µm and a nominal length of up to 60,5 m.
+    For Type B, the magnetic tape has a nominal thickness of 9 µm a length of up to 92 m.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

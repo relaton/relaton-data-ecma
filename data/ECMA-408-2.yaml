@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.3
+id: ECMA-408
+title:
+- content: Dart programming language specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-408_2nd_edition_december_2014.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-408
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2014-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 2014-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma standard speciﬁes the syntax and semantics of the Dart programming language.
+    It does not specify the APIs of the Dart libraries except where those library elements are essential to the correct functioning of the language itself (e.g., the existence of class Object with methods such as noSuchMethod, runtimeType).
+    All editions of this Standard have been prepared under the Ecma RF patent policy.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-408
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-408_1st_edition_june_2014.pdf
+      type: pdf
+    docid:
+    - id: ECMA-408
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2014-06
+    edition:
+      content: '1'
+    revdate: 2014-06
+    formattedref:
+      content: ECMA-408
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-408
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-408_2nd_edition_december_2014.pdf
+      type: pdf
+    docid:
+    - id: ECMA-408
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2014-12
+    edition:
+      content: '2'
+    revdate: 2014-12
+    formattedref:
+      content: ECMA-408
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-408
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-408_3rd_edition_june_2015.pdf
+      type: pdf
+    docid:
+    - id: ECMA-408
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2015-06
+    edition:
+      content: '3'
+    revdate: 2015-06
+    formattedref:
+      content: ECMA-408
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

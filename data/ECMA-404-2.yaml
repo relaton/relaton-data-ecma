@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.3
+id: ECMA-404
+title:
+- content: The JSON data interchange syntax
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-404/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-404_2nd_edition_december_2017.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-404
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2017-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 2017-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    JSON is a lightweight, text-based, language-independent syntax for defining data interchange formats. It was derived from the ECMAScript programming language, but is programming language independent. JSON defines a small set of structuring rules for the portable representation of structured data.
+    The goal of this specification is only to define the syntax of valid JSON texts. Its intent is not to provide any semantics or interpretation of text conforming to that syntax. It also intentionally does not define how a valid JSON text might be internalized into the data structures of a programming language. There are many possible semantics that could be applied to the JSON syntax and many ways that a JSON text can be processed or mapped by a programming language. Meaningful interchange of information using JSON requires agreement among the involved parties on the specific semantics to be applied. Defining specific semantic interpretations of JSON is potentially a topic for other specifications. Similarly, language mappings of JSON can also be independently specified. For example, ECMA-262 defines mappings between valid JSON texts and ECMAScript’s runtime data structures.
+    This edition has been prepared under the Ecma RF patent policy.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: JISX3061-2021(Japanesetranslation)
+    docid:
+    - id: JIS X 3061:2021 (Japanese translation)
+      type: ECMA
+      primary: true
+    formattedref:
+      content: JIS X 3061:2021 (Japanese translation)
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-404
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-404_1st_edition_october_2013.pdf
+      type: pdf
+    docid:
+    - id: ECMA-404
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2013-10
+    edition:
+      content: '1'
+    revdate: 2013-10
+    formattedref:
+      content: ECMA-404
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

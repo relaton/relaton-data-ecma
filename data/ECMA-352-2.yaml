@@ -1,0 +1,118 @@
+---
+schema-version: v1.2.3
+id: ECMA-352
+title:
+- content: Near Field Communication interface and protocol -2 (NFCIP-2)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-352_2nd_edition_june_2010.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-352
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2010-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 2010-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |
+    ECMA-340, ISO/IEC 14443 and ISO/IEC 15693 standards specify the radio frequency signal interface, initialization, anti-collision and protocols for wireless interconnection of closely coupled devices and access to contactless integrated circuit cards operating at 13,56 MHz.
+    This Standard specifies the communication mode selection mechanism, designed not to disturb any ongoing communication at 13,56 MHz, for devices implementing ISO/IEC 18092, ISO/IEC 14443 or ISO/IEC 15693 series. The communication modes are specified in the respective International Standards and are outside of the scope of this document.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-352
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-352_1st_edition_december_2003.pdf
+      type: pdf
+    docid:
+    - id: ECMA-352
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2003-12
+    edition:
+      content: '1'
+    revdate: 2003-12
+    formattedref:
+      content: ECMA-352
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-352
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-352_2nd_edition_june_2010.pdf
+      type: pdf
+    docid:
+    - id: ECMA-352
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2010-06
+    edition:
+      content: '2'
+    revdate: 2010-06
+    formattedref:
+      content: ECMA-352
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-352
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-352_3rd_edition_june_2013.pdf
+      type: pdf
+    docid:
+    - id: ECMA-352
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2013-06
+    edition:
+      content: '3'
+    revdate: 2013-06
+    formattedref:
+      content: ECMA-352
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

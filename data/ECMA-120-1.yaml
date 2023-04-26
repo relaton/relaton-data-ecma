@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.3
+id: ECMA-120
+title:
+- content: Data interchange on 12,7 mm 18-track magnetic tape cartridges
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-120_1st_edition_december_1986.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-120
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1986-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1986-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Ecma Standard specifies the physical and magnetic characteristics
+    of a 12,7 mm wide, 18-track magnetic tape cartridge to enable interchangeability
+    of such cartridges. It also specifies the quality of the recorded signals, the
+    format and the recording method thus allowing, together with Standard ECMA-13
+    for Magnetic Tape Labelling, full data interchange by means of such magnetic tape
+    cartridges.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-120
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-120_1st_edition_december_1986.pdf
+      type: pdf
+    docid:
+    - id: ECMA-120
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1986-12
+    edition:
+      content: '1'
+    revdate: 1986-12
+    formattedref:
+      content: ECMA-120
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-120
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-120_2nd_edition_december_1987.pdf
+      type: pdf
+    docid:
+    - id: ECMA-120
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1987-12
+    edition:
+      content: '2'
+    revdate: 1987-12
+    formattedref:
+      content: ECMA-120
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

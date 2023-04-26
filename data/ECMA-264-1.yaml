@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: ECMA-264
+title:
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Call priority interruption and call priority interruption protection
+    supplementary services (QSIG-CPI(P))
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-264_1st_edition_september_1997.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-264
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1997-09
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1997-09
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the signalling protocol for the support of the Call priority interruption (SS-CPI) and Call Priority Interruption Protection (SS-CPIP) supplementary services at the Q reference point between Private Integrated services Network eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
+    NOTE 1 – This edition of this Standard does not apply to calls using the circuit-mode multiple rate bearer service.
+    SS-CPI allows a call request for a priority call to proceed successfully in the case that there is no user information channel available. This is accomplished by force releasing an established call of lower priority.
+    SS-CPIP allows for the protection of calls against interruption from priority calls.
+    The Q reference point is defined in ECMA-133.
+    Service specifications are produced in three stages and according to the method specified in ETS 300 387. This Ecma Standard contains the stage 3 specification for the Q reference point and satisfies the requirements identified by the stage 1 and stage 2 specifications in ECMA-263.
+    The signalling protocol for SS-CPI(P) operates on top of the signalling protocol for basic circuit switched call control, as specified in ECMA-143, and uses certain aspects of the generic procedures for the control of supplementary services specified in ECMA-165.
+    This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between SS-CPI(P) and other supplementary services and ANFs.
+    NOTE 2 – Additional interactions that have no impact on the signalling protocol at the Q reference point can be found in the relevant stage 1 specifications.
+    This Ecma Standard is applicable to PINXs that can interconnect to form a PISN.
+    The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-264
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-264_1st_edition_september_1997.pdf
+      type: pdf
+    docid:
+    - id: ECMA-264
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1997-09
+    edition:
+      content: '1'
+    revdate: 1997-09
+    formattedref:
+      content: ECMA-264
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-264
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-264_2nd_edition_december_1998.pdf
+      type: pdf
+    docid:
+    - id: ECMA-264
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '2'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-264
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

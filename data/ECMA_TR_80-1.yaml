@@ -1,0 +1,50 @@
+---
+schema-version: v1.2.3
+id: ECMATR-80
+title:
+- content: Migrating to CSTA Phase III
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-80/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-80_1st_edition_june_2000.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/80
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2000-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2000-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    The purpose of this Technical Report is to aid the transition to CSTA Phase III by those who are already familiar with Phases I and II.
+    Phase III of CSTA extends the previous Phase II Standard in major theme directions as well as numerous details. Major areas of advancement include:
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

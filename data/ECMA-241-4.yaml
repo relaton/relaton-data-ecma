@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.3
+id: ECMA-241
+title:
+- content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Message waiting indication supplementary service
+    (MWISD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-241/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-241_4th_edition_february_2002.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-241
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2002-02
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: 2002-02
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies supplementary service Message Waiting Indication (SS-MWI), which is related, but not limited, to various basic services supported by Private Integrated Services Networks (PISNs). Basic services are specified in ECMA-142.
+    This supplementary service MWI enables a Served User to be sent a Message Waiting Indication and also enables this Message Waiting Indication to be cancelled.
+    Service specifications are produced in three stages, according to the method described in ETS 300 387. Service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-MWI. The stage 1 specification (clause 6) specifies the supplementary service as seen by users of PISNs. The stage 2 specification (clause 7) specifies the functional entities involved in the supplementary service and the information flows between them.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-241
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-241_1st_edition_june_1996.pdf
+      type: pdf
+    docid:
+    - id: ECMA-241
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1996-06
+    edition:
+      content: '1'
+    revdate: 1996-06
+    formattedref:
+      content: ECMA-241
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-241
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-241_2nd_edition_september_1997.pdf
+      type: pdf
+    docid:
+    - id: ECMA-241
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1997-09
+    edition:
+      content: '2'
+    revdate: 1997-09
+    formattedref:
+      content: ECMA-241
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-241
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-241_3rd_edition_december_1998.pdf
+      type: pdf
+    docid:
+    - id: ECMA-241
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '3'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-241
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

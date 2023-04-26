@@ -1,0 +1,50 @@
+---
+schema-version: v1.2.3
+id: ECMATR-102
+title:
+- content: Personal Networks – Overview and standardization needs
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-102/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-102_1st_edition_december_2010.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/102
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2010-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2010-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Technical Report introduces and defines architectural concepts, and standardization needs concerning personal networks (PN) and PNs that are extended with Services using various scenarios.
+    This report does not specify the standards or the technologies to be used.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

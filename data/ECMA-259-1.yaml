@@ -1,0 +1,55 @@
+---
+schema-version: v1.2.3
+id: ECMA-259
+title:
+- content: Data interchange on 12,7 mm 208-track magnetic tape cartridges - DLT 5
+    format
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-259/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-259_1st_edition_june_1997.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-259
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1997-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1997-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Ecma Standard specifies the physical and magnetic characteristics
+    of a 12,7 mm wide, 208-track magnetic tape cartridge, to enable physical interchangeability
+    of such cartridges between drives. It also specifies the quality of the recorded
+    signals, a format – called Digital Linear Tape 5 (DLT 5) – and a recording method,
+    thereby allowing data interchange between drives. Together with a labelling standard,
+    for instance Standard ECMA-13 for Magnetic Tape Labelling, it allows full data
+    interchange by means of such magnetic tape cartridges.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

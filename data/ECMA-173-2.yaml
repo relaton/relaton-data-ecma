@@ -1,0 +1,97 @@
+---
+schema-version: v1.2.3
+id: ECMA-173
+title:
+- content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Call diversion supplementary services (CFSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-173_2nd_edition_june_1997.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-173
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1997-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1997-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the supplementary services Call Forwarding Unconditional (CFU), Call Forwarding Busy (CFB), Call Forwarding No Reply (CFNR) and Call Deflection (CD), which are applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.
+    SS-CFU, SS-CFB and SS-CFNR are supplementary services which apply during call establishment providing a diversion of an incoming call to an other destination. SS-CD is a supplementary service which allows a served user to respond to an incoming call by requesting redirection of that call to another number specified in the response.
+    Supplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of the Call Diversion supplementary services. The stage 1 specifications (clauses 6, 7, 8 and 9) specify the supplementary services as seen by users of PISNs. The stage 2 specification (clause 10) identifies the functional entities involved in the supplementary services and the information flows between them.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-173
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-173_1st_edition_june_1992.pdf
+      type: pdf
+    docid:
+    - id: ECMA-173
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1992-06
+    edition:
+      content: '1'
+    revdate: 1992-06
+    formattedref:
+      content: ECMA-173
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-173
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-173_2nd_edition_june_1997.pdf
+      type: pdf
+    docid:
+    - id: ECMA-173
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1997-06
+    edition:
+      content: '2'
+    revdate: 1997-06
+    formattedref:
+      content: ECMA-173
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

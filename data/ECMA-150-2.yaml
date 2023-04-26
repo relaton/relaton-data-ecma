@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.3
+id: ECMA-150
+title:
+- content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording - DDS-DC format using 60 m and 90 m length tapes
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-150/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-150_2nd_edition_june_1992.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-150
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1992-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1992-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of a 3,81 mm wide magnetic tape cartridge to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, the recorded method and the recording format, thereby allowing data interchange between drives by means of such magnetic tape cartridges.
+    This Ecma Standard specifies two types of cartridge which, for the purpose of this Standard, are referred to as Type A and Type B.
+    For Type A, the magnetic tape has a nominal thickness of 13 micron and a nominal length of up to 60,5 m.
+    For Type B, the magnetic tape has a nominal thickness of 9 micron and a nominal length of up to 92,0 m.
+    The recorded format, known as Digital Data Storage – Data Compression (DDS-DC), includes all the features of the DDS recorded format specified in Standard ECMA-139, with additional features which support the recording data which has been processed, by the generating system, after receipt from the host and prior to recording. Such features are intended for, but are not limited to, the support of one or more data compression Algorithm.
+    Information interchange between systems by means of this Standard also requires the use, at a minimum, of a labelling and file structure and an interchange code which are agreed upon by the interchange parties. It is not within the scope of this Standard to specify the labelling and file structure, the interchange code or the Processing Algorithm.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-150
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-150_1st_edition_june_1991.pdf
+      type: pdf
+    docid:
+    - id: ECMA-150
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1991-06
+    edition:
+      content: '1'
+    revdate: 1991-06
+    formattedref:
+      content: ECMA-150
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

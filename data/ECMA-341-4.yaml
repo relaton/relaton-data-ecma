@@ -1,0 +1,143 @@
+---
+schema-version: v1.2.3
+id: ECMA-341
+title:
+- content: Environmental design considerations for ICT & CE products
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-341/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-341_4th_edition_december_2010.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-341
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2010-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: 2010-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard applies to all audio/video, information and communication technology equipment marketed as final products, hereafter referred to as products.
+    Although this Standard does not explicitly apply to individual components and subassemblies to be incorporated into final products, component manufacturers also need to consider this Standard, to enable manufacturers using such components to meet the requirements herein.
+    Only the intended use of products as defined by the manufacturer is within the scope of this Standard.
+    This Standard specifies requirements and recommendations for the design of environmentally sound products regarding
+    This Standard covers only criteria directly related to the environmental performance of the product. Criteria such as safety, ergonomics and electromagnetic compatibility (EMC) are outside the scope of this Standard and are covered by other standards.
+    This edition of ECMA-341 aims to align IEC 62075 and ECMA-341 again and to serve as the base for further revisions.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-341
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-341_japanese_2nd_edition_december_2004.pdf
+      type: pdf
+    docid:
+    - id: ECMA-341
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+    formattedref:
+      content: ECMA-341
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-341
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-341_1st_edition_december_2002-1.pdf
+      type: pdf
+    docid:
+    - id: ECMA-341
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2002-12
+    edition:
+      content: '1'
+    revdate: 2002-12
+    formattedref:
+      content: ECMA-341
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-341
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-341_2nd_edition_december_2004.pdf
+      type: pdf
+    docid:
+    - id: ECMA-341
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2004-12
+    edition:
+      content: '2'
+    revdate: 2004-12
+    formattedref:
+      content: ECMA-341
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-341
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-341_3rd_edition_june_2008.pdf
+      type: pdf
+    docid:
+    - id: ECMA-341
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2008-06
+    edition:
+      content: '3'
+    revdate: 2008-06
+    formattedref:
+      content: ECMA-341
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

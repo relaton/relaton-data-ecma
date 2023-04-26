@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.3
+id: ECMA-225
+title:
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Transit counter additional network feature (QSIG-TC)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-225/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-225_2nd_edition_june_1997.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-225
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1997-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1997-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the signalling protocol for the support of the Transit Counter additional network feature (ANF-TC) at the Q reference point between Private Integrated Services Network Exchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
+    ANF-TC is a feature that limits the number of Transit PINXs that a call setup request may be routed through e.g., to protect the network against indefinite looping.
+    The Q reference point is defined in ISO/IEC 11579-1.
+    Service specifications are produced in three stages and according to the method specified in ETS 300 387. This Standard contains the stage 3 specification for the Q reference point and satisfies the requirements identified by the stage 1 and stage 2 specifications in ECMA-224.
+    The signalling protocol for ANF-TC operates in association with the signalling protocols for basic circuit switched call control (as specified in ECMA-143) and call independent (connection oriented) signalling connections (as specified in ECMA-165).
+    This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between ANF-TC and other supplementary services and ANFs.
+    This Standard is applicable to PINXs that can interconnect to form a PISN.
+    The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-225
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-225_1st_edition_june_1995.pdf
+      type: pdf
+    docid:
+    - id: ECMA-225
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1995-06
+    edition:
+      content: '1'
+    revdate: 1995-06
+    formattedref:
+      content: ECMA-225
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.3
+id: ECMA-250
+title:
+- content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Common information additional network feature (ANF-CMNSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-250_1st_edition_december_1996.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-250
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1996-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1996-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the additional network feature Common Information (ANF-CMN), which is applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in Standard ECMA-142.
+    ANF-CMN is an additional network feature which enables the exchange of Common Information between entities acting on behalf of the two ends of a connection through a PISN. This Common Information is a collection of miscellaneous information that relates to the user or equipment at one end of a connection and includes one or more of the following: Feature Identifiers, Party Category, Equipment Identity. This information, when received by an entity, can be used for any purpose, e.g. as the basis for indications to the local user or to another network or in order to filter feature requests.
+    Additional network feature specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of ANF-CMN. The stage 1 specification (clause 6) specifies the additional network feature as seen by users of the feature. The stage 2 specification (clause 7) identifies the functional entities involved in the additional network feature and the information flows between them.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-250
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-250_1st_edition_december_1996.pdf
+      type: pdf
+    docid:
+    - id: ECMA-250
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1996-12
+    edition:
+      content: '1'
+    revdate: 1996-12
+    formattedref:
+      content: ECMA-250
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

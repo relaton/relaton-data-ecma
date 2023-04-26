@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.3
+id: ECMA-340
+title:
+- content: Near Field Communication Interface and Protocol (NFCIP-1)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-340/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-340_3rd_edition_june_2013.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-340
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2013-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: 2013-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard defines communication modes for the Near Field Communication Interface and Protocol (NFCIP-1) using inductive coupled devices operating at the centre frequency of 13,56 MHz for interconnection of computer peripherals. It also defines both the Active and the Passive communication modes of Near Field Communication Interface and Protocol (NFCIP-1) to realize a communication network using Near Field Communication devices for networked products and also for consumer equipment.
+    This Standard specifies, in particular, modulation schemes, codings, transfer speeds, and frame format of the RF interface, as well as initialization schemes and conditions required for data collision control during initialization. Furthermore, this Standard defines a transport protocol including protocol activation and data exchange methods. Information interchange between systems also requires, at a minimum, agreement between the interchange parties upon the interchange codes and the data structure.
+    This 3rd edition fully matches ISO/IEC 18092.
+    ECMA-356 “NFCIP-1 – RF Interface Test Methods”, and ECMA-362 “NFCIP-1 – Protocol Test Methods” specify tests for ECMA-340.
+    ECMA-373 specifies the two-wire interface between a Transceiver and a Front-end.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-340
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-340_1st_edition_december_2002.pdf
+      type: pdf
+    docid:
+    - id: ECMA-340
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2002-12
+    edition:
+      content: '1'
+    revdate: 2002-12
+    formattedref:
+      content: ECMA-340
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-340
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-340_2nd_edition_december_2004.pdf
+      type: pdf
+    docid:
+    - id: ECMA-340
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2004-12
+    edition:
+      content: '2'
+    revdate: 2004-12
+    formattedref:
+      content: ECMA-340
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

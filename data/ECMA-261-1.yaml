@@ -1,0 +1,54 @@
+---
+schema-version: v1.2.3
+id: ECMA-261
+title:
+- content: Broadband Private Integrated Services Network (B-PISN) - Service description
+    - Broadband connection oriented bearer services (B-BCSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-261/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-261_1st_edition_june_1997.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-261
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1997-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1997-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies service description and control aspects of the broadband connection oriented bearer services which may be provided by Broadband Private Integrated Services Networks (B-PISNs).
+    One of the purposes of the service specification for broadband connection oriented bearer services is to guide and constrain the work on signalling protocols.
+    Therefore, this Standard is concerned mainly with the control aspects of services.
+    Change of traffic characteristics during a call is outside the scope of this Standard.
+    Charging considerations are outside the scope of this Standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

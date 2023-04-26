@@ -1,0 +1,163 @@
+---
+schema-version: v1.2.3
+id: ECMA-35
+title:
+- content: Character code structure and extension techniques
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_1st_edition_december_1971.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-35
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1971-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1971-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the structure of 8-bit codes and 7-bit codes which provide for the coding of character sets. The code elements used in the structure are common to both the 8-bit and 7-bit codes. The codes use a variety of techniques for extending the capabilities of elementary 8-bit and 7-bit codes. Greater emphasis is given to 8-bit codes in this edition of the Standard than in previous editions because they are now more widely used.
+    The use of common elements in the 8-bit and 7-bit code structure enables any specific conforming 8-bit code to be transformed into an equivalent 7-bit code, and vice versa, in a simple and direct fashion.
+    Standard ECMA-43 conforms to the 8-bit code structure specified here, and Standard ECMA-6 conforms to the 7-bit code structure specified here.
+    The sixth edition of this Standard is fully identical with International Standard ISO/IEC 2022:1994.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-35
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_1st_edition_december_1971.pdf
+      type: pdf
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1971-12
+    edition:
+      content: '1'
+    revdate: 1971-12
+    formattedref:
+      content: ECMA-35
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-35
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_2nd_edition_january_1980.pdf
+      type: pdf
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1980-01
+    edition:
+      content: '2'
+    revdate: 1980-01
+    formattedref:
+      content: ECMA-35
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-35
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_3rd_edition_january_1982.pdf
+      type: pdf
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1982-01
+    edition:
+      content: '3'
+    revdate: 1982-01
+    formattedref:
+      content: ECMA-35
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-35
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_4th_edition_march_1985.pdf
+      type: pdf
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1985-03
+    edition:
+      content: '4'
+    revdate: 1985-03
+    formattedref:
+      content: ECMA-35
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-35
+    docid:
+    - id: ECMA-35
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1993-06
+    edition:
+      content: '5'
+    revdate: 1993-06
+    formattedref:
+      content: ECMA-35
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

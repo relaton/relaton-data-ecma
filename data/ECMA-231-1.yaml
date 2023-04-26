@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.3
+id: ECMA-231
+title:
+- content: Data interchange on 12,7 mm 128-track magnetic tape cartridges - DLT 4
+    format
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-231/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-231_1st_edition_december_1995.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-231
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1995-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1995-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of a 12,7 mm wide, 128-track magnetic tape cartridge, to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, a format – called Digital Linear Tape 4 (DLT 4) – and a recording method.
+    Together with a labelling standard, for instance Standard ECMA-13 for Magnetic Tape Labelling, it allows full data interchange by means of such magnetic tape cartridges.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

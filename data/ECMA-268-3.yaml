@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.3
+id: ECMA-268
+title:
+- content: 80 mm DVD - Read-only disk
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-268/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-268_3rd_edition_april_2001.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-268
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2001-04
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: 2001-04
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the mechanical, physical and optical characteristics of a 80 mm, read-only optical disk to enable the interchange of such disks. It specifies the quality of the recorded signals, the format of the data and the recording method, thereby allowing for information interchange by means of such disks. This disk is identified as DVD – Read-Only Disk.
+    This Ecma Standard specifies
+    This Ecma Standard provides for interchange of disks between disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-268
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-268_1st_edition_december_1997.pdf
+      type: pdf
+    docid:
+    - id: ECMA-268
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1997-12
+    edition:
+      content: '1'
+    revdate: 1997-12
+    formattedref:
+      content: ECMA-268
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-268
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-268_2nd_edition_december_1999.pdf
+      type: pdf
+    docid:
+    - id: ECMA-268
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1999-12
+    edition:
+      content: '2'
+    revdate: 1999-12
+    formattedref:
+      content: ECMA-268
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

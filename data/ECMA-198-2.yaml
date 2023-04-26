@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.3
+id: ECMA-198
+title:
+- content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording - DDS-2 format using 120 m length tapes
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-198/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-198_2nd_edition_june_1995.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-198
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1995-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1995-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of a 3,81 mm wide magnetic tape cartridge to enable interchangeability of such cartridges between drives. It also specifies the quality of the recorded signals, the recording method and the recorded format, thereby allowing data interchange between drives by means of such magnetic tape cartridges.
+    Information interchange between systems also requires, at a minimum, agreement between the interchange parties upon the interchange code(s) and the specifications of the structure and labelling of the information on the interchanged cartridge.
+    Under information interchange circumstances in which a processing algorithm, e.g. for lossless data compression as specified in Standard ECMA-151, is applied to the host data prior to recording on the tape and a complementary reprocessing algorithm is applied after the data is read from the tape, agreement upon these by the interchange parties is also required.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-198
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-198_1st_edition_december_1993.pdf
+      type: pdf
+    docid:
+    - id: ECMA-198
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1993-12
+    edition:
+      content: '1'
+    revdate: 1993-12
+    formattedref:
+      content: ECMA-198
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,54 @@
+---
+schema-version: v1.2.3
+id: ECMA-207
+title:
+- content: 'Data interchange on 90 mm flexible disk cartridges - 326 data tracks on
+    each side - Capacity: 21 Mbytes - ISO type 305'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-207/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-207_1st_edition_june_1994.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-207
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1994-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1994-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the characteristics of 90 mm flexible disk cartridges (FDC) of 21 Mbytes formatted capacity, recorded at 31 831 ftprad in the Inner Zone and 47 747 ftprad in the Outer Zone with sector servo tracking on 326 data tracks on each side, using 2-7 RLL recording.
+    It specifies the mechanical, physical and magnetic characteristics of the cartridge, so as to provide physical interchangeability between data processing systems.
+    It also specifies the method of recording, the quality of recorded signals, the track layouts and the track formats of data tracks and servo tracks.
+    Such flexible disk cartridges are identified as ISO Type 305.
+    Together with a standard for volume and file structure, for instance Standard ECMA-107, this Standard provides for full data interchange between data processing systems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

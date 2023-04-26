@@ -1,0 +1,107 @@
+---
+schema-version: v1.2.3
+id: ECMA-158
+title:
+- content: Portable Common Tool Environment (PCTE) - C programming language binding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: ECMA-158
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1991-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1991-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard defines the binding of the Portable Common Tool Environment (PCTE), as specified in ECMA-149, to the C programming language.
+    A number of features are not completely defined in ECMA-149, some freedom being allowed to the implementor.  Some of these features are specified as implementation limits.  Some constraints are placed on these implementation limits by this Ecma Standard.  These constraints are specified in clause 24, Implementation Limits.
+    PCTE is an interface to a set of facilities that forms the basis for constructing environments supporting systems engineering projects.  These facilities are designed particularly to provide an infrastructure for programs which may be part of such environments. Such programs, which are used as aids to system development, are often referred to as tools.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-158
+    docid:
+    - id: ECMA-158
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1991-06
+    edition:
+      content: '1'
+    revdate: 1991-06
+    formattedref:
+      content: ECMA-158
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-158
+    docid:
+    - id: ECMA-158
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1993-06
+    edition:
+      content: '2'
+    revdate: 1993-06
+    formattedref:
+      content: ECMA-158
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-158
+    docid:
+    - id: ECMA-158
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1994-12
+    edition:
+      content: '3'
+    revdate: 1994-12
+    formattedref:
+      content: ECMA-158
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

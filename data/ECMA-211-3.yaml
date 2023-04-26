@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.3
+id: ECMA-211
+title:
+- content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Advice of charge supplementary services (AOCSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-211/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-211_3rd_edition_december_2001.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-211
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2001-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: 2001-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the Supplementary Services Advice of Charge (SS-AOC), which are applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.
+    SS-AOC is a set of supplementary services which enable a user to receive information about the charging of its calls that leave the PISN and enter another network.
+    AOC-S enables the user to receive information about the charging rates at call set-up time and also to receive further information during the call if there is a change of charging rates.
+    AOC-D enables the user to receive information on the recorded charges during the active phase of the call.
+    AOC-E enables the user to receive information on the recorded charges when the call is terminated.
+    The provision of charging information to the called user, the provision of charging information for calls that do not leave the PISN, and PISN accounting are outside the scope of this Standard.
+    Charging assumptions which apply to the specification of SS-AOC in this Standard are contained in annex D.
+    Service specifications are produced in three stages, according the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-AOC. The stage 1 specifications (clauses 6, 7, 8) specify the supplementary services as seen by users of PISNs. The stage 2 specification (clause 9) identifies the functional entities involved in the supplementary services and the information flows between them.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-211
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-211_1st_edition_december_1994.pdf
+      type: pdf
+    docid:
+    - id: ECMA-211
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1994-12
+    edition:
+      content: '1'
+    revdate: 1994-12
+    formattedref:
+      content: ECMA-211
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-211
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-211_2nd_edition_june_1997.pdf
+      type: pdf
+    docid:
+    - id: ECMA-211
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1997-06
+    edition:
+      content: '2'
+    revdate: 1997-06
+    formattedref:
+      content: ECMA-211
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0
