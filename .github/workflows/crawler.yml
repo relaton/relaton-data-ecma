@@ -10,11 +10,6 @@ on:
   schedule:
   - cron: '0 14 * * *'
   workflow_dispatch:
-    inputs:
-      args:
-        description: Extra args to pass to crawler.rb script
-        required: false
-        default: 'latest'
 
 jobs:
   crawl:
