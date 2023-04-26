@@ -9,7 +9,7 @@ FileUtils.rm_rf('data')
 FileUtils.rm Dir.glob('index.*')
 
 # Run fetcher
-RelatonEcma::DataFetcher.fetch
+RelatonEcma::DataFetcher.new.fetch
 
 # Zip index
 system('zip index.zip index.yaml')
