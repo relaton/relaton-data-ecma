@@ -1,0 +1,164 @@
+---
+schema-version: v1.2.3
+id: ECMA-335
+title:
+- content: Common Language Infrastructure (CLI)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_1st_edition_december_2001.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-335
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2001-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2001-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard defines the Common Language Infrastructure (CLI) in which applications written in multiple high-level languages can be executed in different system environments without the need to rewrite those applications to take into consideration the unique characteristics of those environments. This Standard consists of the following parts:
+    Consisting of XML specification, see also ECMA TR/84, see also ECMA TR/89, Common Generics.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-335
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_1st_edition_december_2001.pdf
+      type: pdf
+    docid:
+    - id: ECMA-335
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2001-12
+    edition:
+      content: '1'
+    revdate: 2001-12
+    formattedref:
+      content: ECMA-335
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-335
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_2nd_edition_december_2002.pdf
+      type: pdf
+    docid:
+    - id: ECMA-335
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2002-12
+    edition:
+      content: '2'
+    revdate: 2002-12
+    formattedref:
+      content: ECMA-335
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-335
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_3rd_edition_june_2005.pdf
+      type: pdf
+    docid:
+    - id: ECMA-335
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2005-06
+    edition:
+      content: '3'
+    revdate: 2005-06
+    formattedref:
+      content: ECMA-335
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-335
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_4th_edition_june_2006.pdf
+      type: pdf
+    docid:
+    - id: ECMA-335
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2006-06
+    edition:
+      content: '4'
+    revdate: 2006-06
+    formattedref:
+      content: ECMA-335
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-335
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_5th_edition_december_2010.pdf
+      type: pdf
+    docid:
+    - id: ECMA-335
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2010-12
+    edition:
+      content: '5'
+    revdate: 2010-12
+    formattedref:
+      content: ECMA-335
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0
