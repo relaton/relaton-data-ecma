@@ -168,7 +168,7 @@ relation:
     - type: published
       value: 2011-06
     edition:
-      content: '5'
+      content: '5.1'
     revdate: 2011-06
     formattedref:
       content: ECMA-262

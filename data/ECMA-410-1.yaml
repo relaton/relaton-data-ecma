@@ -77,8 +77,12 @@ relation:
     - id: ECMA-410
       type: ECMA
       primary: true
+    date:
+    - type: published
+      value: 2015-06
     edition:
       content: '2'
+    revdate: 2015-06
     formattedref:
       content: ECMA-410
       language:

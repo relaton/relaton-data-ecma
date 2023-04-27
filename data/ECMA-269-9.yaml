@@ -98,6 +98,10 @@ relation:
       primary: true
     date:
     - type: published
+      value: 1998-12
+    edition:
+      content: '3'
+    revdate: 1998-12
     formattedref:
       content: ECMA-269
       language:
@@ -105,6 +109,10 @@ relation:
       script:
       - Latn
       format: text/plain
+    extent:
+    - locality:
+        type: volume
+        reference_from: '1'
 - type: updates
   bibitem:
     id: ECMA-269
@@ -117,6 +125,10 @@ relation:
       primary: true
     date:
     - type: published
+      value: 1998-12
+    edition:
+      content: '3'
+    revdate: 1998-12
     formattedref:
       content: ECMA-269
       language:
@@ -124,6 +136,10 @@ relation:
       script:
       - Latn
       format: text/plain
+    extent:
+    - locality:
+        type: volume
+        reference_from: '2'
 - type: updates
   bibitem:
     id: ECMA-269
@@ -136,6 +152,10 @@ relation:
       primary: true
     date:
     - type: published
+      value: 1998-12
+    edition:
+      content: '3'
+    revdate: 1998-12
     formattedref:
       content: ECMA-269
       language:
@@ -143,6 +163,10 @@ relation:
       script:
       - Latn
       format: text/plain
+    extent:
+    - locality:
+        type: volume
+        reference_from: '3'
 - type: updates
   bibitem:
     id: ECMA-269
@@ -155,6 +179,10 @@ relation:
       primary: true
     date:
     - type: published
+      value: 1998-12
+    edition:
+      content: '3'
+    revdate: 1998-12
     formattedref:
       content: ECMA-269
       language:
@@ -162,6 +190,10 @@ relation:
       script:
       - Latn
       format: text/plain
+    extent:
+    - locality:
+        type: volume
+        reference_from: '4'
 - type: updates
   bibitem:
     id: ECMA-269
