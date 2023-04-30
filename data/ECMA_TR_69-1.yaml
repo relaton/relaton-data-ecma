@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.3
+id: ECMATR-69
+title:
+- content: Reference model for project support environments
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-69/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-69_1st_edition_december_1994.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/69
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1994-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1994-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Technical Report is complementary to the Reference Model for Frameworks of Software Engineering Environments, ECMA TR/55. The second and third editions of TR/55, published jointly by Ecma and NIST, were the product of the joint working groups Ecma TC33-TGRM (Task Group for the Reference Model) and NIST/ISEE (Integrated Software Engineering Environment Working Group), and provided a basis for many other environment activities.
+    One of these, the U.S. Navy’s Next Generation Computer Resources (NGCR) Project Support Environment Standards Working Group (PSESWG) had the goal of establishing standards for interfaces in the particular domain of project support environments. As an initial step toward this goal, the working group produced this reference model for a project support environment. As a point of departure, the PSESWG chose the Ecma/NIST Frameworks Reference Model, which is essentially contained as a subset of the PSE model. A brief precis of the Frameworks Reference Model, and its relation to the overall PSE model, is described in chapter 7 of this document.
+    The working group that produced this model met as part of the NGCR program. In addition, however, the working group met jointly with both NIST/ISEE and Ecma TC33, and members of both of those groups participated in its development. The third edition of ECMA TR/55 was expanded and modified to ensure that TR/55 and this Technical Report, ECMA TR/69, are in harmony.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

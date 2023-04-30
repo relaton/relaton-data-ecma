@@ -1,16 +1,16 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: ECMAMEM-1971
 title:
-- content: '"Memento 1971" for year1971'
+- content: '"Memento 1971" for year 1971'
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-2023-public.pdf
-  type: doi
+- content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-1971-public.pdf
+  type: pdf
 type: standard
 docid:
 - id: ECMA MEM/1971
@@ -33,3 +33,5 @@ script:
 place:
 - Geneva
 doctype: document
+ext:
+  schema-version: v1.0.0

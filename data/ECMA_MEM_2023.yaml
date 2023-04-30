@@ -1,8 +1,8 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: ECMAMEM-2023
 title:
-- content: '"Memento 2023" for year2023'
+- content: '"Memento 2023" for year 2023'
   language:
   - en
   script:
@@ -10,7 +10,7 @@ title:
   format: text/plain
 link:
 - content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-2023-public.pdf
-  type: doi
+  type: pdf
 type: standard
 docid:
 - id: ECMA MEM/2023
@@ -33,3 +33,5 @@ script:
 place:
 - Geneva
 doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.3
+id: ECMATR-97
+title:
+- content: Guide for assessment of human exposure to electromagnetic fields from multimedia
+    products in accordance with IEC/EN 62311
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-97/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-97_1st_edition_june_2009.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/97
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2009-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2009-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Technical Report (TR) provides guidance for the assessment of electromagnetic field (EMF) exposure of the general public from multimedia equipment (MME) over the frequency range 0-300 GHz in accordance with the standard IEC 62311 and its European equivalent EN 62311. For convenience of the reader, in the remainder of this ECMA TR reference will be made to both standards as follows: IEC/EN 62311.
+    The standard IEC/EN 62311 is a generic standard that is applicable for all electrical and electronic equipment that are not covered by a specific EMF product standard. Several EMF standards exist for various categories of electronic products. However, specifically for MME, no product standard is currently available. Hence, the standard IEC/EN 62311 should be the applicable one for MME.
+    Due to its generic nature however, IEC/EN 62311 does not provide specific assessment methods for every particular technology. Therefore, it is the purpose of this TR to provide specific guidance on how to apply IEC/EN 62311 in case of MME.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

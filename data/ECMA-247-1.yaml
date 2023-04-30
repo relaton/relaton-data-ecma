@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: ECMA-247
+title:
+- content: 8 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording - HH-1 format
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: ECMA-247
+  type: ECMA
+  primary: true
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of an 8 mm wide magnetic tape cartridge so as to provide physical interchange of such cartridges between drives. It also specifies the quality of the recorded signals, the recording method and the recorded format – called HH-1 format – thereby allowing for full data interchange between drives by means of such magnetic tape cartridges.
+    Information interchange between systems also requires, as a minimum, agreement between the interchange parties upon the interchange code(s) and the specifications of the structure and labelling of the information on the interchanged cartridge.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-247
+    docid:
+    - id: ECMA-247
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
+    formattedref:
+      content: ECMA-247
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

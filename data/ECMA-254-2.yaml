@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.3
+id: ECMA-254
+title:
+- content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange
+    signalling protocol - Generic functional protocol (B-QSIG-GF)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-254/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-254_2nd_edition_december_1999.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-254
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1999-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1999-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the functional protocol for the support of supplementary services and additional basic call capabilities at the Q-reference point. The Q-reference point exists between Private Integrated Services Exchanges (PINX) connected together within a Private Integrated Services Network (PISN) and is defined in ISO/IEC 11579-1. The generic functional protocol is part of the B-QSIG signalling system.
+    The procedures specified in this Standard can be used in association with a bearer connection (bearer-related) or outside the context of any bearer connection (bearer-independent).The application of this Standard to individual additional basic call capabilities and supplementary services is outside the scope of this Standard and should be defined in those standards or proprietary specifications that specify the individual capabilities.
+    All conformance to this Standard is based on the external behaviour at the interface at the Q-reference point, i.e. on the generation of the correct message structure and in the proper sequence as specified in this Standard.
+    The generic functional protocol is based on ATM Forum specification AF-CS-0102.000, which itself is based on the DSS2 generic functional protocol specified in ITU-T Rec. Q.2932.1 but extended to allow non-local information exchange as well as local information exchange.
+    This Standard is applicable to PINXs supporting additional basic call capabilities and/or supplementary services requiring the functional protocol for signalling at the Q-reference point.
+    The protocol defined in this Standard forms part of the B-QSIG protocol.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-254
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-254_1st_edition_december_1996.pdf
+      type: pdf
+    docid:
+    - id: ECMA-254
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1996-12
+    edition:
+      content: '1'
+    revdate: 1996-12
+    formattedref:
+      content: ECMA-254
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

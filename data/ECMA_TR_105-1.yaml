@@ -1,0 +1,50 @@
+---
+schema-version: v1.2.3
+id: ECMATR-105
+title:
+- content: A shaped noise file representative of speech
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-105/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-105_1st_edition_december_2012.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/105
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2012-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2012-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Technical Report describes a digital shaped pink noise file representative of speech in two main characteristics, namely the spectrum and the crest factor. The spectrum is defined in third-octave band levels relative to pink noise up to the 8 kHz band, which provides a sufficient bandwidth for speech. The crest factor is defined at a 30 second time scale. The recording level of the file is not specified, and should be adjusted to match the amplitude, at the output of the headphone, of a typical audiobook or podcast when played on the device under test.
+    This file is not meant to replace the existing file defined in EN 50332-1 for hearing safety.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

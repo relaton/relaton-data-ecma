@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.3
+id: ECMA-154
+title:
+- content: Data interchange on 90 mm optical disk cartridges, Read only and rewritable,
+    M.O.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-154_1st_edition_june_1991.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-154
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1991-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1991-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Ecma Standard specifies
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-154
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-154_1st_edition_june_1991.pdf
+      type: pdf
+    docid:
+    - id: ECMA-154
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1991-06
+    edition:
+      content: '1'
+    revdate: 1991-06
+    formattedref:
+      content: ECMA-154
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

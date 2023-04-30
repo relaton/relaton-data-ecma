@@ -1,0 +1,50 @@
+---
+schema-version: v1.2.3
+id: ECMATR-85
+title:
+- content: Using ECMA-323 (CSTA XML) in a voice browser environment
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-85/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-85_1st_edition_december_2002.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/85
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2002-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2002-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Technical Report illustrates how CSTA XML (ECMA-323) can be used in a Voice Browser environment.
+    This TR is part of a suite of Ecma CSTA Phase III Standards and Technical Reports. All of the Standards and Technical Reports in this Suite are based upon the practical experience of Ecma member companies and each one represents a pragmatic and widely based consensus.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

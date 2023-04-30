@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.3
+id: ECMA-400
+title:
+- content: Smart data centre resource monitoring and control
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-400/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-400_3rd_edition_june_2015.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-400
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2015-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: 2015-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard models IT & facility equipment, systems and components in Smart Data Centre as Resources, organises the Resources in a graph, and specifies the semantics – but not the syntax – of Messages for commands, responses and events.
+    The first edition covers consolidating compute and cooling resources to minimise power.
+    Smart Clients use the Resource graph to address individual – or a group of – Resources. Smart Clients use the Messages to monitor and control the Properties of Resources.
+    The communication protocol bindings (e.g., HTTP, FTP, SNMP, BACnet) that transport Messages between Resources and Management Function(s) are out of the scope. In addition, session management and security aspects such as authentication, authorization are out of the scope. Static information such as location, CPU models are also out of scope.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-400
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-400_1st_edition_december_2011.pdf
+      type: pdf
+    docid:
+    - id: ECMA-400
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2011-12
+    edition:
+      content: '1'
+    revdate: 2011-12
+    formattedref:
+      content: ECMA-400
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-400
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-400_2nd_edition_june_2013.pdf
+      type: pdf
+    docid:
+    - id: ECMA-400
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2013-06
+    edition:
+      content: '2'
+    revdate: 2013-06
+    formattedref:
+      content: ECMA-400
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

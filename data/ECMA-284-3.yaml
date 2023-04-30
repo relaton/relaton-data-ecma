@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: ECMA-284
+title:
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Private User Mobility (PUM) - Call handling additional network features
+    (QSIG-PUMCH)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-284/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-284_3rd_edition_december_2001.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-284
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2001-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: 2001-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the signalling protocol for the support of the Private User Mobility call handling additional network features (ANF-PUMI and ANF-PUMO) at the Q reference point between Private Integrated services Network eXchanges (PINX) connected together within a Private Integrated Services Network (PISN).
+    ANF-PUMI is a feature that directs incoming calls to a PUM user within the PISN regardless of the PUM user’s geographical location within the PISN, provided that the PUM user’s location is known.
+    ANF-PUMO permits the PISN to process call requests from a PUM user at the home location, if required.
+    The Q reference point is defined in ECMA-133.
+    Service specifications are produced in three stages and according to the method specified in ITU-T Rec. I.130. This Standard contains the stage 3 specification for the Q reference point and satisfies the requirements identified by the stage 1 and stage 2 specifications in ECMA-283.
+    The signalling protocol for ANF-PUMI and ANF-PUMO operates on top of the signalling protocol for basic circuit switched call control, as specified in ECMA-143, and uses certain aspects of the generic procedures for the control of supplementary services specified in ECMA-165.
+    This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between ANF-PUMI / ANF-PUMO and other supplementary services and ANFs.
+    This Standard is applicable to PINXs which can interconnect to form a PISN.
+    The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-284
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-284_1st_edition_december_1998.pdf
+      type: pdf
+    docid:
+    - id: ECMA-284
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '1'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-284
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-284
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-284_2nd_edition_june_2000.pdf
+      type: pdf
+    docid:
+    - id: ECMA-284
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2000-06
+    edition:
+      content: '2'
+    revdate: 2000-06
+    formattedref:
+      content: ECMA-284
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

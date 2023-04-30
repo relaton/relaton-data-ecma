@@ -1,0 +1,55 @@
+---
+schema-version: v1.2.3
+id: ECMA-266
+title:
+- content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange
+    signalling protocol - Basic call/Connection control (B-QSIG-BC)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-266/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-266_1st_edition_september_1997.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-266
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1997-09
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1997-09
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard defines the signalling protocol for the purpose of basic call/connection control at the Q-reference point between Private Integrated Services Network Exchanges (PINXs) connected together within a Broadband Private Integrated Services Network (B-PISN) employing Asynchronous Transfer Mode (ATM). This Standard is part of the B-QSIG signalling system.
+    The Q reference point is defined in ISO/IEC 11579-1.
+    This Standard is an application of the signalling protocol that forms part of the ATM Forum’s PNNI 1.0 specification, which in turn is based on ITU-T Recommendation Q.2931, including the provisions for symmetrical operation described in annex H of recommendation Q.2931. Technical differences compared with the signalling protocol specified in PNNI 1.0 are summarised in annex J. Guidelines for interworking between a network employing the signalling protocol specified in this Standard and a network employing the ATM Forum’s PNNI 1.0 specification are given in annex L.
+    This Standard is applicable to PINXs which interconnect to form a B-PISN using static hop-by-hop routeing. It therefore complements the ATM Forum’s PNNI 1.0 specification, which is applicable to networks that employ dynamic source routeing.
+    The basic capabilities supported by the protocol specified in this Standard are listed below and described in more detail in annex F:
+    The protocol defined in this Standard forms part of the B-QSIG protocol.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.3
+id: ECMA-168
+title:
+- content: Volume and file structure of read-only and write-once compact disk media
+    for information interchange
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: ECMA-168
+  type: ECMA
+  primary: true
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies a format and associated system requirements for volume and boot block recognition, volume structure, file structure and record structure for the interchange of information between users of information processing systems using CD-WO (a write-once compact disc medium), hybrid CD-WO (a write-once compact disc with a read-only area), and CD-ROM disks.
+    NOTE 1 – CD-WO is an evolution of CD-ROM technology which allows the recording of information on a write-once Compact Disc medium.
+    NOTE 2 – A volume set may be recorded that is in conformance with both ECMA-119 and ECMA-168. ECMA-168 is an enhancement of ECMA-119. ECMA-168 allows greater information interchange using CD-ROM. In addition, it supports incremental recording and updating of information stored on a CD-WO disk. Under certain restrictions (see 3/B.2.1), all of the files may be read by both a receiving system conforming to ECMA-119 and by a receiving system conforming to ECMA-168.
+    This Standard consists of the following four Parts:
+    Part 1 specifies references, definitions, notation and basic structures that apply to the other three Parts.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-168
+    docid:
+    - id: ECMA-168
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
+    formattedref:
+      content: ECMA-168
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

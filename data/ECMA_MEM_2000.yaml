@@ -1,16 +1,16 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: ECMAMEM-2000
 title:
-- content: '"Memento 2000" for year2000'
+- content: '"Memento 2000" for year 2000'
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-2023-public.pdf
-  type: doi
+- content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-2000-public.pdf
+  type: pdf
 type: standard
 docid:
 - id: ECMA MEM/2000
@@ -33,3 +33,5 @@ script:
 place:
 - Geneva
 doctype: document
+ext:
+  schema-version: v1.0.0

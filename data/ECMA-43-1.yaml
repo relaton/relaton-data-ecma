@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.3
+id: ECMA-43
+title:
+- content: 8-bit coded character set structure and rules
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-43_1st_edition_december_1974.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-43
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1974-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1974-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies an 8-bit code derived from, and compatible with, the 7-bit coded character set specified in Standard ECMA-6.
+    The characteristics of this code are also in conformance with the code extension techniques specified in Standard ECMA-35.
+    This Ecma Standard specifies an 8-bit code with a number of options. It also provides guidance on how to exercise the options to define specific versions.
+    This code is primarily intended for general information interchange within an 8-bit environment among data processing systems and associated equipment, and within data communication systems. The need for graphic characters and control functions in data processing has also been taken into account.
+    The code includes the ten digits as well as the 52 small and capital letters of the basic Latin alphabet and may include accented letters, special Latin letters and/or the letters of one or several non-Latin alphabet(s).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-43
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-43_1st_edition_december_1974.pdf
+      type: pdf
+    docid:
+    - id: ECMA-43
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1974-12
+    edition:
+      content: '1'
+    revdate: 1974-12
+    formattedref:
+      content: ECMA-43
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-43
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-43_2nd_edition_december_1985.pdf
+      type: pdf
+    docid:
+    - id: ECMA-43
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1985-12
+    edition:
+      content: '2'
+    revdate: 1985-12
+    formattedref:
+      content: ECMA-43
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

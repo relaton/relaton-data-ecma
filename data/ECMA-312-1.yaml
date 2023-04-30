@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.3
+id: ECMA-312
+title:
+- content: Private Integrated Services Network (PISN) - Profile standard for the use
+    of PSS1 (QSIG) in air traffic services networks
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-312_1st_edition_june_2000.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-312
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2000-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2000-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Profile Standard specifies the combination of base standards, together with the selection of appropriate options and parameter values, necessary to specify how QSIG / PSS1 can be used to provide digital signalling capabilities between Private Integrated services Networks eXchange (PINX) in an Air Traffic Services (ATS) PISN.
+    This Standard defines:
+    This Standard states requirements upon implementations in order to achieve interoperability between equipment in ATS PISNs.
+    NOTE – Implementation of this Standard does not preclude a manufacturer from offering other means of interconnection.
+    This Standard does not specify requirements related to interworking between QSIG and other signalling systems used in ATS PISNs.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-312
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-312_1st_edition_june_2000.pdf
+      type: pdf
+    docid:
+    - id: ECMA-312
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2000-06
+    edition:
+      content: '1'
+    revdate: 2000-06
+    formattedref:
+      content: ECMA-312
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-312
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-312_2nd_edition_june_2001.pdf
+      type: pdf
+    docid:
+    - id: ECMA-312
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2001-06
+    edition:
+      content: '2'
+    revdate: 2001-06
+    formattedref:
+      content: ECMA-312
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

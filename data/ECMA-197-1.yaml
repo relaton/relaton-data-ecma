@@ -1,0 +1,50 @@
+---
+schema-version: v1.2.3
+id: ECMA-197
+title:
+- content: Data interchange on 12,7 mm 112-track magnetic tape cartridges - DLT2 format
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-197/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-197_1st_edition_december_1993.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-197
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1993-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1993-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of a 12,7 mm wide, 112-track magnetic tape cartridge, to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, a format – called Digital Linear Tape 2 (DLT 2) – and a recording method.
+    Together with a labelling standard, e.g. Standard ECMA-13 for Magnetic Tape Labelling, it allows full data interchange by means of such magnetic tape cartridges.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

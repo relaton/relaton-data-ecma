@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: ECMA-304
+title:
+- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Wireless Terminal Call Handling additional network features (QSIG-WTMCH)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-304_1st_edition_june_2000.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-304
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2000-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2000-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the signalling protocol for the support of the Wireless terminal call handling additional network features (ANF-WTMI and ANF-WTMO) at the Q reference point between Private Integrated services Network eXchanges (PINX) connected together within a Private Integrated Services Network (PISN).
+    ANF-WTMI is a feature that directs incoming calls to a WTMI user within the PISN regardless of the WTMI user’s geographical location within the PISN, provided that the WTMI user’s location is known. Roaming outside the PISN is outside the scope of this edition of this Standard.
+    ANF-WTMO permits the PISN to process call requests from a WTMO user at the home location, if required.
+    The Q reference point is defined in ECMA-133.
+    Service specifications are produced in three stages and according to the method specified in ITU-T Rec. I.130. This Standard contains the stage 3 specification for the Q reference point and satisfies the requirements identified by the stage 1 and stage 2 specifications in ECMA-303.
+    The signalling protocol for ANF-WTMI and ANF-WTMO operates on top of the signalling protocol for basic circuit switched call control, as specified in ECMA-143, and uses certain aspects of the generic procedures for the control of supplementary services specified in ECMA-165.
+    This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between ANF-WTMI / ANF-WTMO and other supplementary services and ANFs.
+    This Standard is applicable to PINXs which can interconnect to form a PISN.
+    The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-304
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-304_1st_edition_june_2000.pdf
+      type: pdf
+    docid:
+    - id: ECMA-304
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2000-06
+    edition:
+      content: '1'
+    revdate: 2000-06
+    formattedref:
+      content: ECMA-304
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

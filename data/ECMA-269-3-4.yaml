@@ -1,0 +1,341 @@
+---
+schema-version: v1.2.3
+id: ECMA-269
+title:
+- content: Services for Computer Supported Telecommunications Applications (CSTA)
+    Phase III
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_4.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-269
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1998-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: 1998-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies an interface and services between two entities that request and provide communication services (e.g. Applications, middleware, PBX, IP-PBX, Softswitch, phone, softphone, software devices).
+    CSTA operates with existing interfaces, so that differences among various existing interfaces are hidden.
+    Services defined in this Standard allow functional integration between a computing network and a telecommunications network.
+    This Standard is part of a suite of CSTA Standards and Technical Reports. See documentation.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-269
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_2nd_edition_june_1998.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-06
+    edition:
+      content: '2'
+    revdate: 1998-06
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_1.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '3'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    extent:
+    - locality:
+        type: volume
+        reference_from: '1'
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_2.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '3'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    extent:
+    - locality:
+        type: volume
+        reference_from: '2'
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_3.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '3'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    extent:
+    - locality:
+        type: volume
+        reference_from: '3'
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_4.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '3'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+    extent:
+    - locality:
+        type: volume
+        reference_from: '4'
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_4th_edition_june_2000.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2000-06
+    edition:
+      content: '4'
+    revdate: 2000-06
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_5th_edition_december_2002.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2002-12
+    edition:
+      content: '5'
+    revdate: 2002-12
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_6th_edition_june_2004.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2004-06
+    edition:
+      content: '6'
+    revdate: 2004-06
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_7th_edition_december_2006.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2006-12
+    edition:
+      content: '7'
+    revdate: 2006-12
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_8th_edition_june_2009.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2009-06
+    edition:
+      content: '8'
+    revdate: 2009-06
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-269
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_9th_edition_changes_since_the_previous_edition.pdf
+      type: pdf
+    docid:
+    - id: ECMA-269
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2011-12
+    edition:
+      content: '9'
+    revdate: 2011-12
+    formattedref:
+      content: ECMA-269
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+extent:
+- locality:
+    type: volume
+    reference_from: '4'
+doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,54 @@
+---
+schema-version: v1.2.3
+id: ECMA-170
+title:
+- content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording - DDS format using 60 m and 90 m length tapes
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-170/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-170_1st_edition_june_1992.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-170
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1992-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1992-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of a 3,81 mm wide magnetic tape cartridge to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, the recorded format and the recording method, thereby allowing data interchange between drives by means of such magnetic tape cartridges. The format used is known as Digital Data Storage (DDS).
+    This Ecma Standard specifies two types of cartridge which, for the purpose of this Ecma Standard, are referred to as Type A and Type B.
+    For Type A, the magnetic tape has a nominal thickness of 13 µm and a nominal length of up to 60,5 m.
+    For Type B, the magnetic tape has a nominal thickness of 9 µm and a nominal length of up to 92,0 m.
+    Information interchange between systems by means of this Standard also requires the use, at a minimum, of a labelling and file structure and an interchange code which are agreed upon by the interchange parties. It is not within the scope of this Standard to specify the labelling and file structure, or the interchange code.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

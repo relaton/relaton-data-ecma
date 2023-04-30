@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.3
+id: ECMA-195
+title:
+- content: 'Data interchange on 130 mm optical disk cartridges - Capacity: 2 Gigabytes
+    per cartridge'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-195/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-195_2nd_edition_june_1995.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-195
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1995-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1995-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the characteristics of a series of related 130 mm optical disk cartridges (ODCs) by using a number of Type designations. The two sides of the disk, called Side A and Side B, with each a nominal storage capacity of 1 Gigabyte are given specific Type designations. Thus, Side A and Side B may be different types.
+    The suffix – R, which may be used for Side B only, indicates that the tracks of Side B spiral in the opposite direction to those on Side A. Such ODCs facilitate simultaneous access to both sides of the disk by a dual optical system.
+    The 20 combinations of Types allowed by this Ecma Standard for the two sides of disks are specified in this Standard.
+    In addition, for each Type, this Ecma Standard provides for 512-byte and 1 024-byte sector sizes. All sectors of an ODC are the same size.
+    This Ecma Standard specifies
+    This Ecma Standard provides for interchange between optical disk drives. Together with a Standard for volume and file structure it provides for full data interchange between data processing systems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-195
+    docid:
+    - id: ECMA-195
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
+    formattedref:
+      content: ECMA-195
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

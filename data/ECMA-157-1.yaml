@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.3
+id: ECMA-157
+title:
+- content: Private Telecommunication Networks (PTN) - Signalling protocol at the S
+    reference point - Identification supplementary services (SSIG-ID)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-157_1st_edition_june_1991-1.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-157
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1991-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1991-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the signalling protocol for the support of identification supplementary services at an interface at the S reference point between a Terminal Equipment (TE) and a Private Telecommunication Network (PTN). The Protocol specified in this Standard is an extension of the layer 3 protocol for the support of circuit mode basic services, as specified in ETS 300 192. The identification supplementary services concerned are Supplementary Service Calling Line Identification Presentation (SS-CLIP), Supplementary Service Connected Line Identification Presentation (SS-COLP) and Supplementary Service Calling / Connected Line Identification Restriction (SS-CLIR).
+    Service specifications are produced in three stages, according to the method specified in ENV 41005. This Standard satisfies the requirements identified by the stage 1 and stage 2 specifications in Standard ECMA-148. This Standard is applicable to user accesses of PTNXs and to TEs which are intended for connection to PTNs.
+    The impact on the protocol of interactions between the supplementary services specified in this Standard and other supplementary services is outside the scope of this Standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-157
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-157_1st_edition_june_1991-1.pdf
+      type: pdf
+    docid:
+    - id: ECMA-157
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1991-06
+    edition:
+      content: '1'
+    revdate: 1991-06
+    formattedref:
+      content: ECMA-157
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

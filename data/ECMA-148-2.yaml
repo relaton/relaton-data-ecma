@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.3
+id: ECMA-148
+title:
+- content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Identification supplementary services (ISSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-148_2nd_edition_june_1993.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-148
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1993-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1993-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the following Identification supplementary services: Calling Line Identification Presentation (SS-CLIP), Connected Line Identification Presentation (SS-COLP) and Calling/Connected Line Identification Restriction (SS-CLIR), which are applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.
+    Calling Line Identification Presentation (SS-CLIP) is a supplementary service which is offered to the called user and which provides the calling user’s PISN number, and possibly a subaddress, to the called user.
+    Connected Line Identification Presentation (SS-COLP) is a supplementary service which is offered to the calling user and which provides the called (connected) user’s PISN number, and possibly a subaddress, to the calling user.
+    Calling/connected Line Identification Restriction (SS-CLIR) is a supplementary service offered to a user to restrict presentation of that user’s PISN number to another user.
+    Supplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-CLIP, SS-COLP and SS-CLIR. The stage 1 specifications (clauses 6, 7 and 8) specify the supplementary services as seen by users of PISNs. The stage 2 specifications (clauses 9, 10 and 11) identify the functional entities involved in the supplementary services and the information flows between them.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-148
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-148_1st_edition_december_1990.pdf
+      type: pdf
+    docid:
+    - id: ECMA-148
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1990-12
+    edition:
+      content: '1'
+    revdate: 1990-12
+    formattedref:
+      content: ECMA-148
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-148
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-148_2nd_edition_june_1993.pdf
+      type: pdf
+    docid:
+    - id: ECMA-148
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1993-06
+    edition:
+      content: '2'
+    revdate: 1993-06
+    formattedref:
+      content: ECMA-148
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

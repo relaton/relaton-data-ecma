@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.3
+id: ECMA-331
+title:
+- content: Cases for 120 mm and 80 mm DVD-RAM disks
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-331_1st_edition_december_2001.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-331
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2001-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2001-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the characteristics of a case for use with the 120 mm and 80 mm DVD-RAM disks specified in Standard ECMA-330. The present Ecma Standard specifies nine related, but different implementations of this case, viz.
+    This Ecma Standard specifies
+    This Ecma Standard provides for mechanical interchange between optical disk drives. Together with Standard ECMA-330 for 120 mm (4,7 Gbytes per side) and 80 mm (1,46 Gbytes per side) DVD-RAM disks and a standard for volume and file structure, it provides for full data interchange between data processing systems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-331
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-331_1st_edition_december_2001.pdf
+      type: pdf
+    docid:
+    - id: ECMA-331
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2001-12
+    edition:
+      content: '1'
+    revdate: 2001-12
+    formattedref:
+      content: ECMA-331
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

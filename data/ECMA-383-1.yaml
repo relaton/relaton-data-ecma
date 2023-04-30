@@ -1,0 +1,96 @@
+---
+schema-version: v1.2.3
+id: ECMA-383
+title:
+- content: Measuring the energy consumption of personal computing products
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-383_1st_edition_june_2008.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-383
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2008-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2008-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Although the title is broader in scope, this 3rd edition of the Standard applies to: Desktop and notebook computers as defined in 5.1 that are marketed as final products and that are hereafter referred to as the Equipment Under Test (EUT) or product. 
+    This Standard specifies:
+    This Standard does not set any pass/fail criteria for the EUT. Users of the test results should define such criteria.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-383
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-383_1st_edition_june_2008.pdf
+      type: pdf
+    docid:
+    - id: ECMA-383
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2008-06
+    edition:
+      content: '1'
+    revdate: 2008-06
+    formattedref:
+      content: ECMA-383
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-383
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-383_2nd_edition_december_2009.pdf
+      type: pdf
+    docid:
+    - id: ECMA-383
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2009-12
+    edition:
+      content: '2'
+    revdate: 2009-12
+    formattedref:
+      content: ECMA-383
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

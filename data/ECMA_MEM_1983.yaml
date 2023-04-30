@@ -1,16 +1,16 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: ECMAMEM-1983
 title:
-- content: '"Memento 1983" for year1983'
+- content: '"Memento 1983" for year 1983'
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-2023-public.pdf
-  type: doi
+- content: https://www.ecma-international.org/wp-content/uploads/Ecma-memento-1983-public.pdf
+  type: pdf
 type: standard
 docid:
 - id: ECMA MEM/1983
@@ -33,3 +33,5 @@ script:
 place:
 - Geneva
 doctype: document
+ext:
+  schema-version: v1.0.0

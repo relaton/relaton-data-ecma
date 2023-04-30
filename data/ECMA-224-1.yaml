@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.3
+id: ECMA-224
+title:
+- content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Transit counter additional network feature (ANF-TCSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-224_1st_edition_june_1995.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-224
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1995-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1995-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    ANF-TC is an additional network feature which limits the number of network exchanges that a call request may transit during call establishment, e.g. to protect the network against indefinite looping. There is no user involved in the provision or operation of ANF-TC.
+    Additional network feature specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of ANF-TC. The stage 1 specification (clause 6) specifies the general feature principles and capabilities. The stage 2 specification (clause 7) identifies the functional entities involved in the feature and the information flows between them.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-224
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-224_1st_edition_june_1995.pdf
+      type: pdf
+    docid:
+    - id: ECMA-224
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1995-06
+    edition:
+      content: '1'
+    revdate: 1995-06
+    formattedref:
+      content: ECMA-224
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

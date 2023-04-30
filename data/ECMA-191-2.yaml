@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.3
+id: ECMA-191
+title:
+- content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Call offer supplementary service (COSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-191/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-191_2nd_edition_june_1997.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-191
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1997-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1997-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the Call Offer supplementary service (SS-CO), which is applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.
+    Call Offer (SS-CO) is a supplementary service which, on request from the calling user (or on that user’s behalf), enables a call to be offered to a busy called user and to wait for that called user to accept this call.
+    Supplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-CO. The stage 1 specification (clause 6) specifies the supplementary service as seen by users of PISNs. The stage 2 specification (clause 7) identifies the functional entities involved in the supplementary service and the information flows between them.
+    NOTE – For this Standard, stage 2 does not consider the split of functionality between a functional terminal and the local PINX. Terminal functions and local PINX functions are included in the same functional entity.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-191
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-191_1st_edition_june_1993.pdf
+      type: pdf
+    docid:
+    - id: ECMA-191
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1993-06
+    edition:
+      content: '1'
+    revdate: 1993-06
+    formattedref:
+      content: ECMA-191
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

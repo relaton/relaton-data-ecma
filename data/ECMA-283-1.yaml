@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.3
+id: ECMA-283
+title:
+- content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Private User Mobility (PUM) - Call handling additional
+    network features (PUMCHSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-283_1st_edition_december_1998.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-283
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1998-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1998-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the Additional Network Features (ANF) Private User Mobility Incoming Call (PUMI) and Private User Mobility Outgoing Call (PUMO), which are applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.
+    ANF-PUMI is an additional network feature that directs incoming calls to a PUM user within a PISN regardless of the PUM user’s geographical location within the PISN, provided the PUM user’s location is known.
+    ANF-PUMO is an additional network feature that permits the PISN to process call requests from a PUM user at the home location, if required.
+    Additional network feature specifications are produced in three stages, according to the method described in CCITT Rec. I.130. This Standard contains the stage 1 and stage 2 specifications of ANF-PUMI and ANF-PUMO. The stage 1 specification (clauses 6 and 7) specifies the general feature principles and capabilities. The stage 2 specification (clauses 8 and 9) identifies the Functional Entities involved in the additional network features and the information flows between them.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-283
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-283_1st_edition_december_1998.pdf
+      type: pdf
+    docid:
+    - id: ECMA-283
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1998-12
+    edition:
+      content: '1'
+    revdate: 1998-12
+    formattedref:
+      content: ECMA-283
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

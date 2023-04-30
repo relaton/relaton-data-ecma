@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: ECMA-287
+title:
+- content: Safety of electronic equipment
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-287_1st_edition_june_1999.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-287
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1999-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1999-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    The advent of multimedia products has blurred the borderline between different classes of products, like IT equipment, audio-video equipment, communication equipment, and the environment within which the equipment is used.
+    Personal computers which used to be connected only to printers and occasionally modems are now frequently connected to loudspeakers, scanners, video and audio tape recorders, TV sets. The environment has changed from the office (or home office), to include all the rooms of the house, and, for portable equipment, outdoor leisure areas. The age of the user and of the bystander is continuously reducing.
+    This changing situation has generated a new set of conditions that are to be taken into account when designing new equipment. In order to take into account these conditions Ecma had prepared the first edition of Standard ECMA-287.
+    The philosophy applied to this new Standard has been to define hazard-based requirements, using engineering principles and taking into account relevant IEC product standards and pilot safety documents. Where technical discrepancies between standards emerged, a conclusion was based on engineering principles.
+    For the preparation of the second edition Ecma has opened TC12 to representatives of EICTA members, JEITA members and of test houses. The structure of the standard has been presented at meetings held in Japan, the United States and Europe, in order to make designers and test house representatives aware of the work in Ecma.
+    The final draft of the second edition has been contributed to IEC TC108 to be used by the “Hazard Based Development Team”.
+    NOTE – During the development of this second edition, Ecma TC12 came across a number of issues where TC12 could not reach consensus or where TC12, because of time constraints was not able to find a proper solution. A list of these issues has been provided to IEC TC108 with the request that IEC TC108 takes those issues into account when producing the new IEC standard that is based on this Ecma Standard.
+    Included in the scope of the Standard is electronic equipment with a rated voltage not exceeding 600 V rms and intended for domestic or professional use and environment. The equipment may be powered from an a.c. or d.c. supply and can be an independent unit or a system of interconnected units.
+    The electronic equipment considered in this standard can be:
+    The requirements of this standard are intended to provide protection to persons as well as to the surrounding of the equipment.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-287
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-287_1st_edition_june_1999.pdf
+      type: pdf
+    docid:
+    - id: ECMA-287
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1999-06
+    edition:
+      content: '1'
+    revdate: 1999-06
+    formattedref:
+      content: ECMA-287
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

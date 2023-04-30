@@ -1,0 +1,266 @@
+---
+schema-version: v1.2.3
+id: ECMA-109
+title:
+- content: Declared noise emission values of information technology and telecommunications
+    equipment
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_4th_edition_december_1996.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-109
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1996-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: 1996-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard applies to information technology and telecommunications equipment.
+    This Ecma Standard specifies:
+    a)    for a batch of equipment, the method for determining the following values:
+    b)    how acoustical and product information is to be published electronically or in hard-copy format in technical documents or other product literature supplied to users by the manufacturer or declarer;
+    c)    the method for verifying the noise emission values that are declared by the manufacturers or declarer.
+    NOTE – The terms “manufacturer” and “declarer” are used in this Ecma standard to represent any entity that provides product noise emission information. For instance, a product supplier or importer who does not manufacture the hardware, but offers noise emissions information, is also referred to a manufacturer or a declarer as applicable, in Ecma Standard.
+    The uniform methods in this Standard use the noise emission data obtained in accordance with ECMA‑74, and the declaration and verification procedures detailed in ISO 4871 and ISO 7574-4.
+    The basic noise emission values to be declared are the declared mean A-weighted sound power level, LWA,m. Optionally, the declared mean A-weighted emission sound pressure level at the operator or bystander positions, LpA,m can be declared. These are arithmetic mean values based upon measurements on a random sample taken from the batch of equipment, in accordance with ECMA‑74.
+    For verification purposes, an additional quantity is required to be declared: the statistical adder for verification, Kv. This is a quantity that is added to the declared mean A-weighted sound power level, LWA,m and used in the verification section of this Standard to provide a consistent and predictable probability of acceptance for the batch of equipment. The declared mean A-weighted sound power level for the batch of equipment permits comparison of noise emissions between different products and permits predictions of installation or work-place noise immission levels, as described in ECMA TR/27.
+    Although the most useful quantity for calculating immission levels due to one or more sound sources is the A‑weighted sound power level of the individual source(s), the A‑weighted emission sound pressure level may also be useful in estimating the immission level in the immediate vicinity of an isolated piece of equipment.
+    To avoid confusion between sound power levels and emission sound pressure levels, the declared mean A‑weighted sound power level, LWA,m is expressed in bels (B) and the declared mean A‑weighted emission sound pressure level, LpA,m is expressed in decibels (dB).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-109
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_1st_edition_december_1985.pdf
+      type: pdf
+    docid:
+    - id: ECMA-109
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1985-12
+    edition:
+      content: '1'
+    revdate: 1985-12
+    formattedref:
+      content: ECMA-109
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-109
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_2nd_edition_december_1987.pdf
+      type: pdf
+    docid:
+    - id: ECMA-109
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1987-12
+    edition:
+      content: '2'
+    revdate: 1987-12
+    formattedref:
+      content: ECMA-109
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-109
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_3rd_edition_december_1992.pdf
+      type: pdf
+    docid:
+    - id: ECMA-109
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1992-12
+    edition:
+      content: '3'
+    revdate: 1992-12
+    formattedref:
+      content: ECMA-109
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-109
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_4th_edition_december_1996.pdf
+      type: pdf
+    docid:
+    - id: ECMA-109
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1996-12
+    edition:
+      content: '4'
+    revdate: 1996-12
+    formattedref:
+      content: ECMA-109
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-109
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_5th_edition_december_2010.pdf
+      type: pdf
+    docid:
+    - id: ECMA-109
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2010-12
+    edition:
+      content: '5'
+    revdate: 2010-12
+    formattedref:
+      content: ECMA-109
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-109
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_6th_edition_december_2012.pdf
+      type: pdf
+    docid:
+    - id: ECMA-109
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2012-12
+    edition:
+      content: '6'
+    revdate: 2012-12
+    formattedref:
+      content: ECMA-109
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-109
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_7th_edition_december_2016.pdf
+      type: pdf
+    docid:
+    - id: ECMA-109
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2016-12
+    edition:
+      content: '7'
+    revdate: 2016-12
+    formattedref:
+      content: ECMA-109
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-109
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_8th_edition_june_2019-1.pdf
+      type: pdf
+    docid:
+    - id: ECMA-109
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2019-06
+    edition:
+      content: '8'
+    revdate: 2019-06
+    formattedref:
+      content: ECMA-109
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-109
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-109_9th_edition_december_2019.pdf
+      type: pdf
+    docid:
+    - id: ECMA-109
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2019-12
+    edition:
+      content: '9'
+    revdate: 2019-12
+    formattedref:
+      content: ECMA-109
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,97 @@
+---
+schema-version: v1.2.3
+id: ECMA-220
+title:
+- content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Call interception additional network feature (ANF-CINTSD)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-220_2nd_edition_june_1997.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-220
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1997-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 1997-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies Additional Network Feature Call Interception (ANF-CINT), which is applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.
+    ANF-CINT is an additional network feature which enables calls that cannot be completed due to certain conditions to be redirected to a pre-defined intercepted-to user.
+    ANF specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of ANF-CINT. The stage 1 specification (clause 6) specifies the feature as seen by users of PISNs. The stage 2 specification (clause 7) identifies the functional entities involved in the feature and the information flows between them.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-220
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-220_1st_edition_march_1995.pdf
+      type: pdf
+    docid:
+    - id: ECMA-220
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1995-03
+    edition:
+      content: '1'
+    revdate: 1995-03
+    formattedref:
+      content: ECMA-220
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-220
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-220_2nd_edition_june_1997.pdf
+      type: pdf
+    docid:
+    - id: ECMA-220
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 1997-06
+    edition:
+      content: '2'
+    revdate: 1997-06
+    formattedref:
+      content: ECMA-220
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0
