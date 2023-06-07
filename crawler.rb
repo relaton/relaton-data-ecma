@@ -10,9 +10,3 @@ FileUtils.rm Dir.glob('index.*')
 
 # Run fetcher
 RelatonEcma::DataFetcher.new.fetch
-
-# Zip index
-system('zip index.zip index.yaml')
-
-# Stage index
-system('git add index.yaml index.zip')
