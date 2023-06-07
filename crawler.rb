@@ -6,7 +6,7 @@ require 'relaton_ecma'
 
 # Remoeve old files
 FileUtils.rm_rf('data')
-FileUtils.rm Dir.glob('index.*')
+FileUtils.rm Dir.glob('index*')
 
 # Run fetcher
 RelatonEcma::DataFetcher.new.fetch
