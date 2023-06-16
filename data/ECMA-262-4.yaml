@@ -311,9 +311,6 @@ relation:
 - type: updates
   bibitem:
     id: ECMA-262
-    link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_12th_edition_june_2021.pdf
-      type: pdf
     docid:
     - id: ECMA-262
       type: ECMA
