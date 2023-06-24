@@ -2636,6 +2636,50 @@
     :ed: '1'
   :file: data/ECMA_TR_94-1.yaml
 - :id:
+    :id: ECMA TR/93
+    :ed: '1'
+  :file: data/ECMA_TR_93-1.yaml
+- :id:
+    :id: ECMA TR/92
+    :ed: '2'
+  :file: data/ECMA_TR_92-2.yaml
+- :id:
+    :id: ECMA TR/91
+    :ed: '1'
+  :file: data/ECMA_TR_91-1.yaml
+- :id:
+    :id: ECMA TR/90
+    :ed: '1'
+  :file: data/ECMA_TR_90-1.yaml
+- :id:
+    :id: ECMA TR/88
+    :ed: '1'
+  :file: data/ECMA_TR_88-1.yaml
+- :id:
+    :id: ECMA TR/87
+    :ed: '1'
+  :file: data/ECMA_TR_87-1.yaml
+- :id:
+    :id: ECMA TR/86
+    :ed: '1'
+  :file: data/ECMA_TR_86-1.yaml
+- :id:
+    :id: ECMA TR/85
+    :ed: '1'
+  :file: data/ECMA_TR_85-1.yaml
+- :id:
+    :id: ECMA TR/84
+    :ed: '6'
+  :file: data/ECMA_TR_84-6.yaml
+- :id:
+    :id: ECMA TR/83
+    :ed: '1'
+  :file: data/ECMA_TR_83-1.yaml
+- :id:
+    :id: ECMA TR/82
+    :ed: '2'
+  :file: data/ECMA_TR_82-2.yaml
+- :id:
     :id: ECMA TR/81
     :ed: '1'
   :file: data/ECMA_TR_81-1.yaml

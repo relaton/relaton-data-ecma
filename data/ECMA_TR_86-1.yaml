@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.3
+id: ECMATR-86
+title:
+- content: Corporate Telecommunication Networks - User identification in a SIP/QSIG
+    environment
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-86/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-86_1st_edition_december_2003.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/86
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2003-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2003-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Technical Report examines means of identifying or naming users of telephony services within a Corporate telecommunication Network (CN) (also known as an enterprise network).
+    Numeric names (numbers) are used in traditional Private Integrated Services Networks (PISNs) using QSIG as the network signalling protocol. They are also used for external communication, e.g., with a public Integrated Services Digital Network (ISDN). Names need not be numeric in Internet Protocol (IP) networks employing signalling protocols such as the Session Initiation Protocol (SIP). This Technical Report therefore looks at naming schemes that are appropriate within corporate IP networks, in particular corporate IP networks employing SIP as the signalling protocol. It also investigates naming schemes that are appropriate in a mixed QSIG/SIP CN and the treatment of names at an interworking point. It details the use of names not only for selecting a user to participate in a call, but also as a means of identifying a user in a call to other users in that call. ENUM and private ENUM-like services are also examined.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0
