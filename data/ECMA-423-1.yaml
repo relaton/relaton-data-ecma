@@ -1,0 +1,50 @@
+---
+schema-version: v1.2.3
+id: ECMA-423
+title:
+- content: 'Holographic Data Storage Disk (HDSD) – Capacity: 1 Tbyte per disk'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-423/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-423_1st_edition_june_2023.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-423
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2023-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2023-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the physical, optical and mechanical characteristics of a Holographic Data Storage Disk (HDSD) that employs holographic recording to enable data interchange between disks.
+    The 120 mm diameter holographic disk has a nominal capacity of 1 Tbyte.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

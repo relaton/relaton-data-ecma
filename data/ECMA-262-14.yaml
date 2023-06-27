@@ -9,8 +9,10 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://262.ecma-international.org/6.0/index.html
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
   type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_14th_edition_june_2023.pdf
+  type: pdf
 type: standard
 docid:
 - id: ECMA-262
@@ -18,7 +20,7 @@ docid:
   primary: true
 date:
 - type: published
-  value: 2015-06
+  value: 2023-06
 contributor:
 - organization:
     name:
@@ -26,8 +28,8 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: '6'
-revdate: 2015-06
+  content: '14'
+revdate: 2023-06
 language:
 - en
 script:
