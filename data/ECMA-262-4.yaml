@@ -31,7 +31,7 @@ abstract:
     Kindly note that the normative copy is the HTML version; the PDF version has been produced to generate a printable document.
     This 14th edition has been prepared under the Ecma RF patent policy.
     Please note that for ECMAScript Edition 4 the Ecma standard number “ECMA-262 Edition 4” was reserved but not used in the Ecma publication process. Therefore “ECMA-262 Edition 4” as an Ecma International publication does not exist.
-    The latest drafts are available at: https://tc39.github.io/ecma262/. Reporters should generally only file bugs if the bug is still present in the latest drafts.
+    The latest drafts are available at: https://tc39.es/ecma262/. Reporters should generally only file bugs if the bug is still present in the latest drafts.
     Please find hereafter the place to file bugs: https://github.com/tc39/ecma262#ecmascript.
   language:
   - en

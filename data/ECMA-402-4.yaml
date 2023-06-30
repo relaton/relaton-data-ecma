@@ -37,6 +37,7 @@ abstract:
     This Standard defines the application programming interface for ECMAScript objects that support programs that need to adapt to the linguistic and cultural conventions used by different human languages and countries.
     Kindly note that the normative copy is the HTML version; the PDF version has been produced to generate a printable document.
     This edition has been prepared under the Ecma RF patent policy.
+    The latest drafts are available at: https://tc39.es/ecma402/.
   language:
   - en
   script:
