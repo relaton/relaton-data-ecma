@@ -2692,6 +2692,22 @@
     :ed: '1'
   :file: data/ECMA_TR_83-1.yaml
 - :id:
+    :id: ECMA TR/82
+    :ed: '2'
+  :file: data/ECMA_TR_82-2.yaml
+- :id:
+    :id: ECMA TR/81
+    :ed: '1'
+  :file: data/ECMA_TR_81-1.yaml
+- :id:
+    :id: ECMA TR/80
+    :ed: '1'
+  :file: data/ECMA_TR_80-1.yaml
+- :id:
+    :id: ECMA TR/79
+    :ed: '1'
+  :file: data/ECMA_TR_79-1.yaml
+- :id:
     :id: ECMA TR/78
     :ed: '1'
   :file: data/ECMA_TR_78-1.yaml
