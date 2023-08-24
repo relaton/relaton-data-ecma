@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: ECMA-422
 title:
-- content: C# Specification Suite
+- content: C# specification suite
   language:
   - en
   script:
