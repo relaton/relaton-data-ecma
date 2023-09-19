@@ -1832,6 +1832,42 @@
     :ed: '1'
   :file: data/ECMA-190-1.yaml
 - :id:
+    :id: ECMA-189
+    :ed: '1'
+  :file: data/ECMA-189-1.yaml
+- :id:
+    :id: ECMA-186
+    :ed: '4'
+  :file: data/ECMA-186-4.yaml
+- :id:
+    :id: ECMA-186
+    :ed: '1'
+  :file: data/ECMA-186-1.yaml
+- :id:
+    :id: ECMA-186
+    :ed: '2'
+  :file: data/ECMA-186-2.yaml
+- :id:
+    :id: ECMA-186
+    :ed: '3'
+  :file: data/ECMA-186-3.yaml
+- :id:
+    :id: ECMA-185
+    :ed: '2'
+  :file: data/ECMA-185-2.yaml
+- :id:
+    :id: ECMA-185
+    :ed: '1'
+  :file: data/ECMA-185-1.yaml
+- :id:
+    :id: ECMA-184
+    :ed: '1'
+  :file: data/ECMA-184-1.yaml
+- :id:
+    :id: ECMA-183
+    :ed: '1'
+  :file: data/ECMA-183-1.yaml
+- :id:
     :id: ECMA-182
     :ed: '1'
   :file: data/ECMA-182-1.yaml
