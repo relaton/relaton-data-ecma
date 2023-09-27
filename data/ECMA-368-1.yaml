@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.4
+id: ECMA-368
+title:
+- content: High rate ultra wideband PHY and MAC standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-368_1st_edition_december_2005.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-368
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2005-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2005-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies a distributed medium access control (MAC) sublayer and a physical layer (PHY) for wireless networks.
+    Taken together, the PHY and MAC specified in this Ecma standard are well-suited to high rate, zero infrastructure communications between a mixed population of portable and fixed electronic devices.
+    This Ecma specification is not intended to represent the regulatory requirements of any country or region.
+    ECMA-368 uses Specifier IDs that are maintained in this Register.
+    ECMA-368 specifies Regulatory Domains that are maintained in this Register.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-368
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-368_1st_edition_december_2005.pdf
+      type: pdf
+    docid:
+    - id: ECMA-368
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2005-12
+    edition:
+      content: '1'
+    revdate: 2005-12
+    formattedref:
+      content: ECMA-368
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-368
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-368_2nd_edition_december_2007.pdf
+      type: pdf
+    docid:
+    - id: ECMA-368
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2007-12
+    edition:
+      content: '2'
+    revdate: 2007-12
+    formattedref:
+      content: ECMA-368
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0
