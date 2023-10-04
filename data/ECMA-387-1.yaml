@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.4
+id: ECMA-387
+title:
+- content: High Rate 60 GHz PHY, MAC and HDMI PALs
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-387_1st_edition_december_2008.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-387
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2008-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2008-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies a physical layer (PHY), distributed medium access control (MAC) sublayer, and an HDMI protocol adaptation layer (PAL) for 60 GHz wireless networks.
+    ECMA-387 uses Specifier IDs that are maintained in this Register.
+    In their fast-track approval procedure, ISO/IEC JTC 1 amended and approved the 1st edition as ISO/IEC 13156:2009. This 2nd edition has also been fast-tracked to ISO/IEC JTC 1.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-387
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-387_1st_edition_december_2008.pdf
+      type: pdf
+    docid:
+    - id: ECMA-387
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2008-12
+    edition:
+      content: '1'
+    revdate: 2008-12
+    formattedref:
+      content: ECMA-387
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0

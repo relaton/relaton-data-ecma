@@ -304,6 +304,42 @@
     :ed: '1'
   :file: data/ECMA-388-1.yaml
 - :id:
+    :id: ECMA-387
+    :ed: '2'
+  :file: data/ECMA-387-2.yaml
+- :id:
+    :id: ECMA-387
+    :ed: '1'
+  :file: data/ECMA-387-1.yaml
+- :id:
+    :id: ECMA-386
+    :ed: '3'
+  :file: data/ECMA-386-3.yaml
+- :id:
+    :id: ECMA-386
+    :ed: '1'
+  :file: data/ECMA-386-1.yaml
+- :id:
+    :id: ECMA-386
+    :ed: '2'
+  :file: data/ECMA-386-2.yaml
+- :id:
+    :id: ECMA-385
+    :ed: '4'
+  :file: data/ECMA-385-4.yaml
+- :id:
+    :id: ECMA-385
+    :ed: '1'
+  :file: data/ECMA-385-1.yaml
+- :id:
+    :id: ECMA-385
+    :ed: '2'
+  :file: data/ECMA-385-2.yaml
+- :id:
+    :id: ECMA-385
+    :ed: '3'
+  :file: data/ECMA-385-3.yaml
+- :id:
     :id: ECMA-384
     :ed: '1'
   :file: data/ECMA-384-1.yaml

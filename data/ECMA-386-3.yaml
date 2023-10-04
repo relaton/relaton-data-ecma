@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.4
+id: ECMA-386
+title:
+- content: 'NFC-SEC-01: NFC-SEC cryptography standard using ECDH and AES'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-386/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-386_3rd_edition_june_2015.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-386
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2015-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: 2015-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the message contents and the cryptographic methods for PID 01.
+    This Standard specifies cryptographic mechanisms that use the Elliptic Curves Diffie-Hellman (ECDH) protocol for key agreement and the AES algorithm for data encryption and integrity.
+    The mechanisms are for use with the Services and Protocol specified in ECMA-385.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-386
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-386_1st_edition_december_2008.pdf
+      type: pdf
+    docid:
+    - id: ECMA-386
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2008-12
+    edition:
+      content: '1'
+    revdate: 2008-12
+    formattedref:
+      content: ECMA-386
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-386
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-386_2nd_edition_june_2010.pdf
+      type: pdf
+    docid:
+    - id: ECMA-386
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2010-06
+    edition:
+      content: '2'
+    revdate: 2010-06
+    formattedref:
+      content: ECMA-386
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0
