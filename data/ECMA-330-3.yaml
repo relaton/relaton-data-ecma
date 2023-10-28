@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.4
+id: ECMA-330
+title:
+- content: 120 mm (4,7 Gbytes per side) and 80 mm (1,46 Gbytes per side) DVD rewritable
+    disk (DVD-RAM)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-330/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-330_3rd_edition_june_2005.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-330
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2005-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: 2005-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Ecma Standard specifies the mechanical, physical and optical characteristics of an optical disk, identified as DVD Rewritable Disk (DVD-RAM), to enable interchange of such disks. It specifies the quality of the recorded signals, the format of the data and the recording method, thereby allowing for information interchange by means of such disks. The data can be written, read and overwritten many times using the phase change method. Two Types are specified that differ only by their diameter of 120 mm and 80 mm, and the resulting difference of capacity.
+    This Ecma Standard specifies:
+    This Ecma Standard provides for the interchange of disks between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems. The optical disks specified by this Ecma Standard may be enclosed in cases as specified in Standard ECMA-331.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-330
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-330_1st_edition_december_2001.pdf
+      type: pdf
+    docid:
+    - id: ECMA-330
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2001-12
+    edition:
+      content: '1'
+    revdate: 2001-12
+    formattedref:
+      content: ECMA-330
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-330
+    link:
+    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-330_2nd_edition_june_2002.pdf
+      type: pdf
+    docid:
+    - id: ECMA-330
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2002-06
+    edition:
+      content: '2'
+    revdate: 2002-06
+    formattedref:
+      content: ECMA-330
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0
