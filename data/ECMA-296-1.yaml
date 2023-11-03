@@ -1,0 +1,55 @@
+---
+schema-version: v1.2.4
+id: ECMA-296
+title:
+- content: 'B-ISDN and B-PISN - Digital Subscriber Signalling System No. two (DSS2),
+    Broadband Inter-Exchange Signalling (B-QSIG), and Signalling System No. 7 (SS7)
+    - Prenegotiation - Part 1: Protocol specification'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-296/
+  type: src
+- content: https://www.ecma-international.org/wp-content/uploads/ECMA-296_1st_edition_december_1999.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-296
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 1999-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 1999-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard specifies the signalling protocol for the purpose of prenegotiation at the QB, SB ,TB and co-incident SB/TB reference points within, between and at the access to Broadband Private Integrated Services Networks and within, between and at the access to public European Broadband Integrated Services Digital Networks. The protocol operates between two adjacent call control entities. The protocol is applicable in a separated call and bearer (connection) control environment for the support of calls having none, one or multiple bearers. The protocol is applicable to a two-party call or a multi-party call. However, prenegotiation is performed between two parties. In case of multi-party connections (point-to-multipoint connections), prenegotiation may be performed between the root and the first party.
+    The QB reference point is defined in ISO/IEC 11579-1. The SB and TB reference points are defined in ITU-T Rec. I.327.
+    This Standard is based on the transport capabilities as defined in ETS 300 796-1 and ECMA-254, and is closely related to the call control protocol specification as defined in ECMA-294.
+    The purpose of prenegotiation as specified in this Standard is to allow a user to check compatibility and availability at the remote user with regard to one or more connections the user intends to establish during the lifetime of the call, without reserving connection-oriented resources in the network. Reservation of connection-oriented resources at the remote user is outside the scope of this Standard.
+    The protocol defined in this Standard forms part of the B-QSIG protocol.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype: document
+ext:
+  schema-version: v1.0.0
