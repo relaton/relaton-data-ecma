@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_3rd_edition_january_1982.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-35_3rd_edition_january_1982.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ relation:
   bibitem:
     id: ECMA-35
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_1st_edition_december_1971.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-35_1st_edition_december_1971.pdf
       type: pdf
     docid:
     - id: ECMA-35
@@ -71,7 +71,7 @@ relation:
   bibitem:
     id: ECMA-35
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_2nd_edition_january_1980.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-35_2nd_edition_january_1980.pdf
       type: pdf
     docid:
     - id: ECMA-35
@@ -94,7 +94,7 @@ relation:
   bibitem:
     id: ECMA-35
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_3rd_edition_january_1982.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-35_3rd_edition_january_1982.pdf
       type: pdf
     docid:
     - id: ECMA-35
@@ -117,7 +117,7 @@ relation:
   bibitem:
     id: ECMA-35
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-35_4th_edition_march_1985.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-35_4th_edition_march_1985.pdf
       type: pdf
     docid:
     - id: ECMA-35

@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-393_1st_edition_february_2010.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-393_1st_edition_february_2010.pdf
   type: pdf
 type: standard
 docid:
@@ -47,7 +47,7 @@ relation:
   bibitem:
     id: ECMA-393
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-393_1st_edition_february_2010.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-393_1st_edition_february_2010.pdf
       type: pdf
     docid:
     - id: ECMA-393

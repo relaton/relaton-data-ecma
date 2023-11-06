@@ -50,7 +50,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_1st_edition_june_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_1st_edition_june_1997.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -73,7 +73,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -96,7 +96,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -135,7 +135,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_5th_edition_december_2009.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_5th_edition_december_2009.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -158,7 +158,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_5.1_edition_june_2011.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_5.1_edition_june_2011.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -181,7 +181,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -204,7 +204,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_7th_edition_june_2016.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_7th_edition_june_2016.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -227,7 +227,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_8th_edition_june_2017.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_8th_edition_june_2017.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -250,7 +250,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_9th_edition_june_2018.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_9th_edition_june_2018.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -273,7 +273,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_10th_edition_june_2019.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_10th_edition_june_2019.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -296,7 +296,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_11th_edition_june_2020.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_11th_edition_june_2020.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -319,7 +319,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_12th_edition_june_2021.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_12th_edition_june_2021.pdf
       type: pdf
     docid:
     - id: ECMA-262
@@ -342,7 +342,7 @@ relation:
   bibitem:
     id: ECMA-262
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-262_13th_edition_june_2022.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_13th_edition_june_2022.pdf
       type: pdf
     docid:
     - id: ECMA-262

@@ -10,7 +10,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-225_1st_edition_june_1995.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-225_1st_edition_june_1995.pdf
   type: pdf
 type: standard
 docid:
@@ -53,7 +53,7 @@ relation:
   bibitem:
     id: ECMA-225
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-225_1st_edition_june_1995.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-225_1st_edition_june_1995.pdf
       type: pdf
     docid:
     - id: ECMA-225

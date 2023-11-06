@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-376_2nd_edition_december_2008.zip
+- content: https://ecma-international.org/wp-content/uploads/ECMA-376_2nd_edition_december_2008.zip
   type: pdf
 type: standard
 docid:
@@ -47,7 +47,7 @@ relation:
   bibitem:
     id: ECMA-376
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-376_1st_edition_december_2006.zip
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-376_1st_edition_december_2006.zip
       type: pdf
     docid:
     - id: ECMA-376
@@ -70,7 +70,7 @@ relation:
   bibitem:
     id: ECMA-376
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-376_2nd_edition_december_2008.zip
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-376_2nd_edition_december_2008.zip
       type: pdf
     docid:
     - id: ECMA-376
@@ -93,7 +93,7 @@ relation:
   bibitem:
     id: ECMA-376
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-376_3rd_edition_june_2011.zip
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-376_3rd_edition_june_2011.zip
       type: pdf
     docid:
     - id: ECMA-376
@@ -116,7 +116,7 @@ relation:
   bibitem:
     id: ECMA-376
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-376_4th_edition_december_2012.zip
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-376_4th_edition_december_2012.zip
       type: pdf
     docid:
     - id: ECMA-376

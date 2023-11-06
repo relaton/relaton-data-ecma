@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-130/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-130/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-130_2nd_edition_june_1996.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-130_2nd_edition_june_1996.pdf
   type: pdf
 type: standard
 docid:
@@ -50,7 +50,7 @@ relation:
   bibitem:
     id: ECMA-130
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-130_1st_edition_july_1988.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-130_1st_edition_july_1988.pdf
       type: pdf
     docid:
     - id: ECMA-130

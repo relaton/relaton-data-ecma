@@ -10,7 +10,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-374_1st_edition_december_2006.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-374_1st_edition_december_2006.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMA-374
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-374_1st_edition_december_2006.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-374_1st_edition_december_2006.pdf
       type: pdf
     docid:
     - id: ECMA-374

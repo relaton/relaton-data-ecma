@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-194/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-194/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-194_4th_edition_december_2001.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-194_4th_edition_december_2001.pdf
   type: pdf
 type: standard
 docid:
@@ -73,7 +73,7 @@ relation:
   bibitem:
     id: ECMA-194
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-194_2nd_edition_december_1994.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-194_2nd_edition_december_1994.pdf
       type: pdf
     docid:
     - id: ECMA-194
@@ -96,7 +96,7 @@ relation:
   bibitem:
     id: ECMA-194
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-194_3rd_edition_june_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-194_3rd_edition_june_1997.pdf
       type: pdf
     docid:
     - id: ECMA-194

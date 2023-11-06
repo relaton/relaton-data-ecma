@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-378/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-378/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-378_1st_edition_may_2007.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-378_1st_edition_may_2007.pdf
   type: pdf
 type: standard
 docid:

@@ -58,7 +58,7 @@ relation:
   bibitem:
     id: ECMA-177
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-177_2nd_edition_september_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-177_2nd_edition_september_1997.pdf
       type: pdf
     docid:
     - id: ECMA-177

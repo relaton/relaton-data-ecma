@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-108/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-108/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_6th_edition_december_2016.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-108_6th_edition_december_2016.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMA-108
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_1st_edition_december_1985.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-108_1st_edition_december_1985.pdf
       type: pdf
     docid:
     - id: ECMA-108
@@ -72,7 +72,7 @@ relation:
   bibitem:
     id: ECMA-108
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_2nd_edition_june_1989.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-108_2nd_edition_june_1989.pdf
       type: pdf
     docid:
     - id: ECMA-108
@@ -95,7 +95,7 @@ relation:
   bibitem:
     id: ECMA-108
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_3rd_edition_december_1996.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-108_3rd_edition_december_1996.pdf
       type: pdf
     docid:
     - id: ECMA-108
@@ -118,7 +118,7 @@ relation:
   bibitem:
     id: ECMA-108
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_4th_edition_december_2008.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-108_4th_edition_december_2008.pdf
       type: pdf
     docid:
     - id: ECMA-108
@@ -141,7 +141,7 @@ relation:
   bibitem:
     id: ECMA-108
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-108_5th_edition_december_2010.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-108_5th_edition_december_2010.pdf
       type: pdf
     docid:
     - id: ECMA-108

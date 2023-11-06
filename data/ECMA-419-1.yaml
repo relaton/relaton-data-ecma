@@ -47,7 +47,7 @@ relation:
   bibitem:
     id: ECMA-419
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-419_1st_edition_june_2021.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-419_1st_edition_june_2021.pdf
       type: pdf
     docid:
     - id: ECMA-419

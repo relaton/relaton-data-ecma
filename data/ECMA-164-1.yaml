@@ -65,7 +65,7 @@ relation:
   bibitem:
     id: ECMA-164
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-164_2nd_edition_june_1993.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-164_2nd_edition_june_1993.pdf
       type: pdf
     docid:
     - id: ECMA-164
@@ -88,7 +88,7 @@ relation:
   bibitem:
     id: ECMA-164
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-164_3rd_edition_september_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-164_3rd_edition_september_1997.pdf
       type: pdf
     docid:
     - id: ECMA-164

@@ -68,7 +68,7 @@ relation:
   bibitem:
     id: ECMA-48
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-48_2nd_edition_august_1979.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-48_2nd_edition_august_1979.pdf
       type: pdf
     docid:
     - id: ECMA-48
@@ -91,7 +91,7 @@ relation:
   bibitem:
     id: ECMA-48
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-48_3rd_edition_march_1984.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-48_3rd_edition_march_1984.pdf
       type: pdf
     docid:
     - id: ECMA-48
@@ -114,7 +114,7 @@ relation:
   bibitem:
     id: ECMA-48
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-48_4th_edition_december_1986.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-48_4th_edition_december_1986.pdf
       type: pdf
     docid:
     - id: ECMA-48

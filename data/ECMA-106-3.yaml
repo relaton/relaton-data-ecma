@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-106/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-106/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-106_3rd_edition_december_1993.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-106_3rd_edition_december_1993.pdf
   type: pdf
 type: standard
 docid:
@@ -51,7 +51,7 @@ relation:
   bibitem:
     id: ECMA-106
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-106_1st_edition_september_1985.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-106_1st_edition_september_1985.pdf
       type: pdf
     docid:
     - id: ECMA-106
@@ -74,7 +74,7 @@ relation:
   bibitem:
     id: ECMA-106
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-106_2nd-edition_-june_1991.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-106_2nd-edition_-june_1991.pdf
       type: pdf
     docid:
     - id: ECMA-106

@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_3rd_edition_december_2018.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-413_3rd_edition_december_2018.pdf
   type: pdf
 type: standard
 docid:
@@ -46,7 +46,7 @@ relation:
   bibitem:
     id: ECMA-413
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_1st_edition_june_2016.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-413_1st_edition_june_2016.pdf
       type: pdf
     docid:
     - id: ECMA-413
@@ -69,7 +69,7 @@ relation:
   bibitem:
     id: ECMA-413
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
       type: pdf
     docid:
     - id: ECMA-413
@@ -92,7 +92,7 @@ relation:
   bibitem:
     id: ECMA-413
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-413_3rd_edition_december_2018.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-413_3rd_edition_december_2018.pdf
       type: pdf
     docid:
     - id: ECMA-413

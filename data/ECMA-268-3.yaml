@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-268/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-268/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-268_3rd_edition_april_2001.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-268_3rd_edition_april_2001.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMA-268
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-268_1st_edition_december_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-268_1st_edition_december_1997.pdf
       type: pdf
     docid:
     - id: ECMA-268
@@ -72,7 +72,7 @@ relation:
   bibitem:
     id: ECMA-268
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-268_2nd_edition_december_1999.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-268_2nd_edition_december_1999.pdf
       type: pdf
     docid:
     - id: ECMA-268

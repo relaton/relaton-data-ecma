@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-53/
+- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-53/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-53_2nd_edition_june_1992.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-53_2nd_edition_june_1992.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ relation:
   bibitem:
     id: ECMATR-53
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-53_1st_edition_december_1990.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA_TR-53_1st_edition_december_1990.pdf
       type: pdf
     docid:
     - id: ECMA TR/53

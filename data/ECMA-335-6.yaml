@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-335/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-335/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_6th_edition_june_2012.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-335_6th_edition_june_2012.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ relation:
   bibitem:
     id: ECMA-335
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_1st_edition_december_2001.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-335_1st_edition_december_2001.pdf
       type: pdf
     docid:
     - id: ECMA-335
@@ -71,7 +71,7 @@ relation:
   bibitem:
     id: ECMA-335
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_2nd_edition_december_2002.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-335_2nd_edition_december_2002.pdf
       type: pdf
     docid:
     - id: ECMA-335
@@ -94,7 +94,7 @@ relation:
   bibitem:
     id: ECMA-335
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_3rd_edition_june_2005.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-335_3rd_edition_june_2005.pdf
       type: pdf
     docid:
     - id: ECMA-335
@@ -117,7 +117,7 @@ relation:
   bibitem:
     id: ECMA-335
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_4th_edition_june_2006.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-335_4th_edition_june_2006.pdf
       type: pdf
     docid:
     - id: ECMA-335
@@ -140,7 +140,7 @@ relation:
   bibitem:
     id: ECMA-335
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-335_5th_edition_december_2010.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-335_5th_edition_december_2010.pdf
       type: pdf
     docid:
     - id: ECMA-335

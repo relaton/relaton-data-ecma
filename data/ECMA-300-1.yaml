@@ -10,7 +10,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf
   type: pdf
 type: standard
 docid:
@@ -53,7 +53,7 @@ relation:
   bibitem:
     id: ECMA-300
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf
       type: pdf
     docid:
     - id: ECMA-300

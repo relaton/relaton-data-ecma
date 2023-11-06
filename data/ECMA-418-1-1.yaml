@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-418-1_1st_edition_december_2020.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-418-1_1st_edition_december_2020.pdf
   type: pdf
 type: standard
 docid:
@@ -56,7 +56,7 @@ relation:
   bibitem:
     id: ECMA-418-1
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-418-1_1st_edition_december_2020.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-418-1_1st_edition_december_2020.pdf
       type: pdf
     docid:
     - id: ECMA-418-1
@@ -79,7 +79,7 @@ relation:
   bibitem:
     id: ECMA-418-2
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-418-2_1st_edition_december_2020.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-418-2_1st_edition_december_2020.pdf
       type: pdf
     docid:
     - id: ECMA-418-2

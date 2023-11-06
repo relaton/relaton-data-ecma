@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-374/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-374/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-374_2nd_edition_june_2008.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-374_2nd_edition_june_2008.pdf
   type: pdf
 type: standard
 docid:
@@ -51,7 +51,7 @@ relation:
   bibitem:
     id: ECMA-374
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-374_1st_edition_december_2006.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-374_1st_edition_december_2006.pdf
       type: pdf
     docid:
     - id: ECMA-374

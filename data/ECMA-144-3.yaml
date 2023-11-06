@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-144/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-144/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-144_3rd_edition_december_2000.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-144_3rd_edition_december_2000.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ relation:
   bibitem:
     id: ECMA-144
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-144_1st_edition_december_1990.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-144_1st_edition_december_1990.pdf
       type: pdf
     docid:
     - id: ECMA-144
@@ -71,7 +71,7 @@ relation:
   bibitem:
     id: ECMA-144
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-144_2nd_edition_december_1992.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-144_2nd_edition_december_1992.pdf
       type: pdf
     docid:
     - id: ECMA-144

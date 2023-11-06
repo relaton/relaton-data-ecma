@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-285/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-285/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_4th_edition_december_2011.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-285_4th_edition_december_2011.pdf
   type: pdf
 type: standard
 docid:
@@ -55,7 +55,7 @@ relation:
   bibitem:
     id: ECMA-285
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_1st_edition_december_1998.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-285_1st_edition_december_1998.pdf
       type: pdf
     docid:
     - id: ECMA-285
@@ -78,7 +78,7 @@ relation:
   bibitem:
     id: ECMA-285
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_2nd_edition_june_2000.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-285_2nd_edition_june_2000.pdf
       type: pdf
     docid:
     - id: ECMA-285
@@ -101,7 +101,7 @@ relation:
   bibitem:
     id: ECMA-285
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_3rd_edition_december_2010.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-285_3rd_edition_december_2010.pdf
       type: pdf
     docid:
     - id: ECMA-285
@@ -124,7 +124,7 @@ relation:
   bibitem:
     id: ECMA-285
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-285_4th_edition_source_files.zip
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-285_4th_edition_source_files.zip
       type: pdf
     docid:
     - id: ECMA-285

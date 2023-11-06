@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-94/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-94/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-94_2nd_edition_june_1986.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-94_2nd_edition_june_1986.pdf
   type: pdf
 type: standard
 docid:
@@ -50,7 +50,7 @@ relation:
   bibitem:
     id: ECMA-94
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-94_1st_edition_march_1985.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-94_1st_edition_march_1985.pdf
       type: pdf
     docid:
     - id: ECMA-94

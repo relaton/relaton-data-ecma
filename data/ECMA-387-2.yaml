@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-387/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-387/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-387_2nd_edition_december_2010.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-387_2nd_edition_december_2010.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMA-387
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-387_1st_edition_december_2008.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-387_1st_edition_december_2008.pdf
       type: pdf
     docid:
     - id: ECMA-387

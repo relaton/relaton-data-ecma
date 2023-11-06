@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_3rd_edition_june_2007.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-328_3rd_edition_june_2007.pdf
   type: pdf
 type: standard
 docid:
@@ -58,7 +58,7 @@ relation:
   bibitem:
     id: ECMA-328
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_1st_edition_august_2001.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-328_1st_edition_august_2001.pdf
       type: pdf
     docid:
     - id: ECMA-328
@@ -81,7 +81,7 @@ relation:
   bibitem:
     id: ECMA-328
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_2nd_edition_june_2006.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-328_2nd_edition_june_2006.pdf
       type: pdf
     docid:
     - id: ECMA-328
@@ -104,7 +104,7 @@ relation:
   bibitem:
     id: ECMA-328
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_3rd_edition_june_2007.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-328_3rd_edition_june_2007.pdf
       type: pdf
     docid:
     - id: ECMA-328
@@ -127,7 +127,7 @@ relation:
   bibitem:
     id: ECMA-328
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_4th_edition_december_2009.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-328_4th_edition_december_2009.pdf
       type: pdf
     docid:
     - id: ECMA-328
@@ -150,7 +150,7 @@ relation:
   bibitem:
     id: ECMA-328
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_5th_edition_december_2010.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-328_5th_edition_december_2010.pdf
       type: pdf
     docid:
     - id: ECMA-328
@@ -173,7 +173,7 @@ relation:
   bibitem:
     id: ECMA-328
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_6th_edition_december_2013.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-328_6th_edition_december_2013.pdf
       type: pdf
     docid:
     - id: ECMA-328
@@ -196,7 +196,7 @@ relation:
   bibitem:
     id: ECMA-328
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-328_7th_edition_december_2015.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-328_7th_edition_december_2015.pdf
       type: pdf
     docid:
     - id: ECMA-328

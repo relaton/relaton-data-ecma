@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-104/
+- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-104/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-104_2nd_edition_december_2016.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-104_2nd_edition_december_2016.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ relation:
   bibitem:
     id: ECMATR-104
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-104_1st_edition_december_2011.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA_TR-104_1st_edition_december_2011.pdf
       type: pdf
     docid:
     - id: ECMA TR/104

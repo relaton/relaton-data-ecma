@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-221/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-221/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-221_3rd_edition_december_2001.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-221_3rd_edition_december_2001.pdf
   type: pdf
 type: standard
 docid:
@@ -56,7 +56,7 @@ relation:
   bibitem:
     id: ECMA-221
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-221_1st_edition_march_1995.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-221_1st_edition_march_1995.pdf
       type: pdf
     docid:
     - id: ECMA-221
@@ -79,7 +79,7 @@ relation:
   bibitem:
     id: ECMA-221
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-221_2nd_edition_june_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-221_2nd_edition_june_1997.pdf
       type: pdf
     docid:
     - id: ECMA-221

@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-318/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-318/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-318_1st_edition_december_2000.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-318_1st_edition_december_2000.pdf
   type: pdf
 type: standard
 docid:

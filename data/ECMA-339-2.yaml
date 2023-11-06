@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-339/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-339/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-339_2nd_edition_december_2006.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-339_2nd_edition_december_2006.pdf
   type: pdf
 type: standard
 docid:
@@ -54,7 +54,7 @@ relation:
   bibitem:
     id: ECMA-339
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-339_1st_edition_december_2002.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-339_1st_edition_december_2002.pdf
       type: pdf
     docid:
     - id: ECMA-339

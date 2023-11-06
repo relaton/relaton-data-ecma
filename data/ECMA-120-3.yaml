@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-120/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-120/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-120_3rd_edition_december_1993.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-120_3rd_edition_december_1993.pdf
   type: pdf
 type: standard
 docid:
@@ -51,7 +51,7 @@ relation:
   bibitem:
     id: ECMA-120
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-120_1st_edition_december_1986.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-120_1st_edition_december_1986.pdf
       type: pdf
     docid:
     - id: ECMA-120
@@ -74,7 +74,7 @@ relation:
   bibitem:
     id: ECMA-120
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-120_2nd_edition_december_1987.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-120_2nd_edition_december_1987.pdf
       type: pdf
     docid:
     - id: ECMA-120

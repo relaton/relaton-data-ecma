@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-107/
+- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-107/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-107_3rd_edition_december_2017.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-107_3rd_edition_december_2017.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMATR-107
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-107_1st_edition_june_2015.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA_TR-107_1st_edition_june_2015.pdf
       type: pdf
     docid:
     - id: ECMA TR/107
@@ -72,7 +72,7 @@ relation:
   bibitem:
     id: ECMATR-107
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-107_2nd_edition_december_2016.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA_TR-107_2nd_edition_december_2016.pdf
       type: pdf
     docid:
     - id: ECMA TR/107

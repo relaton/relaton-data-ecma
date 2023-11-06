@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-402/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-402/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_10th_edition_june_2023.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-402_10th_edition_june_2023.pdf
   type: pdf
 type: standard
 docid:
@@ -50,7 +50,7 @@ relation:
   bibitem:
     id: ECMA-402
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_1st_edition_december_2012.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402_1st_edition_december_2012.pdf
       type: pdf
     docid:
     - id: ECMA-402
@@ -73,7 +73,7 @@ relation:
   bibitem:
     id: ECMA-402
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_2nd_edition_june_2015.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402_2nd_edition_june_2015.pdf
       type: pdf
     docid:
     - id: ECMA-402
@@ -96,7 +96,7 @@ relation:
   bibitem:
     id: ECMA-402
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_3rd_edition_june_2016.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402_3rd_edition_june_2016.pdf
       type: pdf
     docid:
     - id: ECMA-402
@@ -119,7 +119,7 @@ relation:
   bibitem:
     id: ECMA-402
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_4th_edition_june_2017.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402_4th_edition_june_2017.pdf
       type: pdf
     docid:
     - id: ECMA-402
@@ -142,7 +142,7 @@ relation:
   bibitem:
     id: ECMA-402
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_5th_edition_june_2018.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402_5th_edition_june_2018.pdf
       type: pdf
     docid:
     - id: ECMA-402
@@ -165,7 +165,7 @@ relation:
   bibitem:
     id: ECMA-402
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-402-6th-edition-June-2019.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402-6th-edition-June-2019.pdf
       type: pdf
     docid:
     - id: ECMA-402
@@ -188,7 +188,7 @@ relation:
   bibitem:
     id: ECMA-402
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_7th_edition_june_2020.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402_7th_edition_june_2020.pdf
       type: pdf
     docid:
     - id: ECMA-402
@@ -211,7 +211,7 @@ relation:
   bibitem:
     id: ECMA-402
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_8th_edition_june_2021.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402_8th_edition_june_2021.pdf
       type: pdf
     docid:
     - id: ECMA-402
@@ -234,7 +234,7 @@ relation:
   bibitem:
     id: ECMA-402
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-402_9th_edition_june_2022.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402_9th_edition_june_2022.pdf
       type: pdf
     docid:
     - id: ECMA-402

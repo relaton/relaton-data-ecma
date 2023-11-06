@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-395/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-395/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-395_1st_edition_december_2010.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-395_1st_edition_december_2010.pdf
   type: pdf
 type: standard
 docid:

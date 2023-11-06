@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-349/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-349/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-349_4th_edition_june_2008.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-349_4th_edition_june_2008.pdf
   type: pdf
 type: standard
 docid:
@@ -51,7 +51,7 @@ relation:
   bibitem:
     id: ECMA-349
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-349_1st_edition_december_2003.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-349_1st_edition_december_2003.pdf
       type: pdf
     docid:
     - id: ECMA-349
@@ -74,7 +74,7 @@ relation:
   bibitem:
     id: ECMA-349
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-349_2nd_edition_june_2004.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-349_2nd_edition_june_2004.pdf
       type: pdf
     docid:
     - id: ECMA-349
@@ -97,7 +97,7 @@ relation:
   bibitem:
     id: ECMA-349
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-349_3rd_edition_december_2005.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-349_3rd_edition_december_2005.pdf
       type: pdf
     docid:
     - id: ECMA-349

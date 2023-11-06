@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-367/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-367/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-367_2nd_edition_june_2006.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-367_2nd_edition_june_2006.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMA-367
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-367_1st_edition_june_2005.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-367_1st_edition_june_2005.pdf
       type: pdf
     docid:
     - id: ECMA-367

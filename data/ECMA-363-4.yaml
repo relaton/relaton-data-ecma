@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-363/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-363/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-363_4th_edition_june_2007.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-363_4th_edition_june_2007.pdf
   type: pdf
 type: standard
 docid:
@@ -51,7 +51,7 @@ relation:
   bibitem:
     id: ECMA-363
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-363_1st_edition_december_2004.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-363_1st_edition_december_2004.pdf
       type: pdf
     docid:
     - id: ECMA-363
@@ -74,7 +74,7 @@ relation:
   bibitem:
     id: ECMA-363
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-363_2nd_edition_august_2005.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-363_2nd_edition_august_2005.pdf
       type: pdf
     docid:
     - id: ECMA-363
@@ -97,7 +97,7 @@ relation:
   bibitem:
     id: ECMA-363
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-363_3rd_edition_june_2006.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-363_3rd_edition_june_2006.pdf
       type: pdf
     docid:
     - id: ECMA-363

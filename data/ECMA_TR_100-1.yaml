@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/technical-reports/ecma-tr-100/
+- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-100/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA_TR-100_1st_edition_december_2009.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-100_1st_edition_december_2009.pdf
   type: pdf
 type: standard
 docid:

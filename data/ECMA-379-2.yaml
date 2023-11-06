@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-379_2nd_edition_december_2008.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-379_2nd_edition_december_2008.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ relation:
   bibitem:
     id: ECMA-379
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-379_1st_edition_june_2007.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-379_1st_edition_june_2007.pdf
       type: pdf
     docid:
     - id: ECMA-379
@@ -71,7 +71,7 @@ relation:
   bibitem:
     id: ECMA-379
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-379_2nd_edition_december_2008.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-379_2nd_edition_december_2008.pdf
       type: pdf
     docid:
     - id: ECMA-379

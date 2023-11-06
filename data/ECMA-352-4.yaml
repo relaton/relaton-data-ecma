@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-352/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-352/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-352_4th_edition_december_2021.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-352_4th_edition_december_2021.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ relation:
   bibitem:
     id: ECMA-352
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-352_1st_edition_december_2003.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-352_1st_edition_december_2003.pdf
       type: pdf
     docid:
     - id: ECMA-352
@@ -71,7 +71,7 @@ relation:
   bibitem:
     id: ECMA-352
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-352_2nd_edition_june_2010.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-352_2nd_edition_june_2010.pdf
       type: pdf
     docid:
     - id: ECMA-352
@@ -94,7 +94,7 @@ relation:
   bibitem:
     id: ECMA-352
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-352_3rd_edition_june_2013.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-352_3rd_edition_june_2013.pdf
       type: pdf
     docid:
     - id: ECMA-352

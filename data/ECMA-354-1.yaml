@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-354/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-354/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-354_1st_edition_june_2004.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-354_1st_edition_june_2004.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMA-354
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-354_xsds_02_august_2004.zip
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-354_xsds_02_august_2004.zip
       type: pdf
     docid:
     - id: ECMA-354

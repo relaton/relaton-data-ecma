@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-418/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-418/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-418-1_2nd_edition_december_2022.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-418-1_2nd_edition_december_2022.pdf
   type: pdf
 type: standard
 docid:
@@ -58,7 +58,7 @@ relation:
   bibitem:
     id: ECMA-418-1
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-418-1_1st_edition_december_2020.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-418-1_1st_edition_december_2020.pdf
       type: pdf
     docid:
     - id: ECMA-418-1
@@ -81,7 +81,7 @@ relation:
   bibitem:
     id: ECMA-418-2
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-418-2_1st_edition_december_2020.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-418-2_1st_edition_december_2020.pdf
       type: pdf
     docid:
     - id: ECMA-418-2

@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-300/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-300/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-300_2nd_edition_december_2001.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-300_2nd_edition_december_2001.pdf
   type: pdf
 type: standard
 docid:
@@ -55,7 +55,7 @@ relation:
   bibitem:
     id: ECMA-300
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf
       type: pdf
     docid:
     - id: ECMA-300

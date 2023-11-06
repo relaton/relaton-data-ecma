@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-113/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-113/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-113_3rd_edition_december_1999.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-113_3rd_edition_december_1999.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ relation:
   bibitem:
     id: ECMA-113
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-113_1st_edition_june_1986.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-113_1st_edition_june_1986.pdf
       type: pdf
     docid:
     - id: ECMA-113
@@ -71,7 +71,7 @@ relation:
   bibitem:
     id: ECMA-113
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-113_2nd_edition_june_1988.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-113_2nd_edition_june_1988.pdf
       type: pdf
     docid:
     - id: ECMA-113

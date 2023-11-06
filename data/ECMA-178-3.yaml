@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-178/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-178/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-178_3rd_edition_december_2001.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-178_3rd_edition_december_2001.pdf
   type: pdf
 type: standard
 docid:
@@ -71,7 +71,7 @@ relation:
   bibitem:
     id: ECMA-178
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-178_2nd_edition_september_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-178_2nd_edition_september_1997.pdf
       type: pdf
     docid:
     - id: ECMA-178

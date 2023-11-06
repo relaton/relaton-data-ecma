@@ -11,9 +11,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-302/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-302/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-302_2nd_edition_december_2001.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-302_2nd_edition_december_2001.pdf
   type: pdf
 type: standard
 docid:
@@ -57,7 +57,7 @@ relation:
   bibitem:
     id: ECMA-302
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-302_1st_edition_june_2000.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-302_1st_edition_june_2000.pdf
       type: pdf
     docid:
     - id: ECMA-302

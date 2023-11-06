@@ -11,7 +11,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-165_2nd_edition_june_1993.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-165_2nd_edition_june_1993.pdf
   type: pdf
 type: standard
 docid:
@@ -52,7 +52,7 @@ relation:
   bibitem:
     id: ECMA-165
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-165_1st_edition_march_1992.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-165_1st_edition_march_1992.pdf
       type: pdf
     docid:
     - id: ECMA-165
@@ -75,7 +75,7 @@ relation:
   bibitem:
     id: ECMA-165
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-165_2nd_edition_june_1993.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-165_2nd_edition_june_1993.pdf
       type: pdf
     docid:
     - id: ECMA-165
@@ -98,7 +98,7 @@ relation:
   bibitem:
     id: ECMA-165
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-165_3rd_edition_june_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-165_3rd_edition_june_1997.pdf
       type: pdf
     docid:
     - id: ECMA-165

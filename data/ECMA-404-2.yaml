@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-404/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-404/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-404_2nd_edition_december_2017.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-404_2nd_edition_december_2017.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMA-404
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-404_1st_edition_october_2013.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-404_1st_edition_october_2013.pdf
       type: pdf
     docid:
     - id: ECMA-404

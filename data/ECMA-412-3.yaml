@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-412/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-412/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-412_3rd_edition_june_2019.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-412_3rd_edition_june_2019.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ relation:
   bibitem:
     id: ECMA-412
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-412_1st_edition_june_2015.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-412_1st_edition_june_2015.pdf
       type: pdf
     docid:
     - id: ECMA-412
@@ -71,7 +71,7 @@ relation:
   bibitem:
     id: ECMA-412
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-412_2nd_edition_june_2017.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-412_2nd_edition_june_2017.pdf
       type: pdf
     docid:
     - id: ECMA-412

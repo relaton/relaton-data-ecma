@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_4th_edition_june_2009.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-370_4th_edition_june_2009.pdf
   type: pdf
 type: standard
 docid:
@@ -58,7 +58,7 @@ relation:
   bibitem:
     id: ECMA-370
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_1st_edition_june_2006.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-370_1st_edition_june_2006.pdf
       type: pdf
     docid:
     - id: ECMA-370
@@ -81,7 +81,7 @@ relation:
   bibitem:
     id: ECMA-370
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_2nd_edition_december_2006.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-370_2nd_edition_december_2006.pdf
       type: pdf
     docid:
     - id: ECMA-370
@@ -104,7 +104,7 @@ relation:
   bibitem:
     id: ECMA-370
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_3rd_edition_december_2008.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-370_3rd_edition_december_2008.pdf
       type: pdf
     docid:
     - id: ECMA-370
@@ -127,7 +127,7 @@ relation:
   bibitem:
     id: ECMA-370
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_4th_edition_june_2009.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-370_4th_edition_june_2009.pdf
       type: pdf
     docid:
     - id: ECMA-370
@@ -150,7 +150,7 @@ relation:
   bibitem:
     id: ECMA-370
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_5th_edition_june_2015.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-370_5th_edition_june_2015.pdf
       type: pdf
     docid:
     - id: ECMA-370
@@ -173,7 +173,7 @@ relation:
   bibitem:
     id: ECMA-370
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-370_6th_edition_june_2019.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-370_6th_edition_june_2019.pdf
       type: pdf
     docid:
     - id: ECMA-370

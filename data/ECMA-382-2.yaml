@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-382/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-382/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-382_2nd_edition_june_2010.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-382_2nd_edition_june_2010.pdf
   type: pdf
 type: standard
 docid:
@@ -50,7 +50,7 @@ relation:
   bibitem:
     id: ECMA-382
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-382_1st_edition_june_2008.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-382_1st_edition_june_2008.pdf
       type: pdf
     docid:
     - id: ECMA-382

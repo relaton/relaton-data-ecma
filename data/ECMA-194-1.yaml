@@ -64,7 +64,7 @@ relation:
   bibitem:
     id: ECMA-194
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-194_2nd_edition_december_1994.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-194_2nd_edition_december_1994.pdf
       type: pdf
     docid:
     - id: ECMA-194
@@ -87,7 +87,7 @@ relation:
   bibitem:
     id: ECMA-194
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-194_3rd_edition_june_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-194_3rd_edition_june_1997.pdf
       type: pdf
     docid:
     - id: ECMA-194

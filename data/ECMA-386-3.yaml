@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-386/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-386/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-386_3rd_edition_june_2015.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-386_3rd_edition_june_2015.pdf
   type: pdf
 type: standard
 docid:
@@ -50,7 +50,7 @@ relation:
   bibitem:
     id: ECMA-386
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-386_1st_edition_december_2008.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-386_1st_edition_december_2008.pdf
       type: pdf
     docid:
     - id: ECMA-386
@@ -73,7 +73,7 @@ relation:
   bibitem:
     id: ECMA-386
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-386_2nd_edition_june_2010.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-386_2nd_edition_june_2010.pdf
       type: pdf
     docid:
     - id: ECMA-386

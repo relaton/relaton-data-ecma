@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_3rd_edition_june_2005.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-334_3rd_edition_june_2005.pdf
   type: pdf
 type: standard
 docid:
@@ -47,7 +47,7 @@ relation:
   bibitem:
     id: ECMA-334
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_1st_edition_december_2001.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-334_1st_edition_december_2001.pdf
       type: pdf
     docid:
     - id: ECMA-334
@@ -70,7 +70,7 @@ relation:
   bibitem:
     id: ECMA-334
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_2nd_edition_december_2002.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-334_2nd_edition_december_2002.pdf
       type: pdf
     docid:
     - id: ECMA-334
@@ -93,7 +93,7 @@ relation:
   bibitem:
     id: ECMA-334
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_3rd_edition_june_2005.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-334_3rd_edition_june_2005.pdf
       type: pdf
     docid:
     - id: ECMA-334
@@ -116,7 +116,7 @@ relation:
   bibitem:
     id: ECMA-334
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_4th_edition_june_2006.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-334_4th_edition_june_2006.pdf
       type: pdf
     docid:
     - id: ECMA-334
@@ -139,7 +139,7 @@ relation:
   bibitem:
     id: ECMA-334
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-334_5th_edition_december_2017.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-334_5th_edition_december_2017.pdf
       type: pdf
     docid:
     - id: ECMA-334

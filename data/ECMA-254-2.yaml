@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-254/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-254/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-254_2nd_edition_december_1999.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-254_2nd_edition_december_1999.pdf
   type: pdf
 type: standard
 docid:
@@ -53,7 +53,7 @@ relation:
   bibitem:
     id: ECMA-254
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-254_1st_edition_december_1996.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-254_1st_edition_december_1996.pdf
       type: pdf
     docid:
     - id: ECMA-254

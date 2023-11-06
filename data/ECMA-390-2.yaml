@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-390/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-390/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-390_2nd_edition_june_2012.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-390_2nd_edition_june_2012.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMA-390
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-390_1st_edition_december_2009.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-390_1st_edition_december_2009.pdf
       type: pdf
     docid:
     - id: ECMA-390

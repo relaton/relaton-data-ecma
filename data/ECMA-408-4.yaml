@@ -9,9 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-408/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-408/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-408_4th_edition_december_2015.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-408_4th_edition_december_2015.pdf
   type: pdf
 type: standard
 docid:
@@ -49,7 +49,7 @@ relation:
   bibitem:
     id: ECMA-408
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-408_1st_edition_june_2014.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-408_1st_edition_june_2014.pdf
       type: pdf
     docid:
     - id: ECMA-408
@@ -72,7 +72,7 @@ relation:
   bibitem:
     id: ECMA-408
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-408_2nd_edition_december_2014.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-408_2nd_edition_december_2014.pdf
       type: pdf
     docid:
     - id: ECMA-408
@@ -95,7 +95,7 @@ relation:
   bibitem:
     id: ECMA-408
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-408_3rd_edition_june_2015.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-408_3rd_edition_june_2015.pdf
       type: pdf
     docid:
     - id: ECMA-408

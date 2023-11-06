@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-355_2nd_edition_june_2005.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-355_2nd_edition_june_2005.pdf
   type: pdf
 type: standard
 docid:
@@ -52,7 +52,7 @@ relation:
   bibitem:
     id: ECMA-355
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-355_1st_edition_june_2004.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-355_1st_edition_june_2004.pdf
       type: pdf
     docid:
     - id: ECMA-355
@@ -75,7 +75,7 @@ relation:
   bibitem:
     id: ECMA-355
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-355_2nd_edition_june_2005.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-355_2nd_edition_june_2005.pdf
       type: pdf
     docid:
     - id: ECMA-355

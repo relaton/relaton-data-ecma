@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-186/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-186/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-186_4th_edition_december_2001.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-186_4th_edition_december_2001.pdf
   type: pdf
 type: standard
 docid:
@@ -72,7 +72,7 @@ relation:
   bibitem:
     id: ECMA-186
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-186_2nd_edition_june_1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-186_2nd_edition_june_1997.pdf
       type: pdf
     docid:
     - id: ECMA-186
@@ -95,7 +95,7 @@ relation:
   bibitem:
     id: ECMA-186
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-186_3rd_edition_february_2000.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-186_3rd_edition_february_2000.pdf
       type: pdf
     docid:
     - id: ECMA-186

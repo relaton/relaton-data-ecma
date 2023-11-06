@@ -10,7 +10,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_1.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_1.pdf
   type: pdf
 type: standard
 docid:
@@ -65,7 +65,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_2nd_edition_june_1998.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_2nd_edition_june_1998.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -88,7 +88,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_1.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_1.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -115,7 +115,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_2.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_2.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -142,7 +142,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_3.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_3.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -169,7 +169,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_4.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_4.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -196,7 +196,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_4th_edition_june_2000.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_4th_edition_june_2000.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -219,7 +219,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_5th_edition_december_2002.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_5th_edition_december_2002.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -242,7 +242,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_6th_edition_june_2004.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_6th_edition_june_2004.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -265,7 +265,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_7th_edition_december_2006.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_7th_edition_december_2006.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -288,7 +288,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_8th_edition_june_2009.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_8th_edition_june_2009.pdf
       type: pdf
     docid:
     - id: ECMA-269
@@ -311,7 +311,7 @@ relation:
   bibitem:
     id: ECMA-269
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-269_9th_edition_changes_since_the_previous_edition.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-269_9th_edition_changes_since_the_previous_edition.pdf
       type: pdf
     docid:
     - id: ECMA-269

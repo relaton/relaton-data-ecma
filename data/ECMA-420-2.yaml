@@ -10,9 +10,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://www.ecma-international.org/publications-and-standards/standards/ecma-420/
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-420/
   type: src
-- content: https://www.ecma-international.org/wp-content/uploads/ECMA-420_2nd_edition_december_2022.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-420_2nd_edition_december_2022.pdf
   type: pdf
 type: standard
 docid:
@@ -50,7 +50,7 @@ relation:
   bibitem:
     id: ECMA-420
     link:
-    - content: https://www.ecma-international.org/wp-content/uploads/ECMA-420_1st_edition_december_2021.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-420_1st_edition_december_2021.pdf
       type: pdf
     docid:
     - id: ECMA-420
