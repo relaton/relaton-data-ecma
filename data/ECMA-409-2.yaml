@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: ECMA-409
 title:
 - content: 'NFC-SEC-02: NFC-SEC cryptography Standard using ECDH-256 and AES-GCM'

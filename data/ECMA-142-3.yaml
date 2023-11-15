@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: ECMA-142
 title:
 - content: Private Integrated Services Network (PISN) - Circuit mode 64kbit/s bearer
