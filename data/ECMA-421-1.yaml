@@ -53,6 +53,7 @@ abstract:
   format: text/plain
 place:
 - Geneva
-doctype: document
+doctype:
+  type: document
 ext:
   schema-version: v1.0.0
