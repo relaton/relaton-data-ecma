@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: ECMA-411
 title:
 - content: 'NFC-SEC-04: NFC-SEC entity authentication and key agreement using symmetric

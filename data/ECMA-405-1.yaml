@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: ECMA-405
 title:
 - content: Data interchange on parallel write/read disk format for 5 optical disks

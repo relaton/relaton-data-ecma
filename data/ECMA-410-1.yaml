@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: ECMA-410
 title:
 - content: 'NFC-SEC-03: NFC-SEC entity authentication and key agreement using asymmetric
