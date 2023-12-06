@@ -773,8 +773,8 @@
   :file: data/ECMA-335-5.yaml
 - :id:
     :id: ECMA-334
-    :ed: '6'
-  :file: data/ECMA-334-6.yaml
+    :ed: '7'
+  :file: data/ECMA-334-7.yaml
 - :id:
     :id: ECMA-334
     :ed: '1'
@@ -795,6 +795,10 @@
     :id: ECMA-334
     :ed: '5'
   :file: data/ECMA-334-5.yaml
+- :id:
+    :id: ECMA-334
+    :ed: '6'
+  :file: data/ECMA-334-6.yaml
 - :id:
     :id: ECMA-333
     :ed: '2'
@@ -2579,6 +2583,10 @@
     :id: ECMA-6
     :ed: '5'
   :file: data/ECMA-6-5.yaml
+- :id:
+    :id: ECMA TR/112
+    :ed: '1'
+  :file: data/ECMA_TR_112-1.yaml
 - :id:
     :id: ECMA TR/111
     :ed: '1'

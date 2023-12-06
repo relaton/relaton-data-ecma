@@ -9,7 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-334_1st_edition_december_2001.pdf
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-334/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-334_7th_edition_december_2023.pdf
   type: pdf
 type: standard
 docid:
@@ -18,7 +20,7 @@ docid:
   primary: true
 date:
 - type: published
-  value: 2001-12
+  value: 2023-12
 contributor:
 - organization:
     name:
@@ -26,8 +28,8 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: '1'
-revdate: 2001-12
+  content: '7'
+revdate: 2023-12
 language:
 - en
 script:
