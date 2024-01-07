@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: ECMA-386
 title:
 - content: 'NFC-SEC-01: NFC-SEC cryptography standard using ECDH and AES'
