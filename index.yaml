@@ -2816,6 +2816,9 @@
     :ed: '1'
   :file: data/ECMA_TR_18-1.yaml
 - :id:
+    :id: ECMA MEM/2024
+  :file: data/ECMA_MEM_2024.yaml
+- :id:
     :id: ECMA MEM/2023
   :file: data/ECMA_MEM_2023.yaml
 - :id:
