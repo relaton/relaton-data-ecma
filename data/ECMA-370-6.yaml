@@ -46,10 +46,8 @@ abstract:
     Based on frequently asked questions from customers, some product attributes such as safety, and ergonomics have been included although they are not considered environmental matters.
     Should you have questions on usage of ECMA-370, or wish to send a comment (e.g., in case mandatory information might be missing or seems to be out of date), please use the Ecma International contact page.
     For certain complex attributes, new guidance documents have been developed with two purposes, firstly to guide the user of the declaration to understand the attribute, ensure that the correct test methods are used and that correct information is entered in the declaration. The second aim is to ensure that the reader of the declaration understands the information and that it’s used correctly when comparing product attributes. Guidance documents are currently available for: acoustic noise, energy efficiency, chemical emissions, chemical substances, but others can be added in the future.
-    The guidance documents are linked from the declarations to: www.ecma-international.org/publications/standards/Ecma-370.htm
     A “change history” webpage is regularly updated.
-    NOTE
-    The Guidance documents are not part of the ECMA-370 Standard and can be amended without any prior notification.
+    NOTE     The Guidance documents (shown below) are not part of the ECMA-370 Standard and can be amended without any prior notification.
   language:
   - en
   script:
