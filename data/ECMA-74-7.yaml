@@ -10,7 +10,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-74-7th-edition-December-2002.pdf
+- content: https://ecma-international.org/wp-content/uploads/ECMA-74_7th_edition_december_2002.pdf
   type: pdf
 type: standard
 docid:
@@ -124,7 +124,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-4th-Edition-December-1996.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_4th_edition_december_1996.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -147,7 +147,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-5th-Edition-December-1997.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_5th_edition_december_1997.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -170,7 +170,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-6th-edition-December-1999.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_6th_edition_december_1999.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -193,7 +193,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-7th-edition-December-2002.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_7th_edition_december_2002.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -216,7 +216,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-8th-edition-December-2003.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_8th_edition_december_2003.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -239,7 +239,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-9th-edition-December-2005-.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_9th_edition_december_2005.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -262,7 +262,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-10th-edition-December-2008.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_10th_edition_december_2008.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -308,7 +308,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-12th-edition-December-2012.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_12th_edition_december_2012.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -331,7 +331,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-13th-edition-June-2015.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_13th_edition_june_2015.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -354,7 +354,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-14th-edition-December-2017.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_14th_edition_december_2017.pdf
       type: pdf
     docid:
     - id: ECMA-74
@@ -377,7 +377,7 @@ relation:
   bibitem:
     id: ECMA-74
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-74-15th-edition-June-2018.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-74_15th_edition_june_2018.pdf
       type: pdf
     docid:
     - id: ECMA-74

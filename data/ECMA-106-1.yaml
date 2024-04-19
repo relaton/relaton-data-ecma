@@ -72,7 +72,7 @@ relation:
   bibitem:
     id: ECMA-106
     link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-106_2nd-edition_-june_1991.pdf
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-106_2nd_edition_june_1991.pdf
       type: pdf
     docid:
     - id: ECMA-106
