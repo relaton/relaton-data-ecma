@@ -172,46 +172,6 @@
     :ed: '1'
   :file: data/ECMA-403-1.yaml
 - :id:
-    :id: ECMA-402
-    :ed: '10'
-  :file: data/ECMA-402-10.yaml
-- :id:
-    :id: ECMA-402
-    :ed: '1'
-  :file: data/ECMA-402-1.yaml
-- :id:
-    :id: ECMA-402
-    :ed: '2'
-  :file: data/ECMA-402-2.yaml
-- :id:
-    :id: ECMA-402
-    :ed: '3'
-  :file: data/ECMA-402-3.yaml
-- :id:
-    :id: ECMA-402
-    :ed: '4'
-  :file: data/ECMA-402-4.yaml
-- :id:
-    :id: ECMA-402
-    :ed: '5'
-  :file: data/ECMA-402-5.yaml
-- :id:
-    :id: ECMA-402
-    :ed: '6'
-  :file: data/ECMA-402-6.yaml
-- :id:
-    :id: ECMA-402
-    :ed: '7'
-  :file: data/ECMA-402-7.yaml
-- :id:
-    :id: ECMA-402
-    :ed: '8'
-  :file: data/ECMA-402-8.yaml
-- :id:
-    :id: ECMA-402
-    :ed: '9'
-  :file: data/ECMA-402-9.yaml
-- :id:
     :id: ECMA-401
     :ed: '2'
   :file: data/ECMA-401-2.yaml
@@ -1347,66 +1307,6 @@
     :id: ECMA-263
     :ed: '2'
   :file: data/ECMA-263-2.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '14'
-  :file: data/ECMA-262-14.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '5.1'
-  :file: data/ECMA-262-5_1.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '6'
-  :file: data/ECMA-262-6.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '7'
-  :file: data/ECMA-262-7.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '8'
-  :file: data/ECMA-262-8.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '9'
-  :file: data/ECMA-262-9.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '10'
-  :file: data/ECMA-262-10.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '11'
-  :file: data/ECMA-262-11.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '12'
-  :file: data/ECMA-262-12.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '13'
-  :file: data/ECMA-262-13.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '1'
-  :file: data/ECMA-262-1.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '2'
-  :file: data/ECMA-262-2.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '3'
-  :file: data/ECMA-262-3.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '4'
-  :file: data/ECMA-262-4.yaml
-- :id:
-    :id: ECMA-262
-    :ed: '5'
-  :file: data/ECMA-262-5.yaml
 - :id:
     :id: ECMA-261
     :ed: '1'
