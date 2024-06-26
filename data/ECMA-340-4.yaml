@@ -9,7 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-340_3rd_edition_june_2013.pdf
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-340/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-340_4th_edition_june_2024.pdf
   type: pdf
 type: standard
 docid:
@@ -18,7 +20,7 @@ docid:
   primary: true
 date:
 - type: published
-  value: 2013-06
+  value: 2024-06
 contributor:
 - organization:
     name:
@@ -26,8 +28,8 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: '3'
-revdate: 2013-06
+  content: '4'
+revdate: 2024-06
 language:
 - en
 script:

@@ -9,6 +9,10 @@
   :file: data/ECMA-422-1.yaml
 - :id:
     :id: ECMA-421
+    :ed: '2'
+  :file: data/ECMA-421-2.yaml
+- :id:
+    :id: ECMA-421
     :ed: '1'
   :file: data/ECMA-421-1.yaml
 - :id:
@@ -545,12 +549,16 @@
   :file: data/ECMA-363-3.yaml
 - :id:
     :id: ECMA-362
-    :ed: '2'
-  :file: data/ECMA-362-2.yaml
+    :ed: '3'
+  :file: data/ECMA-362-3.yaml
 - :id:
     :id: ECMA-362
     :ed: '1'
   :file: data/ECMA-362-1.yaml
+- :id:
+    :id: ECMA-362
+    :ed: '2'
+  :file: data/ECMA-362-2.yaml
 - :id:
     :id: ECMA-361
     :ed: '1'
@@ -705,8 +713,8 @@
   :file: data/ECMA-341-3.yaml
 - :id:
     :id: ECMA-340
-    :ed: '3'
-  :file: data/ECMA-340-3.yaml
+    :ed: '4'
+  :file: data/ECMA-340-4.yaml
 - :id:
     :id: ECMA-340
     :ed: '1'
@@ -715,6 +723,10 @@
     :id: ECMA-340
     :ed: '2'
   :file: data/ECMA-340-2.yaml
+- :id:
+    :id: ECMA-340
+    :ed: '3'
+  :file: data/ECMA-340-3.yaml
 - :id:
     :id: ECMA-339
     :ed: '2'
