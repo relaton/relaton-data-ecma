@@ -2,17 +2,15 @@
 schema-version: v1.2.8
 id: ECMA-402
 title:
-- content: ECMAScript® 2023 internationalization API specification
+- content: ECMAScript® 2024 internationalization API specification
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-402/
+- content: https://402.ecma-international.org/10.0/index.html
   type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-402_10th_edition_june_2023.pdf
-  type: pdf
 type: standard
 docid:
 - id: ECMA-402
@@ -246,6 +244,29 @@ relation:
     edition:
       content: '9'
     revdate: 2022-06
+    formattedref:
+      content: ECMA-402
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-402
+    link:
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-402_10th_edition_june_2023.pdf
+      type: pdf
+    docid:
+    - id: ECMA-402
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2023-06
+    edition:
+      content: '10'
+    revdate: 2023-06
     formattedref:
       content: ECMA-402
       language:

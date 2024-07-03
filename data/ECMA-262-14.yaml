@@ -2,17 +2,15 @@
 schema-version: v1.2.8
 id: ECMA-262
 title:
-- content: ECMAScript® 2023 language specification
+- content: ECMAScript® 2024 language specification
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-262/
+- content: https://262.ecma-international.org/14.0/index.html
   type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-262_14th_edition_june_2023.pdf
-  type: pdf
 type: standard
 docid:
 - id: ECMA-262
@@ -36,9 +34,9 @@ script:
 - Latn
 abstract:
 - content: |-
-    This Standard defines the ECMAScript 2023 general-purpose programming language.
+    This Standard defines the ECMAScript 2024 general-purpose programming language.
     Kindly note that the normative copy is the HTML version; the PDF version has been produced to generate a printable document.
-    This 14th edition has been prepared under the Ecma RF patent policy.
+    This 15th edition has been prepared under the Ecma RF patent policy.
     Please note that for ECMAScript Edition 4 the Ecma standard number “ECMA-262 Edition 4” was reserved but not used in the Ecma publication process. Therefore “ECMA-262 Edition 4” as an Ecma International publication does not exist.
     The latest drafts are available at: https://tc39.es/ecma262/. Reporters should generally only file bugs if the bug is still present in the latest drafts.
     Please find hereafter the place to file bugs: https://github.com/tc39/ecma262#ecmascript.
@@ -356,6 +354,29 @@ relation:
     edition:
       content: '13'
     revdate: 2022-06
+    formattedref:
+      content: ECMA-262
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-262
+    link:
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-262_14th_edition_june_2023.pdf
+      type: pdf
+    docid:
+    - id: ECMA-262
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2023-06
+    edition:
+      content: '14'
+    revdate: 2023-06
     formattedref:
       content: ECMA-262
       language:
