@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: ECMA-372
 title:
 - content: C++/CLI language specification

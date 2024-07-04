@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: ECMATR-53
 title:
 - content: Handling of bi-directional texts

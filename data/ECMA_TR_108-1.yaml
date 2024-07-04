@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: ECMATR-108
 title:
 - content: Proposal of new parameters, T-TNR and T-PR for total evaluation of multiple

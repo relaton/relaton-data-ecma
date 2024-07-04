@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: ECMATR-90
 title:
 - content: Session management, Event notification, and computing function services

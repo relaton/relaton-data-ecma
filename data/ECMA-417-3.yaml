@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: ECMA-417
 title:
 - content: Architecture for a distributed real-time access system
