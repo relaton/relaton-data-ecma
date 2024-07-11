@@ -1,5 +1,9 @@
 ---
 - :id:
+    :id: ECMA-424
+    :ed: '1'
+  :file: data/ECMA-424-1.yaml
+- :id:
     :id: ECMA-423
     :ed: '1'
   :file: data/ECMA-423-1.yaml

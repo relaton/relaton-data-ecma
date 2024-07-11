@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.9
+id: ECMA-424
+title:
+- content: CycloneDX Bill of materials specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-424/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-424_1st_edition_june_2024.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-424
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2024-06
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2024-06
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This standard defines the CycloneDX v1.6 Bill of materials specification.
+    CycloneDX is a modern standard designed to address the complexities of the software and system supply chain.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0
