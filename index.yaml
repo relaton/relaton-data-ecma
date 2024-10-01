@@ -2288,22 +2288,6 @@
     :ed: '2'
   :file: data/ECMA-120-2.yaml
 - :id:
-    :id: ECMA-119
-    :ed: '4'
-  :file: data/ECMA-119-4.yaml
-- :id:
-    :id: ECMA-119
-    :ed: '1'
-  :file: data/ECMA-119-1.yaml
-- :id:
-    :id: ECMA-119
-    :ed: '2'
-  :file: data/ECMA-119-2.yaml
-- :id:
-    :id: ECMA-119
-    :ed: '3'
-  :file: data/ECMA-119-3.yaml
-- :id:
     :id: ECMA-118
     :ed: '1'
   :file: data/ECMA-118-1.yaml
