@@ -9,7 +9,9 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-119_3rd_edition_december_2017.pdf
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-119/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-119_5th_edition_december_2024.pdf
   type: pdf
 type: standard
 docid:
@@ -18,7 +20,7 @@ docid:
   primary: true
 date:
 - type: published
-  value: 2017-12
+  value: 2024-12
 contributor:
 - organization:
     name:
@@ -26,8 +28,8 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: '3'
-revdate: 2017-12
+  content: '5'
+revdate: 2024-12
 language:
 - en
 script:

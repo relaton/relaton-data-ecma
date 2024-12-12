@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.9
-id: ECMA-418-2
+id: ECMA-418
 title:
 - content: Psychoacoustic metrics for ITT equipment
   language:
@@ -9,16 +9,18 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-418-2_1st_edition_december_2020.pdf
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-418/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-418-1_3rd_edition_december_2024.pdf
   type: pdf
 type: standard
 docid:
-- id: ECMA-418-2
+- id: ECMA-418
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2020-12
+  value: 2024-12
 contributor:
 - organization:
     name:
@@ -26,8 +28,8 @@ contributor:
   role:
   - type: publisher
 edition:
-  content: '1'
-revdate: 2020-12
+  content: '3'
+revdate: 2024-12
 language:
 - en
 script:

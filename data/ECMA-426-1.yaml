@@ -1,0 +1,54 @@
+---
+schema-version: v1.2.9
+id: ECMA-426
+title:
+- content: Source map format specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-426/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-426_1st_edition_december_2024.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-426
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2024-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2024-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard defines the source map format, used by different types of developer tools to improve the debugging experience of code compiled to JavaScript, WebAssembly, and CSS.
+    The source map format has the following goals:
+    Kindly note that the normative copy is the HTML version; the PDF version has been produced to generate a printable document.
+    This edition has been prepared under the Ecma RF patent policy.
+    The latest drafts are available at: https://tc39.es/ecma426/.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- Geneva
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

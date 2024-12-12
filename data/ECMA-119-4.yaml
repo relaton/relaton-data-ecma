@@ -9,8 +9,6 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-119/
-  type: src
 - content: https://ecma-international.org/wp-content/uploads/ECMA-119_4th_edition_june_2019.pdf
   type: pdf
 type: standard
@@ -36,8 +34,8 @@ script:
 - Latn
 abstract:
 - content: |-
-    This Standard specifies the volume and file structure of compact read only optical disks (CD-ROM) for the interchange of information between users of information processing systems.
-    This Standard specifies:
+    This Ecma standard specifies the volume and file structure of compact disc read-only memory (CD-ROM) for the interchange of information between users of information processing systems.
+    This standard specifies:
   language:
   - en
   script:
@@ -106,6 +104,29 @@ relation:
     edition:
       content: '3'
     revdate: 2017-12
+    formattedref:
+      content: ECMA-119
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-119
+    link:
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-119_4th_edition_june_2019.pdf
+      type: pdf
+    docid:
+    - id: ECMA-119
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2019-06
+    edition:
+      content: '4'
+    revdate: 2019-06
     formattedref:
       content: ECMA-119
       language:
