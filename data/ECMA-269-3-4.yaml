@@ -336,7 +336,7 @@ extent:
 - locality:
     type: volume
     reference_from: '4'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document
