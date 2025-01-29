@@ -1,8 +1,8 @@
 ---
 schema-version: v1.2.9
-id: ECMAMEM-2024
+id: ECMAMEM-2025
 title:
-- content: '"Memento 2024" for year 2024'
+- content: '"Memento 2025" for year 2025'
   language:
   - en
   script:
@@ -13,19 +13,19 @@ link:
   type: pdf
 type: standard
 docid:
-- id: ECMA MEM/2024
+- id: ECMA MEM/2025
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2024-01
+  value: 2025-01
 contributor:
 - organization:
     name:
     - content: Ecma International
   role:
   - type: publisher
-revdate: 2024-01
+revdate: 2025-01
 language:
 - en
 script:
