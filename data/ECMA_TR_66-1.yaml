@@ -1,52 +1,48 @@
 ---
-schema-version: v1.2.9
-id: ECMATR-66
-title:
-- content: Mapping of PCTE to the Ecma/NIST frameworks reference model
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-66/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-66_1st_edition_june_1994.pdf
-  type: pdf
+id: ECMATR66
 type: standard
-docid:
-- id: ECMA TR/66
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mapping of PCTE to the Ecma/NIST frameworks reference model
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-66/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-66_1st_edition_june_1994.pdf
+docidentifier:
+- content: ECMA TR/66
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1994-06
+  at: 1994-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1994-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Technical Report provides a mapping of the PCTE, Standard ECMA-149 relative to the Reference Model (RM) for Frameworks of Software Engineering Environments.
     A mapping of PCTE should include a description of the SEE components defined in PCTE using the common reference terms and structures provided by the RM. In this way it will provide a basis for comparing components of PCTE with other SEE components and related standards.
     The mapping consists of a section for each of the services described in the RM which are covered by PCTE. The main part of this document is structured in a way corresponding to the RM in order to facilitate comparisons and references to either other mappings, or with the RM document itself.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

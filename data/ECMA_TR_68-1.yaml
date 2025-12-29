@@ -1,54 +1,50 @@
 ---
-schema-version: v1.2.9
-id: ECMATR-68
-title:
-- content: Scenarios for Computer Supported Telecommunications Applications (CSTA)
-    Phase II
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-68/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-68_1st_edition_december_1994.pdf
-  type: pdf
+id: ECMATR68
 type: standard
-docid:
-- id: ECMA TR/68
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Scenarios for Computer Supported Telecommunications Applications (CSTA)
+    Phase II
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-68/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-68_1st_edition_december_1994.pdf
+docidentifier:
+- content: ECMA TR/68
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1994-12
+  at: 1994-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1994-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     The intention of this Technical report is to illustrate how the services offered by CSTA Phase II are intended to be used by application developers and switch manufacturers. The illustrations are based upon a range of call scenarios. The Services for Computer Supported Telecommunications Applications are defined by Standard ECMA-217 and the Protocol for those services by Standard ECMA-218.
     The scenarios are only for information and as such ECMA-217 (Services) and ECMA-218 (Protocol) standards may define additional options or parameters. The purpose of this Technical Report is to provide examples of some CSTA Service invocations and illustrate associated call event reports.
     It is not an exhaustive document and some implementations may not perform as illustrated within this document. A method of providing these scenarios as a collection of smaller building blocks which may then be connected together to form more complex scenarios is under study.
     These scenarios show a strict order of messaging (i.e. a service request is always followed by a service acknowledgement). However, in a true implementation an acknowledgement to a service request may be received in an asynchronous mode by the computing function. Events are generated throughout the life of a call and as such represent the passing of time in these scenarios.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

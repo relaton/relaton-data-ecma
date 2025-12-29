@@ -1,53 +1,49 @@
 ---
-schema-version: v1.2.9
-id: ECMA-238
-title:
-- content: 'Data interchange on 130 mm optical disk cartridge of type WORM (Write
-    Once Read Many) using irreversible effects - Capacity: 2,6 Gbytes per cartridge'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-238/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-238_1st_edition_june_1996.pdf
-  type: pdf
+id: ECMA238
 type: standard
-docid:
-- id: ECMA-238
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Data interchange on 130 mm optical disk cartridge of type WORM (Write
+    Once Read Many) using irreversible effects - Capacity: 2,6 Gbytes per cartridge'
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-238/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-238_1st_edition_june_1996.pdf
+docidentifier:
+- content: ECMA-238
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1996-06
+  at: 1996-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1996-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies the characteristics of a 130 mm optical disk cartridge (ODC) of Type WORM (Write Once Read Many) with a capacity of 2,6 Gbytes. Type WORM ODCs use writing effects that are inherently irreversible. Written marks cannot be erased and attempted modification of the written marks are detectable.
     This Ecma Standard specifies
     This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure it provides forfull data interchange between data processing systems.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

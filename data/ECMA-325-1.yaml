@@ -1,42 +1,42 @@
 ---
-schema-version: v1.2.9
-id: ECMA-325
-title:
-- content: Private Integrated Services Network (PISN) - Inter-Exchange Signalling
-    Protocol - Short message service (QSIG-SMS)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-325/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-325_1st_edition_june_2001.pdf
-  type: pdf
+id: ECMA325
 type: standard
-docid:
-- id: ECMA-325
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Private Integrated Services Network (PISN) - Inter-Exchange Signalling
+    Protocol - Short message service (QSIG-SMS)
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-325/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-325_1st_edition_june_2001.pdf
+docidentifier:
+- content: ECMA-325
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2001-06
+  at: 2001-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2001-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies the signalling protocol for the support of the Short Message Service (SMS) at the Q reference point between Private Integrated services Network eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
     This service is based on GSM 03.40. The Service Centre functionality described in this Standard is equal to the functionality of a Service Centre in GSM 03.40. Thus, for interoperability with a GSM network, it is only necessary to implement a QSIG interface.
     NOTE 1 – The Short Message Service is a special type of basic service but is described in the present document as a supplementary service.
@@ -47,14 +47,10 @@ abstract:
     This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between SMS and supplementary services and ANFs.
     This Standard is applicable to PINXs which can be interconnected to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

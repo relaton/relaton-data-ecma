@@ -1,38 +1,37 @@
 ---
-schema-version: v1.2.9
-id: ECMAMEM-2022
-title:
-- content: '"Memento 2022" for year 2022'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2022-public.pdf
-  type: pdf
+id: ECMAMEM2022
 type: standard
-docid:
-- id: ECMA MEM/2022
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: '"Memento 2022" for year 2022'
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2022-public.pdf
+docidentifier:
+- content: ECMA MEM/2022
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2022-01
+  at: 2022-01
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
-revdate: 2022-01
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 language:
 - en
 script:
 - Latn
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

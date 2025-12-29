@@ -1,52 +1,48 @@
 ---
-schema-version: v1.2.9
-id: ECMA-358
-title:
-- content: 'ICT product radiated emissions: 1-6 GHz'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-358/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-358_1st_edition_december_2004.pdf
-  type: pdf
+id: ECMA358
 type: standard
-docid:
-- id: ECMA-358
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'ICT product radiated emissions: 1-6 GHz'
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-358/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-358_1st_edition_december_2004.pdf
+docidentifier:
+- content: ECMA-358
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2004-12
+  at: 2004-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2004-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies measurement methods and limits for radiated emissions from Information and Communication Technology (ICT) equipment in the frequency range of 1 GHz to 6 GHz. This Standard is based on CISPR 22, which classifies ICT equipment into class A and class B ITE.
     This Standard provides:
      
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

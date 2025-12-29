@@ -1,96 +1,76 @@
 ---
-schema-version: v1.2.9
-id: ECMA-144
-title:
-- content: 8-Bit Single-Byte Coded Character Sets - Latin Alphabet No. 6
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-144_2nd_edition_december_1992.pdf
-  type: pdf
+id: ECMA144
 type: standard
-docid:
-- id: ECMA-144
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 8-Bit Single-Byte Coded Character Sets - Latin Alphabet No. 6
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-144_2nd_edition_december_1992.pdf
+docidentifier:
+- content: ECMA-144
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1992-12
+  at: 1992-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 1992-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies a set of 191 graphic characters identified as Latin Alphabet No. 6, and specifies the coded representation of each of these characters by means of a single 8-bit byte. None of these characters are “non-spacing”.
     The use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-144
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-144_1st_edition_december_1990.pdf
-      type: pdf
-    docid:
-    - id: ECMA-144
+    formattedref: ECMA-144
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-144_1st_edition_december_1990.pdf
+    docidentifier:
+    - content: ECMA-144
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1990-12
+      at: 1990-12
     edition:
       content: '1'
-    revdate: 1990-12
-    formattedref:
-      content: ECMA-144
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-144
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-144_2nd_edition_december_1992.pdf
-      type: pdf
-    docid:
-    - id: ECMA-144
+    formattedref: ECMA-144
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-144_2nd_edition_december_1992.pdf
+    docidentifier:
+    - content: ECMA-144
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1992-12
+      at: 1992-12
     edition:
       content: '2'
-    revdate: 1992-12
-    formattedref:
-      content: ECMA-144
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

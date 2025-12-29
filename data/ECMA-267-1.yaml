@@ -1,96 +1,76 @@
 ---
-schema-version: v1.2.9
-id: ECMA-267
-title:
-- content: 120 mm DVD - Read-only disk
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-267_1st_edition_december_1997.pdf
-  type: pdf
+id: ECMA267
 type: standard
-docid:
-- id: ECMA-267
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 120 mm DVD - Read-only disk
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-267_1st_edition_december_1997.pdf
+docidentifier:
+- content: ECMA-267
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1997-12
+  at: 1997-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1997-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies
     This Ecma Standard provides for interchange of disks between disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-267
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-267_1st_edition_december_1997.pdf
-      type: pdf
-    docid:
-    - id: ECMA-267
+    formattedref: ECMA-267
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-267_1st_edition_december_1997.pdf
+    docidentifier:
+    - content: ECMA-267
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1997-12
+      at: 1997-12
     edition:
       content: '1'
-    revdate: 1997-12
-    formattedref:
-      content: ECMA-267
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-267
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-267_2nd_edition_december_1999.pdf
-      type: pdf
-    docid:
-    - id: ECMA-267
+    formattedref: ECMA-267
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-267_2nd_edition_december_1999.pdf
+    docidentifier:
+    - content: ECMA-267
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1999-12
+      at: 1999-12
     edition:
       content: '2'
-    revdate: 1999-12
-    formattedref:
-      content: ECMA-267
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

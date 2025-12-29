@@ -1,25 +1,24 @@
 ---
-schema-version: v1.2.9
-id: ECMA-186
-title:
-- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Call completion supplementary services (QSIG-CC)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+id: ECMA186
 type: standard
-docid:
-- id: ECMA-186
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Call completion supplementary services (QSIG-CC)
+docidentifier:
+- content: ECMA-186
   type: ECMA
   primary: true
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
 language:
@@ -27,7 +26,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies the signalling protocol for the support of the Call Completion supplementary services at the Q reference point between Private Integrated services Network eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN). The Call Completion supplementary services are Completion of Calls to Busy Subscribers (SS-CCBS) and Completion of Calls on No Reply (SS-CCNR).
     SS-CCBS enables a calling User A, encountering a busy destination User B, to have the call completed when User B becomes not busy, without having to make a new call attempt.
     SS-CCNR enables a calling User A, encountering a destination User B that, though alerted, does not answer, to have the call completed when User B becomes not busy again after a period of activity, without having to make a new call attempt.
@@ -37,77 +38,50 @@ abstract:
     This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between SS-CC and other supplementary services and ANFs.
     This Standard is applicable to PINXs which can interconnect to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-186
-    docid:
-    - id: ECMA-186
+    formattedref: ECMA-186
+    docidentifier:
+    - content: ECMA-186
       type: ECMA
       primary: true
     edition:
       content: '1'
-    formattedref:
-      content: ECMA-186
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-186
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-186_2nd_edition_june_1997.pdf
-      type: pdf
-    docid:
-    - id: ECMA-186
+    formattedref: ECMA-186
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-186_2nd_edition_june_1997.pdf
+    docidentifier:
+    - content: ECMA-186
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1997-06
+      at: 1997-06
     edition:
       content: '2'
-    revdate: 1997-06
-    formattedref:
-      content: ECMA-186
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-186
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-186_3rd_edition_february_2000.pdf
-      type: pdf
-    docid:
-    - id: ECMA-186
+    formattedref: ECMA-186
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-186_3rd_edition_february_2000.pdf
+    docidentifier:
+    - content: ECMA-186
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2000-02
+      at: 2000-02
     edition:
       content: '3'
-    revdate: 2000-02
-    formattedref:
-      content: ECMA-186
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

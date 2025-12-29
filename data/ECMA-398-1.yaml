@@ -1,51 +1,47 @@
 ---
-schema-version: v1.2.9
-id: ECMA-398
-title:
-- content: Close proximity electric induction wireless communications
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-398/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-398_1st_edition_june_2011.pdf
-  type: pdf
+id: ECMA398
 type: standard
-docid:
-- id: ECMA-398
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Close proximity electric induction wireless communications
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-398/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-398_1st_edition_june_2011.pdf
+docidentifier:
+- content: ECMA-398
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2011-06
+  at: 2011-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2011-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies a connection layer (CNL) and a physical layer (PHY) for transferring data between two close proximity entities using electric induction coupling.
     ECMA-398 uses Specifier IDs that are maintained in this Register.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

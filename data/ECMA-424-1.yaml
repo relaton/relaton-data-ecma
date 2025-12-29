@@ -1,51 +1,62 @@
 ---
-schema-version: v1.2.9
-id: ECMA-424
-title:
-- content: CycloneDX Bill of materials specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-424/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-424_1st_edition_june_2024.pdf
-  type: pdf
+id: ECMA424
 type: standard
-docid:
-- id: ECMA-424
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CycloneDX Bill of materials specification
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-424_1st_edition_june_2024.pdf
+docidentifier:
+- content: ECMA-424
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2024-06
+  at: 2024-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2024-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
-    This standard defines the CycloneDX v1.6 Bill of materials specification.
-    CycloneDX is a modern standard designed to address the complexities of the software and system supply chain.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This Standard defines the CycloneDX v1.7 Bill of materials specification, which defines a structured format for representing detailed inventory information of software and hardware components, services, dependencies, vulnerabilities, cryptographic artefacts, machine learning models, and other elements relevant to supply chain transparency and cybersecurity assurance. 
+    This Standard specifies the syntax and semantics for:
+    The BOM is serialised using a machine-readable JSON format and is intended for exchange across tools, systems, and stakeholders within software and hardware supply chains.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-424
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-424_1st_edition_june_2024.pdf
+    docidentifier:
+    - content: ECMA-424
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2024-06
+    edition:
+      content: '1'
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

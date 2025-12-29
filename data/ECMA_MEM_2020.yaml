@@ -1,38 +1,37 @@
 ---
-schema-version: v1.2.9
-id: ECMAMEM-2020
-title:
-- content: '"Memento 2020" for year 2020'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2020-public.pdf
-  type: pdf
+id: ECMAMEM2020
 type: standard
-docid:
-- id: ECMA MEM/2020
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: '"Memento 2020" for year 2020'
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2020-public.pdf
+docidentifier:
+- content: ECMA MEM/2020
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2020-01
+  at: 2020-01
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
-revdate: 2020-01
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 language:
 - en
 script:
 - Latn
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

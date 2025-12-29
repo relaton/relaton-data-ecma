@@ -1,76 +1,64 @@
 ---
-schema-version: v1.2.9
-id: ECMA-100
-title:
-- content: Data interchange on 90 mm flexible disk cartridges using MFM recording
-    at 7 958 ftprad on 80 tracks on each side - ISO type 301
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-100_1st_edition_september_1985.pdf
-  type: pdf
+id: ECMA100
 type: standard
-docid:
-- id: ECMA-100
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data interchange on 90 mm flexible disk cartridges using MFM recording
+    at 7 958 ftprad on 80 tracks on each side - ISO type 301
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-100_1st_edition_september_1985.pdf
+docidentifier:
+- content: ECMA-100
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1985-09
+  at: 1985-09
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1985-09
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies the characteristics of 90 mm flexible disk cartridges recorded at 7 958 ftprad using modified frequency modulation recording, on 80 tracks on each side – ISO Type 301.
     It specifies the mechanical, physical and magnetic characteristics of the cartridge, so as to provide physical interchangeability between data processing systems.
     It also specifies the method of recording, the quality of the recorded signals, the track layout and the track format.
     Together with the labelling scheme of Standard ECMA-107, this Standard provides for full data interchange between data processing systems.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-100
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-100_1st_edition_september_1985.pdf
-      type: pdf
-    docid:
-    - id: ECMA-100
+    formattedref: ECMA-100
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-100_1st_edition_september_1985.pdf
+    docidentifier:
+    - content: ECMA-100
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1985-09
+      at: 1985-09
     edition:
       content: '1'
-    revdate: 1985-09
-    formattedref:
-      content: ECMA-100
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

@@ -1,51 +1,47 @@
 ---
-schema-version: v1.2.9
-id: ECMATR-93
-title:
-- content: Measuring emissions from modules
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-93/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-93_1st_edition_december_2007.pdf
-  type: pdf
+id: ECMATR93
 type: standard
-docid:
-- id: ECMA TR/93
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measuring emissions from modules
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-93/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-93_1st_edition_december_2007.pdf
+docidentifier:
+- content: ECMA TR/93
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2007-12
+  at: 2007-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2007-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Technical Report provides guidelines for measuring electromagnetic emissions from modules, in view of assessing the impact of such modules on emissions from products which may incorporate them. The present guidelines cover measurement methods as well as measuring facilities. Detailed technical conditions for testing are separately stipulated in Annex A.
     Modules covered by this document, as well as the equipment incorporating them have a supply voltage rating not exceeding 600 VDC.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

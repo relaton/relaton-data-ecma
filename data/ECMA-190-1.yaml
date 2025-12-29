@@ -1,53 +1,49 @@
 ---
-schema-version: v1.2.9
-id: ECMA-190
-title:
-- content: Information interchange on 300 mm optical disk cartridges of the Write
-    Once, Read Multiple (WORM) type using the CCS method
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-190/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-190_1st_edition_june_1993.pdf
-  type: pdf
+id: ECMA190
 type: standard
-docid:
-- id: ECMA-190
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Information interchange on 300 mm optical disk cartridges of the Write
+    Once, Read Multiple (WORM) type using the CCS method
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-190/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-190_1st_edition_june_1993.pdf
+docidentifier:
+- content: ECMA-190
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1993-06
+  at: 1993-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1993-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies the characteristics of 300 mm optical disk cartridges (ODC) of the WORM type providing for embossed information and for data to be written once and read multiple times using the Continuous Composite Servo (CCS) tracking method.
     It specifies
     Together with the standard for Volume and File Structure, this Standard provides for full data interchange between data processing systems. Interchange involves the ability to write and read data without introducing any error.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

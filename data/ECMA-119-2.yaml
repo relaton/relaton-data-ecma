@@ -1,142 +1,122 @@
 ---
-schema-version: v1.2.9
-id: ECMA-119
-title:
-- content: Volume and file structure of CDROM for information interchange
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-119_2nd_edition_december_1987.pdf
-  type: pdf
+id: ECMA119
 type: standard
-docid:
-- id: ECMA-119
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Volume and file structure of CD-ROM for information interchange
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-119_2nd_edition_december_1987.pdf
+docidentifier:
+- content: ECMA-119
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1987-12
+  at: 1987-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 1987-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
-    This Ecma standard specifies the volume and file structure of compact disc read-only memory (CD-ROM) for the interchange of information between users of information processing systems.
-    This standard specifies:
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies the volume and file structure of compact disc read-only memory (CD-ROM) for the interchange of information between users of information processing systems.
+    This Standard specifies:
+     
 relation:
 - type: updates
   bibitem:
-    id: ECMA-119
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-119_1st_edition_december_1986.pdf
-      type: pdf
-    docid:
-    - id: ECMA-119
+    formattedref: ECMA-119
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-119_1st_edition_december_1986.pdf
+    docidentifier:
+    - content: ECMA-119
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1986-12
+      at: 1986-12
     edition:
       content: '1'
-    revdate: 1986-12
-    formattedref:
-      content: ECMA-119
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-119
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-119_2nd_edition_december_1987.pdf
-      type: pdf
-    docid:
-    - id: ECMA-119
+    formattedref: ECMA-119
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-119_2nd_edition_december_1987.pdf
+    docidentifier:
+    - content: ECMA-119
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1987-12
+      at: 1987-12
     edition:
       content: '2'
-    revdate: 1987-12
-    formattedref:
-      content: ECMA-119
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-119
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-119_3rd_edition_december_2017.pdf
-      type: pdf
-    docid:
-    - id: ECMA-119
+    formattedref: ECMA-119
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-119_3rd_edition_december_2017.pdf
+    docidentifier:
+    - content: ECMA-119
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2017-12
+      at: 2017-12
     edition:
       content: '3'
-    revdate: 2017-12
-    formattedref:
-      content: ECMA-119
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-119
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-119_4th_edition_june_2019.pdf
-      type: pdf
-    docid:
-    - id: ECMA-119
+    formattedref: ECMA-119
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-119_4th_edition_june_2019.pdf
+    docidentifier:
+    - content: ECMA-119
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2019-06
+      at: 2019-06
     edition:
       content: '4'
-    revdate: 2019-06
-    formattedref:
-      content: ECMA-119
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
+- type: updates
+  bibitem:
+    formattedref: ECMA-119
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-119_5th_edition_december_2024.pdf
+    docidentifier:
+    - content: ECMA-119
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2024-12
+    edition:
+      content: '5'
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

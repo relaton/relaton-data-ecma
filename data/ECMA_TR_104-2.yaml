@@ -1,75 +1,63 @@
 ---
-schema-version: v1.2.9
-id: ECMATR-104
-title:
-- content: ECMAScript® test suite
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-104/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-104_2nd_edition_december_2016.pdf
-  type: pdf
+id: ECMATR104
 type: standard
-docid:
-- id: ECMA TR/104
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ECMAScript® test suite
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-104/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-104_2nd_edition_december_2016.pdf
+docidentifier:
+- content: ECMA TR/104
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2016-12
+  at: 2016-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 2016-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Technical Report describes a test suite and harness developed by Technical Committee 39 members and other contributors to validate how well an implementation of the ECMAScript adheres to the ECMA-414 suite of standards.
     It is assumed that readers are familiar with general software testing methodologies and the ECMA-262.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMATR-104
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA_TR-104_1st_edition_december_2011.pdf
-      type: pdf
-    docid:
-    - id: ECMA TR/104
+    formattedref: ECMA TR/104
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA_TR-104_1st_edition_december_2011.pdf
+    docidentifier:
+    - content: ECMA TR/104
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2011-12
+      at: 2011-12
     edition:
       content: '1'
-    revdate: 2011-12
-    formattedref:
-      content: ECMA TR/104
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

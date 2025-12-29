@@ -1,75 +1,63 @@
 ---
-schema-version: v1.2.9
-id: ECMA-392
-title:
-- content: MAC and PHY for operation in TV white space
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-392/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-392_2nd_edition_june_2012.pdf
-  type: pdf
+id: ECMA392
 type: standard
-docid:
-- id: ECMA-392
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MAC and PHY for operation in TV white space
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-392/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-392_2nd_edition_june_2012.pdf
+docidentifier:
+- content: ECMA-392
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2012-06
+  at: 2012-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 2012-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies a medium access control (MAC) sub-layer and a physical (PHY) layer for personal/portable cognitive wireless networks operating in TV bands. This Standard also specifies a MUX sublayer for higher layer protocols.
     This Standard specifies a number of incumbent protection mechanisms which may be used to meet regulatory requirements.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-392
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-392_1st_edition_december_2009.pdf
-      type: pdf
-    docid:
-    - id: ECMA-392
+    formattedref: ECMA-392
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-392_1st_edition_december_2009.pdf
+    docidentifier:
+    - content: ECMA-392
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2009-12
+      at: 2009-12
     edition:
       content: '1'
-    revdate: 2009-12
-    formattedref:
-      content: ECMA-392
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

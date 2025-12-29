@@ -1,98 +1,78 @@
 ---
-schema-version: v1.2.9
-id: ECMA-417
-title:
-- content: Architecture for a distributed real-time access system
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-417/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-417_3rd_edition_august_2021.pdf
-  type: pdf
+id: ECMA417
 type: standard
-docid:
-- id: ECMA-417
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Architecture for a distributed real-time access system
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-417/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-417_3rd_edition_august_2021.pdf
+docidentifier:
+- content: ECMA-417
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2021-08
+  at: 2021-08
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '3'
-revdate: 2021-08
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies the architecture for a distributed real-time access system.
     The architecture specifies the function group concept of the system, functionalities of each function group, and interfaces. Communication between function group and functions are not in the scope of this Standard.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-417
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-417_1st_edition_december_2018.pdf
-      type: pdf
-    docid:
-    - id: ECMA-417
+    formattedref: ECMA-417
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-417_1st_edition_december_2018.pdf
+    docidentifier:
+    - content: ECMA-417
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2018-12
+      at: 2018-12
     edition:
       content: '1'
-    revdate: 2018-12
-    formattedref:
-      content: ECMA-417
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-417
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-417_2nd_edition_june_2019.pdf
-      type: pdf
-    docid:
-    - id: ECMA-417
+    formattedref: ECMA-417
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-417_2nd_edition_june_2019.pdf
+    docidentifier:
+    - content: ECMA-417
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2019-06
+      at: 2019-06
     edition:
       content: '2'
-    revdate: 2019-06
-    formattedref:
-      content: ECMA-417
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

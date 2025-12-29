@@ -1,50 +1,46 @@
 ---
-schema-version: v1.2.9
-id: ECMA-234
-title:
-- content: Application Programming Interface for Windows (APIW)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-234/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-234_1st_edition_december_1995_v1_v2-and-v3.zip
-  type: pdf
+id: ECMA234
 type: standard
-docid:
-- id: ECMA-234
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Application Programming Interface for Windows (APIW)
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-234/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-234_1st_edition_december_1995_v1_v2-and-v3.zip
+docidentifier:
+- content: ECMA-234
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1995-12
+  at: 1995-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1995-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Ecma Standard defines the Windows Application Program Interfaces to
+- language: en
+  script: Latn
+  content: This Ecma Standard defines the Windows Application Program Interfaces to
     the C Programming Language.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

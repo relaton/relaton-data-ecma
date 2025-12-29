@@ -1,38 +1,37 @@
 ---
-schema-version: v1.2.9
-id: ECMAMEM-2024
-title:
-- content: '"Memento 2024" for year 2024'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2025-public.pdf
-  type: pdf
+id: ECMAMEM2024
 type: standard
-docid:
-- id: ECMA MEM/2024
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: '"Memento 2024" for year 2024'
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2025-public.pdf
+docidentifier:
+- content: ECMA MEM/2024
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2024-01
+  at: 2024-01
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
-revdate: 2024-01
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 language:
 - en
 script:
 - Latn
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

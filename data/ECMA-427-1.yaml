@@ -1,0 +1,48 @@
+---
+id: ECMA427
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Package-URL (PURL) specification
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-427/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-427_1st_edition_december_2025.pdf
+docidentifier:
+- content: ECMA-427
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2025-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard defines the Package-URL (PURL) syntax for identifying software packages independently from their ecosystem or distribution channel.
+    PURL is used to identify software packages across software supply chains supporting many use cases, identifying software packages in Software Bills of  Materials, vulnerability databases, vulnerability advisories, vulnerability disclosures and exploitability reports, and managing software package dependencies.
+    A PURL is a valid URL and URI composed of seven components to identify a software package. The PURL type component defines the ecosystem-specific structure and meaning for the other PURL components. This Standard specifies the syntax for PURLs and the schema for defining PURL types, but it does not include any specific PURL type definitions, such as maven, pypi or npm.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

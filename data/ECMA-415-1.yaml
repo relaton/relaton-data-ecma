@@ -1,52 +1,48 @@
 ---
-schema-version: v1.2.9
-id: ECMA-415
-title:
-- content: NFC-SEC test methods
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-415/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-415_1st_edition_december_2016.pdf
-  type: pdf
+id: ECMA415
 type: standard
-docid:
-- id: ECMA-415
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NFC-SEC test methods
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-415/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-415_1st_edition_december_2016.pdf
+docidentifier:
+- content: ECMA-415
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2016-12
+  at: 2016-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2016-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies the definitions, rules and methods for the NFC-SEC-TEST standard and the necessary test apparatus.
     The test report templates are provided in Annexes A and B.
     This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

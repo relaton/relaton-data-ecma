@@ -1,40 +1,40 @@
 ---
-schema-version: v1.2.9
-id: ECMA-176
-title:
-- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Path replacement additional network feature (QSIG-PR)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-176_2nd_edition_september_1997.pdf
-  type: pdf
+id: ECMA176
 type: standard
-docid:
-- id: ECMA-176
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Path replacement additional network feature (QSIG-PR)
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-176_2nd_edition_september_1997.pdf
+docidentifier:
+- content: ECMA-176
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1997-09
+  at: 1997-09
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 1997-09
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies the signalling protocol for the support of the Path Replacement additional network feature (ANF-PR) at the Q reference point between Private Integrated services Network eXchanges (PINXs) connected together within a Private Integrated Services Network (PISN).
     ANF-PR is a feature which applies to an established call, allowing that call’s connection between PINXs to be replaced by a new connection.
     The Q reference point is defined in ECMA-133.
@@ -43,84 +43,56 @@ abstract:
     This Standard also specifies additional signalling protocol requirements for the support of interactions at the Q reference point between ANF-PR and other supplementary services and ANFs.
     This Standard is applicable to PINXs which can interconnect to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-176
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-176_1st_edition_june_1992.pdf
-      type: pdf
-    docid:
-    - id: ECMA-176
+    formattedref: ECMA-176
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-176_1st_edition_june_1992.pdf
+    docidentifier:
+    - content: ECMA-176
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1992-06
+      at: 1992-06
     edition:
       content: '1'
-    revdate: 1992-06
-    formattedref:
-      content: ECMA-176
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-176
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-176_2nd_edition_september_1997.pdf
-      type: pdf
-    docid:
-    - id: ECMA-176
+    formattedref: ECMA-176
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-176_2nd_edition_september_1997.pdf
+    docidentifier:
+    - content: ECMA-176
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1997-09
+      at: 1997-09
     edition:
       content: '2'
-    revdate: 1997-09
-    formattedref:
-      content: ECMA-176
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-176
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-176_3rd_edition_december_1998.pdf
-      type: pdf
-    docid:
-    - id: ECMA-176
+    formattedref: ECMA-176
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-176_3rd_edition_december_1998.pdf
+    docidentifier:
+    - content: ECMA-176
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1998-12
+      at: 1998-12
     edition:
       content: '3'
-    revdate: 1998-12
-    formattedref:
-      content: ECMA-176
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

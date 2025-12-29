@@ -1,42 +1,42 @@
 ---
-schema-version: v1.2.9
-id: ECMA-221
-title:
-- content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Call interception additional network feature (QSIG-CINT)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-221/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-221_3rd_edition_december_2001.pdf
-  type: pdf
+id: ECMA221
 type: standard
-docid:
-- id: ECMA-221
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Call interception additional network feature (QSIG-CINT)
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-221/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-221_3rd_edition_december_2001.pdf
+docidentifier:
+- content: ECMA-221
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2001-12
+  at: 2001-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '3'
-revdate: 2001-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies the signalling protocol for the support of the additional network feature Call Interception (ANF-CINT) at the Q reference point between Private Integrated services Network eXchanges (PINX) connected together within a Private Integrated Services Network (PISN).
     ANF-CINT is an additional network feature which enables calls that cannot be completed due to certain conditions to be redirected to a predetermined intercepted-to user.
     The Q reference point is defined in ECMA-133.
@@ -46,61 +46,41 @@ abstract:
     NOTE – Additional interactions that have no impact on the signalling protocol at the Q reference point can be found in the relevant stage 1 specifications.
     This Standard is applicable to PINXs which can interconnect to form a PISN.
     The protocol defined in this Standard forms part of the PSS1 protocol (informally known as QSIG).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-221
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-221_1st_edition_march_1995.pdf
-      type: pdf
-    docid:
-    - id: ECMA-221
+    formattedref: ECMA-221
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-221_1st_edition_march_1995.pdf
+    docidentifier:
+    - content: ECMA-221
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1995-03
+      at: 1995-03
     edition:
       content: '1'
-    revdate: 1995-03
-    formattedref:
-      content: ECMA-221
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-221
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-221_2nd_edition_june_1997.pdf
-      type: pdf
-    docid:
-    - id: ECMA-221
+    formattedref: ECMA-221
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-221_2nd_edition_june_1997.pdf
+    docidentifier:
+    - content: ECMA-221
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1997-06
+      at: 1997-06
     edition:
       content: '2'
-    revdate: 1997-06
-    formattedref:
-      content: ECMA-221
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

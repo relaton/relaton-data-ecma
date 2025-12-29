@@ -1,51 +1,47 @@
 ---
-schema-version: v1.2.9
-id: ECMA-197
-title:
-- content: Data interchange on 12,7 mm 112-track magnetic tape cartridges - DLT2 format
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-197/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-197_1st_edition_december_1993.pdf
-  type: pdf
+id: ECMA197
 type: standard
-docid:
-- id: ECMA-197
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data interchange on 12,7 mm 112-track magnetic tape cartridges - DLT2 format
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-197/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-197_1st_edition_december_1993.pdf
+docidentifier:
+- content: ECMA-197
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1993-12
+  at: 1993-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1993-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies the physical and magnetic characteristics of a 12,7 mm wide, 112-track magnetic tape cartridge, to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, a format – called Digital Linear Tape 2 (DLT 2) – and a recording method.
     Together with a labelling standard, e.g. Standard ECMA-13 for Magnetic Tape Labelling, it allows full data interchange by means of such magnetic tape cartridges.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

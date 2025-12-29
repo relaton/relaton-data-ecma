@@ -1,52 +1,62 @@
 ---
-schema-version: v1.2.9
-id: ECMA-403
-title:
-- content: NFCIP-2 test methods
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-403/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-403_1st_edition_june_2013.pdf
-  type: pdf
+id: ECMA403
 type: standard
-docid:
-- id: ECMA-403
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NFCIP-2 test methods
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-403_1st_edition_june_2013.pdf
+docidentifier:
+- content: ECMA-403
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2013-06
+  at: 2013-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2013-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies requirements to verify NFCIP-2 mode selection and initial communication in the selected modes.
     The Test Management Service Data Units and the interface over which they are exchanged are out of scope.
     This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-403
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-403_1st_edition_june_2013.pdf
+    docidentifier:
+    - content: ECMA-403
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2013-06
+    edition:
+      content: '1'
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

@@ -1,42 +1,42 @@
 ---
-schema-version: v1.2.9
-id: ECMA-322
-title:
-- content: 'Data interchange on 130 mm magneto-optical disk cartridges - Capacity:
-    9,1 Gbytes per cartridge'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-322/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-322_1st_edition_june_2001.pdf
-  type: pdf
+id: ECMA322
 type: standard
-docid:
-- id: ECMA-322
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Data interchange on 130 mm magneto-optical disk cartridges - Capacity:
+    9,1 Gbytes per cartridge'
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-322/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-322_1st_edition_june_2001.pdf
+docidentifier:
+- content: ECMA-322
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2001-06
+  at: 2001-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2001-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies the mechanical, physical, and optical characteristics of a 130 mm optical disk cartridge (ODC) that employs thermo-magnetic and magneto-optical effects to enable data interchange between such disks.
     This Ecma Standard specifies two Types, viz.
     Type WO
@@ -44,14 +44,10 @@ abstract:
     The disk shall be of the same Type if recorded on both sides, A and B. Each side shall have a nominal capacity of 4,58 Gbytes, irrespective of the Type. The format specifies two sector sizes and allows for emulation of two further sizes.
     This Ecma Standard specifies
     This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure it provides for full data interchange between data processing systems.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

@@ -1,39 +1,39 @@
 ---
-schema-version: v1.2.9
-id: ECMA-340
-title:
-- content: Near Field Communication Interface and Protocol 1 (NFCIP-1)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-340_2nd_edition_december_2004.pdf
-  type: pdf
+id: ECMA340
 type: standard
-docid:
-- id: ECMA-340
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Near Field Communication Interface and Protocol 1 (NFCIP-1)
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-340_2nd_edition_december_2004.pdf
+docidentifier:
+- content: ECMA-340
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2004-12
+  at: 2004-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 2004-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard defines:
     This document specifies:
     Information interchange between systems is based on agreement between the interchange parties upon the interchange codes and the data structure.
@@ -41,84 +41,56 @@ abstract:
     ECMA-356 “NFCIP-1 – RF Interface Test Methods”, and ECMA-362 “NFCIP-1 – Protocol Test Methods” specify tests for ECMA-340.
     ECMA-373 specifies the two-wire interface between a Transceiver and a Front-end.
     This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-340
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-340_1st_edition_december_2002.pdf
-      type: pdf
-    docid:
-    - id: ECMA-340
+    formattedref: ECMA-340
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-340_1st_edition_december_2002.pdf
+    docidentifier:
+    - content: ECMA-340
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2002-12
+      at: 2002-12
     edition:
       content: '1'
-    revdate: 2002-12
-    formattedref:
-      content: ECMA-340
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-340
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-340_2nd_edition_december_2004.pdf
-      type: pdf
-    docid:
-    - id: ECMA-340
+    formattedref: ECMA-340
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-340_2nd_edition_december_2004.pdf
+    docidentifier:
+    - content: ECMA-340
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2004-12
+      at: 2004-12
     edition:
       content: '2'
-    revdate: 2004-12
-    formattedref:
-      content: ECMA-340
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-340
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-340_3rd_edition_june_2013.pdf
-      type: pdf
-    docid:
-    - id: ECMA-340
+    formattedref: ECMA-340
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-340_3rd_edition_june_2013.pdf
+    docidentifier:
+    - content: ECMA-340
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2013-06
+      at: 2013-06
     edition:
       content: '3'
-    revdate: 2013-06
-    formattedref:
-      content: ECMA-340
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

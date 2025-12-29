@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'relaton_ecma'
+require 'relaton/ecma/data_fetcher'
 
 # relaton_ci_pat = ARGV.shift
 
@@ -9,4 +9,4 @@ FileUtils.rm_rf('data')
 FileUtils.rm Dir.glob('index*')
 
 # Run fetcher
-RelatonEcma::DataFetcher.new.fetch
+Relaton::Ecma::DataFetcher.fetch

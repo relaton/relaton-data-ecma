@@ -1,55 +1,51 @@
 ---
-schema-version: v1.2.9
-id: ECMATR-58
-title:
-- content: Databases and networking
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-58/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-58_1st_edition_june_1992.pdf
-  type: pdf
+id: ECMATR58
 type: standard
-docid:
-- id: ECMA TR/58
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Databases and networking
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-58/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-58_1st_edition_june_1992.pdf
+docidentifier:
+- content: ECMA TR/58
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1992-06
+  at: 1992-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1992-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Technical Report is intended to provide tutorial information on networked databases. It addresses the area of designing, maintaining and controlling networked database systems providing database services to the users of networked databases.
     A joint technical committee of the International Organisation for Standardisation and International Electrotechnical Commission ( ISO/IEC JTC 1.) and other forums are currently progressing standards to make networking of databases a reality over the ‘Open Systems Interconnection’ (OSI) reference model.
     These groups address the need to integrate data held in database systems that:
     Such a database environment encompasses a range of:
     Not all technical solutions are developed yet.
     The intent of this Ecma Technical Report is to inform readers who are unfamiliar with databases and networks, and to reach conclusions that could be useful to standardisation groups.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

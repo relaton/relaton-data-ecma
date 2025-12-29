@@ -1,108 +1,80 @@
 ---
-schema-version: v1.2.9
-id: ECMA-158
-title:
-- content: Portable Common Tool Environment (PCTE) - C programming language binding
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+id: ECMA158
 type: standard
-docid:
-- id: ECMA-158
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Portable Common Tool Environment (PCTE) - C programming language binding
+docidentifier:
+- content: ECMA-158
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1991-06
+  at: 1991-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1991-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard defines the binding of the Portable Common Tool Environment (PCTE), as specified in ECMA-149, to the C programming language.
     A number of features are not completely defined in ECMA-149, some freedom being allowed to the implementor.  Some of these features are specified as implementation limits.  Some constraints are placed on these implementation limits by this Ecma Standard.  These constraints are specified in clause 24, Implementation Limits.
     PCTE is an interface to a set of facilities that forms the basis for constructing environments supporting systems engineering projects.  These facilities are designed particularly to provide an infrastructure for programs which may be part of such environments. Such programs, which are used as aids to system development, are often referred to as tools.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-158
-    docid:
-    - id: ECMA-158
+    formattedref: ECMA-158
+    docidentifier:
+    - content: ECMA-158
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1991-06
+      at: 1991-06
     edition:
       content: '1'
-    revdate: 1991-06
-    formattedref:
-      content: ECMA-158
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-158
-    docid:
-    - id: ECMA-158
+    formattedref: ECMA-158
+    docidentifier:
+    - content: ECMA-158
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1993-06
+      at: 1993-06
     edition:
       content: '2'
-    revdate: 1993-06
-    formattedref:
-      content: ECMA-158
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-158
-    docid:
-    - id: ECMA-158
+    formattedref: ECMA-158
+    docidentifier:
+    - content: ECMA-158
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1994-12
+      at: 1994-12
     edition:
       content: '3'
-    revdate: 1994-12
-    formattedref:
-      content: ECMA-158
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

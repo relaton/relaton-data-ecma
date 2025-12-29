@@ -1,38 +1,37 @@
 ---
-schema-version: v1.2.9
-id: ECMAMEM-2016
-title:
-- content: '"Memento 2016" for year 2016'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2016-public.pdf
-  type: pdf
+id: ECMAMEM2016
 type: standard
-docid:
-- id: ECMA MEM/2016
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: '"Memento 2016" for year 2016'
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2016-public.pdf
+docidentifier:
+- content: ECMA MEM/2016
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2016-01
+  at: 2016-01
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
-revdate: 2016-01
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 language:
 - en
 script:
 - Latn
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

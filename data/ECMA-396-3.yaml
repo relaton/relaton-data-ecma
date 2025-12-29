@@ -1,40 +1,40 @@
 ---
-schema-version: v1.2.9
-id: ECMA-396
-title:
-- content: Test method for the estimation of lifetime of optical disks for long-term
-    data storage
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-396_3rd_edition_december_2014-1.pdf
-  type: pdf
+id: ECMA396
 type: standard
-docid:
-- id: ECMA-396
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Test method for the estimation of lifetime of optical disks for long-term
+    data storage
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-396_3rd_edition_december_2014-1.pdf
+docidentifier:
+- content: ECMA-396
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2014-12
+  at: 2014-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '3'
-revdate: 2014-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies an accelerated-aging test method for estimating the lifetime of the retrievability of information stored on recordable or rewritable optical disks.
     The method is based on the theoretical assumption that the lifetime of data recorded on an optical disk has a lognormal distribution.
     Detailed testing is specified for the following formats: DVD-R/RW/RAM disks, +R/+RW disks, CD-R/RW disks and BD Recordable / Rewritable disks. The testing may be applied to additional optical-disk formats, with substitution of the appropriate specifications, and may also be updated by committee in the future as required.
@@ -43,84 +43,56 @@ abstract:
     The 1st edition of this Ecma publication is also approved as ISO/IEC 16963.
     The 2nd edition is identical with the ISO/IEC DIS ballotting version ended on August 26, 2014.
     Since it has been decided to include further corrections and features in the 2nd edition of ISO/IEC 16963, Ecma has approved a 3rd edition of ECMA-396. The 3rd edition is identical with ISO/IEC 16963 2nd edition. This 4th edition of ECMA-396 is synchronized with the ISO/IEC 16963 3rd edition.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-396
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-396_1st_edition_december_2010-1.pdf
-      type: pdf
-    docid:
-    - id: ECMA-396
+    formattedref: ECMA-396
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-396_1st_edition_december_2010-1.pdf
+    docidentifier:
+    - content: ECMA-396
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2010-12
+      at: 2010-12
     edition:
       content: '1'
-    revdate: 2010-12
-    formattedref:
-      content: ECMA-396
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-396
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-396_2nd_edition_june_2014-1.pdf
-      type: pdf
-    docid:
-    - id: ECMA-396
+    formattedref: ECMA-396
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-396_2nd_edition_june_2014-1.pdf
+    docidentifier:
+    - content: ECMA-396
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2014-06
+      at: 2014-06
     edition:
       content: '2'
-    revdate: 2014-06
-    formattedref:
-      content: ECMA-396
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-396
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-396_3rd_edition_december_2014-1.pdf
-      type: pdf
-    docid:
-    - id: ECMA-396
+    formattedref: ECMA-396
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-396_3rd_edition_december_2014-1.pdf
+    docidentifier:
+    - content: ECMA-396
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2014-12
+      at: 2014-12
     edition:
       content: '3'
-    revdate: 2014-12
-    formattedref:
-      content: ECMA-396
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

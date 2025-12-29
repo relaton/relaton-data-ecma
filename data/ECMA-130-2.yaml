@@ -1,77 +1,65 @@
 ---
-schema-version: v1.2.9
-id: ECMA-130
-title:
-- content: Data interchange on read-only 120 mm optical data disks (CD-ROM)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-130/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-130_2nd_edition_june_1996.pdf
-  type: pdf
+id: ECMA130
 type: standard
-docid:
-- id: ECMA-130
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data interchange on read-only 120 mm optical data disks (CD-ROM)
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-130/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-130_2nd_edition_june_1996.pdf
+docidentifier:
+- content: ECMA-130
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1996-06
+  at: 1996-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 1996-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies the characteristics of 120 mm optical disks for information interchange between information processing systems and for information storage, called CD-ROM.
     The optical disk specified by this Standard is of the type in which the information is recorded before delivery to the user and can only be read from the disk.
     This Standard specifies:
     These characteristics are specified for tracks recorded with digital data. According to this Standard, a disk may also contain one or more tracks recorded with digital audio data. Such tracks shall be recorded according to IEC Publication 908.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-130
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-130_1st_edition_july_1988.pdf
-      type: pdf
-    docid:
-    - id: ECMA-130
+    formattedref: ECMA-130
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-130_1st_edition_july_1988.pdf
+    docidentifier:
+    - content: ECMA-130
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1988-07
+      at: 1988-07
     edition:
       content: '1'
-    revdate: 1988-07
-    formattedref:
-      content: ECMA-130
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

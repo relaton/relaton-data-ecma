@@ -1,52 +1,48 @@
 ---
-schema-version: v1.2.9
-id: ECMATR-103
-title:
-- content: Business trunking - NGCN-NGN interfaces implementation guide
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-103/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-103_1st_edition_june_2011.pdf
-  type: pdf
+id: ECMATR103
 type: standard
-docid:
-- id: ECMA TR/103
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Business trunking - NGCN-NGN interfaces implementation guide
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-103/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-103_1st_edition_june_2011.pdf
+docidentifier:
+- content: ECMA TR/103
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2011-06
+  at: 2011-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2011-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     The purpose of this Technical Report is to give an implementation guide to the relevant Common IMS specifications and functions used in the interconnection of a Next Generation Corporate Network site (NGCN site) to the Next Generation Network (NGN).
     This Technical Report addresses control plane signalling (usage of SIP and SDP protocols, required SIP headers) as well as other interconnecting aspects like security, numbering/naming/addressing and user plane issues such as transport protocol, media and codecs actually covered in a widespread set of 3GPP and ETSI TISPAN specifications, as seen from the perspective of an NGCN site.
     Advice-of-charge aspects are addressed as far as SIP signalling is concerned.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

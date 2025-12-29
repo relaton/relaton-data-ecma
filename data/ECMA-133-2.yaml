@@ -1,77 +1,65 @@
 ---
-schema-version: v1.2.9
-id: ECMA-133
-title:
-- content: Private Integrated Services Network (PISN) - Reference configuration for
-    PISN exchanges (PINX)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-133/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-133_2nd_edition_december_1998.pdf
-  type: pdf
+id: ECMA133
 type: standard
-docid:
-- id: ECMA-133
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Private Integrated Services Network (PISN) - Reference configuration for
+    PISN exchanges (PINX)
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-133/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-133_2nd_edition_december_1998.pdf
+docidentifier:
+- content: ECMA-133
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1998-12
+  at: 1998-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 1998-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies a reference configuration (RC) for private integrated services network exchanges (PINXs) for their interconnection to form private integrated services networks (PISNs). The configuration is not intended to require any specific implementation of a PINX, but only to provide guidance for the specification of PINX capabilities.
     This RC is sufficient to support ISDN-like applications. It can be extended to also support non-ISDN-like applications.
     This RC describes a conceptual PINX. By combining multiple PINXs to a private integrated services network the RC becomes applicable to a PISN.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-133
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-133_1st_edition_april_1989.pdf
-      type: pdf
-    docid:
-    - id: ECMA-133
+    formattedref: ECMA-133
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-133_1st_edition_april_1989.pdf
+    docidentifier:
+    - content: ECMA-133
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1989-04
+      at: 1989-04
     edition:
       content: '1'
-    revdate: 1989-04
-    formattedref:
-      content: ECMA-133
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

@@ -1,74 +1,62 @@
 ---
-schema-version: v1.2.9
-id: ECMA-373
-title:
-- content: Near Field Communication Wired Interface (NFC-WI)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-373_1st_edition_june_2006.pdf
-  type: pdf
+id: ECMA373
 type: standard
-docid:
-- id: ECMA-373
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Near Field Communication Wired Interface (NFC-WI)
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-373_1st_edition_june_2006.pdf
+docidentifier:
+- content: ECMA-373
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2006-06
+  at: 2006-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 2006-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies the digital wire interface between a Transceiver and a Front-end. The specification includes the signal wires, binary signals, the state diagrams and the bit encodings for three data rates. See also companion Front-end configuration (NFC-FEC) standard.
     This Standard was originally developed by TC47. The work of TC47 was transferred to TC51-TG1.
      
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-373
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-373_1st_edition_june_2006.pdf
-      type: pdf
-    docid:
-    - id: ECMA-373
+    formattedref: ECMA-373
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-373_1st_edition_june_2006.pdf
+    docidentifier:
+    - content: ECMA-373
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2006-06
+      at: 2006-06
     edition:
       content: '1'
-    revdate: 2006-06
-    formattedref:
-      content: ECMA-373
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

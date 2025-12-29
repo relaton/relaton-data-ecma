@@ -1,97 +1,77 @@
 ---
-schema-version: v1.2.9
-id: ECMATR-70
-title:
-- content: Ecma product-related environmental declaration
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-70/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-70_3rd_edition_june_2004.pdf
-  type: pdf
+id: ECMATR70
 type: standard
-docid:
-- id: ECMA TR/70
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ecma product-related environmental declaration
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-70/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-70_3rd_edition_june_2004.pdf
+docidentifier:
+- content: ECMA TR/70
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2004-06
+  at: 2004-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '3'
-revdate: 2004-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Ecma harmonised ECMA TR/70 3rd edition with the IT-ECO declaration into
+- language: en
+  script: Latn
+  content: Ecma harmonised ECMA TR/70 3rd edition with the IT-ECO declaration into
     ECMA-370.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMATR-70
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA_TR-70_1st_edition_june_1997.pdf
-      type: pdf
-    docid:
-    - id: ECMA TR/70
+    formattedref: ECMA TR/70
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA_TR-70_1st_edition_june_1997.pdf
+    docidentifier:
+    - content: ECMA TR/70
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1997-06
+      at: 1997-06
     edition:
       content: '1'
-    revdate: 1997-06
-    formattedref:
-      content: ECMA TR/70
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMATR-70
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA_TR-70_2nd_edition_june_1999.pdf
-      type: pdf
-    docid:
-    - id: ECMA TR/70
+    formattedref: ECMA TR/70
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA_TR-70_2nd_edition_june_1999.pdf
+    docidentifier:
+    - content: ECMA TR/70
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1999-06
+      at: 1999-06
     edition:
       content: '2'
-    revdate: 1999-06
-    formattedref:
-      content: ECMA TR/70
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

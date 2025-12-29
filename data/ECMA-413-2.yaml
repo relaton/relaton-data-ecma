@@ -1,119 +1,91 @@
 ---
-schema-version: v1.2.9
-id: ECMA-413
-title:
-- content: Data migration method for BD recordable and BD rewritable disks
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
-  type: pdf
+id: ECMA413
 type: standard
-docid:
-- id: ECMA-413
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data migration method for BD recordable and BD rewritable disks
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
+docidentifier:
+- content: ECMA-413
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2017-06
+  at: 2017-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 2017-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies the data migration method which can sustain the recorded data on BD recordable and BD rewritable disks for long-term data preservation.
     This Ecma Standard includes:
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-413
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-413_1st_edition_june_2016.pdf
-      type: pdf
-    docid:
-    - id: ECMA-413
+    formattedref: ECMA-413
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-413_1st_edition_june_2016.pdf
+    docidentifier:
+    - content: ECMA-413
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2016-06
+      at: 2016-06
     edition:
       content: '1'
-    revdate: 2016-06
-    formattedref:
-      content: ECMA-413
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-413
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
-      type: pdf
-    docid:
-    - id: ECMA-413
+    formattedref: ECMA-413
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
+    docidentifier:
+    - content: ECMA-413
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2017-06
+      at: 2017-06
     edition:
       content: '2'
-    revdate: 2017-06
-    formattedref:
-      content: ECMA-413
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-413
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-413_3rd_edition_december_2018.pdf
-      type: pdf
-    docid:
-    - id: ECMA-413
+    formattedref: ECMA-413
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-413_3rd_edition_december_2018.pdf
+    docidentifier:
+    - content: ECMA-413
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2018-12
+      at: 2018-12
     edition:
       content: '3'
-    revdate: 2018-12
-    formattedref:
-      content: ECMA-413
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

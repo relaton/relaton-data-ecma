@@ -1,53 +1,49 @@
 ---
-schema-version: v1.2.9
-id: ECMA-151
-title:
-- content: Data compression for information interchange - Adaptive coding with embedded
-    dictionary - DCLZ algorithm
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-151/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-151_1st_edition_june_1991.pdf
-  type: pdf
+id: ECMA151
 type: standard
-docid:
-- id: ECMA-151
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data compression for information interchange - Adaptive coding with embedded
+    dictionary - DCLZ algorithm
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-151/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-151_1st_edition_june_1991.pdf
+docidentifier:
+- content: ECMA-151
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1991-06
+  at: 1991-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1991-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies a lossless compression algorithm to reduce the number of bits required to represent information coded by means of 8-bit bytes. This algorithm is known as DCLZ (Data Compression according to Lempel and Ziw).
     This Ecma Standard specifies neither the strategy for resetting the dictionary nor that for freezing it, as these are implementation-dependent.
     This algorithm is particularly useful when information has to be recorded on an interchangeable medium. Its use is not limited to this application.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

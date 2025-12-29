@@ -1,38 +1,37 @@
 ---
-schema-version: v1.2.9
-id: ECMAMEM-1999
-title:
-- content: '"Memento 1999" for year 1999'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/Ecma-memento-1999-public.pdf
-  type: pdf
+id: ECMAMEM1999
 type: standard
-docid:
-- id: ECMA MEM/1999
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: '"Memento 1999" for year 1999'
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/Ecma-memento-1999-public.pdf
+docidentifier:
+- content: ECMA MEM/1999
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1999-01
+  at: 1999-01
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
-revdate: 1999-01
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 language:
 - en
 script:
 - Latn
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

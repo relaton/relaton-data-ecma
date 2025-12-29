@@ -1,52 +1,48 @@
 ---
-schema-version: v1.2.9
-id: ECMATR-18
-title:
-- content: The meaning of conformance to standards
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-18-duplique/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-18_1st_edition_september_1983.pdf
-  type: pdf
+id: ECMATR18
 type: standard
-docid:
-- id: ECMA TR/18
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The meaning of conformance to standards
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-18/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-18_1st_edition_september_1983.pdf
+docidentifier:
+- content: ECMA TR/18
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1983-09
+  at: 1983-09
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1983-09
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     Drafting computer standards and gaining international agreement to them is an expensive and time consuming process, therefore Ecma International is anxious to ensure that standards are as valuable to all concerned, whether suppliers or users, as it is possible to make them.
     Ecma International also believes firmly that the real value of computer standards depends on the existence of a comprehensive set of such standards. In general, the effectiveness of any one computer standard has to be considered in relation to other members of that set. It follows that if conformance to any standard is in doubt, that fact can seriously call in question the value of conformance to many other standards where no such doubt should really exist.
     Therefore Ecma International will seek to clarify the position over conformance to all kinds of computer standards in the interests of users, suppliers and the general public alike. That is the purpose of this report.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

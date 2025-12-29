@@ -1,98 +1,78 @@
 ---
-schema-version: v1.2.9
-id: ECMA-412
-title:
-- content: Framework for distributed real-time access systems
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-412/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-412_3rd_edition_june_2019.pdf
-  type: pdf
+id: ECMA412
 type: standard
-docid:
-- id: ECMA-412
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Framework for distributed real-time access systems
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-412/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-412_3rd_edition_june_2019.pdf
+docidentifier:
+- content: ECMA-412
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2019-06
+  at: 2019-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '3'
-revdate: 2019-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies a framework for a distributed real-time access system.
     It includes:
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-412
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-412_1st_edition_june_2015.pdf
-      type: pdf
-    docid:
-    - id: ECMA-412
+    formattedref: ECMA-412
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-412_1st_edition_june_2015.pdf
+    docidentifier:
+    - content: ECMA-412
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2015-06
+      at: 2015-06
     edition:
       content: '1'
-    revdate: 2015-06
-    formattedref:
-      content: ECMA-412
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-412
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-412_2nd_edition_june_2017.pdf
-      type: pdf
-    docid:
-    - id: ECMA-412
+    formattedref: ECMA-412
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-412_2nd_edition_june_2017.pdf
+    docidentifier:
+    - content: ECMA-412
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2017-06
+      at: 2017-06
     edition:
       content: '2'
-    revdate: 2017-06
-    formattedref:
-      content: ECMA-412
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

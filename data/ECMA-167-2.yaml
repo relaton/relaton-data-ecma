@@ -1,97 +1,77 @@
 ---
-schema-version: v1.2.9
-id: ECMA-167
-title:
-- content: Volume and file structure for write-once and rewritable media using non-sequential
-    recording for information interchange
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-167_2nd_edition_december_1994.pdf
-  type: pdf
+id: ECMA167
 type: standard
-docid:
-- id: ECMA-167
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Volume and file structure for write-once and rewritable media using non-sequential
+    recording for information interchange
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-167_2nd_edition_december_1994.pdf
+docidentifier:
+- content: ECMA-167
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1994-12
+  at: 1994-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '2'
-revdate: 1994-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard specifies a format and associated system requirements for volume and boot block recognition, volume structure, file structure and record structure for the interchange of information on media between users of information processing systems.
     The media shall be recorded as if the recording of sectors may be done in any order.
     NOTE – The medium is not restricted to being of one type; the type of medium may be either write once, or read only, or rewritable, or a combination of these types.
     This Standard consists of the following five Parts:
     Part 1 specifies references, definitions, notation and basic structures that apply to the other four Parts.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-167
-    docid:
-    - id: ECMA-167
+    formattedref: ECMA-167
+    docidentifier:
+    - content: ECMA-167
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1992-06
+      at: 1992-06
     edition:
       content: '1'
-    revdate: 1992-06
-    formattedref:
-      content: ECMA-167
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-167
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-167_2nd_edition_december_1994.pdf
-      type: pdf
-    docid:
-    - id: ECMA-167
+    formattedref: ECMA-167
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-167_2nd_edition_december_1994.pdf
+    docidentifier:
+    - content: ECMA-167
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1994-12
+      at: 1994-12
     edition:
       content: '2'
-    revdate: 1994-12
-    formattedref:
-      content: ECMA-167
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

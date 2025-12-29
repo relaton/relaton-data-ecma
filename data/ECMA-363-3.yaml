@@ -1,122 +1,94 @@
 ---
-schema-version: v1.2.9
-id: ECMA-363
-title:
-- content: Universal 3D file format
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-363_3rd_edition_june_2006.pdf
-  type: pdf
+id: ECMA363
 type: standard
-docid:
-- id: ECMA-363
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Universal 3D file format
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-363_3rd_edition_june_2006.pdf
+docidentifier:
+- content: ECMA-363
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 2006-06
+  at: 2006-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '3'
-revdate: 2006-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Standard defines the syntax and semantics of the Universal 3D file format, an extensible format for downstream 3D CAD repurposing and visualization, useful for many mainstream business applications.
     Salient features of the U3D file format described in this document include: execution architecture that facilitates optimal run-time modification of geometry, continuous-level-of-detail, domain-specific compression, progressive data streaming and playback, free-form surfaces, key-frame and bones-based animation, and extensibility of U3D format and run-time.
     The U3D file format specification does not address issues regarding rendering of 3D content.
     The U3D file format specification does not address issues regarding reliability of the transport layer or communications channel. It is assumed that reliability issues will be addressed by a different protocol layer.
     The U3D file format specification does not address run-time extensibility of an implementation of the U3D architecture.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-363
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-363_1st_edition_december_2004.pdf
-      type: pdf
-    docid:
-    - id: ECMA-363
+    formattedref: ECMA-363
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-363_1st_edition_december_2004.pdf
+    docidentifier:
+    - content: ECMA-363
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2004-12
+      at: 2004-12
     edition:
       content: '1'
-    revdate: 2004-12
-    formattedref:
-      content: ECMA-363
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-363
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-363_2nd_edition_august_2005.pdf
-      type: pdf
-    docid:
-    - id: ECMA-363
+    formattedref: ECMA-363
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-363_2nd_edition_august_2005.pdf
+    docidentifier:
+    - content: ECMA-363
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2005-08
+      at: 2005-08
     edition:
       content: '2'
-    revdate: 2005-08
-    formattedref:
-      content: ECMA-363
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 - type: updates
   bibitem:
-    id: ECMA-363
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-363_3rd_edition_june_2006.pdf
-      type: pdf
-    docid:
-    - id: ECMA-363
+    formattedref: ECMA-363
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-363_3rd_edition_june_2006.pdf
+    docidentifier:
+    - content: ECMA-363
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 2006-06
+      at: 2006-06
     edition:
       content: '3'
-    revdate: 2006-06
-    formattedref:
-      content: ECMA-363
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

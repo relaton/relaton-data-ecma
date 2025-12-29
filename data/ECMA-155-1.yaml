@@ -1,74 +1,62 @@
 ---
-schema-version: v1.2.9
-id: ECMA-155
-title:
-- content: Private Integrated Services Networks - Addressing
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/ECMA-155_1st_edition_june_1991.pdf
-  type: pdf
+id: ECMA155
 type: standard
-docid:
-- id: ECMA-155
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Private Integrated Services Networks - Addressing
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-155_1st_edition_june_1991.pdf
+docidentifier:
+- content: ECMA-155
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1991-06
+  at: 1991-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1991-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard defines the requirements for the handling of network addresses for the identification of entities which use or provide telecommunication services offered by Private Integrated Services Networks (PISNs). This Standard covers numbering, including the requirements for the support of a Private Numbering Plan, the addressing of network service access points for open systems interconnection (OSI NSAP addressing), and the support of subaddressing.
     This Standard is applicable to Private Integrated Services Network Exchanges with broad-band and narrow-band capabilities (PINX) and to terminals to be attached to the access of PINXs. Any use by a PINX of the Support of Private Numbering Plans supplementary service provided by a public ISDN is outside the scope of this Standard.
     Although this Standard does not explicitly describe its application to location-independent (mobile) addressable entities, this application is not precluded.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 relation:
 - type: updates
   bibitem:
-    id: ECMA-155
-    link:
-    - content: https://ecma-international.org/wp-content/uploads/ECMA-155_1st_edition_june_1991.pdf
-      type: pdf
-    docid:
-    - id: ECMA-155
+    formattedref: ECMA-155
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-155_1st_edition_june_1991.pdf
+    docidentifier:
+    - content: ECMA-155
       type: ECMA
       primary: true
     date:
     - type: published
-      value: 1991-06
+      at: 1991-06
     edition:
       content: '1'
-    revdate: 1991-06
-    formattedref:
-      content: ECMA-155
-      language:
-      - en
-      script:
-      - Latn
-      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

@@ -1,51 +1,47 @@
 ---
-schema-version: v1.2.9
-id: ECMATR-78
-title:
-- content: Ecma protection profile - E-COFC public business class
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-78/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-78_1st_edition_december_1999.pdf
-  type: pdf
+id: ECMATR78
 type: standard
-docid:
-- id: ECMA TR/78
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ecma protection profile - E-COFC public business class
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-78/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-78_1st_edition_december_1999.pdf
+docidentifier:
+- content: ECMA TR/78
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1999-12
+  at: 1999-12
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1999-12
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     The Extended Commercially Oriented Functionality Class (E – COFC) Public Business (PB) Class Protection Profile (PP) is based on the requirements for the Public Business Class contained in ECMA-271.
     The E – COFC PP applies to the security of data processing in a commercial business environment, independent of hardware and software platforms of the participating systems. Its functions are selected to satisfy the minimal set of security requirements for typical business applications of interconnected systems. The IT Security Policy is based on a Confidentiality Policy, an Integrity Policy, an Accountability Policy and an Availability Policy. These dedicated policies are enforced by an appropriate IT security architecture which is decomposed into different domains, such as network security, systems security and application security. This IT security architecture provides a specific set of security services and the associated security management. The security services and the security management are based on a specific set of protocols and mechanisms (security enforcing functions) which may be realized by non-cryptographic (access control) and cryptographic means (symmetric methods, public key methods).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

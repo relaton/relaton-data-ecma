@@ -1,0 +1,64 @@
+---
+id: ECMA403
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NFCIP-2 test methods
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-403/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-403_2nd_edition_june_2025.pdf
+docidentifier:
+- content: ECMA-403
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2025-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies requirements to verify NFCIP-2 mode selection and initial communication in the selected modes.
+    The Test Management Service Data Units and the interface over which they are exchanged are out of scope.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-403
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-403_1st_edition_june_2013.pdf
+    docidentifier:
+    - content: ECMA-403
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2013-06
+    edition:
+      content: '1'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

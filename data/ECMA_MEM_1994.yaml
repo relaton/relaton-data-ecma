@@ -1,38 +1,37 @@
 ---
-schema-version: v1.2.9
-id: ECMAMEM-1994
-title:
-- content: '"Memento 1994" for year 1994'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/wp-content/uploads/Ecma-memento-1994-public.pdf
-  type: pdf
+id: ECMAMEM1994
 type: standard
-docid:
-- id: ECMA MEM/1994
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: '"Memento 1994" for year 1994'
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/Ecma-memento-1994-public.pdf
+docidentifier:
+- content: ECMA MEM/1994
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1994-01
+  at: 1994-01
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
-revdate: 1994-01
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 language:
 - en
 script:
 - Latn
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma

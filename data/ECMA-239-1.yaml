@@ -1,42 +1,42 @@
 ---
-schema-version: v1.2.9
-id: ECMA-239
-title:
-- content: 'Data interchange on 90 mm optical disk cartridges - HS-1 format - Capacity:
-    650 Megabytes per cartridge'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-239/
-  type: src
-- content: https://ecma-international.org/wp-content/uploads/ECMA-239_1st_edition_june_1996.pdf
-  type: pdf
+id: ECMA239
 type: standard
-docid:
-- id: ECMA-239
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Data interchange on 90 mm optical disk cartridges - HS-1 format - Capacity:
+    650 Megabytes per cartridge'
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-239/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-239_1st_edition_june_1996.pdf
+docidentifier:
+- content: ECMA-239
   type: ECMA
   primary: true
 date:
 - type: published
-  value: 1996-06
+  at: 1996-06
 contributor:
-- organization:
-    name:
-    - content: Ecma International
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
 edition:
   content: '1'
-revdate: 1996-06
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This Ecma Standard specifies the characteristics of 90 mm Optical Disk Cartridges (ODC) with a capacity of 650 Mbytes per Cartridge. The Standard specifies three related, but different implementations of such cartridges, viz.
     Type R/W
     Provides for data to be written and read many times over the recording surface of the disk using the thermo-magnetic and magneto-optical effects.
@@ -47,14 +47,10 @@ abstract:
     Type R/W, Type P-ROM and Type O-ROM are also referred to as “fully rewritable”, “partially embossed” and “fully embossed”, respectively.
     This Ecma Standard specifies:
     This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: ecma
