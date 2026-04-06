@@ -1,0 +1,77 @@
+---
+id: ECMA268
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 80 mm DVD - Read-only disk
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-268_1st_edition_december_1997.pdf
+docidentifier:
+- content: ECMA-268
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1997-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies the mechanical, physical and optical characteristics of a 80 mm, read-only optical disk to enable the interchange of such disks. It specifies the quality of the recorded signals, the format of the data and the recording method, thereby allowing for information interchange by means of such disks. This disk is identified as DVD – Read-Only Disk.
+    This Ecma Standard specifies
+    This Ecma Standard provides for interchange of disks between disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-268
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-268_1st_edition_december_1997.pdf
+    docidentifier:
+    - content: ECMA-268
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 1997-12
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-268
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-268_2nd_edition_december_1999.pdf
+    docidentifier:
+    - content: ECMA-268
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 1999-12
+    edition:
+      content: '2'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

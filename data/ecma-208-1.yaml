@@ -1,0 +1,47 @@
+---
+id: ECMA208
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: System-Independent Data Format - SIDF
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-208/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-208_1st_edition_december_1994.pdf
+docidentifier:
+- content: ECMA-208
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1994-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies a logical format for information interchange and secondary data storage. The format provides a system-independent data format (SIDF) for the representation of primary file system information. This information includes, among other things, data, attributes and characteristics.
+    This Ecma Standard specifies
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

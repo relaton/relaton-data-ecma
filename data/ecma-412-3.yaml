@@ -1,0 +1,78 @@
+---
+id: ECMA412
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Framework for distributed real-time access systems
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-412/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-412_3rd_edition_june_2019.pdf
+docidentifier:
+- content: ECMA-412
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2019-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '3'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies a framework for a distributed real-time access system.
+    It includes:
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-412
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-412_1st_edition_june_2015.pdf
+    docidentifier:
+    - content: ECMA-412
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2015-06
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-412
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-412_2nd_edition_june_2017.pdf
+    docidentifier:
+    - content: ECMA-412
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2017-06
+    edition:
+      content: '2'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

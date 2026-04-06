@@ -1,0 +1,92 @@
+---
+id: ECMA408
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Dart programming language specification
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-408_2nd_edition_december_2014.pdf
+docidentifier:
+- content: ECMA-408
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2014-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma standard speciﬁes the syntax and semantics of the Dart programming language.
+    It does not specify the APIs of the Dart libraries except where those library elements are essential to the correct functioning of the language itself (e.g., the existence of class Object with methods such as noSuchMethod, runtimeType).
+    All editions of this Standard have been prepared under the Ecma RF patent policy.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-408
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-408_1st_edition_june_2014.pdf
+    docidentifier:
+    - content: ECMA-408
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2014-06
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-408
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-408_2nd_edition_december_2014.pdf
+    docidentifier:
+    - content: ECMA-408
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2014-12
+    edition:
+      content: '2'
+- type: updates
+  bibitem:
+    formattedref: ECMA-408
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-408_3rd_edition_june_2015.pdf
+    docidentifier:
+    - content: ECMA-408
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2015-06
+    edition:
+      content: '3'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

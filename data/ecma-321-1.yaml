@@ -1,0 +1,48 @@
+---
+id: ECMA321
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Streaming Lossless Data Compression algorithm - (SLDC)
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-321/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-321_1st_edition_june_2001.pdf
+docidentifier:
+- content: ECMA-321
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2001-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies a lossless compression algorithm to reduce the number of 8-bit bytes required to represent data records and File Marks. The algorithm is known as Streaming Lossless Data Compression algorithm (SLDC).
+    One buffer size (1 024 bytes) is specified.
+    The numerical identifier according to ISO/IEC 11576 allocated to this algorithm is 6.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

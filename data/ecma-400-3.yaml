@@ -1,0 +1,80 @@
+---
+id: ECMA400
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Smart data centre resource monitoring and control
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-400/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-400_3rd_edition_june_2015.pdf
+docidentifier:
+- content: ECMA-400
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2015-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '3'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard models IT & facility equipment, systems and components in Smart Data Centre as Resources, organises the Resources in a graph, and specifies the semantics – but not the syntax – of Messages for commands, responses and events.
+    The first edition covers consolidating compute and cooling resources to minimise power.
+    Smart Clients use the Resource graph to address individual – or a group of – Resources. Smart Clients use the Messages to monitor and control the Properties of Resources.
+    The communication protocol bindings (e.g., HTTP, FTP, SNMP, BACnet) that transport Messages between Resources and Management Function(s) are out of the scope. In addition, session management and security aspects such as authentication, authorization are out of the scope. Static information such as location, CPU models are also out of scope.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-400
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-400_1st_edition_december_2011.pdf
+    docidentifier:
+    - content: ECMA-400
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2011-12
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-400
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-400_2nd_edition_june_2013.pdf
+    docidentifier:
+    - content: ECMA-400
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2013-06
+    edition:
+      content: '2'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

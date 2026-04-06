@@ -1,0 +1,77 @@
+---
+id: ECMA419
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: ECMAScript® embedded systems API specification
+source:
+- type: src
+  content: https://419.ecma-international.org/2.0/index.html
+docidentifier:
+- content: ECMA-419
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2023-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard defines application programming interfaces (APIs) for ECMAScript modules that support programs executing on embedded systems.
+    This Standard defines APIs for capabilities found in common across embedded systems. Implementations for embedded systems that include additional capabilities are encouraged to provide ECMAScript APIs for those using the many extensibility options provided by this Standard.
+    This Standard does not make any changes to the ECMAScript language as defined by ECMAScript language specification (ECMA-262). It does strongly encourage all deployments to execute only in strict-mode. It recommends hosts incorporate an engine that supports Secure ECMAScript and that script code is written to conform to the Secure ECMAScript runtime constraints.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-419
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-419_1st_edition_june_2021.pdf
+    docidentifier:
+    - content: ECMA-419
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2021-06
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-419
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-419_2nd_edition_june_2023.pdf
+    docidentifier:
+    - content: ECMA-419
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2023-06
+    edition:
+      content: '2'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

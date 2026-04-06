@@ -1,0 +1,49 @@
+---
+id: ECMA336
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Private Integrated Services Network (PISN) - Mapping functions for the
+    tunnelling of QSIG through IP networks (Mapping/IP-QSIG)
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-336/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-336_1st_edition_june_2002.pdf
+docidentifier:
+- content: ECMA-336
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2002-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies functions for using a packet network that uses the Internet Protocol (IP) as its network layer protocol and UDP and TCP as its transport layer protocols, to interconnect two Private Integrated services Network eXchanges (PINXs) forming part of a Private Integrated Services Network (PISN). Interconnection is achieved by carrying the inter-PINX signalling protocol directly over the Transmission Control Protocol (TCP) and inter-PINX user information (e.g., voice) over the Real-time Transport Protocol (RTP), RTP being carried over the User Datagram Protocol (UDP). The inter-PINX signalling protocol is assumed to be QSIG, as specified in ECMA-143, ECMA-165 and other standards.
+    The Standard provides for two types of interconnection:
+    This Standard is applicable to PINXs that can be interconnected to form a PISN using QSIG as the inter-PINX signalling protocol.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

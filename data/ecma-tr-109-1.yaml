@@ -1,0 +1,47 @@
+---
+id: ECMATR109
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Class specifications for embedded hardware components
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-109/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-109_1st_edition_june_2021.pdf
+docidentifier:
+- content: ECMA TR/109
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2021-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Technical Report describes a repository of embedded hardware component class definitions developed by TC53 members and other contributors to document ECMAScript modules for specific hardware components.
+    It is assumed that the reader is familiar with ECMA-419, ECMAScript® embedded systems API specification.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

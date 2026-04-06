@@ -1,0 +1,80 @@
+---
+id: ECMA386
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 'NFC-SEC-01: NFC-SEC cryptography standard using ECDH and AES'
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-386/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-386_3rd_edition_june_2015.pdf
+docidentifier:
+- content: ECMA-386
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2015-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '3'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies the message contents and the cryptographic methods for PID 01.
+    This Standard specifies cryptographic mechanisms that use the Elliptic Curves Diffie-Hellman (ECDH) protocol for key agreement and the AES algorithm for data encryption and integrity.
+    The mechanisms are for use with the Services and Protocol specified in ECMA-385.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-386
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-386_1st_edition_december_2008.pdf
+    docidentifier:
+    - content: ECMA-386
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2008-12
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-386
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-386_2nd_edition_june_2010.pdf
+    docidentifier:
+    - content: ECMA-386
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2010-06
+    edition:
+      content: '2'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

@@ -1,0 +1,51 @@
+---
+id: ECMA377
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 'Information interchange on Holographic Versatile Disc (HVD) recordable
+    cartridges – Capacity: 200 Gbytes per cartridge'
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-377/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-377_1st_edition_may_2007.pdf
+docidentifier:
+- content: ECMA-377
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2007-05
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies the mechanical, physical, and optical characteristics of a holographic disk cartridge (HDC) that employs holographic recording to enable data interchange between such disks.
+    The disk is of the Phi (Permanent holographic information) type providing for data once written to be read a multiplicity of times.
+    The 120 mm diameter disk has a nominal capacity of 200 Gigabytes.
+    This Ecma Standard specifies
+    This Ecma Standard provides for interchange between holographic disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

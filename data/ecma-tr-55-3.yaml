@@ -1,0 +1,77 @@
+---
+id: ECMATR55
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Reference model for frameworks of software engineering environments
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-55/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-55_3rd_edition_june_1993.pdf
+docidentifier:
+- content: ECMA TR/55
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1993-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '3'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Technical Report describes a reference model for Software Engineering
+    Environment Frameworks.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA TR/55
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA_TR-55_1st_edition_december_1990.pdf
+    docidentifier:
+    - content: ECMA TR/55
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 1990-12
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA TR/55
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA_TR-55_2nd_edition_december_1991.pdf
+    docidentifier:
+    - content: ECMA TR/55
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 1991-12
+    edition:
+      content: '2'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

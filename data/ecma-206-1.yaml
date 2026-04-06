@@ -1,0 +1,48 @@
+---
+id: ECMA206
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Association context management including security context management
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-206/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-206_1st_edition_december_1993.pdf
+docidentifier:
+- content: ECMA-206
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1993-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard:
+    This Standard does not:
+    The field of application of this Ecma Standard is the design and implementation of distributed open systems that support access of users to applications and access between distributed applications.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

@@ -1,0 +1,78 @@
+---
+id: ECMA213
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Recall supplementary service (RESD)
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-213_1st_edition_december_1994.pdf
+docidentifier:
+- content: ECMA-213
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1994-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies supplementary service Recall (SS-RE), which is applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.
+    SS-RE is a supplementary service which provides for the redirection of a call transferred by the served user back to the served user if the call is unanswered. SS-RE is only applicable after transfer by join, not after transfer by rerouteing.
+    Service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-RE. The stage 1 specification (clause 6) specifies the supplementary service as seen by users of PISNs. The stage 2 specification (clause 7) identifies the functional entities involved in the supplementary service and the information flows between them.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-213
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-213_1st_edition_december_1994.pdf
+    docidentifier:
+    - content: ECMA-213
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 1994-12
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-213
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-213_2nd_edition_june_1997.pdf
+    docidentifier:
+    - content: ECMA-213
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 1997-06
+    edition:
+      content: '2'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

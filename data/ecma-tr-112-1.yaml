@@ -1,0 +1,47 @@
+---
+id: ECMATR112
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Universal Disk Format (UDF) specification
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-112/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-112-1_1st_edition_december_2023.pdf
+docidentifier:
+- content: ECMA TR/112
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2023-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Technical Report describes Universal Disk Format, a widely used file system for mass-storage media such as optical disks.
+    This Technical Report consists of the following eight parts:
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

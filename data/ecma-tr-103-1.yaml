@@ -1,0 +1,48 @@
+---
+id: ECMATR103
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Business trunking - NGCN-NGN interfaces implementation guide
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-103/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-103_1st_edition_june_2011.pdf
+docidentifier:
+- content: ECMA TR/103
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2011-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The purpose of this Technical Report is to give an implementation guide to the relevant Common IMS specifications and functions used in the interconnection of a Next Generation Corporate Network site (NGCN site) to the Next Generation Network (NGN).
+    This Technical Report addresses control plane signalling (usage of SIP and SDP protocols, required SIP headers) as well as other interconnecting aspects like security, numbering/naming/addressing and user plane issues such as transport protocol, media and codecs actually covered in a widespread set of 3GPP and ETSI TISPAN specifications, as seen from the perspective of an NGCN site.
+    Advice-of-charge aspects are addressed as far as SIP signalling is concerned.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

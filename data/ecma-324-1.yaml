@@ -1,0 +1,51 @@
+---
+id: ECMA324
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Short message service (SMSSD)
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-324/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-324_1st_edition_june_2001.pdf
+docidentifier:
+- content: ECMA-324
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2001-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies the Short Message Service (SMS).
+    SMS enables a user to send and receive Short Messages (SMs) to and from another user.
+    NOTE 1 – This service is based on GSM 03.40. The Service Centre functionality described in this Standard is equal to the functionality of a Service Centre in GSM 03.40. Thus, for interoperability with a GSM network, it is only necessary to implement a QSIG interface and some interworking in the Service Centre in order to use it in the herein described network.
+    NOTE 2 – The Short Message Service is a special kind of basic service but is described in this document in the style of a supplementary service.
+    Supplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SMS. The stage 1 specification (clause 6) specifies the service as seen by users of PISNs. The stage 2 specification (clause 7) identifies the functional entities involved in the service and the information flows between them.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

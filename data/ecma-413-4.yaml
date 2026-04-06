@@ -1,0 +1,93 @@
+---
+id: ECMA413
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Data migration method for BD recordable and BD rewritable disks
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-413/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-413_4th_edition_june_2022.pdf
+docidentifier:
+- content: ECMA-413
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2022-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '4'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies the data migration method which can sustain the recorded data on BD recordable and BD rewritable disks for long-term data preservation.
+    This Ecma Standard includes:
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-413
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-413_1st_edition_june_2016.pdf
+    docidentifier:
+    - content: ECMA-413
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2016-06
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-413
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-413_2nd_edition_june_2017.pdf
+    docidentifier:
+    - content: ECMA-413
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2017-06
+    edition:
+      content: '2'
+- type: updates
+  bibitem:
+    formattedref: ECMA-413
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-413_3rd_edition_december_2018.pdf
+    docidentifier:
+    - content: ECMA-413
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2018-12
+    edition:
+      content: '3'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

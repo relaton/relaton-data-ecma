@@ -1,0 +1,51 @@
+---
+id: ECMA248
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 12,65 mm wide magnetic tape cassette for information interchange - Helical
+    scan recording - DTF-1 format
+docidentifier:
+- content: ECMA-248
+  type: ECMA
+  primary: true
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of magnetic tape cassettes, using magnetic tape 12,65 mm wide so as to provide physical interchange of such cassettes between drives. It also specifies the quality of the recorded signals, the recording method and the recorded format, called Digital Tape Format-1 (DTF-1), thereby allowing data interchange between drives by means of such cassettes. The format supports variable length Logical Records, high speed search, and the use of a registered algorithm for data compression.
+    This Ecma Standard specifies two sizes of cassette. For the purposes of this Ecma Standard the larger cassette is referred to as Type L, and the smaller as Type S.
+    Together with a standard for volume and file structure, e.g. Standard ECMA-13, this Ecma Standard provides for full data interchange between data processing systems.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-248
+    docidentifier:
+    - content: ECMA-248
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

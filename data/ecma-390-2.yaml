@@ -1,0 +1,64 @@
+---
+id: ECMA390
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Front-end configuration command for NFC-WI (NFC-FEC)
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-390/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-390_2nd_edition_june_2012.pdf
+docidentifier:
+- content: ECMA-390
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2012-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies commands for NFC-WI (ECMA-373).
+    The commands allow exchange of control and state information between the Transceiver and the Front-end.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-390
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-390_1st_edition_december_2009.pdf
+    docidentifier:
+    - content: ECMA-390
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2009-12
+    edition:
+      content: '1'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

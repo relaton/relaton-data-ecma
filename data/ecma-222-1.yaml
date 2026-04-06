@@ -1,0 +1,49 @@
+---
+id: ECMA222
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Adaptive lossless data compression algorithm
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-222/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-222_1st_edition_june_1995.pdf
+docidentifier:
+- content: ECMA-222
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1995-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma standard specifies a lossless compression algorithm to reduce the number of bytes required to represent data. The algorithm is known as Adaptive Lossless Data Compression algorithm (ALDC). The numerical identifiers according to ISO/IEC 11576 allocated to this algorithm are:
+    ALDC 512-Byte History Buffer: 3
+    ALDC 1024-Byte History Buffer: 4
+    ALDC 2048-Byte History Buffer: 5
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

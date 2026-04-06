@@ -1,0 +1,78 @@
+---
+id: ECMA420
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Device interface information for high-speed collation using holographic
+    optical correlation
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-420_2nd_edition_december_2022.pdf
+docidentifier:
+- content: ECMA-420
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2022-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma standard specifies the device interface information and requirements for high-speed image retrieval and collation using holographic optical correlation based on shift-multiplex recording of coaxial holography.
+    This standard specifies:
+    This standard is mainly used in professional fields, especially high-speed movie picture retrieval system to detect illegal and/or specific pictures.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-420
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-420_1st_edition_december_2021.pdf
+    docidentifier:
+    - content: ECMA-420
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2021-12
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-420
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-420_2nd_edition_december_2022.pdf
+    docidentifier:
+    - content: ECMA-420
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2022-12
+    edition:
+      content: '2'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

@@ -1,0 +1,58 @@
+---
+id: ECMA246
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 8 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording - AIT-1 format
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-246/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-246_2nd_edition_june_1998.pdf
+docidentifier:
+- content: ECMA-246
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1998-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of an 8 mm wide magnetic tape cartridge to enable physical interchange of such cartridges between drives. It also specifies the quality of the recorded signals, the recording method and the recorded format – called Advanced Intelligent Tape No. 1 (AIT-1) – thereby allowing data interchange between drives by means of such magnetic tape cartridges.
+    Information interchange between systems also requires, at a minimum, agreement between the interchange parties upon the interchange code(s) and the specifications of the structure and labelling of the information on the interchanged cartridge.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-246
+    docidentifier:
+    - content: ECMA-246
+      type: ECMA
+      primary: true
+    edition:
+      content: '1'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

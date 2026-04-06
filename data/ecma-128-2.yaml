@@ -1,0 +1,63 @@
+---
+id: ECMA128
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 8-bit single-byte coded graphic character sets - Latin alphabet No. 5
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-128/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-128_2nd_edition_december_1999.pdf
+docidentifier:
+- content: ECMA-128
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1999-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies a set of 191 graphic characters identified as Latin Alphabet No. 5, and specifies the coded representation of each of these characters by means of a single 8-bit byte. None of these characters are “non-spacing”.
+    The use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-128
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-128_1st_edition_july_1988.pdf
+    docidentifier:
+    - content: ECMA-128
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 1988-07
+    edition:
+      content: '1'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

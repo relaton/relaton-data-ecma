@@ -1,0 +1,49 @@
+---
+id: ECMA238
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 'Data interchange on 130 mm optical disk cartridge of type WORM (Write
+    Once Read Many) using irreversible effects - Capacity: 2,6 Gbytes per cartridge'
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-238/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-238_1st_edition_june_1996.pdf
+docidentifier:
+- content: ECMA-238
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1996-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies the characteristics of a 130 mm optical disk cartridge (ODC) of Type WORM (Write Once Read Many) with a capacity of 2,6 Gbytes. Type WORM ODCs use writing effects that are inherently irreversible. Written marks cannot be erased and attempted modification of the written marks are detectable.
+    This Ecma Standard specifies
+    This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure it provides forfull data interchange between data processing systems.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

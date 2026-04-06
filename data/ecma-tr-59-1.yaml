@@ -1,0 +1,48 @@
+---
+id: ECMATR59
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Object-oriented databases
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-59/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-59_1st_edition_june_1992-1.pdf
+docidentifier:
+- content: ECMA TR/59
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1992-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Technical Report provides general background information on object-oriented systems, object-oriented databases, object-oriented database management systems, and identifies issues related to databases.
+    General background information on the object-oriented approach is provided, and specifically the following items are discussed:
+    The intent of the report is to inform readers who are unfamiliar with object-oriented databases and highlight the related issues.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

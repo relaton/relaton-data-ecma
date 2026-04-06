@@ -1,0 +1,48 @@
+---
+id: ECMA293
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 8 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording - MammothTape-2 format
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-293/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-293_1st_edition_december_1999.pdf
+docidentifier:
+- content: ECMA-293
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1999-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies the physical and magnetic characteristics of an 8 mm wide magnetic tape cartridge to enable physical interchange of such cartridges between drives. It also specifies the quality of the recorded signals, the recording method and the recorded format called MammothTape-2, and thereby allowing data interchange between drives by means of such magnetic tape cartridges.
+    Information interchange between systems also requires, at a minimum, agreement between the interchange parties upon the interchange code(s) and the specifications of the structure and labelling of the information on the interchanged cartridge.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

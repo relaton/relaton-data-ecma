@@ -1,0 +1,52 @@
+---
+id: ECMA258
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Data Interchange on 12,7 mm 128-track magnetic tape cartridges - DLT 3-XT
+    format
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-258/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-258_1st_edition_june_1997.pdf
+docidentifier:
+- content: ECMA-258
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1997-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Ecma Standard specifies the physical and magnetic characteristics
+    of a 12,7 mm wide, 128-track magnetic tape cartridge, to enable physical interchangeability
+    of such cartridges between drives. It also specifies the quality of the recorded
+    signals, a format – called Digital Linear Tape 3 Extended (DLT 3-XT) – and a recording
+    method, thereby allowing data interchange between drives. Together with a labelling
+    standard, for instance Standard ECMA-13 for Magnetic Tape Labelling, it allows
+    full data interchange by means of such magnetic tape cartridges.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

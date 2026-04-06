@@ -1,0 +1,52 @@
+---
+id: ECMA320
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Data interchange on 12,7 mm - 448-track magnetic tape cartridges - SDLT1
+    format
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-320/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-320_1st_edition_june_2001.pdf
+docidentifier:
+- content: ECMA-320
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2001-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Ecma Standard specifies the physical and magnetic characteristics
+    of a 12,7 mm wide, 448-track magnetic tape cartridge, to enable physical interchangeability
+    of such cartridges between drives. It also specifies the quality of the recorded
+    signals, a format – called Super Digital Linear Tape 1 (SDLT 1) – and a recording
+    method, thereby allowing data interchange between drives. Together with a labelling
+    standard, for instance Standard ECMA-13 for Magnetic Tape Labelling, it allows
+    full data interchange by means of such magnetic tape cartridges.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

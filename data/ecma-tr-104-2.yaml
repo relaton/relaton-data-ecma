@@ -1,0 +1,63 @@
+---
+id: ECMATR104
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: ECMAScript® test suite
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-104/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-104_2nd_edition_december_2016.pdf
+docidentifier:
+- content: ECMA TR/104
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2016-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Technical Report describes a test suite and harness developed by Technical Committee 39 members and other contributors to validate how well an implementation of the ECMAScript adheres to the ECMA-414 suite of standards.
+    It is assumed that readers are familiar with general software testing methodologies and the ECMA-262.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA TR/104
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA_TR-104_1st_edition_december_2011.pdf
+    docidentifier:
+    - content: ECMA TR/104
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2011-12
+    edition:
+      content: '1'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

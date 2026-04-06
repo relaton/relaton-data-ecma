@@ -1,0 +1,79 @@
+---
+id: ECMA368
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: High rate ultra wideband PHY and MAC standard
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-368_1st_edition_december_2005.pdf
+docidentifier:
+- content: ECMA-368
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2005-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies a distributed medium access control (MAC) sublayer and a physical layer (PHY) for wireless networks.
+    Taken together, the PHY and MAC specified in this Ecma standard are well-suited to high rate, zero infrastructure communications between a mixed population of portable and fixed electronic devices.
+    This Ecma specification is not intended to represent the regulatory requirements of any country or region.
+    ECMA-368 uses Specifier IDs that are maintained in this Register.
+    ECMA-368 specifies Regulatory Domains that are maintained in this Register.
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-368
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-368_1st_edition_december_2005.pdf
+    docidentifier:
+    - content: ECMA-368
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2005-12
+    edition:
+      content: '1'
+- type: updates
+  bibitem:
+    formattedref: ECMA-368
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-368_2nd_edition_december_2007.pdf
+    docidentifier:
+    - content: ECMA-368
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2007-12
+    edition:
+      content: '2'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

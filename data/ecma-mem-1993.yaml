@@ -1,0 +1,37 @@
+---
+id: ECMAMEM1993
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: '"Memento 1993" for year 1993'
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/Ecma-memento-1993-public.pdf
+docidentifier:
+- content: ECMA MEM/1993
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1993-01
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+language:
+- en
+script:
+- Latn
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

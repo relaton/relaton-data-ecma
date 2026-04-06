@@ -1,0 +1,62 @@
+---
+id: ECMA393
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: ProxZzzy® for sleeping hosts
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-393_1st_edition_february_2010.pdf
+docidentifier:
+- content: ECMA-393
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2010-02
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies maintenance of network connectivity and presence by proxies to extend the sleep duration of hosts.
+    This Standard specifies:
+    This Standard does not:
+relation:
+- type: updates
+  bibitem:
+    formattedref: ECMA-393
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-393_1st_edition_february_2010.pdf
+    docidentifier:
+    - content: ECMA-393
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2010-02
+    edition:
+      content: '1'
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

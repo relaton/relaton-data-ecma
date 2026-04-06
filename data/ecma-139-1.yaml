@@ -1,0 +1,50 @@
+---
+id: ECMA139
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical
+    scan recording - DDS format
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-139/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-139_1st_edition_june_1990.pdf
+docidentifier:
+- content: ECMA-139
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1990-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Ecma Standard specifies the physical and magnetic characteristics
+    of a 3,81 mm wide magnetic tape cartridge to enable interchangeability of such
+    cartridges. It also specifies the quality of the recorded signal, the format and
+    the recording method, thereby allowing data interchange by means of such magnetic
+    tape cartridges.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

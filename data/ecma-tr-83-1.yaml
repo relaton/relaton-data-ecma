@@ -1,0 +1,49 @@
+---
+id: ECMATR83
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: One standard - One test, Supplier's Declaration of Conformity (11SDoC)
+    - Scorecard objectives and concept
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-83/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-83_1st_edition_june_2001.pdf
+docidentifier:
+- content: ECMA TR/83
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2001-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Technical Report is intended to compare at high-level different countries / regions of the world from the point of view of acceptance of international standards.
+    This Ecma TR intends to:
+    This Ecma TR will be updated regularly. Between updates, the last minute situation will be available on the Ecma web site (www.ecma-international.org).
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

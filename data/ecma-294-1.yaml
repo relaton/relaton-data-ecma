@@ -1,0 +1,53 @@
+---
+id: ECMA294
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 'B-ISDN and B-PISN - Digital Subscriber Signalling System No. two (DSS2),
+    Broadband Inter-Exchange Signalling (B-QSIG), and Signalling System No. 7 (SS7)
+    - Call control in a separated call and bearer control environment - Part 1: Protocol
+    specification'
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-294/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-294_1st_edition_december_1999.pdf
+docidentifier:
+- content: ECMA-294
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1999-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Standard specifies a signalling protocol for the purpose of call control at the QB, SB, TB, and co-incident SB/TB reference points within, between, and at the access to Broadband Private Integrated Services Networks and within, between, and at the access to European Broadband Integrated Services Digital Networks. The protocol operates between two adjacent call control entities. The protocol is applicable to a terminal or network node in a separated call and bearer (connection) control environment for the support of calls having none, a single bearer or multiple bearers. The protocol is applicable to a two-party call. The protocol also provides forward compatibility to the extent that an implementation can also operate within a multi-party call with other implementations that use additional capabilities, provided the implementation is deployed where it does not need to be aware of more than two parties.
+    This Standard is related to other Standards in this series which will describe the architecture of a separated call and bearer control environment and scenarios in which such an architecture can be applied.
+    The protocol specified in this Standard is independent of the supporting transport service.
+    The protocol specified in this Standard is independent of the protocol used for bearer establishment.
+    The protocol defined in this Standard forms part of the B-QSIG protocol.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

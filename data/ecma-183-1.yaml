@@ -1,0 +1,53 @@
+---
+id: ECMA183
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: 'Data interchange on 130 mm optical disk cartridges - Capacity: 1 Gigabyte
+    per cartridge'
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-183/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-183_1st_edition_december_1992.pdf
+docidentifier:
+- content: ECMA-183
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1992-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Ecma Standard specifies the characteristics of 130 mm optical disk cartridges (ODCs) with a capacity of 1 Gigabyte per cartridge. The standard specifies two related, but different implementations of such cartridges:
+    Type R/W
+    Provides for data to be written, read and erased many times over the whole of both recording surfaces of the disk using the thermo-magnetic and magneto-optical effects.
+    Type WO
+    Provides write once, read multiple functionality on both disk surfaces using the thermo-magnetic and magneto-optical effects.
+    This Ecma Standard specifies:
+    This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems. Interchange involves the ability to write, read and erase data without introducing any error.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

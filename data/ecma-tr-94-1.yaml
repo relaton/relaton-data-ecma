@@ -1,0 +1,51 @@
+---
+id: ECMATR94
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Assessment of the human exposure to electromagnetic fields for low power
+    electronic and electrical apparatus according to EN 50371:2002
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-94/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-94_1st_edition_december_2007.pdf
+docidentifier:
+- content: ECMA TR/94
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2007-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Technical Report addresses the technical assessment of Electromagnetic Fields (EMF) based on CENELEC standard EN 50371 for low power emitting devices with a maximum total of 20 mW average emitted power.
+    Three different EMC compliance measurements are the basis for the assessment for each of these frequency ranges:
+    a) 10 MHz – 30 MHz;
+    b) 30 MHz – 1 GHz;
+    c) 1 GHz.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

@@ -1,0 +1,52 @@
+---
+id: ECMATR36
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: Guidelines on Additional Parameters Recommended for Procurement Specifications
+    for 12,7 mm Magnetic Tapes
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-36/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-36_1st_edition_december_1986.pdf
+docidentifier:
+- content: ECMA TR/36
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1986-12
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Technical Report gives guidance on magnetic tape parameters that are
+    considered important to ensure continued good performance of tape systems. When
+    preparing purchasing specifications, these parameters should be considered in
+    addition to parameters included in the interchange Standards as they constitute
+    an important part in the description of the product. Whereas this report does
+    not develop a model for a purchasing specification, it does provide a technical
+    presentation of several parameters which should be included.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

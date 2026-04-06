@@ -1,0 +1,37 @@
+---
+id: ECMAMEM1984
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  script: Latn
+  content: '"Memento 1984" for year 1984'
+source:
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/Ecma-memento-1984-public.pdf
+docidentifier:
+- content: ECMA MEM/1984
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 1984-01
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+language:
+- en
+script:
+- Latn
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma
