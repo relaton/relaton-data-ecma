@@ -1,12 +1,52 @@
 ---
 - :id:
+    :id: ECMA-434
+    :ed: '1'
+  :file: data/ECMA-434-1.yaml
+- :id:
+    :id: ECMA-433
+    :ed: '1'
+  :file: data/ECMA-433-1.yaml
+- :id:
+    :id: ECMA-432
+    :ed: '1'
+  :file: data/ECMA-432-1.yaml
+- :id:
+    :id: ECMA-431
+    :ed: '1'
+  :file: data/ECMA-431-1.yaml
+- :id:
+    :id: ECMA-430
+    :ed: '1'
+  :file: data/ECMA-430-1.yaml
+- :id:
+    :id: ECMA-429
+    :ed: '1'
+  :file: data/ECMA-429-1.yaml
+- :id:
+    :id: ECMA-428
+    :ed: '1'
+  :file: data/ECMA-428-1.yaml
+- :id:
+    :id: ECMA-427
+    :ed: '1'
+  :file: data/ECMA-427-1.yaml
+- :id:
     :id: ECMA-426
     :ed: '1'
   :file: data/ECMA-426-1.yaml
 - :id:
     :id: ECMA-425
+    :ed: '2'
+  :file: data/ECMA-425-2.yaml
+- :id:
+    :id: ECMA-425
     :ed: '1'
   :file: data/ECMA-425-1.yaml
+- :id:
+    :id: ECMA-424
+    :ed: '2'
+  :file: data/ECMA-424-2.yaml
 - :id:
     :id: ECMA-424
     :ed: '1'
@@ -41,16 +81,20 @@
   :file: data/ECMA-420-2.yaml
 - :id:
     :id: ECMA-419
-    :ed: '2'
-  :file: data/ECMA-419-2.yaml
+    :ed: '3'
+  :file: data/ECMA-419-3.yaml
 - :id:
     :id: ECMA-419
     :ed: '1'
   :file: data/ECMA-419-1.yaml
 - :id:
+    :id: ECMA-419
+    :ed: '2'
+  :file: data/ECMA-419-2.yaml
+- :id:
     :id: ECMA-418
-    :ed: '3'
-  :file: data/ECMA-418-3.yaml
+    :ed: '4'
+  :file: data/ECMA-418-4.yaml
 - :id:
     :id: ECMA-418-1
     :ed: '1'
@@ -67,6 +111,10 @@
     :id: ECMA-418-2
     :ed: '2'
   :file: data/ECMA-418-2-2.yaml
+- :id:
+    :id: ECMA-418-2
+    :ed: '3'
+  :file: data/ECMA-418-2-3.yaml
 - :id:
     :id: ECMA-417
     :ed: '3'
@@ -197,12 +245,16 @@
   :file: data/ECMA-404-1.yaml
 - :id:
     :id: ECMA-403
+    :ed: '2'
+  :file: data/ECMA-403-2.yaml
+- :id:
+    :id: ECMA-403
     :ed: '1'
   :file: data/ECMA-403-1.yaml
 - :id:
     :id: ECMA-402
-    :ed: '11'
-  :file: data/ECMA-402-11.yaml
+    :ed: '12'
+  :file: data/ECMA-402-12.yaml
 - :id:
     :id: ECMA-402
     :ed: '1'
@@ -243,6 +295,10 @@
     :id: ECMA-402
     :ed: '10'
   :file: data/ECMA-402-10.yaml
+- :id:
+    :id: ECMA-402
+    :ed: '11'
+  :file: data/ECMA-402-11.yaml
 - :id:
     :id: ECMA-401
     :ed: '2'
@@ -1389,8 +1445,8 @@
   :file: data/ECMA-263-2.yaml
 - :id:
     :id: ECMA-262
-    :ed: '15'
-  :file: data/ECMA-262-15.yaml
+    :ed: '16'
+  :file: data/ECMA-262-16.yaml
 - :id:
     :id: ECMA-262
     :ed: '5.1'
@@ -1431,6 +1487,10 @@
     :id: ECMA-262
     :ed: '14'
   :file: data/ECMA-262-14.yaml
+- :id:
+    :id: ECMA-262
+    :ed: '15'
+  :file: data/ECMA-262-15.yaml
 - :id:
     :id: ECMA-262
     :ed: '1'
@@ -2309,8 +2369,8 @@
   :file: data/ECMA-120-2.yaml
 - :id:
     :id: ECMA-119
-    :ed: '5'
-  :file: data/ECMA-119-5.yaml
+    :ed: '6'
+  :file: data/ECMA-119-6.yaml
 - :id:
     :id: ECMA-119
     :ed: '1'
@@ -2327,6 +2387,10 @@
     :id: ECMA-119
     :ed: '4'
   :file: data/ECMA-119-4.yaml
+- :id:
+    :id: ECMA-119
+    :ed: '5'
+  :file: data/ECMA-119-5.yaml
 - :id:
     :id: ECMA-118
     :ed: '1'
@@ -2353,8 +2417,8 @@
   :file: data/ECMA-113-2.yaml
 - :id:
     :id: ECMA-109
-    :ed: '10'
-  :file: data/ECMA-109-10.yaml
+    :ed: '11'
+  :file: data/ECMA-109-11.yaml
 - :id:
     :id: ECMA-109
     :ed: '1'
@@ -2391,6 +2455,10 @@
     :id: ECMA-109
     :ed: '9'
   :file: data/ECMA-109-9.yaml
+- :id:
+    :id: ECMA-109
+    :ed: '10'
+  :file: data/ECMA-109-10.yaml
 - :id:
     :id: ECMA-108
     :ed: '6'
@@ -2457,8 +2525,8 @@
   :file: data/ECMA-94-1.yaml
 - :id:
     :id: ECMA-74
-    :ed: '20'
-  :file: data/ECMA-74-20.yaml
+    :ed: '22'
+  :file: data/ECMA-74-22.yaml
 - :id:
     :id: ECMA-74
     :ed: '1'
@@ -2535,6 +2603,14 @@
     :id: ECMA-74
     :ed: '19'
   :file: data/ECMA-74-19.yaml
+- :id:
+    :id: ECMA-74
+    :ed: '20'
+  :file: data/ECMA-74-20.yaml
+- :id:
+    :id: ECMA-74
+    :ed: '21'
+  :file: data/ECMA-74-21.yaml
 - :id:
     :id: ECMA-48
     :ed: '5'
@@ -2631,6 +2707,10 @@
     :id: ECMA-6
     :ed: '5'
   :file: data/ECMA-6-5.yaml
+- :id:
+    :id: ECMA TR/113
+    :ed: '1'
+  :file: data/ECMA_TR_113-1.yaml
 - :id:
     :id: ECMA TR/112
     :ed: '1'
@@ -2863,6 +2943,9 @@
     :id: ECMA TR/18
     :ed: '1'
   :file: data/ECMA_TR_18-1.yaml
+- :id:
+    :id: ECMA MEM/2026
+  :file: data/ECMA_MEM_2026.yaml
 - :id:
     :id: ECMA MEM/2025
   :file: data/ECMA_MEM_2025.yaml

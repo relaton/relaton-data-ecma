@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.9
+id: ECMA-428
+title:
+- content: Common Lifecycle Enumeration (CLE) specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-428/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-428_1st_edition_december_2025.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-428
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2025-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2025-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard defines the Common Lifecycle Enumeration (CLE) specification version 1.0.0.
+    The CLE provides a standardized format for communicating software component lifecycle events in a machine-readable format. This Standard defines the JSON schema and requirements for CLE documents.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- city: Geneva
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

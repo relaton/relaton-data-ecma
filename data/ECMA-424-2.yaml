@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: ECMA-424
+title:
+- content: CycloneDX Bill of materials specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-424/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-424_2nd_edition_december_2025.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-424
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2025-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: 2025-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard defines the CycloneDX v1.7 Bill of materials specification, which defines a structured format for representing detailed inventory information of software and hardware components, services, dependencies, vulnerabilities, cryptographic artefacts, machine learning models, and other elements relevant to supply chain transparency and cybersecurity assurance. 
+    This Standard specifies the syntax and semantics for:
+    The BOM is serialised using a machine-readable JSON format and is intended for exchange across tools, systems, and stakeholders within software and hardware supply chains.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ECMA-424
+    link:
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-424_1st_edition_june_2024.pdf
+      type: pdf
+    docid:
+    - id: ECMA-424
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2024-06
+    edition:
+      content: '1'
+    revdate: 2024-06
+    formattedref:
+      content: ECMA-424
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
+place:
+- city: Geneva
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

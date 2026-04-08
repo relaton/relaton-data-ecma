@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.9
+id: ECMA-433
+title:
+- content: Binding of the Natural Language Interaction Protocol (NLIP) over AMQP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-433/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-433_1st_edition_december_2025.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-433
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2025-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2025-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard defines how the Natural Language Interaction Protocol (NLIP) should be implemented over the base transfer protocol of AMQP.
+    The exemplar use-cases for NLIP implementation over AMQP are out of scope of this Standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- city: Geneva
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

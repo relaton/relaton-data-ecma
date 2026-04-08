@@ -1,0 +1,53 @@
+---
+schema-version: v1.2.9
+id: ECMA-434
+title:
+- content: Security profiles for Natural Language Interaction Protocol (NLIP)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-434/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-434_1st_edition_december_2025.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-434
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2025-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2025-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard establishes the Agent Security Profiles for NLIP as a standalone Ecma Standard. Each Security Profile defines a set of mandatory security requirements for an agent implementing NLIP.
+    Conformance to this Standard is mandatory for any implementation claiming NLIP conformance.
+    Details on how the security guidelines described in this Standard should be implemented are out of scope of this Standard.
+    This Standard does not cover aspects related to internals of foundation-models, safeguards for physical data centers, or issues related to national export controls.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- city: Geneva
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

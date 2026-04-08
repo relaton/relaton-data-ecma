@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.9
+id: ECMA-432
+title:
+- content: Binding of the Natural Language Interaction Protocol (NLIP) over WebSocket
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-432/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-432_1st_edition_december_2025.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-432
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2025-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2025-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This specification defines how the Natural Language Interaction Protocol (NLIP) shall be implemented over the WebSocket protocol using CBOR (Concise Binary Object Representation, RFC 8949) for compact and efficient multimodal communication.
+    It also describes a fallback to UTF-8 encoded JSON text frames for compatibility.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- city: Geneva
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

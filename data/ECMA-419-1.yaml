@@ -66,8 +66,31 @@ relation:
       script:
       - Latn
       format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-419
+    link:
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-419_2nd_edition_june_2023.pdf
+      type: pdf
+    docid:
+    - id: ECMA-419
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2023-06
+    edition:
+      content: '2'
+    revdate: 2023-06
+    formattedref:
+      content: ECMA-419
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
   schema-version: v1.0.0
   doctype:

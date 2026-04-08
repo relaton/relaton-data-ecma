@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.9
+id: ECMA-429
+title:
+- content: Minimum common web API
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/publications-and-standards/standards/ecma-429/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA-429_1st_edition_december_2025.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA-429
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2025-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2025-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Standard defines the 2025 snapshot of the Minimum common web API, a curated subset of APIs defined by web platform standards from W3C and WHATWG, which is intended to define a minimum set of capabilities common to browser and web server runtime environments based on ECMAScript.
+    The intended audience for this Standard is for web server runtime environments that want to be interoperable with the web platform. However, the set of APIs it describes may be implemented by any ECMAScript-based runtime environment that aims to be web-interoperable, even if its primary purpose is unrelated to web servers.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- city: Geneva
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

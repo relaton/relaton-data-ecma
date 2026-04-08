@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.9
+id: ECMATR-113
+title:
+- content: Explanatory guide to the Natural Language Interaction Protocol (NLIP)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-113/
+  type: src
+- content: https://ecma-international.org/wp-content/uploads/ECMA_TR-113_1st_edition_december_2025.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA TR/113
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2025-12
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: 2025-12
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This Technical Report provides a supporting documentation for the NLIP specifications and binding documents.
+    It includes the motivation, the design philosophy, exemplar use-cases, and examples of sample exchanges. This is an informative document and does not define a standard. In the case of a conflict between this document and the NLIP standards, the standards documents take precedence.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+place:
+- city: Geneva
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

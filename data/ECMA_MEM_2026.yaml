@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.9
+id: ECMAMEM-2026
+title:
+- content: '"Memento 2026" for year 2026'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2026-public-1.pdf
+  type: pdf
+type: standard
+docid:
+- id: ECMA MEM/2026
+  type: ECMA
+  primary: true
+date:
+- type: published
+  value: 2026-01
+contributor:
+- organization:
+    name:
+    - content: Ecma International
+  role:
+  - type: publisher
+revdate: 2026-01
+language:
+- en
+script:
+- Latn
+place:
+- city: Geneva
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

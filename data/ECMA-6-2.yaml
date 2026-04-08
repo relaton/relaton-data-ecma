@@ -15,7 +15,7 @@ docid:
   primary: true
 date:
 - type: published
-  value: 1987-06
+  value: 1967-06
 contributor:
 - organization:
     name:
@@ -24,7 +24,7 @@ contributor:
   - type: publisher
 edition:
   content: '2'
-revdate: 1987-06
+revdate: 1967-06
 language:
 - en
 script:
@@ -72,10 +72,10 @@ relation:
       primary: true
     date:
     - type: published
-      value: 1987-06
+      value: 1967-06
     edition:
       content: '2'
-    revdate: 1987-06
+    revdate: 1967-06
     formattedref:
       content: ECMA-6
       language:
@@ -150,7 +150,7 @@ relation:
       - Latn
       format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
   schema-version: v1.0.0
   doctype:

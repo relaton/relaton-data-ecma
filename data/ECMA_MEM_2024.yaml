@@ -9,7 +9,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2025-public.pdf
+- content: https://ecma-international.org/wp-content/uploads/Ecma-memento-2024-public.pdf
   type: pdf
 type: standard
 docid:
@@ -31,7 +31,7 @@ language:
 script:
 - Latn
 place:
-- Geneva
+- city: Geneva
 ext:
   schema-version: v1.0.0
   doctype:

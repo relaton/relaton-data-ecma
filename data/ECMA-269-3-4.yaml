@@ -331,7 +331,7 @@ relation:
       - Latn
       format: text/plain
 place:
-- Geneva
+- city: Geneva
 extent:
 - locality:
     type: volume

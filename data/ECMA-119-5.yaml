@@ -2,15 +2,13 @@
 schema-version: v1.2.9
 id: ECMA-119
 title:
-- content: Volume and file structure of CDROM for information interchange
+- content: Volume and file structure of CD-ROM for information interchange
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: https://ecma-international.org/publications-and-standards/standards/ecma-119/
-  type: src
 - content: https://ecma-international.org/wp-content/uploads/ECMA-119_5th_edition_december_2024.pdf
   type: pdf
 type: standard
@@ -36,8 +34,9 @@ script:
 - Latn
 abstract:
 - content: |-
-    This Ecma standard specifies the volume and file structure of compact disc read-only memory (CD-ROM) for the interchange of information between users of information processing systems.
-    This standard specifies:
+    This Standard specifies the volume and file structure of compact disc read-only memory (CD-ROM) for the interchange of information between users of information processing systems.
+    This Standard specifies:
+     
   language:
   - en
   script:
@@ -136,8 +135,31 @@ relation:
       script:
       - Latn
       format: text/plain
+- type: updates
+  bibitem:
+    id: ECMA-119
+    link:
+    - content: https://ecma-international.org/wp-content/uploads/ECMA-119_5th_edition_december_2024.pdf
+      type: pdf
+    docid:
+    - id: ECMA-119
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      value: 2024-12
+    edition:
+      content: '5'
+    revdate: 2024-12
+    formattedref:
+      content: ECMA-119
+      language:
+      - en
+      script:
+      - Latn
+      format: text/plain
 place:
-- Geneva
+- city: Geneva
 ext:
   schema-version: v1.0.0
   doctype:
