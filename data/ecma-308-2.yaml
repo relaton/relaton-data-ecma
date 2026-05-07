@@ -1,7 +1,7 @@
 ---
 id: ECMA308
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -45,7 +45,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-308
+    formattedref:
+      content: ECMA-308
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-308_1st_edition_june_2000.pdf

@@ -1,7 +1,7 @@
 ---
 id: ECMA153
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -32,7 +32,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-153
+    formattedref:
+      content: ECMA-153
     docidentifier:
     - content: ECMA-153
       type: ECMA

@@ -1,7 +1,7 @@
 ---
 id: ECMA241
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -44,7 +44,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-241
+    formattedref:
+      content: ECMA-241
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-241_1st_edition_june_1996.pdf
@@ -59,7 +60,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-241
+    formattedref:
+      content: ECMA-241
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-241_2nd_edition_september_1997.pdf
@@ -74,7 +76,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-241
+    formattedref:
+      content: ECMA-241
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-241_3rd_edition_december_1998.pdf

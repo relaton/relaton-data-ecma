@@ -1,7 +1,7 @@
 ---
 id: ECMA94
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-94
+    formattedref:
+      content: ECMA-94
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-94_1st_edition_march_1985.pdf

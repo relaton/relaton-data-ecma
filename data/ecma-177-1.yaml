@@ -1,7 +1,7 @@
 ---
 id: ECMA177
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -36,7 +36,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-177
+    formattedref:
+      content: ECMA-177
     docidentifier:
     - content: ECMA-177
       type: ECMA
@@ -45,7 +46,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-177
+    formattedref:
+      content: ECMA-177
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-177_2nd_edition_september_1997.pdf

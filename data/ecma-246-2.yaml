@@ -1,7 +1,7 @@
 ---
 id: ECMA246
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-246
+    formattedref:
+      content: ECMA-246
     docidentifier:
     - content: ECMA-246
       type: ECMA

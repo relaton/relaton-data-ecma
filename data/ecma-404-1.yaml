@@ -1,7 +1,7 @@
 ---
 id: ECMA404
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -40,7 +40,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-404
+    formattedref:
+      content: ECMA-404
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-404_1st_edition_october_2013.pdf

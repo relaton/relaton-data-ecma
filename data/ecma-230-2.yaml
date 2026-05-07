@@ -1,7 +1,7 @@
 ---
 id: ECMA230
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-230
+    formattedref:
+      content: ECMA-230
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-230_1st_edition_october_1995.pdf

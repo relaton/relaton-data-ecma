@@ -1,7 +1,7 @@
 ---
 id: ECMA274
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-274
+    formattedref:
+      content: ECMA-274
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-274_1st_edition_april_1998.pdf

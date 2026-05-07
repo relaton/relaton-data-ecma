@@ -1,7 +1,7 @@
 ---
 id: ECMATR72
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -41,7 +41,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA TR/72
+    formattedref:
+      content: ECMA TR/72
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-72_1st_edition_june_1998.pdf
@@ -56,7 +57,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA TR/72
+    formattedref:
+      content: ECMA TR/72
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-72_2nd_edition_december_1998.pdf

@@ -1,7 +1,7 @@
 ---
 id: ECMA214
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -47,7 +47,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-214
+    formattedref:
+      content: ECMA-214
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-214_1st_edition_december_1994.pdf
@@ -62,7 +63,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-214
+    formattedref:
+      content: ECMA-214
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-214_2nd_edition_june_1997.pdf

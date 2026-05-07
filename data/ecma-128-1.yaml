@@ -1,7 +1,7 @@
 ---
 id: ECMA128
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -39,7 +39,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-128
+    formattedref:
+      content: ECMA-128
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-128_1st_edition_july_1988.pdf

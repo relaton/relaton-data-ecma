@@ -1,7 +1,7 @@
 ---
 id: ECMA306
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -52,7 +52,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-306
+    formattedref:
+      content: ECMA-306
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-306_1st_edition_june_2000.pdf

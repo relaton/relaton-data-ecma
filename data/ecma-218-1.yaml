@@ -1,7 +1,7 @@
 ---
 id: ECMA218
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -45,7 +45,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-218
+    formattedref:
+      content: ECMA-218
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/Ecma-218.doc

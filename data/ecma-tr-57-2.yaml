@@ -1,7 +1,7 @@
 ---
 id: ECMATR57
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -47,7 +47,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA TR/57
+    formattedref:
+      content: ECMA TR/57
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-57_1st_edition_december_1991.pdf

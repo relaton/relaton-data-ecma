@@ -1,7 +1,7 @@
 ---
 id: ECMA113
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -39,7 +39,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-113
+    formattedref:
+      content: ECMA-113
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-113_1st_edition_june_1986.pdf
@@ -54,7 +55,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-113
+    formattedref:
+      content: ECMA-113
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-113_2nd_edition_june_1988.pdf

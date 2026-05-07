@@ -1,7 +1,7 @@
 ---
 id: ECMA402
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -41,7 +41,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_1st_edition_december_2012.pdf
@@ -56,7 +57,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_2nd_edition_june_2015.pdf
@@ -71,7 +73,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_3rd_edition_june_2016.pdf
@@ -86,7 +89,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_4th_edition_june_2017.pdf
@@ -101,7 +105,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_5th_edition_june_2018.pdf
@@ -116,7 +121,8 @@ relation:
       content: '5'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402-6th-edition-June-2019.pdf
@@ -131,7 +137,8 @@ relation:
       content: '6'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_7th_edition_june_2020.pdf
@@ -146,7 +153,8 @@ relation:
       content: '7'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_8th_edition_june_2021.pdf
@@ -161,7 +169,8 @@ relation:
       content: '8'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_9th_edition_june_2022.pdf
@@ -176,7 +185,8 @@ relation:
       content: '9'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_10th_edition_june_2023.pdf
@@ -191,7 +201,8 @@ relation:
       content: '10'
 - type: updates
   bibitem:
-    formattedref: ECMA-402
+    formattedref:
+      content: ECMA-402
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-402_11th_edition_june_2024.pdf

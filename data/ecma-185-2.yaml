@@ -1,7 +1,7 @@
 ---
 id: ECMA185
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-185
+    formattedref:
+      content: ECMA-185
     docidentifier:
     - content: ECMA-185
       type: ECMA

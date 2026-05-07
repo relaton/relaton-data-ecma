@@ -1,7 +1,7 @@
 ---
 id: ECMA323
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -45,7 +45,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-323
+    formattedref:
+      content: ECMA-323
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-323_1st_edition_june_2001.pdf
@@ -60,7 +61,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-323
+    formattedref:
+      content: ECMA-323
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-323_2nd_edition_december_2002.pdf
@@ -75,7 +77,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-323
+    formattedref:
+      content: ECMA-323
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-323_3rd_edition_june_2004.pdf
@@ -90,7 +93,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-323
+    formattedref:
+      content: ECMA-323
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-323_4th_edition_december_2006.pdf
@@ -105,7 +109,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-323
+    formattedref:
+      content: ECMA-323
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-323_5th_edition_june_2009.pdf
@@ -120,7 +125,8 @@ relation:
       content: '5'
 - type: updates
   bibitem:
-    formattedref: ECMA-323
+    formattedref:
+      content: ECMA-323
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ecma323ed6xsds.zip
@@ -135,7 +141,8 @@ relation:
       content: '6'
 - type: updates
   bibitem:
-    formattedref: ECMA-323
+    formattedref:
+      content: ECMA-323
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-323_6th_edition_changes_since_the_previous_edition-1.pdf

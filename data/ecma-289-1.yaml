@@ -1,7 +1,7 @@
 ---
 id: ECMA289
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -47,7 +47,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-289
+    formattedref:
+      content: ECMA-289
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-289_1st_edition_june_1999.pdf

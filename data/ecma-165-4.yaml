@@ -1,7 +1,7 @@
 ---
 id: ECMA165
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -47,7 +47,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-165
+    formattedref:
+      content: ECMA-165
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-165_1st_edition_march_1992.pdf
@@ -62,7 +63,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-165
+    formattedref:
+      content: ECMA-165
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-165_2nd_edition_june_1993.pdf
@@ -77,7 +79,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-165
+    formattedref:
+      content: ECMA-165
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-165_3rd_edition_june_1997.pdf

@@ -1,7 +1,7 @@
 ---
 id: ECMA341
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-341
+    formattedref:
+      content: ECMA-341
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-341_1st_edition_december_2002-1.pdf
@@ -58,7 +59,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-341
+    formattedref:
+      content: ECMA-341
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-341_2nd_edition_december_2004.pdf
@@ -73,7 +75,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-341
+    formattedref:
+      content: ECMA-341
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-341_3rd_edition_june_2008.pdf

@@ -1,7 +1,7 @@
 ---
 id: ECMATR84
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA TR/84
+    formattedref:
+      content: ECMA TR/84
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-84_1st_edition_december_2001.pdf
@@ -58,7 +59,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA TR/84
+    formattedref:
+      content: ECMA TR/84
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-84_2nd_edition_december_2002.pdf
@@ -73,7 +75,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA TR/84
+    formattedref:
+      content: ECMA TR/84
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-84_3rd_edition_june_2005.pdf
@@ -88,7 +91,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA TR/84
+    formattedref:
+      content: ECMA TR/84
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-84_4th_edition_june_2006.pdf
@@ -103,7 +107,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA TR/84
+    formattedref:
+      content: ECMA TR/84
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-84_5th_edition_december_2010.pdf

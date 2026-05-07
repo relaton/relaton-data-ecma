@@ -1,7 +1,7 @@
 ---
 id: ECMA164
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-164
+    formattedref:
+      content: ECMA-164
     docidentifier:
     - content: ECMA-164
       type: ECMA
@@ -52,7 +53,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-164
+    formattedref:
+      content: ECMA-164
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-164_2nd_edition_june_1993.pdf
@@ -67,7 +69,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-164
+    formattedref:
+      content: ECMA-164
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-164_3rd_edition_september_1997.pdf

@@ -1,7 +1,7 @@
 ---
 id: ECMA420
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -41,7 +41,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-420
+    formattedref:
+      content: ECMA-420
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-420_1st_edition_december_2021.pdf
@@ -56,7 +57,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-420
+    formattedref:
+      content: ECMA-420
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-420_2nd_edition_december_2022.pdf

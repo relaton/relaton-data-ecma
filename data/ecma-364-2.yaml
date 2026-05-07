@@ -1,7 +1,7 @@
 ---
 id: ECMA364
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-364
+    formattedref:
+      content: ECMA-364
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-364_1st_edition_june_2005.pdf
@@ -57,7 +58,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-364
+    formattedref:
+      content: ECMA-364
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-364_2nd_edition_june_2006.pdf

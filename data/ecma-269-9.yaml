@@ -1,7 +1,7 @@
 ---
 id: ECMA269
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -44,7 +44,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     docidentifier:
     - content: ECMA-269
       type: ECMA
@@ -53,7 +54,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_2nd_edition_june_1998.pdf
@@ -68,7 +70,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_1.pdf
@@ -87,7 +90,8 @@ relation:
         reference_from: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_2.pdf
@@ -106,7 +110,8 @@ relation:
         reference_from: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_3.pdf
@@ -125,7 +130,8 @@ relation:
         reference_from: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_4.pdf
@@ -144,7 +150,8 @@ relation:
         reference_from: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_4th_edition_june_2000.pdf
@@ -159,7 +166,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_5th_edition_december_2002.pdf
@@ -174,7 +182,8 @@ relation:
       content: '5'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_6th_edition_june_2004.pdf
@@ -189,7 +198,8 @@ relation:
       content: '6'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_7th_edition_december_2006.pdf
@@ -204,7 +214,8 @@ relation:
       content: '7'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_8th_edition_june_2009.pdf
@@ -219,7 +230,8 @@ relation:
       content: '8'
 - type: updates
   bibitem:
-    formattedref: ECMA-269
+    formattedref:
+      content: ECMA-269
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-269_9th_edition_changes_since_the_previous_edition.pdf

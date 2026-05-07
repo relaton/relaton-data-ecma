@@ -1,7 +1,7 @@
 ---
 id: ECMA74
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -53,7 +53,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_1st_edition_september_1981.pdf
@@ -68,7 +69,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_2nd_edition_december_1987.pdf
@@ -83,7 +85,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_3rd_edition_december_1992.pdf
@@ -98,7 +101,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_4th_edition_december_1996.pdf
@@ -113,7 +117,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_5th_edition_december_1997.pdf
@@ -128,7 +133,8 @@ relation:
       content: '5'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_6th_edition_december_1999.pdf
@@ -143,7 +149,8 @@ relation:
       content: '6'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_7th_edition_december_2002.pdf
@@ -158,7 +165,8 @@ relation:
       content: '7'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_8th_edition_december_2003.pdf
@@ -173,7 +181,8 @@ relation:
       content: '8'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_9th_edition_december_2005.pdf
@@ -188,7 +197,8 @@ relation:
       content: '9'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_10th_edition_december_2008.pdf
@@ -203,7 +213,8 @@ relation:
       content: '10'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_11th_edition_december_2010.pdf
@@ -218,7 +229,8 @@ relation:
       content: '11'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_12th_edition_december_2012.pdf
@@ -233,7 +245,8 @@ relation:
       content: '12'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_13th_edition_june_2015.pdf
@@ -248,7 +261,8 @@ relation:
       content: '13'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_14th_edition_december_2017.pdf
@@ -263,7 +277,8 @@ relation:
       content: '14'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_15th_edition_june_2018.pdf
@@ -278,7 +293,8 @@ relation:
       content: '15'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_16th_edition_june_2019-1.pdf
@@ -293,7 +309,8 @@ relation:
       content: '16'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_17th_edition_december_2019.pdf
@@ -308,7 +325,8 @@ relation:
       content: '17'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_18th_edition_june_2021.pdf
@@ -323,7 +341,8 @@ relation:
       content: '18'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_19th_edition_december_2021.pdf
@@ -338,7 +357,8 @@ relation:
       content: '19'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_20th_edition_december_2022.pdf
@@ -353,7 +373,8 @@ relation:
       content: '20'
 - type: updates
   bibitem:
-    formattedref: ECMA-74
+    formattedref:
+      content: ECMA-74
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-74_21st_edition_june_2025.pdf

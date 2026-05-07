@@ -1,7 +1,7 @@
 ---
 id: ECMA376
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -40,7 +40,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-376
+    formattedref:
+      content: ECMA-376
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-376_1st_edition_december_2006.zip
@@ -55,7 +56,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-376
+    formattedref:
+      content: ECMA-376
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-376_2nd_edition_december_2008.zip
@@ -70,7 +72,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-376
+    formattedref:
+      content: ECMA-376
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-376_3rd_edition_june_2011.zip
@@ -85,7 +88,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-376
+    formattedref:
+      content: ECMA-376
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-376_4th_edition_december_2012.zip

@@ -1,7 +1,7 @@
 ---
 id: ECMA175
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -41,7 +41,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-175
+    formattedref:
+      content: ECMA-175
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-175_1st_edition_june_1992.pdf
@@ -56,7 +57,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-175
+    formattedref:
+      content: ECMA-175
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-175_2nd_edition_september_1997.pdf

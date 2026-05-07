@@ -1,7 +1,7 @@
 ---
 id: ECMA133
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-133
+    formattedref:
+      content: ECMA-133
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-133_1st_edition_april_1989.pdf

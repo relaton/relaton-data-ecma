@@ -1,7 +1,7 @@
 ---
 id: ECMA362
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -40,7 +40,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-362
+    formattedref:
+      content: ECMA-362
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-362_1st_edition_december_2004.pdf
@@ -55,7 +56,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-362
+    formattedref:
+      content: ECMA-362
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-362_2nd_edition_december_2005.pdf

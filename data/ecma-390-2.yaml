@@ -1,7 +1,7 @@
 ---
 id: ECMA390
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-390
+    formattedref:
+      content: ECMA-390
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-390_1st_edition_december_2009.pdf

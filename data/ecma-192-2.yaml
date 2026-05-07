@@ -1,7 +1,7 @@
 ---
 id: ECMA192
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -47,7 +47,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-192
+    formattedref:
+      content: ECMA-192
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/Ecma-192-1st-edition-June-1993.pdf
@@ -59,7 +60,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-192
+    formattedref:
+      content: ECMA-192
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-192_2nd_edition_december_1994.pdf
@@ -74,7 +76,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-192
+    formattedref:
+      content: ECMA-192
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-192_3rd_edition_june_1997.pdf

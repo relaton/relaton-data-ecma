@@ -1,7 +1,7 @@
 ---
 id: ECMA109
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -50,7 +50,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_1st_edition_december_1985.pdf
@@ -65,7 +66,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_2nd_edition_december_1987.pdf
@@ -80,7 +82,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_3rd_edition_december_1992.pdf
@@ -95,7 +98,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_4th_edition_december_1996.pdf
@@ -110,7 +114,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_5th_edition_december_2010.pdf
@@ -125,7 +130,8 @@ relation:
       content: '5'
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_6th_edition_december_2012.pdf
@@ -140,7 +146,8 @@ relation:
       content: '6'
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_7th_edition_december_2016.pdf
@@ -155,7 +162,8 @@ relation:
       content: '7'
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_8th_edition_june_2019-1.pdf
@@ -170,7 +178,8 @@ relation:
       content: '8'
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_9th_edition_december_2019.pdf
@@ -185,7 +194,8 @@ relation:
       content: '9'
 - type: updates
   bibitem:
-    formattedref: ECMA-109
+    formattedref:
+      content: ECMA-109
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-109_10th_edition_december_2020.pdf

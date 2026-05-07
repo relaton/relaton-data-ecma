@@ -1,7 +1,7 @@
 ---
 id: ECMA225
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -46,7 +46,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-225
+    formattedref:
+      content: ECMA-225
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-225_1st_edition_june_1995.pdf

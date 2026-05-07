@@ -1,7 +1,7 @@
 ---
 id: ECMA414
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -39,7 +39,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-414
+    formattedref:
+      content: ECMA-414
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-414_1st_edition_june_2016.pdf
@@ -54,7 +55,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-414
+    formattedref:
+      content: ECMA-414
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-414_2nd_edition_december_2016.pdf

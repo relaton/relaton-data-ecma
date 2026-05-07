@@ -1,7 +1,7 @@
 ---
 id: ECMA425
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -46,7 +46,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-425
+    formattedref:
+      content: ECMA-425
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-425_1st_edition_december_2024.pdf

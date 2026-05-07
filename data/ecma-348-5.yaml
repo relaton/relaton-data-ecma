@@ -1,7 +1,7 @@
 ---
 id: ECMA348
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -48,7 +48,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-348
+    formattedref:
+      content: ECMA-348
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-348_1st_edition_june_2003.pdf
@@ -63,7 +64,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-348
+    formattedref:
+      content: ECMA-348
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-348_2nd_edition_june_2004.pdf
@@ -78,7 +80,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-348
+    formattedref:
+      content: ECMA-348
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-348_3rd_edition_december_2006.pdf
@@ -93,7 +96,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-348
+    formattedref:
+      content: ECMA-348
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-348_4th_edition_june_2009.pdf

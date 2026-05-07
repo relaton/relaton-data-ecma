@@ -1,7 +1,7 @@
 ---
 id: ECMA418
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -53,7 +53,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-418-1
+    formattedref:
+      content: ECMA-418-1
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-418-1_1st_edition_december_2020.pdf
@@ -68,7 +69,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-418-2
+    formattedref:
+      content: ECMA-418-2
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-418-2_1st_edition_december_2020.pdf
@@ -83,7 +85,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-418-1
+    formattedref:
+      content: ECMA-418-1
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-418-1_2nd_edition_december_2022.pdf
@@ -98,7 +101,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-418-2
+    formattedref:
+      content: ECMA-418-2
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-418-2_2nd_edition_december_2022.pdf
@@ -113,7 +117,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-418-2
+    formattedref:
+      content: ECMA-418-2
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-418-2_3rd_edition_december_2024.pdf

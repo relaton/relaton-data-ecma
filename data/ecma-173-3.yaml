@@ -1,7 +1,7 @@
 ---
 id: ECMA173
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-173
+    formattedref:
+      content: ECMA-173
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-173_1st_edition_june_1992.pdf
@@ -58,7 +59,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-173
+    formattedref:
+      content: ECMA-173
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-173_2nd_edition_june_1997.pdf

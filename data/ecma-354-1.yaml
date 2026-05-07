@@ -1,7 +1,7 @@
 ---
 id: ECMA354
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-354
+    formattedref:
+      content: ECMA-354
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-354_xsds_02_august_2004.zip

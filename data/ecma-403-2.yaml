@@ -1,7 +1,7 @@
 ---
 id: ECMA403
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-403
+    formattedref:
+      content: ECMA-403
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-403_1st_edition_june_2013.pdf

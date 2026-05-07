@@ -1,7 +1,7 @@
 ---
 id: ECMA156
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-156
+    formattedref:
+      content: ECMA-156
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-156_1st_edition_june_1991.pdf

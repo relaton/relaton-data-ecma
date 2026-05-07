@@ -1,7 +1,7 @@
 ---
 id: ECMA220
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-220
+    formattedref:
+      content: ECMA-220
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-220_1st_edition_march_1995.pdf
@@ -58,7 +59,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-220
+    formattedref:
+      content: ECMA-220
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-220_2nd_edition_june_1997.pdf

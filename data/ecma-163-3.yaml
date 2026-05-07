@@ -1,7 +1,7 @@
 ---
 id: ECMA163
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -47,7 +47,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-163
+    formattedref:
+      content: ECMA-163
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-163_1st_edition_march_1992.pdf
@@ -62,7 +63,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-163
+    formattedref:
+      content: ECMA-163
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-163_2nd_edition_december_1993.pdf

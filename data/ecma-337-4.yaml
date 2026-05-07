@@ -1,7 +1,7 @@
 ---
 id: ECMA337
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -44,7 +44,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-337
+    formattedref:
+      content: ECMA-337
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-337_1st_edition_december_2002.pdf
@@ -59,7 +60,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-337
+    formattedref:
+      content: ECMA-337
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-337_2nd_edition_december_2003.pdf
@@ -74,7 +76,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-337
+    formattedref:
+      content: ECMA-337
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-337_3rd_edition_december_2005.pdf

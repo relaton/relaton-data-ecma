@@ -1,7 +1,7 @@
 ---
 id: ECMA312
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-312
+    formattedref:
+      content: ECMA-312
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-312_1st_edition_june_2000.pdf
@@ -58,7 +59,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-312
+    formattedref:
+      content: ECMA-312
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-312_2nd_edition_june_2001.pdf

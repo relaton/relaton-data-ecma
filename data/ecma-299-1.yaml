@@ -1,7 +1,7 @@
 ---
 id: ECMA299
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-299
+    formattedref:
+      content: ECMA-299
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-299_1st_edition_february_2000.pdf

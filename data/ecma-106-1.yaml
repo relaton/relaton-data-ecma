@@ -1,7 +1,7 @@
 ---
 id: ECMA106
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-106
+    formattedref:
+      content: ECMA-106
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-106_1st_edition_september_1985.pdf
@@ -57,7 +58,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-106
+    formattedref:
+      content: ECMA-106
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-106_2nd_edition_june_1991.pdf

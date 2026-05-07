@@ -1,7 +1,7 @@
 ---
 id: ECMA363
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -44,7 +44,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-363
+    formattedref:
+      content: ECMA-363
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-363_1st_edition_december_2004.pdf
@@ -59,7 +60,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-363
+    formattedref:
+      content: ECMA-363
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-363_2nd_edition_august_2005.pdf
@@ -74,7 +76,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-363
+    formattedref:
+      content: ECMA-363
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-363_3rd_edition_june_2006.pdf

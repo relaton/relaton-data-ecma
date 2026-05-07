@@ -1,7 +1,7 @@
 ---
 id: ECMA300
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -46,7 +46,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-300
+    formattedref:
+      content: ECMA-300
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf

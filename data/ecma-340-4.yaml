@@ -1,7 +1,7 @@
 ---
 id: ECMA340
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -46,7 +46,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-340
+    formattedref:
+      content: ECMA-340
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-340_1st_edition_december_2002.pdf
@@ -61,7 +62,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-340
+    formattedref:
+      content: ECMA-340
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-340_2nd_edition_december_2004.pdf
@@ -76,7 +78,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-340
+    formattedref:
+      content: ECMA-340
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-340_3rd_edition_june_2013.pdf

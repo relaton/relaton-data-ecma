@@ -1,7 +1,7 @@
 ---
 id: ECMA328
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -53,7 +53,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-328
+    formattedref:
+      content: ECMA-328
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-328_1st_edition_august_2001.pdf
@@ -68,7 +69,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-328
+    formattedref:
+      content: ECMA-328
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-328_2nd_edition_june_2006.pdf
@@ -83,7 +85,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-328
+    formattedref:
+      content: ECMA-328
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-328_3rd_edition_june_2007.pdf
@@ -98,7 +101,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-328
+    formattedref:
+      content: ECMA-328
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-328_4th_edition_december_2009.pdf
@@ -113,7 +117,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-328
+    formattedref:
+      content: ECMA-328
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-328_5th_edition_december_2010.pdf
@@ -128,7 +133,8 @@ relation:
       content: '5'
 - type: updates
   bibitem:
-    formattedref: ECMA-328
+    formattedref:
+      content: ECMA-328
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-328_6th_edition_december_2013.pdf
@@ -143,7 +149,8 @@ relation:
       content: '6'
 - type: updates
   bibitem:
-    formattedref: ECMA-328
+    formattedref:
+      content: ECMA-328
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-328_7th_edition_december_2015.pdf

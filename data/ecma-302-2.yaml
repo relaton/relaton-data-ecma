@@ -1,7 +1,7 @@
 ---
 id: ECMA302
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -50,7 +50,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-302
+    formattedref:
+      content: ECMA-302
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-302_1st_edition_june_2000.pdf

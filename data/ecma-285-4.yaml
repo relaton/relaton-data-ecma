@@ -1,7 +1,7 @@
 ---
 id: ECMA285
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -48,7 +48,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-285
+    formattedref:
+      content: ECMA-285
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-285_1st_edition_december_1998.pdf
@@ -63,7 +64,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-285
+    formattedref:
+      content: ECMA-285
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-285_2nd_edition_june_2000.pdf
@@ -78,7 +80,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-285
+    formattedref:
+      content: ECMA-285
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-285_3rd_edition_december_2010.pdf
@@ -93,7 +96,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-285
+    formattedref:
+      content: ECMA-285
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-285_4th_edition_source_files.zip

@@ -1,7 +1,7 @@
 ---
 id: ECMA148
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -45,7 +45,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-148
+    formattedref:
+      content: ECMA-148
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-148_1st_edition_december_1990.pdf
@@ -60,7 +61,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-148
+    formattedref:
+      content: ECMA-148
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-148_2nd_edition_june_1993.pdf

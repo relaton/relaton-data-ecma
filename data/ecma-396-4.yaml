@@ -1,7 +1,7 @@
 ---
 id: ECMA396
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -48,7 +48,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-396
+    formattedref:
+      content: ECMA-396
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-396_1st_edition_december_2010-1.pdf
@@ -63,7 +64,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-396
+    formattedref:
+      content: ECMA-396
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-396_2nd_edition_june_2014-1.pdf
@@ -78,7 +80,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-396
+    formattedref:
+      content: ECMA-396
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-396_3rd_edition_december_2014-1.pdf

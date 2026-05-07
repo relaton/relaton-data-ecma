@@ -1,7 +1,7 @@
 ---
 id: ECMA35
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-35
+    formattedref:
+      content: ECMA-35
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-35_1st_edition_december_1971.pdf
@@ -58,7 +59,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-35
+    formattedref:
+      content: ECMA-35
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-35_2nd_edition_january_1980.pdf
@@ -73,7 +75,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-35
+    formattedref:
+      content: ECMA-35
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-35_3rd_edition_january_1982.pdf
@@ -88,7 +91,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-35
+    formattedref:
+      content: ECMA-35
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-35_4th_edition_march_1985.pdf
@@ -103,7 +107,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-35
+    formattedref:
+      content: ECMA-35
     docidentifier:
     - content: ECMA-35
       type: ECMA

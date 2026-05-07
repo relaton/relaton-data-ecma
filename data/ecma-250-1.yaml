@@ -1,7 +1,7 @@
 ---
 id: ECMA250
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -41,7 +41,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-250
+    formattedref:
+      content: ECMA-250
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-250_1st_edition_december_1996.pdf

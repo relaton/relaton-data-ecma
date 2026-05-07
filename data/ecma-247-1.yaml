@@ -1,7 +1,7 @@
 ---
 id: ECMA247
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -34,7 +34,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-247
+    formattedref:
+      content: ECMA-247
     docidentifier:
     - content: ECMA-247
       type: ECMA

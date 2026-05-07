@@ -1,7 +1,7 @@
 ---
 id: ECMA6
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -40,7 +40,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-6
+    formattedref:
+      content: ECMA-6
     docidentifier:
     - content: ECMA-6
       type: ECMA
@@ -52,7 +53,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-6
+    formattedref:
+      content: ECMA-6
     docidentifier:
     - content: ECMA-6
       type: ECMA
@@ -64,7 +66,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-6
+    formattedref:
+      content: ECMA-6
     docidentifier:
     - content: ECMA-6
       type: ECMA
@@ -76,7 +79,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-6
+    formattedref:
+      content: ECMA-6
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-6_4th_edition_august_1973.pdf
@@ -91,7 +95,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-6
+    formattedref:
+      content: ECMA-6
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-6_5th_edition_march_1985.pdf

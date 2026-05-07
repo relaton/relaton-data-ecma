@@ -1,7 +1,7 @@
 ---
 id: ECMA339
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -45,7 +45,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-339
+    formattedref:
+      content: ECMA-339
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-339_1st_edition_december_2002.pdf

@@ -1,7 +1,7 @@
 ---
 id: ECMA158
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -37,7 +37,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-158
+    formattedref:
+      content: ECMA-158
     docidentifier:
     - content: ECMA-158
       type: ECMA
@@ -49,7 +50,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-158
+    formattedref:
+      content: ECMA-158
     docidentifier:
     - content: ECMA-158
       type: ECMA
@@ -61,7 +63,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-158
+    formattedref:
+      content: ECMA-158
     docidentifier:
     - content: ECMA-158
       type: ECMA

@@ -1,7 +1,7 @@
 ---
 id: ECMA254
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -46,7 +46,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-254
+    formattedref:
+      content: ECMA-254
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-254_1st_edition_december_1996.pdf

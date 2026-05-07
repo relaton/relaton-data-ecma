@@ -1,7 +1,7 @@
 ---
 id: ECMA162
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-162
+    formattedref:
+      content: ECMA-162
     docidentifier:
     - content: ECMA-162
       type: ECMA
@@ -54,7 +55,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-162
+    formattedref:
+      content: ECMA-162
     docidentifier:
     - content: ECMA-162
       type: ECMA
@@ -66,7 +68,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-162
+    formattedref:
+      content: ECMA-162
     docidentifier:
     - content: ECMA-162
       type: ECMA

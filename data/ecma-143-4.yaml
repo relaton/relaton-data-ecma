@@ -1,7 +1,7 @@
 ---
 id: ECMA143
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -45,7 +45,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-143
+    formattedref:
+      content: ECMA-143
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-143_2nd_edition_december_1992.pdf
@@ -60,7 +61,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-143
+    formattedref:
+      content: ECMA-143
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-143_3rd_edition_june_1997.pdf

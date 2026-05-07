@@ -1,7 +1,7 @@
 ---
 id: ECMA198
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -41,7 +41,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-198
+    formattedref:
+      content: ECMA-198
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-198_1st_edition_december_1993.pdf

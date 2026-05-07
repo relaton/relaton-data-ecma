@@ -1,7 +1,7 @@
 ---
 id: ECMA262
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -45,7 +45,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_1st_edition_june_1997.pdf
@@ -60,7 +61,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf
@@ -75,7 +77,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf
@@ -90,7 +93,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     docidentifier:
     - content: ECMA-262
       type: ECMA
@@ -99,7 +103,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_5th_edition_december_2009.pdf
@@ -114,7 +119,8 @@ relation:
       content: '5'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_5.1_edition_june_2011.pdf
@@ -129,7 +135,8 @@ relation:
       content: '5.1'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf
@@ -144,7 +151,8 @@ relation:
       content: '6'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_7th_edition_june_2016.pdf
@@ -159,7 +167,8 @@ relation:
       content: '7'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_8th_edition_june_2017.pdf
@@ -174,7 +183,8 @@ relation:
       content: '8'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_9th_edition_june_2018.pdf
@@ -189,7 +199,8 @@ relation:
       content: '9'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_10th_edition_june_2019.pdf
@@ -204,7 +215,8 @@ relation:
       content: '10'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_11th_edition_june_2020.pdf
@@ -219,7 +231,8 @@ relation:
       content: '11'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_12th_edition_june_2021.pdf
@@ -234,7 +247,8 @@ relation:
       content: '12'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_13th_edition_june_2022.pdf
@@ -249,7 +263,8 @@ relation:
       content: '13'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_14th_edition_june_2023.pdf
@@ -264,7 +279,8 @@ relation:
       content: '14'
 - type: updates
   bibitem:
-    formattedref: ECMA-262
+    formattedref:
+      content: ECMA-262
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-262_15th_edition_june_2024.pdf

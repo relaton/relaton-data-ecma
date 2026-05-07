@@ -1,7 +1,7 @@
 ---
 id: ECMATR27
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -43,7 +43,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA TR/27
+    formattedref:
+      content: ECMA TR/27
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-27_1st_edition_march-1985-1.pdf

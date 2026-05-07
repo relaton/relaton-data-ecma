@@ -1,7 +1,7 @@
 ---
 id: ECMA349
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-349
+    formattedref:
+      content: ECMA-349
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-349_1st_edition_december_2003.pdf
@@ -57,7 +58,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-349
+    formattedref:
+      content: ECMA-349
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-349_2nd_edition_june_2004.pdf
@@ -72,7 +74,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-349
+    formattedref:
+      content: ECMA-349
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-349_3rd_edition_december_2005.pdf

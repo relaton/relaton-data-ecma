@@ -1,7 +1,7 @@
 ---
 id: ECMA120
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-120
+    formattedref:
+      content: ECMA-120
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-120_1st_edition_december_1986.pdf
@@ -57,7 +58,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-120
+    formattedref:
+      content: ECMA-120
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-120_2nd_edition_december_1987.pdf

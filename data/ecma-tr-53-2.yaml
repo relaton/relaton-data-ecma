@@ -1,7 +1,7 @@
 ---
 id: ECMATR53
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -41,7 +41,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA TR/53
+    formattedref:
+      content: ECMA TR/53
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-53_1st_edition_december_1990.pdf

@@ -1,7 +1,7 @@
 ---
 id: ECMATR107
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA TR/107
+    formattedref:
+      content: ECMA TR/107
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-107_1st_edition_june_2015.pdf
@@ -57,7 +58,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA TR/107
+    formattedref:
+      content: ECMA TR/107
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-107_2nd_edition_december_2016.pdf

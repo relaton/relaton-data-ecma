@@ -1,7 +1,7 @@
 ---
 id: ECMA161
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-161
+    formattedref:
+      content: ECMA-161
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-161_1st_edition_december_1991.pdf

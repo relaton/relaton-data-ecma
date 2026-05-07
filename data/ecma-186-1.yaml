@@ -1,7 +1,7 @@
 ---
 id: ECMA186
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -41,7 +41,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-186
+    formattedref:
+      content: ECMA-186
     docidentifier:
     - content: ECMA-186
       type: ECMA
@@ -50,7 +51,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-186
+    formattedref:
+      content: ECMA-186
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-186_2nd_edition_june_1997.pdf
@@ -65,7 +67,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-186
+    formattedref:
+      content: ECMA-186
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-186_3rd_edition_february_2000.pdf

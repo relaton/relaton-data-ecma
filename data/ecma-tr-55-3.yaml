@@ -1,7 +1,7 @@
 ---
 id: ECMATR55
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -40,7 +40,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA TR/55
+    formattedref:
+      content: ECMA TR/55
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-55_1st_edition_december_1990.pdf
@@ -55,7 +56,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA TR/55
+    formattedref:
+      content: ECMA TR/55
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA_TR-55_2nd_edition_december_1991.pdf

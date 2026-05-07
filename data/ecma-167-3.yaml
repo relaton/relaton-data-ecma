@@ -1,7 +1,7 @@
 ---
 id: ECMA167
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -45,7 +45,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-167
+    formattedref:
+      content: ECMA-167
     docidentifier:
     - content: ECMA-167
       type: ECMA
@@ -57,7 +58,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-167
+    formattedref:
+      content: ECMA-167
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-167_2nd_edition_december_1994.pdf

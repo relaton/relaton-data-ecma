@@ -1,7 +1,7 @@
 ---
 id: ECMA352
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -39,7 +39,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-352
+    formattedref:
+      content: ECMA-352
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-352_1st_edition_december_2003.pdf
@@ -54,7 +55,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-352
+    formattedref:
+      content: ECMA-352
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-352_2nd_edition_june_2010.pdf
@@ -69,7 +71,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-352
+    formattedref:
+      content: ECMA-352
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-352_3rd_edition_june_2013.pdf

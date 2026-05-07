@@ -1,7 +1,7 @@
 ---
 id: ECMA387
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -42,7 +42,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-387
+    formattedref:
+      content: ECMA-387
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-387_1st_edition_december_2008.pdf

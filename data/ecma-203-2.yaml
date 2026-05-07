@@ -1,7 +1,7 @@
 ---
 id: ECMA203
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -47,7 +47,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-203
+    formattedref:
+      content: ECMA-203
     docidentifier:
     - content: ECMA-203
       type: ECMA
@@ -56,7 +57,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-203
+    formattedref:
+      content: ECMA-203
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-203_2nd_edition_december_1994.pdf
@@ -71,7 +73,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-203
+    formattedref:
+      content: ECMA-203
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-203_3rd_edition_june-1997.pdf

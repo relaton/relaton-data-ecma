@@ -1,7 +1,7 @@
 ---
 id: ECMA335
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   script: Latn
@@ -39,7 +39,8 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    formattedref: ECMA-335
+    formattedref:
+      content: ECMA-335
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-335_1st_edition_december_2001.pdf
@@ -54,7 +55,8 @@ relation:
       content: '1'
 - type: updates
   bibitem:
-    formattedref: ECMA-335
+    formattedref:
+      content: ECMA-335
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-335_2nd_edition_december_2002.pdf
@@ -69,7 +71,8 @@ relation:
       content: '2'
 - type: updates
   bibitem:
-    formattedref: ECMA-335
+    formattedref:
+      content: ECMA-335
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-335_3rd_edition_june_2005.pdf
@@ -84,7 +87,8 @@ relation:
       content: '3'
 - type: updates
   bibitem:
-    formattedref: ECMA-335
+    formattedref:
+      content: ECMA-335
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-335_4th_edition_june_2006.pdf
@@ -99,7 +103,8 @@ relation:
       content: '4'
 - type: updates
   bibitem:
-    formattedref: ECMA-335
+    formattedref:
+      content: ECMA-335
     source:
     - type: pdf
       content: https://ecma-international.org/wp-content/uploads/ECMA-335_5th_edition_december_2010.pdf
