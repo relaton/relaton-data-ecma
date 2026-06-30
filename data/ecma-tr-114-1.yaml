@@ -1,0 +1,52 @@
+---
+id: ECMATR114
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Runtime keys
+source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-114/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA_TR-114_1st_edition_june_2026.pdf
+docidentifier:
+- content: ECMA TR/114
+  type: ECMA
+  primary: true
+date:
+- type: published
+  at: 2026-06
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - language: en
+      script: Latn
+      content: Ecma International
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Runtime keys provide a consistent and predictable mechanism for identifying ECMAScript runtimes in a variety
+    of contexts, including but not limited to project configuration files, package manifests, conditional exports, andruntime detection mechanisms.
+    This document focuses on providing informative identifiers primarily for webservers, though other ECMAScript server environments may find it useful. These keys are not intended to beused in web browsers, which should be referenced by other mechanisms such as the browserslist project.
+    This Report defines:
+    • the canonical source of runtime keys and associated metadata,
+    • guidance for future ECMAScript runtimes to submit runtime keys, and
+    • TC55’s governance process for adding and modifying runtime keys to the Report.
+place:
+- city: Geneva
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: ecma

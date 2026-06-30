@@ -8,14 +8,16 @@ title:
   content: ECMAScript® 2026 internationalization API specification
 source:
 - type: src
-  content: https://402.ecma-international.org/2.0/index.html
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-402/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-402_13th_edition_june_2026.pdf
 docidentifier:
 - content: ECMA-402
   type: ECMA
   primary: true
 date:
 - type: published
-  at: 2015-06
+  at: 2026-06
 contributor:
 - role:
   - type: publisher
@@ -25,7 +27,7 @@ contributor:
       script: Latn
       content: Ecma International
 edition:
-  content: '2'
+  content: '13'
 language:
 - en
 script:

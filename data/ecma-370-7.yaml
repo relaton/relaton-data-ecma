@@ -7,15 +7,17 @@ title:
   script: Latn
   content: TED - The ECO declaration
 source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-370/
 - type: pdf
-  content: https://ecma-international.org/wp-content/uploads/ECMA-370_5th_edition_june_2015.pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-370_7th_edition_june_2026.pdf
 docidentifier:
 - content: ECMA-370
   type: ECMA
   primary: true
 date:
 - type: published
-  at: 2015-06
+  at: 2026-06
 contributor:
 - role:
   - type: publisher
@@ -25,7 +27,7 @@ contributor:
       script: Latn
       content: Ecma International
 edition:
-  content: '5'
+  content: '7'
 language:
 - en
 script:

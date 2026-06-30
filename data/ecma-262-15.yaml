@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ECMAScript® 2025 language specification
+  content: ECMAScript® 2026 language specification
 source:
 - type: src
   content: https://262.ecma-international.org/15.0/index.html
@@ -34,9 +34,9 @@ abstract:
 - language: en
   script: Latn
   content: |-
-    This Standard defines the ECMAScript 2025 general-purpose programming language.
+    This Standard defines the ECMAScript 2026 general-purpose programming language.
     Kindly note that the normative copy is the HTML version; the PDF version has been produced to generate a printable document.
-    This 16th edition has been prepared under the Ecma RF patent policy.
+    This 17th edition has been prepared under the Ecma RF patent policy.
     Please note that for ECMAScript Edition 4 the Ecma standard number “ECMA-262 Edition 4” was reserved but not used in the Ecma publication process. Therefore “ECMA-262 Edition 4” as an Ecma International publication does not exist.
     The latest drafts are available at: https://tc39.es/ecma262/. Reporters should generally only file bugs if the bug is still present in the latest drafts.
     Please find hereafter the place to file bugs: https://github.com/tc39/ecma262#ecmascript.
@@ -291,6 +291,22 @@ relation:
       at: 2024-06
     edition:
       content: '15'
+- type: updates
+  bibitem:
+    formattedref:
+      content: ECMA-262
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-262_16th_edition_june_2025.pdf
+    docidentifier:
+    - content: ECMA-262
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2025-06
+    edition:
+      content: '16'
 place:
 - city: Geneva
 ext:

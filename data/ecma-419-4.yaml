@@ -8,14 +8,16 @@ title:
   content: ECMAScript® embedded systems API specification
 source:
 - type: src
-  content: https://419.ecma-international.org/3.0/index.html
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-419/
+- type: pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-419_4th_edition_june_2026.pdf
 docidentifier:
 - content: ECMA-419
   type: ECMA
   primary: true
 date:
 - type: published
-  at: 2025-06
+  at: 2026-06
 contributor:
 - role:
   - type: publisher
@@ -25,7 +27,7 @@ contributor:
       script: Latn
       content: Ecma International
 edition:
-  content: '3'
+  content: '4'
 language:
 - en
 script:

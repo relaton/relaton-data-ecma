@@ -5,12 +5,10 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ECMAScript® 2025 internationalization API specification
+  content: ECMAScript® 2026 internationalization API specification
 source:
 - type: src
-  content: https://ecma-international.org/publications-and-standards/standards/ecma-402/
-- type: pdf
-  content: https://ecma-international.org/wp-content/uploads/ECMA-402_12th_edition_june_2025.pdf
+  content: https://402.ecma-international.org/12.0/index.html
 docidentifier:
 - content: ECMA-402
   type: ECMA
@@ -217,6 +215,22 @@ relation:
       at: 2024-06
     edition:
       content: '11'
+- type: updates
+  bibitem:
+    formattedref:
+      content: ECMA-402
+    source:
+    - type: pdf
+      content: https://ecma-international.org/wp-content/uploads/ECMA-402_12th_edition_june_2025.pdf
+    docidentifier:
+    - content: ECMA-402
+      type: ECMA
+      primary: true
+    date:
+    - type: published
+      at: 2025-06
+    edition:
+      content: '12'
 place:
 - city: Geneva
 ext:

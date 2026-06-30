@@ -7,15 +7,17 @@ title:
   script: Latn
   content: ECMAScript® 2026 language specification
 source:
+- type: src
+  content: https://ecma-international.org/publications-and-standards/standards/ecma-262/
 - type: pdf
-  content: https://ecma-international.org/wp-content/uploads/ECMA-262_5th_edition_december_2009.pdf
+  content: https://ecma-international.org/wp-content/uploads/ECMA-262_17th_edition_june_2026.pdf
 docidentifier:
 - content: ECMA-262
   type: ECMA
   primary: true
 date:
 - type: published
-  at: 2009-12
+  at: 2026-06
 contributor:
 - role:
   - type: publisher
@@ -25,7 +27,7 @@ contributor:
       script: Latn
       content: Ecma International
 edition:
-  content: '5'
+  content: '17'
 language:
 - en
 script:
