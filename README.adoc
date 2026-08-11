@@ -5,3 +5,14 @@ This repository is used by Relaton-ECMA to represent known publications.
 Data is stored in Relaton YAML format.
 
 This repository contains a crawler script which runs daly. The script parses site https://www.ecma-international.org and store documents into the data directory.
+
+== Published index
+
+The `data/` directory is published as a browsable, crawler-indexable index at
+https://relaton.github.io/relaton-data-ecma/.
+
+`.github/workflows/deploy.yml` calls relaton/support's shared
+`data-deploy.yml`, which builds the page with `relaton index` (relaton-cli
+reads `data/` directly) and deploys it to GitHub Pages on every push to the
+default branch, and daily at 15:00 UTC. `index-v1.yaml`/`.zip` are not used by
+that build; they remain the index that `Relaton::Ecma` consumes.

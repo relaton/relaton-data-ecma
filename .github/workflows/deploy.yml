@@ -1,0 +1,39 @@
+name: Deploy
+
+on:
+  push:
+    # Include v2: this repo's default branch is v2 (many relaton-data-* repos
+    # moved). The reusable data-deploy.yml gates publication on the repo's
+    # actual default branch, so listing all three here is safe.
+    branches: [ master, main, v2 ]
+    tags: [ v* ]
+  schedule:
+  - cron: '0 15 * * *'   # an hour after crawler.yml's 14:00 UTC run
+  workflow_dispatch:
+
+jobs:
+  # No `title:` input below — the shared workflow derives "<FLAVOR> Index" from
+  # the repo name, giving "ECMA Index", which is what relaton/support's
+  # data-index config sets. Only pass `title:` if that derivation is ever wrong.
+  deploy:
+    uses: relaton/support/.github/workflows/data-deploy.yml@main
+    with:
+      # TEMPORARY PIN — remove this line once relaton-cli ships `index` as a gem.
+      #
+      # The shared workflow builds the Pages index with `relaton index`
+      # (relaton/relaton#83, relaton/support#58) and defaults to `source: gem`,
+      # i.e. `gem install relaton-cli`. No published relaton-cli has the `index`
+      # command yet: the latest stable is 2.1.2, and even the 3.0.0.pre.alpha.1
+      # prerelease predates it. The default mode therefore fails with
+      # `Could not find command "index"`.
+      #
+      # `source: git` instead builds relaton + relaton-cli from a GitHub
+      # checkout (and compiles the Vue frontend with Node). We pass no
+      # `relaton-repo`/`relaton-ref`, so it uses the shared workflow's defaults,
+      # relaton/relaton@main — note the daily cron then tracks a moving upstream.
+      source: git
+      # Branding from relaton/support's data-index/generated/ecma_config.yml
+      # (relaton#96 added --favicon/--description; relaton/support#59 forwards
+      # them as workflow inputs).
+      favicon: "https://www.relaton.org/favicon.ico"
+      description: "Welcome to the ECMA standards index site!"
