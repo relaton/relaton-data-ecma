@@ -1,0 +1,3966 @@
+---
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '100'
+    edition: '1'
+  :file: data/ecma-tr-100-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '100'
+    edition: '1'
+  :file: data/ecma-100-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '100'
+    edition: '2'
+  :file: data/ecma-100-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '101'
+    edition: '2'
+  :file: data/ecma-tr-101-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '102'
+    edition: '1'
+  :file: data/ecma-tr-102-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '103'
+    edition: '1'
+  :file: data/ecma-tr-103-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '104'
+    edition: '2'
+  :file: data/ecma-tr-104-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '105'
+    edition: '1'
+  :file: data/ecma-tr-105-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '106'
+    edition: '1'
+  :file: data/ecma-tr-106-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '106'
+    edition: '3'
+  :file: data/ecma-106-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '106'
+    edition: '1'
+  :file: data/ecma-106-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '106'
+    edition: '2'
+  :file: data/ecma-106-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '107'
+    edition: '1'
+  :file: data/ecma-107-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '107'
+    edition: '3'
+  :file: data/ecma-tr-107-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '107'
+    edition: '2'
+  :file: data/ecma-107-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '108'
+    edition: '5'
+  :file: data/ecma-108-5.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '108'
+    edition: '1'
+  :file: data/ecma-tr-108-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '108'
+    edition: '6'
+  :file: data/ecma-108-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '108'
+    edition: '1'
+  :file: data/ecma-108-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '108'
+    edition: '2'
+  :file: data/ecma-108-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '108'
+    edition: '3'
+  :file: data/ecma-108-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '108'
+    edition: '4'
+  :file: data/ecma-108-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '3'
+  :file: data/ecma-109-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '10'
+  :file: data/ecma-109-10.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '5'
+  :file: data/ecma-109-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '6'
+  :file: data/ecma-109-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '7'
+  :file: data/ecma-109-7.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '8'
+  :file: data/ecma-109-8.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '9'
+  :file: data/ecma-109-9.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '109'
+    edition: '1'
+  :file: data/ecma-tr-109-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '11'
+  :file: data/ecma-109-11.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '1'
+  :file: data/ecma-109-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '2'
+  :file: data/ecma-109-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '109'
+    edition: '4'
+  :file: data/ecma-109-4.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '110'
+    edition: '1'
+  :file: data/ecma-tr-110-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '111'
+    edition: '1'
+  :file: data/ecma-tr-111-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '112'
+    edition: '1'
+  :file: data/ecma-tr-112-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '113'
+    edition: '3'
+  :file: data/ecma-113-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '113'
+    edition: '2'
+  :file: data/ecma-113-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '113'
+    edition: '1'
+  :file: data/ecma-tr-113-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '113'
+    edition: '1'
+  :file: data/ecma-113-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '114'
+    edition: '2'
+  :file: data/ecma-114-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '114'
+    edition: '1'
+  :file: data/ecma-114-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '114'
+    edition: '1'
+  :file: data/ecma-tr-114-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '118'
+    edition: '1'
+  :file: data/ecma-118-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '119'
+    edition: '5'
+  :file: data/ecma-119-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '119'
+    edition: '4'
+  :file: data/ecma-119-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '119'
+    edition: '3'
+  :file: data/ecma-119-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '119'
+    edition: '2'
+  :file: data/ecma-119-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '119'
+    edition: '1'
+  :file: data/ecma-119-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '119'
+    edition: '6'
+  :file: data/ecma-119-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '120'
+    edition: '3'
+  :file: data/ecma-120-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '120'
+    edition: '2'
+  :file: data/ecma-120-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '120'
+    edition: '1'
+  :file: data/ecma-120-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '121'
+    edition: '2'
+  :file: data/ecma-121-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '121'
+    edition: '1'
+  :file: data/ecma-121-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '125'
+    edition: '1'
+  :file: data/ecma-125-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '128'
+    edition: '1'
+  :file: data/ecma-128-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '128'
+    edition: '2'
+  :file: data/ecma-128-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '13'
+    edition: '2'
+  :file: data/ecma-13-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '13'
+    edition: '4'
+  :file: data/ecma-13-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '13'
+    edition: '1'
+  :file: data/ecma-13-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '13'
+    edition: '3'
+  :file: data/ecma-13-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '130'
+    edition: '1'
+  :file: data/ecma-130-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '130'
+    edition: '2'
+  :file: data/ecma-130-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '133'
+    edition: '2'
+  :file: data/ecma-133-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '133'
+    edition: '1'
+  :file: data/ecma-133-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '139'
+    edition: '1'
+  :file: data/ecma-139-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '142'
+    edition: '2'
+  :file: data/ecma-142-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '142'
+    edition: '1'
+  :file: data/ecma-142-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '142'
+    edition: '3'
+  :file: data/ecma-142-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '143'
+    edition: '2'
+  :file: data/ecma-143-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '143'
+    edition: '3'
+  :file: data/ecma-143-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '143'
+    edition: '4'
+  :file: data/ecma-143-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '144'
+    edition: '2'
+  :file: data/ecma-144-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '144'
+    edition: '1'
+  :file: data/ecma-144-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '144'
+    edition: '3'
+  :file: data/ecma-144-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '145'
+    edition: '1'
+  :file: data/ecma-145-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '146'
+    edition: '1'
+  :file: data/ecma-146-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '147'
+    edition: '1'
+  :file: data/ecma-147-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '148'
+    edition: '2'
+  :file: data/ecma-148-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '148'
+    edition: '1'
+  :file: data/ecma-148-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '148'
+    edition: '3'
+  :file: data/ecma-148-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '149'
+    edition: '4'
+  :file: data/ecma-149-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '150'
+    edition: '1'
+  :file: data/ecma-150-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '150'
+    edition: '2'
+  :file: data/ecma-150-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '151'
+    edition: '1'
+  :file: data/ecma-151-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '152'
+    edition: '1'
+  :file: data/ecma-152-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '152'
+    edition: '2'
+  :file: data/ecma-152-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '153'
+    edition: '1'
+  :file: data/ecma-153-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '153'
+    edition: '2'
+  :file: data/ecma-153-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '154'
+    edition: '1'
+  :file: data/ecma-154-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '154'
+    edition: '2'
+  :file: data/ecma-154-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '155'
+    edition: '1'
+  :file: data/ecma-155-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '155'
+    edition: '2'
+  :file: data/ecma-155-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '156'
+    edition: '1'
+  :file: data/ecma-156-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '156'
+    edition: '2'
+  :file: data/ecma-156-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '157'
+    edition: '1'
+  :file: data/ecma-157-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '157'
+    edition: '2'
+  :file: data/ecma-157-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '158'
+    edition: '2'
+  :file: data/ecma-158-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '158'
+    edition: '1'
+  :file: data/ecma-158-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '158'
+    edition: '4'
+  :file: data/ecma-158-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '158'
+    edition: '3'
+  :file: data/ecma-158-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '159'
+    edition: '1'
+  :file: data/ecma-159-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '160'
+    edition: '1'
+  :file: data/ecma-160-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '160'
+    edition: '2'
+  :file: data/ecma-160-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '161'
+    edition: '1'
+  :file: data/ecma-161-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '161'
+    edition: '2'
+  :file: data/ecma-161-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '162'
+    edition: '4'
+  :file: data/ecma-162-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '162'
+    edition: '3'
+  :file: data/ecma-162-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '162'
+    edition: '2'
+  :file: data/ecma-162-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '162'
+    edition: '1'
+  :file: data/ecma-162-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '163'
+    edition: '2'
+  :file: data/ecma-163-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '163'
+    edition: '1'
+  :file: data/ecma-163-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '163'
+    edition: '3'
+  :file: data/ecma-163-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '164'
+    edition: '3'
+  :file: data/ecma-164-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '164'
+    edition: '2'
+  :file: data/ecma-164-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '164'
+    edition: '1'
+  :file: data/ecma-164-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '164'
+    edition: '4'
+  :file: data/ecma-164-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '165'
+    edition: '3'
+  :file: data/ecma-165-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '165'
+    edition: '2'
+  :file: data/ecma-165-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '165'
+    edition: '1'
+  :file: data/ecma-165-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '165'
+    edition: '4'
+  :file: data/ecma-165-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '167'
+    edition: '2'
+  :file: data/ecma-167-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '167'
+    edition: '1'
+  :file: data/ecma-167-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '167'
+    edition: '3'
+  :file: data/ecma-167-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '168'
+    edition: '1'
+  :file: data/ecma-168-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '168'
+    edition: '2'
+  :file: data/ecma-168-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '169'
+    edition: '1'
+  :file: data/ecma-169-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '170'
+    edition: '1'
+  :file: data/ecma-170-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '171'
+    edition: '1'
+  :file: data/ecma-171-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '173'
+    edition: '2'
+  :file: data/ecma-173-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '173'
+    edition: '1'
+  :file: data/ecma-173-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '173'
+    edition: '3'
+  :file: data/ecma-173-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '174'
+    edition: '3'
+  :file: data/ecma-174-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '174'
+    edition: '2'
+  :file: data/ecma-174-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '174'
+    edition: '1'
+  :file: data/ecma-174-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '175'
+    edition: '1'
+  :file: data/ecma-175-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '175'
+    edition: '2'
+  :file: data/ecma-175-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '175'
+    edition: '3'
+  :file: data/ecma-175-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '176'
+    edition: '2'
+  :file: data/ecma-176-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '176'
+    edition: '3'
+  :file: data/ecma-176-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '176'
+    edition: '4'
+  :file: data/ecma-176-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '176'
+    edition: '1'
+  :file: data/ecma-176-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '177'
+    edition: '1'
+  :file: data/ecma-177-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '177'
+    edition: '2'
+  :file: data/ecma-177-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '177'
+    edition: '3'
+  :file: data/ecma-177-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '178'
+    edition: '2'
+  :file: data/ecma-178-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '178'
+    edition: '1'
+  :file: data/ecma-178-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '178'
+    edition: '3'
+  :file: data/ecma-178-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '179'
+    edition: '1'
+  :file: data/ecma-179-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '18'
+    edition: '1'
+  :file: data/ecma-tr-18-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '180'
+    edition: '1'
+  :file: data/ecma-180-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '182'
+    edition: '1'
+  :file: data/ecma-182-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '183'
+    edition: '1'
+  :file: data/ecma-183-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '184'
+    edition: '1'
+  :file: data/ecma-184-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '185'
+    edition: '2'
+  :file: data/ecma-185-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '185'
+    edition: '1'
+  :file: data/ecma-185-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '186'
+    edition: '2'
+  :file: data/ecma-186-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '186'
+    edition: '3'
+  :file: data/ecma-186-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '186'
+    edition: '4'
+  :file: data/ecma-186-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '186'
+    edition: '1'
+  :file: data/ecma-186-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '189'
+    edition: '1'
+  :file: data/ecma-189-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '190'
+    edition: '1'
+  :file: data/ecma-190-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '191'
+    edition: '2'
+  :file: data/ecma-191-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '191'
+    edition: '1'
+  :file: data/ecma-191-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '192'
+    edition: '2'
+  :file: data/ecma-192-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '192'
+    edition: '3'
+  :file: data/ecma-192-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '192'
+    edition: '1'
+  :file: data/ecma-192-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '192'
+    edition: '4'
+  :file: data/ecma-192-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '193'
+    edition: '1'
+  :file: data/ecma-193-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '193'
+    edition: '2'
+  :file: data/ecma-193-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '194'
+    edition: '2'
+  :file: data/ecma-194-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '194'
+    edition: '4'
+  :file: data/ecma-194-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '194'
+    edition: '1'
+  :file: data/ecma-194-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '194'
+    edition: '3'
+  :file: data/ecma-194-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '195'
+    edition: '1'
+  :file: data/ecma-195-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '195'
+    edition: '2'
+  :file: data/ecma-195-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '196'
+    edition: '1'
+  :file: data/ecma-196-1.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1962'
+  :file: data/ecma-mem-1962.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1964'
+  :file: data/ecma-mem-1964.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1965'
+  :file: data/ecma-mem-1965.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1966'
+  :file: data/ecma-mem-1966.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1967'
+  :file: data/ecma-mem-1967.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1968'
+  :file: data/ecma-mem-1968.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1969'
+  :file: data/ecma-mem-1969.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '197'
+    edition: '1'
+  :file: data/ecma-197-1.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1970'
+  :file: data/ecma-mem-1970.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1971'
+  :file: data/ecma-mem-1971.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1972'
+  :file: data/ecma-mem-1972.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1973'
+  :file: data/ecma-mem-1973.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1974'
+  :file: data/ecma-mem-1974.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1975'
+  :file: data/ecma-mem-1975.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1976'
+  :file: data/ecma-mem-1976.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1977'
+  :file: data/ecma-mem-1977.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1978'
+  :file: data/ecma-mem-1978.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1979'
+  :file: data/ecma-mem-1979.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '198'
+    edition: '2'
+  :file: data/ecma-198-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '198'
+    edition: '1'
+  :file: data/ecma-198-1.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1980'
+  :file: data/ecma-mem-1980.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1981'
+  :file: data/ecma-mem-1981.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1982'
+  :file: data/ecma-mem-1982.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1983'
+  :file: data/ecma-mem-1983.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1984'
+  :file: data/ecma-mem-1984.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1985'
+  :file: data/ecma-mem-1985.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1986'
+  :file: data/ecma-mem-1986.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1987'
+  :file: data/ecma-mem-1987.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1988'
+  :file: data/ecma-mem-1988.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1989'
+  :file: data/ecma-mem-1989.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1990'
+  :file: data/ecma-mem-1990.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1991'
+  :file: data/ecma-mem-1991.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1992'
+  :file: data/ecma-mem-1992.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1993'
+  :file: data/ecma-mem-1993.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1994'
+  :file: data/ecma-mem-1994.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1995'
+  :file: data/ecma-mem-1995.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1996'
+  :file: data/ecma-mem-1996.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1997'
+  :file: data/ecma-mem-1997.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1998'
+  :file: data/ecma-mem-1998.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '1999'
+  :file: data/ecma-mem-1999.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2000'
+  :file: data/ecma-mem-2000.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2001'
+  :file: data/ecma-mem-2001.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2002'
+  :file: data/ecma-mem-2002.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2003'
+  :file: data/ecma-mem-2003.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2004'
+  :file: data/ecma-mem-2004.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2005'
+  :file: data/ecma-mem-2005.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2006'
+  :file: data/ecma-mem-2006.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2007'
+  :file: data/ecma-mem-2007.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2008'
+  :file: data/ecma-mem-2008.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2009'
+  :file: data/ecma-mem-2009.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '201'
+    edition: '2'
+  :file: data/ecma-201-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '201'
+    edition: '1'
+  :file: data/ecma-201-1.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2010'
+  :file: data/ecma-mem-2010.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2011'
+  :file: data/ecma-mem-2011.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2012'
+  :file: data/ecma-mem-2012.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2013'
+  :file: data/ecma-mem-2013.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2014'
+  :file: data/ecma-mem-2014.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2015'
+  :file: data/ecma-mem-2015.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2016'
+  :file: data/ecma-mem-2016.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2017'
+  :file: data/ecma-mem-2017.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2018'
+  :file: data/ecma-mem-2018.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2019'
+  :file: data/ecma-mem-2019.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '202'
+    edition: '1'
+  :file: data/ecma-202-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '202'
+    edition: '2'
+  :file: data/ecma-202-2.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2020'
+  :file: data/ecma-mem-2020.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2021'
+  :file: data/ecma-mem-2021.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2022'
+  :file: data/ecma-mem-2022.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2023'
+  :file: data/ecma-mem-2023.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2024'
+  :file: data/ecma-mem-2024.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2025'
+  :file: data/ecma-mem-2025.yaml
+- :id:
+    _type: pubid:ecma:memento
+    number: '2026'
+  :file: data/ecma-mem-2026.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '203'
+    edition: '3'
+  :file: data/ecma-203-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '203'
+    edition: '2'
+  :file: data/ecma-203-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '203'
+    edition: '1'
+  :file: data/ecma-203-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '203'
+    edition: '4'
+  :file: data/ecma-203-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '205'
+    edition: '1'
+  :file: data/ecma-205-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '206'
+    edition: '1'
+  :file: data/ecma-206-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '207'
+    edition: '1'
+  :file: data/ecma-207-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '208'
+    edition: '1'
+  :file: data/ecma-208-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '209'
+    edition: '1'
+  :file: data/ecma-209-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '210'
+    edition: '1'
+  :file: data/ecma-210-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '210'
+    edition: '2'
+  :file: data/ecma-210-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '211'
+    edition: '1'
+  :file: data/ecma-211-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '211'
+    edition: '2'
+  :file: data/ecma-211-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '211'
+    edition: '3'
+  :file: data/ecma-211-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '212'
+    edition: '1'
+  :file: data/ecma-212-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '212'
+    edition: '2'
+  :file: data/ecma-212-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '212'
+    edition: '3'
+  :file: data/ecma-212-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '213'
+    edition: '1'
+  :file: data/ecma-213-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '213'
+    edition: '3'
+  :file: data/ecma-213-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '213'
+    edition: '2'
+  :file: data/ecma-213-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '214'
+    edition: '2'
+  :file: data/ecma-214-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '214'
+    edition: '1'
+  :file: data/ecma-214-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '214'
+    edition: '3'
+  :file: data/ecma-214-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '217'
+    edition: '1'
+  :file: data/ecma-217-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '218'
+    edition: '1'
+  :file: data/ecma-218-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '219'
+    edition: '1'
+  :file: data/ecma-219-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '219'
+    edition: '2'
+  :file: data/ecma-219-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '220'
+    edition: '3'
+  :file: data/ecma-220-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '220'
+    edition: '2'
+  :file: data/ecma-220-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '220'
+    edition: '1'
+  :file: data/ecma-220-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '221'
+    edition: '1'
+  :file: data/ecma-221-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '221'
+    edition: '2'
+  :file: data/ecma-221-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '221'
+    edition: '3'
+  :file: data/ecma-221-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '222'
+    edition: '1'
+  :file: data/ecma-222-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '223'
+    edition: '1'
+  :file: data/ecma-223-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '224'
+    edition: '1'
+  :file: data/ecma-224-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '224'
+    edition: '2'
+  :file: data/ecma-224-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '225'
+    edition: '2'
+  :file: data/ecma-225-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '225'
+    edition: '1'
+  :file: data/ecma-225-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '226'
+    edition: '1'
+  :file: data/ecma-226-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '230'
+    edition: '1'
+  :file: data/ecma-230-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '230'
+    edition: '2'
+  :file: data/ecma-230-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '231'
+    edition: '1'
+  :file: data/ecma-231-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '232'
+    edition: '1'
+  :file: data/ecma-232-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '234'
+    edition: '1'
+  :file: data/ecma-234-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '235'
+    edition: '1'
+  :file: data/ecma-235-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '236'
+    edition: '1'
+  :file: data/ecma-236-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '238'
+    edition: '1'
+  :file: data/ecma-238-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '239'
+    edition: '1'
+  :file: data/ecma-239-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '240'
+    edition: '1'
+  :file: data/ecma-240-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '241'
+    edition: '1'
+  :file: data/ecma-241-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '241'
+    edition: '3'
+  :file: data/ecma-241-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '241'
+    edition: '2'
+  :file: data/ecma-241-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '241'
+    edition: '4'
+  :file: data/ecma-241-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '242'
+    edition: '1'
+  :file: data/ecma-242-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '242'
+    edition: '3'
+  :file: data/ecma-242-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '242'
+    edition: '2'
+  :file: data/ecma-242-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '242'
+    edition: '4'
+  :file: data/ecma-242-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '244'
+    edition: '1'
+  :file: data/ecma-244-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '244'
+    edition: '2'
+  :file: data/ecma-244-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '245'
+    edition: '2'
+  :file: data/ecma-245-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '245'
+    edition: '1'
+  :file: data/ecma-245-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '246'
+    edition: '1'
+  :file: data/ecma-246-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '246'
+    edition: '2'
+  :file: data/ecma-246-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '247'
+    edition: '1'
+  :file: data/ecma-247-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '247'
+    edition: '2'
+  :file: data/ecma-247-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '248'
+    edition: '1'
+  :file: data/ecma-248-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '248'
+    edition: '2'
+  :file: data/ecma-248-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '249'
+    edition: '2'
+  :file: data/ecma-249-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '249'
+    edition: '1'
+  :file: data/ecma-249-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '250'
+    edition: '1'
+  :file: data/ecma-250-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '250'
+    edition: '2'
+  :file: data/ecma-250-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '251'
+    edition: '2'
+  :file: data/ecma-251-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '251'
+    edition: '3'
+  :file: data/ecma-251-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '251'
+    edition: '1'
+  :file: data/ecma-251-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '252'
+    edition: '1'
+  :file: data/ecma-252-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '253'
+    edition: '2'
+  :file: data/ecma-253-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '253'
+    edition: '1'
+  :file: data/ecma-253-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '254'
+    edition: '2'
+  :file: data/ecma-254-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '254'
+    edition: '1'
+  :file: data/ecma-254-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '258'
+    edition: '1'
+  :file: data/ecma-258-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '259'
+    edition: '1'
+  :file: data/ecma-259-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '260'
+    edition: '1'
+  :file: data/ecma-260-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '261'
+    edition: '1'
+  :file: data/ecma-261-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '1'
+  :file: data/ecma-262-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '17'
+  :file: data/ecma-262-17.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '5.1'
+  :file: data/ecma-262-5-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '6'
+  :file: data/ecma-262-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '7'
+  :file: data/ecma-262-7.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '8'
+  :file: data/ecma-262-8.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '9'
+  :file: data/ecma-262-9.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '10'
+  :file: data/ecma-262-10.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '11'
+  :file: data/ecma-262-11.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '12'
+  :file: data/ecma-262-12.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '13'
+  :file: data/ecma-262-13.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '14'
+  :file: data/ecma-262-14.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '15'
+  :file: data/ecma-262-15.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '16'
+  :file: data/ecma-262-16.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '2'
+  :file: data/ecma-262-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '3'
+  :file: data/ecma-262-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '4'
+  :file: data/ecma-262-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '262'
+    edition: '5'
+  :file: data/ecma-262-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '263'
+    edition: '3'
+  :file: data/ecma-263-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '263'
+    edition: '2'
+  :file: data/ecma-263-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '263'
+    edition: '1'
+  :file: data/ecma-263-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '264'
+    edition: '3'
+  :file: data/ecma-264-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '264'
+    edition: '1'
+  :file: data/ecma-264-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '264'
+    edition: '2'
+  :file: data/ecma-264-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '265'
+    edition: '1'
+  :file: data/ecma-265-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '266'
+    edition: '1'
+  :file: data/ecma-266-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '267'
+    edition: '2'
+  :file: data/ecma-267-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '267'
+    edition: '1'
+  :file: data/ecma-267-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '267'
+    edition: '3'
+  :file: data/ecma-267-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '268'
+    edition: '2'
+  :file: data/ecma-268-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '268'
+    edition: '3'
+  :file: data/ecma-268-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '268'
+    edition: '1'
+  :file: data/ecma-268-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '4'
+  :file: data/ecma-269-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '8'
+  :file: data/ecma-269-8.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '7'
+  :file: data/ecma-269-7.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '6'
+  :file: data/ecma-269-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '9'
+  :file: data/ecma-269-9.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '1'
+  :file: data/ecma-269-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '2'
+  :file: data/ecma-269-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '3'
+    volume: '1'
+  :file: data/ecma-269-3-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '3'
+    volume: '2'
+  :file: data/ecma-269-3-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '3'
+    volume: '3'
+  :file: data/ecma-269-3-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '3'
+    volume: '4'
+  :file: data/ecma-269-3-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '269'
+    edition: '5'
+  :file: data/ecma-269-5.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '27'
+    edition: '2'
+  :file: data/ecma-tr-27-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '270'
+    edition: '1'
+  :file: data/ecma-270-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '271'
+    edition: '1'
+  :file: data/ecma-271-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '271'
+    edition: '2'
+  :file: data/ecma-271-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '272'
+    edition: '1'
+  :file: data/ecma-272-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '272'
+    edition: '2'
+  :file: data/ecma-272-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '273'
+    edition: '1'
+  :file: data/ecma-273-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '274'
+    edition: '2'
+  :file: data/ecma-274-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '274'
+    edition: '1'
+  :file: data/ecma-274-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '275'
+    edition: '3'
+  :file: data/ecma-275-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '275'
+    edition: '1'
+  :file: data/ecma-275-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '275'
+    edition: '5'
+  :file: data/ecma-275-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '275'
+    edition: '2'
+  :file: data/ecma-275-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '276'
+    edition: '1'
+  :file: data/ecma-276-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '277'
+    edition: '1'
+  :file: data/ecma-277-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '278'
+    edition: '1'
+  :file: data/ecma-278-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '278'
+    edition: '2'
+  :file: data/ecma-278-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '279'
+    edition: '1'
+  :file: data/ecma-279-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '280'
+    edition: '1'
+  :file: data/ecma-280-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '281'
+    edition: '1'
+  :file: data/ecma-281-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '281'
+    edition: '2'
+  :file: data/ecma-281-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '281'
+    edition: '3'
+  :file: data/ecma-281-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '282'
+    edition: '2'
+  :file: data/ecma-282-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '282'
+    edition: '3'
+  :file: data/ecma-282-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '282'
+    edition: '1'
+  :file: data/ecma-282-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '283'
+    edition: '2'
+  :file: data/ecma-283-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '283'
+    edition: '1'
+  :file: data/ecma-283-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '284'
+    edition: '1'
+  :file: data/ecma-284-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '284'
+    edition: '3'
+  :file: data/ecma-284-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '284'
+    edition: '2'
+  :file: data/ecma-284-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '285'
+    edition: '3'
+  :file: data/ecma-285-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '285'
+    edition: '2'
+  :file: data/ecma-285-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '285'
+    edition: '1'
+  :file: data/ecma-285-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '285'
+    edition: '4'
+  :file: data/ecma-285-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '286'
+    edition: '2'
+  :file: data/ecma-286-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '286'
+    edition: '1'
+  :file: data/ecma-286-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '287'
+    edition: '1'
+  :file: data/ecma-287-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '287'
+    edition: '2'
+  :file: data/ecma-287-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '288'
+    edition: '1'
+  :file: data/ecma-288-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '289'
+    edition: '1'
+  :file: data/ecma-289-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '289'
+    edition: '2'
+  :file: data/ecma-289-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '291'
+    edition: '1'
+  :file: data/ecma-291-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '292'
+    edition: '1'
+  :file: data/ecma-292-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '293'
+    edition: '1'
+  :file: data/ecma-293-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '294'
+    edition: '1'
+  :file: data/ecma-294-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '295'
+    edition: '1'
+  :file: data/ecma-295-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '296'
+    edition: '1'
+  :file: data/ecma-296-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '297'
+    edition: '1'
+  :file: data/ecma-297-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '298'
+    edition: '1'
+  :file: data/ecma-298-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '299'
+    edition: '1'
+  :file: data/ecma-299-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '299'
+    edition: '2'
+  :file: data/ecma-299-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '300'
+    edition: '1'
+  :file: data/ecma-300-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '300'
+    edition: '2'
+  :file: data/ecma-300-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '301'
+    edition: '1'
+  :file: data/ecma-301-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '302'
+    edition: '1'
+  :file: data/ecma-302-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '302'
+    edition: '2'
+  :file: data/ecma-302-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '303'
+    edition: '1'
+  :file: data/ecma-303-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '304'
+    edition: '1'
+  :file: data/ecma-304-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '304'
+    edition: '2'
+  :file: data/ecma-304-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '305'
+    edition: '1'
+  :file: data/ecma-305-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '306'
+    edition: '1'
+  :file: data/ecma-306-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '306'
+    edition: '2'
+  :file: data/ecma-306-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '307'
+    edition: '1'
+  :file: data/ecma-307-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '308'
+    edition: '2'
+  :file: data/ecma-308-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '308'
+    edition: '1'
+  :file: data/ecma-308-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '309'
+    edition: '1'
+  :file: data/ecma-309-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '309'
+    edition: '2'
+  :file: data/ecma-309-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '310'
+    edition: '1'
+  :file: data/ecma-310-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '311'
+    edition: '2'
+  :file: data/ecma-311-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '311'
+    edition: '1'
+  :file: data/ecma-311-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '312'
+    edition: '3'
+  :file: data/ecma-312-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '312'
+    edition: '2'
+  :file: data/ecma-312-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '312'
+    edition: '1'
+  :file: data/ecma-312-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '313'
+    edition: '1'
+  :file: data/ecma-313-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '314'
+    edition: '1'
+  :file: data/ecma-314-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '314'
+    edition: '2'
+  :file: data/ecma-314-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '315'
+    edition: '1'
+  :file: data/ecma-315-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '316'
+    edition: '2'
+  :file: data/ecma-316-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '316'
+    edition: '1'
+  :file: data/ecma-316-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '317'
+    edition: '1'
+  :file: data/ecma-317-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '318'
+    edition: '1'
+  :file: data/ecma-318-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '319'
+    edition: '1'
+  :file: data/ecma-319-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '320'
+    edition: '1'
+  :file: data/ecma-320-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '321'
+    edition: '1'
+  :file: data/ecma-321-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '322'
+    edition: '1'
+  :file: data/ecma-322-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '323'
+    edition: '4'
+  :file: data/ecma-323-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '323'
+    edition: '5'
+  :file: data/ecma-323-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '323'
+    edition: '3'
+  :file: data/ecma-323-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '323'
+    edition: '2'
+  :file: data/ecma-323-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '323'
+    edition: '1'
+  :file: data/ecma-323-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '323'
+    edition: '6'
+  :file: data/ecma-323-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '324'
+    edition: '1'
+  :file: data/ecma-324-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '325'
+    edition: '1'
+  :file: data/ecma-325-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '326'
+    edition: '1'
+  :file: data/ecma-326-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '328'
+    edition: '10'
+  :file: data/ecma-328-10.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '328'
+    edition: '7'
+  :file: data/ecma-328-7.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '328'
+    edition: '6'
+  :file: data/ecma-328-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '328'
+    edition: '5'
+  :file: data/ecma-328-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '328'
+    edition: '4'
+  :file: data/ecma-328-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '328'
+    edition: '3'
+  :file: data/ecma-328-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '328'
+    edition: '2'
+  :file: data/ecma-328-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '328'
+    edition: '1'
+  :file: data/ecma-328-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '329'
+    edition: '1'
+  :file: data/ecma-329-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '330'
+    edition: '2'
+  :file: data/ecma-330-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '330'
+    edition: '1'
+  :file: data/ecma-330-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '330'
+    edition: '3'
+  :file: data/ecma-330-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '331'
+    edition: '1'
+  :file: data/ecma-331-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '331'
+    edition: '2'
+  :file: data/ecma-331-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '332'
+    edition: '1'
+  :file: data/ecma-332-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '333'
+    edition: '1'
+  :file: data/ecma-333-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '333'
+    edition: '2'
+  :file: data/ecma-333-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '334'
+    edition: '4'
+  :file: data/ecma-334-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '334'
+    edition: '6'
+  :file: data/ecma-334-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '334'
+    edition: '5'
+  :file: data/ecma-334-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '334'
+    edition: '3'
+  :file: data/ecma-334-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '334'
+    edition: '2'
+  :file: data/ecma-334-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '334'
+    edition: '1'
+  :file: data/ecma-334-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '334'
+    edition: '7'
+  :file: data/ecma-334-7.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '335'
+    edition: '5'
+  :file: data/ecma-335-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '335'
+    edition: '4'
+  :file: data/ecma-335-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '335'
+    edition: '3'
+  :file: data/ecma-335-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '335'
+    edition: '2'
+  :file: data/ecma-335-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '335'
+    edition: '1'
+  :file: data/ecma-335-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '335'
+    edition: '6'
+  :file: data/ecma-335-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '336'
+    edition: '1'
+  :file: data/ecma-336-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '337'
+    edition: '3'
+  :file: data/ecma-337-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '337'
+    edition: '2'
+  :file: data/ecma-337-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '337'
+    edition: '1'
+  :file: data/ecma-337-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '337'
+    edition: '4'
+  :file: data/ecma-337-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '338'
+    edition: '1'
+  :file: data/ecma-338-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '339'
+    edition: '1'
+  :file: data/ecma-339-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '339'
+    edition: '2'
+  :file: data/ecma-339-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '340'
+    edition: '3'
+  :file: data/ecma-340-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '340'
+    edition: '2'
+  :file: data/ecma-340-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '340'
+    edition: '1'
+  :file: data/ecma-340-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '340'
+    edition: '4'
+  :file: data/ecma-340-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '341'
+    edition: '3'
+  :file: data/ecma-341-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '341'
+    edition: '2'
+  :file: data/ecma-341-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '341'
+    edition: '1'
+  :file: data/ecma-341-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '341'
+    edition: '4'
+  :file: data/ecma-341-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '342'
+    edition: '1'
+  :file: data/ecma-342-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '343'
+    edition: '1'
+  :file: data/ecma-343-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '344'
+    edition: '1'
+  :file: data/ecma-344-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '345'
+    edition: '1'
+  :file: data/ecma-345-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '346'
+    edition: '1'
+  :file: data/ecma-346-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '347'
+    edition: '1'
+  :file: data/ecma-347-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '348'
+    edition: '4'
+  :file: data/ecma-348-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '348'
+    edition: '3'
+  :file: data/ecma-348-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '348'
+    edition: '2'
+  :file: data/ecma-348-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '348'
+    edition: '1'
+  :file: data/ecma-348-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '348'
+    edition: '5'
+  :file: data/ecma-348-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '349'
+    edition: '3'
+  :file: data/ecma-349-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '349'
+    edition: '2'
+  :file: data/ecma-349-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '349'
+    edition: '1'
+  :file: data/ecma-349-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '349'
+    edition: '4'
+  :file: data/ecma-349-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '35'
+    edition: '6'
+  :file: data/ecma-35-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '35'
+    edition: '5'
+  :file: data/ecma-35-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '35'
+    edition: '1'
+  :file: data/ecma-35-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '35'
+    edition: '2'
+  :file: data/ecma-35-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '35'
+    edition: '3'
+  :file: data/ecma-35-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '35'
+    edition: '4'
+  :file: data/ecma-35-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '350'
+    edition: '1'
+  :file: data/ecma-350-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '350'
+    edition: '3'
+  :file: data/ecma-350-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '350'
+    edition: '2'
+  :file: data/ecma-350-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '351'
+    edition: '1'
+  :file: data/ecma-351-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '352'
+    edition: '4'
+  :file: data/ecma-352-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '352'
+    edition: '3'
+  :file: data/ecma-352-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '352'
+    edition: '2'
+  :file: data/ecma-352-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '352'
+    edition: '1'
+  :file: data/ecma-352-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '353'
+    edition: '1'
+  :file: data/ecma-353-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '354'
+    edition: '1'
+  :file: data/ecma-354-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '355'
+    edition: '2'
+  :file: data/ecma-355-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '355'
+    edition: '1'
+  :file: data/ecma-355-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '355'
+    edition: '3'
+  :file: data/ecma-355-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '356'
+    edition: '1'
+  :file: data/ecma-356-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '356'
+    edition: '2'
+  :file: data/ecma-356-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '358'
+    edition: '1'
+  :file: data/ecma-358-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '359'
+    edition: '1'
+  :file: data/ecma-359-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '36'
+    edition: '1'
+  :file: data/ecma-tr-36-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '360'
+    edition: '1'
+  :file: data/ecma-360-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '361'
+    edition: '1'
+  :file: data/ecma-361-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '362'
+    edition: '2'
+  :file: data/ecma-362-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '362'
+    edition: '3'
+  :file: data/ecma-362-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '362'
+    edition: '1'
+  :file: data/ecma-362-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '363'
+    edition: '4'
+  :file: data/ecma-363-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '363'
+    edition: '1'
+  :file: data/ecma-363-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '363'
+    edition: '2'
+  :file: data/ecma-363-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '363'
+    edition: '3'
+  :file: data/ecma-363-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '364'
+    edition: '2'
+  :file: data/ecma-364-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '364'
+    edition: '1'
+  :file: data/ecma-364-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '364'
+    edition: '3'
+  :file: data/ecma-364-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '365'
+    edition: '1'
+  :file: data/ecma-365-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '366'
+    edition: '2'
+  :file: data/ecma-366-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '366'
+    edition: '3'
+  :file: data/ecma-366-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '366'
+    edition: '1'
+  :file: data/ecma-366-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '367'
+    edition: '1'
+  :file: data/ecma-367-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '367'
+    edition: '2'
+  :file: data/ecma-367-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '368'
+    edition: '1'
+  :file: data/ecma-368-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '368'
+    edition: '3'
+  :file: data/ecma-368-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '368'
+    edition: '2'
+  :file: data/ecma-368-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '369'
+    edition: '2'
+  :file: data/ecma-369-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '369'
+    edition: '3'
+  :file: data/ecma-369-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '369'
+    edition: '1'
+  :file: data/ecma-369-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '370'
+    edition: '2'
+  :file: data/ecma-370-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '370'
+    edition: '1'
+  :file: data/ecma-370-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '370'
+    edition: '7'
+  :file: data/ecma-370-7.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '370'
+    edition: '6'
+  :file: data/ecma-370-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '370'
+    edition: '5'
+  :file: data/ecma-370-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '370'
+    edition: '4'
+  :file: data/ecma-370-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '370'
+    edition: '3'
+  :file: data/ecma-370-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '371'
+    edition: '1'
+  :file: data/ecma-371-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '371'
+    edition: '2'
+  :file: data/ecma-371-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '372'
+    edition: '1'
+  :file: data/ecma-372-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '373'
+    edition: '2'
+  :file: data/ecma-373-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '373'
+    edition: '1'
+  :file: data/ecma-373-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '374'
+    edition: '1'
+  :file: data/ecma-374-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '374'
+    edition: '2'
+  :file: data/ecma-374-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '375'
+    edition: '1'
+  :file: data/ecma-375-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '376'
+    edition: '3'
+  :file: data/ecma-376-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '376'
+    edition: '2'
+  :file: data/ecma-376-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '376'
+    edition: '1'
+  :file: data/ecma-376-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '376'
+    edition: '5'
+  :file: data/ecma-376-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '376'
+    edition: '4'
+  :file: data/ecma-376-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '377'
+    edition: '1'
+  :file: data/ecma-377-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '378'
+    edition: '1'
+  :file: data/ecma-378-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '379'
+    edition: '3'
+  :file: data/ecma-379-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '379'
+    edition: '1'
+  :file: data/ecma-379-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '379'
+    edition: '2'
+  :file: data/ecma-379-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '380'
+    edition: '1'
+  :file: data/ecma-380-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '381'
+    edition: '1'
+  :file: data/ecma-381-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '382'
+    edition: '1'
+  :file: data/ecma-382-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '382'
+    edition: '2'
+  :file: data/ecma-382-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '383'
+    edition: '2'
+  :file: data/ecma-383-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '383'
+    edition: '1'
+  :file: data/ecma-383-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '383'
+    edition: '3'
+  :file: data/ecma-383-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '384'
+    edition: '1'
+  :file: data/ecma-384-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '385'
+    edition: '4'
+  :file: data/ecma-385-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '385'
+    edition: '1'
+  :file: data/ecma-385-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '385'
+    edition: '2'
+  :file: data/ecma-385-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '385'
+    edition: '3'
+  :file: data/ecma-385-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '386'
+    edition: '1'
+  :file: data/ecma-386-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '386'
+    edition: '3'
+  :file: data/ecma-386-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '386'
+    edition: '2'
+  :file: data/ecma-386-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '387'
+    edition: '2'
+  :file: data/ecma-387-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '387'
+    edition: '1'
+  :file: data/ecma-387-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '388'
+    edition: '1'
+  :file: data/ecma-388-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '389'
+    edition: '1'
+  :file: data/ecma-389-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '390'
+    edition: '1'
+  :file: data/ecma-390-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '390'
+    edition: '2'
+  :file: data/ecma-390-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '391'
+    edition: '1'
+  :file: data/ecma-391-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '392'
+    edition: '2'
+  :file: data/ecma-392-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '392'
+    edition: '1'
+  :file: data/ecma-392-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '393'
+    edition: '2'
+  :file: data/ecma-393-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '393'
+    edition: '1'
+  :file: data/ecma-393-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '394'
+    edition: '1'
+  :file: data/ecma-394-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '395'
+    edition: '1'
+  :file: data/ecma-395-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '396'
+    edition: '1'
+  :file: data/ecma-396-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '396'
+    edition: '3'
+  :file: data/ecma-396-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '396'
+    edition: '2'
+  :file: data/ecma-396-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '396'
+    edition: '4'
+  :file: data/ecma-396-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '397'
+    edition: '1'
+  :file: data/ecma-397-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '398'
+    edition: '1'
+  :file: data/ecma-398-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '399'
+    edition: '1'
+  :file: data/ecma-399-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '400'
+    edition: '2'
+  :file: data/ecma-400-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '400'
+    edition: '1'
+  :file: data/ecma-400-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '400'
+    edition: '3'
+  :file: data/ecma-400-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '401'
+    edition: '1'
+  :file: data/ecma-401-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '401'
+    edition: '2'
+  :file: data/ecma-401-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '4'
+  :file: data/ecma-402-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '3'
+  :file: data/ecma-402-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '2'
+  :file: data/ecma-402-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '6'
+  :file: data/ecma-402-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '1'
+  :file: data/ecma-402-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '13'
+  :file: data/ecma-402-13.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '7'
+  :file: data/ecma-402-7.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '8'
+  :file: data/ecma-402-8.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '9'
+  :file: data/ecma-402-9.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '10'
+  :file: data/ecma-402-10.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '11'
+  :file: data/ecma-402-11.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '12'
+  :file: data/ecma-402-12.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '402'
+    edition: '5'
+  :file: data/ecma-402-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '403'
+    edition: '2'
+  :file: data/ecma-403-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '403'
+    edition: '1'
+  :file: data/ecma-403-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '404'
+    edition: '2'
+  :file: data/ecma-404-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '404'
+    edition: '1'
+  :file: data/ecma-404-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '405'
+    edition: '1'
+  :file: data/ecma-405-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '406'
+    edition: '1'
+  :file: data/ecma-406-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '407'
+    edition: '1'
+  :file: data/ecma-407-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '408'
+    edition: '4'
+  :file: data/ecma-408-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '408'
+    edition: '1'
+  :file: data/ecma-408-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '408'
+    edition: '2'
+  :file: data/ecma-408-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '408'
+    edition: '3'
+  :file: data/ecma-408-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '409'
+    edition: '1'
+  :file: data/ecma-409-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '409'
+    edition: '2'
+  :file: data/ecma-409-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '410'
+    edition: '1'
+  :file: data/ecma-410-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '410'
+    edition: '2'
+  :file: data/ecma-410-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '410'
+    edition: '3'
+  :file: data/ecma-410-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '411'
+    edition: '3'
+  :file: data/ecma-411-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '411'
+    edition: '2'
+  :file: data/ecma-411-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '411'
+    edition: '1'
+  :file: data/ecma-411-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '412'
+    edition: '2'
+  :file: data/ecma-412-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '412'
+    edition: '1'
+  :file: data/ecma-412-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '412'
+    edition: '3'
+  :file: data/ecma-412-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '413'
+    edition: '2'
+  :file: data/ecma-413-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '413'
+    edition: '1'
+  :file: data/ecma-413-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '413'
+    edition: '3'
+  :file: data/ecma-413-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '413'
+    edition: '4'
+  :file: data/ecma-413-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '414'
+    edition: '3'
+  :file: data/ecma-414-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '414'
+    edition: '1'
+  :file: data/ecma-414-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '414'
+    edition: '2'
+  :file: data/ecma-414-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '415'
+    edition: '1'
+  :file: data/ecma-415-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '416'
+    edition: '1'
+  :file: data/ecma-416-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '417'
+    edition: '3'
+  :file: data/ecma-417-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '417'
+    edition: '2'
+  :file: data/ecma-417-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '417'
+    edition: '1'
+  :file: data/ecma-417-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '418'
+    part: '2'
+    edition: '1'
+  :file: data/ecma-418-2-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '418'
+    part: '1'
+    edition: '2'
+  :file: data/ecma-418-1-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '418'
+    edition: '4'
+  :file: data/ecma-418-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '418'
+    part: '2'
+    edition: '2'
+  :file: data/ecma-418-2-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '418'
+    part: '2'
+    edition: '3'
+  :file: data/ecma-418-2-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '418'
+    part: '1'
+    edition: '1'
+  :file: data/ecma-418-1-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '419'
+    edition: '3'
+  :file: data/ecma-419-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '419'
+    edition: '1'
+  :file: data/ecma-419-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '419'
+    edition: '4'
+  :file: data/ecma-419-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '419'
+    edition: '2'
+  :file: data/ecma-419-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '420'
+    edition: '3'
+  :file: data/ecma-420-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '420'
+    edition: '1'
+  :file: data/ecma-420-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '420'
+    edition: '2'
+  :file: data/ecma-420-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '421'
+    edition: '1'
+  :file: data/ecma-421-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '421'
+    edition: '2'
+  :file: data/ecma-421-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '422'
+    edition: '1'
+  :file: data/ecma-422-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '423'
+    edition: '1'
+  :file: data/ecma-423-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '424'
+    edition: '2'
+  :file: data/ecma-424-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '424'
+    edition: '1'
+  :file: data/ecma-424-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '425'
+    edition: '2'
+  :file: data/ecma-425-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '425'
+    edition: '1'
+  :file: data/ecma-425-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '426'
+    edition: '1'
+  :file: data/ecma-426-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '427'
+    edition: '1'
+  :file: data/ecma-427-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '428'
+    edition: '1'
+  :file: data/ecma-428-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '429'
+    edition: '1'
+  :file: data/ecma-429-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '43'
+    edition: '1'
+  :file: data/ecma-43-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '43'
+    edition: '2'
+  :file: data/ecma-43-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '43'
+    edition: '3'
+  :file: data/ecma-43-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '430'
+    edition: '1'
+  :file: data/ecma-430-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '431'
+    edition: '1'
+  :file: data/ecma-431-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '432'
+    edition: '1'
+  :file: data/ecma-432-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '433'
+    edition: '1'
+  :file: data/ecma-433-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '434'
+    edition: '1'
+  :file: data/ecma-434-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '46'
+    edition: '1'
+  :file: data/ecma-tr-46-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '48'
+    edition: '1'
+  :file: data/ecma-48-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '48'
+    edition: '4'
+  :file: data/ecma-48-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '48'
+    edition: '3'
+  :file: data/ecma-48-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '48'
+    edition: '2'
+  :file: data/ecma-48-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '48'
+    edition: '5'
+  :file: data/ecma-48-5.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '53'
+    edition: '2'
+  :file: data/ecma-tr-53-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '55'
+    edition: '3'
+  :file: data/ecma-tr-55-3.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '57'
+    edition: '2'
+  :file: data/ecma-tr-57-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '58'
+    edition: '1'
+  :file: data/ecma-tr-58-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '59'
+    edition: '1'
+  :file: data/ecma-tr-59-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '6'
+    edition: '1'
+  :file: data/ecma-6-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '6'
+    edition: '6'
+  :file: data/ecma-6-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '6'
+    edition: '2'
+  :file: data/ecma-6-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '6'
+    edition: '3'
+  :file: data/ecma-6-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '6'
+    edition: '4'
+  :file: data/ecma-6-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '6'
+    edition: '5'
+  :file: data/ecma-6-5.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '61'
+    edition: '1'
+  :file: data/ecma-tr-61-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '62'
+    edition: '1'
+  :file: data/ecma-tr-62-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '64'
+    edition: '1'
+  :file: data/ecma-tr-64-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '66'
+    edition: '1'
+  :file: data/ecma-tr-66-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '67'
+    edition: '1'
+  :file: data/ecma-tr-67-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '68'
+    edition: '1'
+  :file: data/ecma-tr-68-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '69'
+    edition: '1'
+  :file: data/ecma-tr-69-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '70'
+    edition: '3'
+  :file: data/ecma-tr-70-3.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '71'
+    edition: '1'
+  :file: data/ecma-tr-71-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '72'
+    edition: '3'
+  :file: data/ecma-tr-72-3.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '73'
+    edition: '1'
+  :file: data/ecma-tr-73-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '8'
+  :file: data/ecma-74-8.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '74'
+    edition: '1'
+  :file: data/ecma-tr-74-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '21'
+  :file: data/ecma-74-21.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '20'
+  :file: data/ecma-74-20.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '19'
+  :file: data/ecma-74-19.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '18'
+  :file: data/ecma-74-18.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '17'
+  :file: data/ecma-74-17.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '16'
+  :file: data/ecma-74-16.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '15'
+  :file: data/ecma-74-15.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '14'
+  :file: data/ecma-74-14.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '13'
+  :file: data/ecma-74-13.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '12'
+  :file: data/ecma-74-12.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '11'
+  :file: data/ecma-74-11.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '10'
+  :file: data/ecma-74-10.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '9'
+  :file: data/ecma-74-9.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '7'
+  :file: data/ecma-74-7.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '6'
+  :file: data/ecma-74-6.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '5'
+  :file: data/ecma-74-5.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '4'
+  :file: data/ecma-74-4.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '3'
+  :file: data/ecma-74-3.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '2'
+  :file: data/ecma-74-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '1'
+  :file: data/ecma-74-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '74'
+    edition: '22'
+  :file: data/ecma-74-22.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '75'
+    edition: '2'
+  :file: data/ecma-tr-75-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '76'
+    edition: '1'
+  :file: data/ecma-tr-76-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '77'
+    edition: '1'
+  :file: data/ecma-tr-77-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '78'
+    edition: '1'
+  :file: data/ecma-tr-78-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '79'
+    edition: '1'
+  :file: data/ecma-tr-79-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '80'
+    edition: '1'
+  :file: data/ecma-tr-80-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '81'
+    edition: '1'
+  :file: data/ecma-tr-81-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '82'
+    edition: '2'
+  :file: data/ecma-tr-82-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '83'
+    edition: '1'
+  :file: data/ecma-tr-83-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '84'
+    edition: '6'
+  :file: data/ecma-tr-84-6.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '85'
+    edition: '1'
+  :file: data/ecma-tr-85-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '86'
+    edition: '1'
+  :file: data/ecma-tr-86-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '87'
+    edition: '1'
+  :file: data/ecma-tr-87-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '88'
+    edition: '1'
+  :file: data/ecma-tr-88-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '90'
+    edition: '1'
+  :file: data/ecma-tr-90-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '91'
+    edition: '1'
+  :file: data/ecma-tr-91-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '92'
+    edition: '2'
+  :file: data/ecma-tr-92-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '93'
+    edition: '1'
+  :file: data/ecma-tr-93-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '94'
+    edition: '1'
+  :file: data/ecma-tr-94-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '94'
+    edition: '1'
+  :file: data/ecma-94-1.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '94'
+    edition: '2'
+  :file: data/ecma-94-2.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '95'
+    edition: '1'
+  :file: data/ecma-tr-95-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '96'
+    edition: '1'
+  :file: data/ecma-tr-96-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '97'
+    edition: '1'
+  :file: data/ecma-tr-97-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '98'
+    edition: '1'
+  :file: data/ecma-tr-98-1.yaml
+- :id:
+    _type: pubid:ecma:technical-report
+    number: '99'
+    edition: '2'
+  :file: data/ecma-tr-99-2.yaml
+- :id:
+    _type: pubid:ecma:standard
+    number: '99'
+    edition: '1'
+  :file: data/ecma-99-1.yaml

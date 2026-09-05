@@ -2,3 +2,4 @@
 .bundle/
 vendor/
 Gemfile.lock
+.claude/settings.local.json

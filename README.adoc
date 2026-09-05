@@ -4,9 +4,60 @@ This repository is used by Relaton-ECMA to represent known publications.
 
 Data is stored in Relaton YAML format.
 
-This repository contains a crawler script which runs daly. The script parses site https://www.ecma-international.org and store documents into the data directory.
+This repository uses the ECMA flavor of the
+https://github.com/relaton/relaton[relaton] gem to fetch the documents, and runs
+daily. `relaton-ecma` no longer exists as a gem of its own -- the flavor lives in
+the combined `relaton` gem. `crawler.rb` parses
+https://www.ecma-international.org and stores the documents in the `data`
+directory.
 
-== Published index
+== Indexes
+
+Two indexes are published. `relaton/support`'s shared `crawler.yml` zips and
+commits both; nothing in this repository zips.
+
+`index-v2`:: The current, pubid-keyed index. Written by
+`Relaton::Ecma::DataFetcher` itself, with each row's `:id` a
+`Pubid::Ecma::Identifier` serialised to its `_type: pubid:ecma:*` hash. The
+identifier carries the edition and the volume, because the index keys on a bare
+`to_s`: 740 of the 804 rows carry an edition, and without it they collapse onto
+one key.
+
+`index-v1`:: The legacy index, `{ :id, :ed, :vol }` hashes, kept alive for every
+released `relaton` line that still reads `index-v1.zip` from this branch. The
+gem no longer writes it, so `crawler.rb` derives it here through
+`derive_index_v1.rb`, from the `index-v2` the fetch just wrote.
+
+`index-v1` is derived rather than crawled a second time: one crawl, one pass,
+and the two published files cannot drift apart. relaton-data-w3c,
+relaton-data-iana and relaton-data-bipm carry the same arrangement.
+
+Run the specs that guard the derivation with:
+
+[source,sh]
+----
+bundle exec rspec
+----
+
+== Dependency pins
+
+`Gemfile` pins both `relaton` and `pubid` to their `main` branches, and
+`Gemfile.lock` is git-ignored, so a crawl resolves both fresh.
+
+Neither `main` carries the ECMA index-v2 work yet:
+
+* `relaton@main` still has `Relaton::Ecma::INDEXFILE == "index-v1"`, so the gem
+  writes that file itself and `IndexV1.write` declines. **No `index-v2.yaml` is
+  produced by a crawl**, and the committed `index-v2.yaml`/`.zip` therefore go
+  stale until the pin moves.
+* `pubid@main` has no `Pubid::Ecma::Identifier#volume`, so the volume examples in
+  `spec/derive_index_v1_spec.rb` fail.
+
+Move the `relaton` pin to `feat/ecma-index-v2-producer` and the `pubid` pin to
+`feat/ecma-edition-and-volume` -- or wait for both to merge -- to turn the
+derivation on.
+
+== Browsable index
 
 The `data/` directory is published as a browsable, crawler-indexable index at
 https://relaton.github.io/relaton-data-ecma/.
@@ -14,5 +65,5 @@ https://relaton.github.io/relaton-data-ecma/.
 `.github/workflows/deploy.yml` calls relaton/support's shared
 `data-deploy.yml`, which builds the page with `relaton index` (relaton-cli
 reads `data/` directly) and deploys it to GitHub Pages on every push to the
-default branch, and daily at 15:00 UTC. `index-v1.yaml`/`.zip` are not used by
-that build; they remain the index that `Relaton::Ecma` consumes.
+default branch, and daily at 15:00 UTC. The index files are not used by that
+build.
