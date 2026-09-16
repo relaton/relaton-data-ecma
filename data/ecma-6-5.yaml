@@ -1,4 +1,3 @@
----
 id: ECMA6
 schema_version: v1.5.6
 type: standard
@@ -33,13 +32,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard specifies a set of 128 characters, (control characters and graphic characters such as letters, digits and symbols) with their coded representation. Most of these characters are mandatory and unchangeable, but provision is made for some flexibility to accommodate national and other requirements.
-    This Ecma Standard specifies a 7-bit coded character set with a number of options. It also provides guidance on how to exercise the options to define specific national versions and application-oriented versions. Furthermore it specifies the International Reference Version (IRV) in which such options have been exercised.
-    This character set is primarily intended for the interchange of information among data processing systems and associated equipment, and within data communication systems. The need for graphic characters and control functions in data processing has also been taken into account in determining this character set.
-    This character set is applicable to alphabets of the Latin script.
-    This character set allows the use of control characters for code extension where its character set is insufficient for particular applications. Procedures for the use of these control characters are specified in Standard ECMA-35.
-    The definitions of the control characters mentioned in this Ecma Standard are specified in Standard ECMA-48. It is assumed that data associated with them are to be processed serially in a forward direction. When they are included in strings of data which are processed other than serially in a forward direction or when they are included in data formatted for fixed-record processing they may have undesirable effects or may require additional special treatment to ensure that they result in their desired function.
+  content: "This Ecma Standard specifies a set of 128 characters, (control characters and graphic characters such as letters, digits and symbols) with their coded representation. Most of these characters are mandatory and unchangeable, but provision is made for some flexibility to accommodate national and other requirements.\nThis Ecma Standard specifies a 7-bit coded character set with a number of options. It also provides guidance on how to exercise the options to define specific national versions and application-oriented versions. Furthermore it specifies the International Reference Version (IRV) in which such options have been exercised.\nThis character set is primarily intended for the interchange of information among data processing systems and associated equipment, and within data communication systems. The need for graphic characters and control functions in data processing has also been taken into account in determining this character set.\nThis character set is applicable to alphabets of the Latin script.\nThis character set allows the use of control characters for code extension where its character set is insufficient for particular applications. Procedures for the use of these control characters are specified in Standard ECMA-35.\nThe definitions of the control characters mentioned in this Ecma Standard are specified in Standard ECMA-48. It is assumed that data associated with them are to be processed serially in a forward direction. When they are included in strings of data which are processed other than serially in a forward direction or when they are included in data formatted for fixed-record processing they may have undesirable effects or may require additional special treatment to ensure that they result in their desired function."
 relation:
 - type: updates
   bibitem:

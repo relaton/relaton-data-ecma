@@ -1,12 +1,10 @@
----
 id: ECMA159
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data compression for information interchange - Binary arithmetic coding
-    algorithm
+  content: Data compression for information interchange - Binary arithmetic coding algorithm
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-159/
@@ -36,10 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Ecma Standard specifies an algorithm for the reduction of the number
-    of bits required to represent information. This process is known as Data Compression.
-    The algorithm uses binary arithmetic coding. The algorithm provides lossless compression
-    and is intended for use in information interchange.
+  content: This Ecma Standard specifies an algorithm for the reduction of the number of bits required to represent information. This process is known as Data Compression. The algorithm uses binary arithmetic coding. The algorithm provides lossless compression and is intended for use in information interchange.
 place:
 - city: Geneva
 ext:

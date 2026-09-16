@@ -1,4 +1,3 @@
----
 id: ECMATR61
 schema_version: v1.5.6
 type: standard
@@ -35,12 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    User interface design is an area where research and standardization are still in progress. Therefore, this technical report cannot be exhaustive.
-    Most existing work on user interface models has focussed on the technical aspects, with particular emphasis on implementation issues. By contrast, this report attempts to concentrate on conceptual aspects. For this reason, it is not always easy to relate the model described in this technical report to those proposed by others.
-    This Ecma Technical Report describes user interface elements and concepts and their relationships and dependencies. It should support the description of existing user interfaces and the specification of future ones in terms of these elements and concepts and their structure.
-    It is not the purpose of this Ecma Technical Report to give value judgement on the choices for specific user interfaces.
-    This Ecma Technical Report should assist in improving communication on user interfaces in general by providing a common framework and terminology. It might also assist:
+  content: "User interface design is an area where research and standardization are still in progress. Therefore, this technical report cannot be exhaustive.\nMost existing work on user interface models has focussed on the technical aspects, with particular emphasis on implementation issues. By contrast, this report attempts to concentrate on conceptual aspects. For this reason, it is not always easy to relate the model described in this technical report to those proposed by others.\nThis Ecma Technical Report describes user interface elements and concepts and their relationships and dependencies. It should support the description of existing user interfaces and the specification of future ones in terms of these elements and concepts and their structure.\nIt is not the purpose of this Ecma Technical Report to give value judgement on the choices for specific user interfaces.\nThis Ecma Technical Report should assist in improving communication on user interfaces in general by providing a common framework and terminology. It might also assist:"
 place:
 - city: Geneva
 ext:

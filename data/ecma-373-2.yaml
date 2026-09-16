@@ -1,4 +1,3 @@
----
 id: ECMA373
 schema_version: v1.5.6
 type: standard
@@ -35,10 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard specifies the digital wire interface between a Transceiver and a Front-end. The specification includes the signal wires, binary signals, the state diagrams and the bit encodings for three data rates. See also companion Front-end configuration (NFC-FEC) standard.
-    This Standard was originally developed by TC47. The work of TC47 was transferred to TC51-TG1.
-     
+  content: "This Ecma Standard specifies the digital wire interface between a Transceiver and a Front-end. The specification includes the signal wires, binary signals, the state diagrams and the bit encodings for three data rates. See also companion Front-end configuration (NFC-FEC) standard.\nThis Standard was originally developed by TC47. The work of TC47 was transferred to TC51-TG1.\n "
 relation:
 - type: updates
   bibitem:

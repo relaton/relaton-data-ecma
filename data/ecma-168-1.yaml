@@ -1,12 +1,10 @@
----
 id: ECMA168
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Volume and file structure of read-only and write-once compact disk media
-    for information interchange
+  content: Volume and file structure of read-only and write-once compact disk media for information interchange
 docidentifier:
 - content: ECMA-168
   type: ECMA
@@ -28,12 +26,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies a format and associated system requirements for volume and boot block recognition, volume structure, file structure and record structure for the interchange of information between users of information processing systems using CD-WO (a write-once compact disc medium), hybrid CD-WO (a write-once compact disc with a read-only area), and CD-ROM disks.
-    NOTE 1 – CD-WO is an evolution of CD-ROM technology which allows the recording of information on a write-once Compact Disc medium.
-    NOTE 2 – A volume set may be recorded that is in conformance with both ECMA-119 and ECMA-168. ECMA-168 is an enhancement of ECMA-119. ECMA-168 allows greater information interchange using CD-ROM. In addition, it supports incremental recording and updating of information stored on a CD-WO disk. Under certain restrictions (see 3/B.2.1), all of the files may be read by both a receiving system conforming to ECMA-119 and by a receiving system conforming to ECMA-168.
-    This Standard consists of the following four Parts:
-    Part 1 specifies references, definitions, notation and basic structures that apply to the other three Parts.
+  content: "This Standard specifies a format and associated system requirements for volume and boot block recognition, volume structure, file structure and record structure for the interchange of information between users of information processing systems using CD-WO (a write-once compact disc medium), hybrid CD-WO (a write-once compact disc with a read-only area), and CD-ROM disks.\nNOTE 1 – CD-WO is an evolution of CD-ROM technology which allows the recording of information on a write-once Compact Disc medium.\nNOTE 2 – A volume set may be recorded that is in conformance with both ECMA-119 and ECMA-168. ECMA-168 is an enhancement of ECMA-119. ECMA-168 allows greater information interchange using CD-ROM. In addition, it supports incremental recording and updating of information stored on a CD-WO disk. Under certain restrictions (see 3/B.2.1), all of the files may be read by both a receiving system conforming to ECMA-119 and by a receiving system conforming to ECMA-168.\nThis Standard consists of the following four Parts:\nPart 1 specifies references, definitions, notation and basic structures that apply to the other three Parts."
 relation:
 - type: updates
   bibitem:

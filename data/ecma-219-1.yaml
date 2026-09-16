@@ -1,12 +1,10 @@
----
 id: ECMA219
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Authentication and privilege attribute security application with related
-    key distribution functions - Part 1, 2 and 3
+  content: Authentication and privilege attribute security application with related key distribution functions - Part 1, 2 and 3
 docidentifier:
 - content: ECMA-219
   type: ECMA
@@ -28,10 +26,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard ECMA-219 defines three applications:
-    These are distributed Security Applications that provide services concerned with authentication and access control, along with related key distribution information. This definition includes:
-    The last two of these facilities requires that the above applications support a Key Distribution Service, which can either be provided integrally, or as a separate application.
+  content: "This Standard ECMA-219 defines three applications:\nThese are distributed Security Applications that provide services concerned with authentication and access control, along with related key distribution information. This definition includes:\nThe last two of these facilities requires that the above applications support a Key Distribution Service, which can either be provided integrally, or as a separate application."
 relation:
 - type: updates
   bibitem:

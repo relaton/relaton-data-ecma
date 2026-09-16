@@ -1,12 +1,10 @@
----
 id: ECMA271
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Extended Commercially Oriented Functionality Class for Security evaluation
-    (E-COFC)
+  content: Extended Commercially Oriented Functionality Class for Security evaluation (E-COFC)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-271_1st_edition_december_1997.pdf
@@ -34,9 +32,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The Extended Commercially Oriented Functionality Class (E – COFC) extends the application of Ecma’s class of commercial security functions (Standard ECMA-205), to an environment of network based systems.
-    The identified security requirements specify a set of security functions for a commercial environment, which is addressed in three sub-classes:
+  content: "The Extended Commercially Oriented Functionality Class (E – COFC) extends the application of Ecma’s class of commercial security functions (Standard ECMA-205), to an environment of network based systems.\nThe identified security requirements specify a set of security functions for a commercial environment, which is addressed in three sub-classes:"
 relation:
 - type: updates
   bibitem:

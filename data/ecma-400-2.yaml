@@ -1,4 +1,3 @@
----
 id: ECMA400
 schema_version: v1.5.6
 type: standard
@@ -33,11 +32,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard models IT & facility equipment, systems and components in Smart Data Centre as Resources, organises the Resources in a graph, and specifies the semantics – but not the syntax – of Messages for commands, responses and events.
-    The first edition covers consolidating compute and cooling resources to minimise power.
-    Smart Clients use the Resource graph to address individual – or a group of – Resources. Smart Clients use the Messages to monitor and control the Properties of Resources.
-    The communication protocol bindings (e.g., HTTP, FTP, SNMP, BACnet) that transport Messages between Resources and Management Function(s) are out of the scope. In addition, session management and security aspects such as authentication, authorization are out of the scope. Static information such as location, CPU models are also out of scope.
+  content: "This Ecma Standard models IT & facility equipment, systems and components in Smart Data Centre as Resources, organises the Resources in a graph, and specifies the semantics – but not the syntax – of Messages for commands, responses and events.\nThe first edition covers consolidating compute and cooling resources to minimise power.\nSmart Clients use the Resource graph to address individual – or a group of – Resources. Smart Clients use the Messages to monitor and control the Properties of Resources.\nThe communication protocol bindings (e.g., HTTP, FTP, SNMP, BACnet) that transport Messages between Resources and Management Function(s) are out of the scope. In addition, session management and security aspects such as authentication, authorization are out of the scope. Static information such as location, CPU models are also out of scope."
 relation:
 - type: updates
   bibitem:

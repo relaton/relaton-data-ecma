@@ -1,4 +1,3 @@
----
 id: ECMA335
 schema_version: v1.5.6
 type: standard
@@ -35,9 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard defines the Common Language Infrastructure (CLI) in which applications written in multiple high-level languages can be executed in different system environments without the need to rewrite those applications to take into consideration the unique characteristics of those environments. This Standard consists of the following parts:
-    Consisting of XML specification, see also ECMA TR/84, see also ECMA TR/89, Common Generics.
+  content: "This Standard defines the Common Language Infrastructure (CLI) in which applications written in multiple high-level languages can be executed in different system environments without the need to rewrite those applications to take into consideration the unique characteristics of those environments. This Standard consists of the following parts:\nConsisting of XML specification, see also ECMA TR/84, see also ECMA TR/89, Common Generics."
 relation:
 - type: updates
   bibitem:

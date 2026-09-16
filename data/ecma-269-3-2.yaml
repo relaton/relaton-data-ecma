@@ -1,12 +1,10 @@
----
 id: ECMA269
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Services for Computer Supported Telecommunications Applications (CSTA)
-    Phase III
+  content: Services for Computer Supported Telecommunications Applications (CSTA) Phase III
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-269_3rd_edition_december_1998_volume_2.pdf
@@ -34,11 +32,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies an interface and services between two entities that request and provide communication services (e.g. Applications, middleware, PBX, IP-PBX, Softswitch, phone, softphone, software devices).
-    CSTA operates with existing interfaces, so that differences among various existing interfaces are hidden.
-    Services defined in this Standard allow functional integration between a computing network and a telecommunications network.
-    This Standard is part of a suite of CSTA Standards and Technical Reports. See documentation.
+  content: "This Standard specifies an interface and services between two entities that request and provide communication services (e.g. Applications, middleware, PBX, IP-PBX, Softswitch, phone, softphone, software devices).\nCSTA operates with existing interfaces, so that differences among various existing interfaces are hidden.\nServices defined in this Standard allow functional integration between a computing network and a telecommunications network.\nThis Standard is part of a suite of CSTA Standards and Technical Reports. See documentation."
 relation:
 - type: updates
   bibitem:

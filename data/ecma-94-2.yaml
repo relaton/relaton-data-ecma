@@ -1,12 +1,10 @@
----
 id: ECMA94
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 8-bit single-byte coded graphic character sets - Latin alphabets No. 1
-    to No. 4
+  content: 8-bit single-byte coded graphic character sets - Latin alphabets No. 1 to No. 4
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-94/
@@ -36,10 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard defines four 8-bit coded graphic character sets identified as Latin Alphabets No 1 to No 4, and specifies the coded representation of each character by means of a single 8-bit byte.
-    Characters common to two or more sets are allocated to the same code position. None of these characters are “non-spacing”.
-    The use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard.
+  content: "This Ecma Standard defines four 8-bit coded graphic character sets identified as Latin Alphabets No 1 to No 4, and specifies the coded representation of each character by means of a single 8-bit byte.\nCharacters common to two or more sets are allocated to the same code position. None of these characters are “non-spacing”.\nThe use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard."
 relation:
 - type: updates
   bibitem:

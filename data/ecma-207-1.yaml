@@ -1,12 +1,10 @@
----
 id: ECMA207
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 90 mm flexible disk cartridges - 326 data tracks on
-    each side - Capacity: 21 Mbytes - ISO type 305'
+  content: 'Data interchange on 90 mm flexible disk cartridges - 326 data tracks on each side - Capacity: 21 Mbytes - ISO type 305'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-207/
@@ -36,12 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard specifies the characteristics of 90 mm flexible disk cartridges (FDC) of 21 Mbytes formatted capacity, recorded at 31 831 ftprad in the Inner Zone and 47 747 ftprad in the Outer Zone with sector servo tracking on 326 data tracks on each side, using 2-7 RLL recording.
-    It specifies the mechanical, physical and magnetic characteristics of the cartridge, so as to provide physical interchangeability between data processing systems.
-    It also specifies the method of recording, the quality of recorded signals, the track layouts and the track formats of data tracks and servo tracks.
-    Such flexible disk cartridges are identified as ISO Type 305.
-    Together with a standard for volume and file structure, for instance Standard ECMA-107, this Standard provides for full data interchange between data processing systems.
+  content: "This Ecma Standard specifies the characteristics of 90 mm flexible disk cartridges (FDC) of 21 Mbytes formatted capacity, recorded at 31 831 ftprad in the Inner Zone and 47 747 ftprad in the Outer Zone with sector servo tracking on 326 data tracks on each side, using 2-7 RLL recording.\nIt specifies the mechanical, physical and magnetic characteristics of the cartridge, so as to provide physical interchangeability between data processing systems.\nIt also specifies the method of recording, the quality of recorded signals, the track layouts and the track formats of data tracks and servo tracks.\nSuch flexible disk cartridges are identified as ISO Type 305.\nTogether with a standard for volume and file structure, for instance Standard ECMA-107, this Standard provides for full data interchange between data processing systems."
 place:
 - city: Geneva
 ext:

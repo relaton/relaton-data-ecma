@@ -1,12 +1,10 @@
----
 id: ECMA213
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Recall supplementary service (RESD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Recall supplementary service (RESD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-213_2nd_edition_june_1997.pdf
@@ -34,10 +32,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies supplementary service Recall (SS-RE), which is applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.
-    SS-RE is a supplementary service which provides for the redirection of a call transferred by the served user back to the served user if the call is unanswered. SS-RE is only applicable after transfer by join, not after transfer by rerouteing.
-    Service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-RE. The stage 1 specification (clause 6) specifies the supplementary service as seen by users of PISNs. The stage 2 specification (clause 7) identifies the functional entities involved in the supplementary service and the information flows between them.
+  content: "This Standard specifies supplementary service Recall (SS-RE), which is applicable to various basic services supported by Private Integrated Services Networks (PISN). Basic services are specified in ECMA-142.\nSS-RE is a supplementary service which provides for the redirection of a call transferred by the served user back to the served user if the call is unanswered. SS-RE is only applicable after transfer by join, not after transfer by rerouteing.\nService specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-RE. The stage 1 specification (clause 6) specifies the supplementary service as seen by users of PISNs. The stage 2 specification (clause 7) identifies the functional entities involved in the supplementary service and the information flows between them."
 relation:
 - type: updates
   bibitem:

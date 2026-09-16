@@ -1,4 +1,3 @@
----
 id: ECMA387
 schema_version: v1.5.6
 type: standard
@@ -35,10 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies a physical layer (PHY), distributed medium access control (MAC) sublayer, and an HDMI protocol adaptation layer (PAL) for 60 GHz wireless networks.
-    ECMA-387 uses Specifier IDs that are maintained in this Register.
-    In their fast-track approval procedure, ISO/IEC JTC 1 amended and approved the 1st edition as ISO/IEC 13156:2009. This 2nd edition has also been fast-tracked to ISO/IEC JTC 1.
+  content: "This Standard specifies a physical layer (PHY), distributed medium access control (MAC) sublayer, and an HDMI protocol adaptation layer (PAL) for 60 GHz wireless networks.\nECMA-387 uses Specifier IDs that are maintained in this Register.\nIn their fast-track approval procedure, ISO/IEC JTC 1 amended and approved the 1st edition as ISO/IEC 13156:2009. This 2nd edition has also been fast-tracked to ISO/IEC JTC 1."
 relation:
 - type: updates
   bibitem:

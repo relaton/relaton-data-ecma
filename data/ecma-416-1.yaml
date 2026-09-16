@@ -1,12 +1,10 @@
----
 id: ECMA416
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Scalable Sparse Spatial Sound System (S5) - Base S5 coding in frequency
-    domain
+  content: Scalable Sparse Spatial Sound System (S5) - Base S5 coding in frequency domain
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-416/
@@ -36,9 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies the base encoder and decoder for S5 Coding in Frequency Domain in terms of configuration data, downmix and upmix.
-    In addition, it provides reference and guidance on how to incorporate further components to form a scalable multichannel coding system for audio data compression.
+  content: "This Standard specifies the base encoder and decoder for S5 Coding in Frequency Domain in terms of configuration data, downmix and upmix.\nIn addition, it provides reference and guidance on how to incorporate further components to form a scalable multichannel coding system for audio data compression."
 place:
 - city: Geneva
 ext:

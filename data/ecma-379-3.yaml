@@ -1,4 +1,3 @@
----
 id: ECMA379
 schema_version: v1.5.6
 type: standard
@@ -35,11 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard specifies an accelerated aging test method for estimating the life expectancy for the retrievability of information stored on recordable or rewritable optical disks.
-    This test includes details on the following formats: DVD-R/-RW/-RAM, +R/+RW. It may be applied to additional optical disk formats with the appropriate specification substitutions and may be updated by committee in the future as required.
-    This document includes:
-    The methodology includes only the effects of temperature (T) and relative humidity (RH). It does not attempt to model degradation due to complex failure mechanism kinetics, nor does it test for exposure to light, corrosive gases, contaminants, handling, and variations in playback subsystems. Disks exposed to these additional sources of stress or higher levels of T and RH are expected to experience shorter usable lifetimes.
+  content: "This Ecma Standard specifies an accelerated aging test method for estimating the life expectancy for the retrievability of information stored on recordable or rewritable optical disks.\nThis test includes details on the following formats: DVD-R/-RW/-RAM, +R/+RW. It may be applied to additional optical disk formats with the appropriate specification substitutions and may be updated by committee in the future as required.\nThis document includes:\nThe methodology includes only the effects of temperature (T) and relative humidity (RH). It does not attempt to model degradation due to complex failure mechanism kinetics, nor does it test for exposure to light, corrosive gases, contaminants, handling, and variations in playback subsystems. Disks exposed to these additional sources of stress or higher levels of T and RH are expected to experience shorter usable lifetimes."
 relation:
 - type: updates
   bibitem:

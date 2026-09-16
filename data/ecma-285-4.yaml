@@ -1,12 +1,10 @@
----
 id: ECMA285
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ASN.1 for Computer Supported Telecommunications Applications (CSTA) phase
-    III
+  content: ASN.1 for Computer Supported Telecommunications Applications (CSTA) phase III
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-285/
@@ -36,15 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies application protocol data units (APDUs) for the services described in ECMA-269.
-    Clause 5 to clause 7 inclusive describes the concepts underlying the Remote Operations model, notation and service.
-    Clause 8 to clause 27 inclusive contains CSTA-specific protocol details and forms the main part of this Standard.
-    The protocol in this Standard operates in the context of an application association.
-    This Standard inherits LocationInfo from ECMA-269. Since most of the ASN.1 compilers cannot resolve the type “any”, as used in ECMA-323 for LocationInfo, a distinct implementation from the required RFC 4119 has been made.
-    Further information on the CSTA topic is also available.
-    The file “ECMA-285, 4th edition, December 2011, source_files.zip” contains the following files:
-    Note: depending upon the compiler used, two duplicate tags can be expected (Reject, ACSEUserInformationForCSTA). These are normal and should not affect the compiled output.
+  content: "This Standard specifies application protocol data units (APDUs) for the services described in ECMA-269.\nClause 5 to clause 7 inclusive describes the concepts underlying the Remote Operations model, notation and service.\nClause 8 to clause 27 inclusive contains CSTA-specific protocol details and forms the main part of this Standard.\nThe protocol in this Standard operates in the context of an application association.\nThis Standard inherits LocationInfo from ECMA-269. Since most of the ASN.1 compilers cannot resolve the type “any”, as used in ECMA-323 for LocationInfo, a distinct implementation from the required RFC 4119 has been made.\nFurther information on the CSTA topic is also available.\nThe file “ECMA-285, 4th edition, December 2011, source_files.zip” contains the following files:\nNote: depending upon the compiler used, two duplicate tags can be expected (Reject, ACSEUserInformationForCSTA). These are normal and should not affect the compiled output."
 relation:
 - type: updates
   bibitem:

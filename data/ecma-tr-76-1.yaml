@@ -1,12 +1,10 @@
----
 id: ECMATR76
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Networks (PISN) - Architecture and Scenarios
-    for Private Integrated Services Networking
+  content: Private Integrated Services Networks (PISN) - Architecture and Scenarios for Private Integrated Services Networking
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-76/
@@ -36,10 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A Private Integrated Service Network (PISN) is a network comprising either one PINX or more than one PINX interconnected by Inter-PINX connections. This Technical Report is concerned with inter-PINX connections (IPC) that are provided by Intervening Networks (IVN), and the way in which these are handled by PINXs to provide a platform for inter-PINX communication. Different types of IVNs can be used to provide IPCs, in accordance with the scenarios indicated in ISO/IEC 11579-1. These are Overlay Scenarios in that they enable the services of the PISN to operate transparently across an IVN.
-    Connected PINXs need to co-ordinate their use of IVNs, and appropriate standardisation is needed to allow networks to be created employing PINXs and IVNs from multiple vendors. The following points need to be considered:
-    The aim of this Technical Report is to identify:
+  content: "A Private Integrated Service Network (PISN) is a network comprising either one PINX or more than one PINX interconnected by Inter-PINX connections. This Technical Report is concerned with inter-PINX connections (IPC) that are provided by Intervening Networks (IVN), and the way in which these are handled by PINXs to provide a platform for inter-PINX communication. Different types of IVNs can be used to provide IPCs, in accordance with the scenarios indicated in ISO/IEC 11579-1. These are Overlay Scenarios in that they enable the services of the PISN to operate transparently across an IVN.\nConnected PINXs need to co-ordinate their use of IVNs, and appropriate standardisation is needed to allow networks to be created employing PINXs and IVNs from multiple vendors. The following points need to be considered:\nThe aim of this Technical Report is to identify:"
 place:
 - city: Geneva
 ext:

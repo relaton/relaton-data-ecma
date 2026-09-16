@@ -1,12 +1,10 @@
----
 id: ECMA350
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 130 mm rewritable and write once read many Ultra Density
-    Optical (UDO) disk cartridges - Capacity: 30 Gbytes per cartridge - First generation'
+  content: 'Data interchange on 130 mm rewritable and write once read many Ultra Density Optical (UDO) disk cartridges - Capacity: 30 Gbytes per cartridge - First generation'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-350/
@@ -36,12 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard specifies the mechanical, physical, and optical characteristics of a 130 mm optical disk cartridge (ODC) that employs thermo-optical Phase Change effects to enable data interchange between such disks.
-    This Ecma Standard specifies two types, viz.
-    The disk shall be two-sided with a nominal capacity of 15,0 Gbytes per side and the cartridge (two sides) shall provide a nominal capacity of 30,0 Gbytes.
-    This Ecma Standard specifies:
-    This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
+  content: "This Ecma Standard specifies the mechanical, physical, and optical characteristics of a 130 mm optical disk cartridge (ODC) that employs thermo-optical Phase Change effects to enable data interchange between such disks.\nThis Ecma Standard specifies two types, viz.\nThe disk shall be two-sided with a nominal capacity of 15,0 Gbytes per side and the cartridge (two sides) shall provide a nominal capacity of 30,0 Gbytes.\nThis Ecma Standard specifies:\nThis Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems."
 relation:
 - type: updates
   bibitem:

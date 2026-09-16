@@ -1,12 +1,10 @@
----
 id: ECMA99
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data interchange on 130 mm flexible disk cartridges using MFM recording
-    at 13 262 ftprad on both sides, 3,8 tracks per mm
+  content: Data interchange on 130 mm flexible disk cartridges using MFM recording at 13 262 ftprad on both sides, 3,8 tracks per mm
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-99/
@@ -36,11 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Standard ECMA-99 specifies the mechanical, physical and magnetic characteristics
-    of a 130 mm magnetic flexible disk cartridge with a track density of 3,8 tracks
-    per mm, recorded on both sides at 13 262 flux transitions per radian to provide
-    physical interchangeability between data processing systems. It also specifies
-    the quality of the recorded signals, the track layout and two track formats.
+  content: This Standard ECMA-99 specifies the mechanical, physical and magnetic characteristics of a 130 mm magnetic flexible disk cartridge with a track density of 3,8 tracks per mm, recorded on both sides at 13 262 flux transitions per radian to provide physical interchangeability between data processing systems. It also specifies the quality of the recorded signals, the track layout and two track formats.
 place:
 - city: Geneva
 ext:

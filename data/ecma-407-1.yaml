@@ -1,4 +1,3 @@
----
 id: ECMA407
 schema_version: v1.5.6
 type: standard
@@ -35,9 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies the base S5 encoder and decoder in terms of configuration data, downmix, inverse coding parameter data and upmix.
-    In addition it provides reference and guidance on how to incorporate further components to form a scalable multichannel coding system for audio data compression.
+  content: "This Standard specifies the base S5 encoder and decoder in terms of configuration data, downmix, inverse coding parameter data and upmix.\nIn addition it provides reference and guidance on how to incorporate further components to form a scalable multichannel coding system for audio data compression."
 place:
 - city: Geneva
 ext:

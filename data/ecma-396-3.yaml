@@ -1,12 +1,10 @@
----
 id: ECMA396
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Test method for the estimation of lifetime of optical disks for long-term
-    data storage
+  content: Test method for the estimation of lifetime of optical disks for long-term data storage
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-396_3rd_edition_december_2014-1.pdf
@@ -34,15 +32,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard specifies an accelerated-aging test method for estimating the lifetime of the retrievability of information stored on recordable or rewritable optical disks.
-    The method is based on the theoretical assumption that the lifetime of data recorded on an optical disk has a lognormal distribution.
-    Detailed testing is specified for the following formats: DVD-R/RW/RAM disks, +R/+RW disks, CD-R/RW disks and BD Recordable / Rewritable disks. The testing may be applied to additional optical-disk formats, with substitution of the appropriate specifications, and may also be updated by committee in the future as required.
-    This Ecma Standard includes:
-    The methodology includes only the effects of temperature and relative humidity. It does not attempt to model degradation due to complex failure-mechanism kinetics, nor does it test for exposure to light, corrosive gases, contaminants, handling, or variations in playback subsystems. Disks exposed to these additional sources of stress or higher levels of temperature and relative humidity are expected to experience shorter usable lifetime.
-    The 1st edition of this Ecma publication is also approved as ISO/IEC 16963.
-    The 2nd edition is identical with the ISO/IEC DIS ballotting version ended on August 26, 2014.
-    Since it has been decided to include further corrections and features in the 2nd edition of ISO/IEC 16963, Ecma has approved a 3rd edition of ECMA-396. The 3rd edition is identical with ISO/IEC 16963 2nd edition. This 4th edition of ECMA-396 is synchronized with the ISO/IEC 16963 3rd edition.
+  content: "This Ecma Standard specifies an accelerated-aging test method for estimating the lifetime of the retrievability of information stored on recordable or rewritable optical disks.\nThe method is based on the theoretical assumption that the lifetime of data recorded on an optical disk has a lognormal distribution.\nDetailed testing is specified for the following formats: DVD-R/RW/RAM disks, +R/+RW disks, CD-R/RW disks and BD Recordable / Rewritable disks. The testing may be applied to additional optical-disk formats, with substitution of the appropriate specifications, and may also be updated by committee in the future as required.\nThis Ecma Standard includes:\nThe methodology includes only the effects of temperature and relative humidity. It does not attempt to model degradation due to complex failure-mechanism kinetics, nor does it test for exposure to light, corrosive gases, contaminants, handling, or variations in playback subsystems. Disks exposed to these additional sources of stress or higher levels of temperature and relative humidity are expected to experience shorter usable lifetime.\nThe 1st edition of this Ecma publication is also approved as ISO/IEC 16963.\nThe 2nd edition is identical with the ISO/IEC DIS ballotting version ended on August 26, 2014.\nSince it has been decided to include further corrections and features in the 2nd edition of ISO/IEC 16963, Ecma has approved a 3rd edition of ECMA-396. The 3rd edition is identical with ISO/IEC 16963 2nd edition. This 4th edition of ECMA-396 is synchronized with the ISO/IEC 16963 3rd edition."
 relation:
 - type: updates
   bibitem:

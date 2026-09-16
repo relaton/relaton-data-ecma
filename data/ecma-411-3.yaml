@@ -1,12 +1,10 @@
----
 id: ECMA411
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'NFC-SEC-04: NFC-SEC entity authentication and key agreement using symmetric
-    cryptography'
+  content: 'NFC-SEC-04: NFC-SEC entity authentication and key agreement using symmetric cryptography'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-411/
@@ -36,10 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies the message contents and the cryptographic mechanisms for PID 04.
-    This Standard specifies key agreement and confirmation mechanisms providing mutual authentication, using symmetric cryptography.
-    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+  content: "This Standard specifies the message contents and the cryptographic mechanisms for PID 04.\nThis Standard specifies key agreement and confirmation mechanisms providing mutual authentication, using symmetric cryptography.\nThis Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1."
 relation:
 - type: updates
   bibitem:

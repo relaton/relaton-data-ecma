@@ -1,12 +1,10 @@
----
 id: ECMA185
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Call completion supplementary services (CCSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call completion supplementary services (CCSD)
 docidentifier:
 - content: ECMA-185
   type: ECMA
@@ -28,10 +26,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard, specifies supplementary services Call Completion (SS-CC), which are applicable to various basic services supported by Private Integrated Services Network (PISN). Basic services are specified in ECMA-142.
-    SS-CC consists of two Supplementary services: the Completion of Calls to Busy Subscribers supplementary service (SS-CCBS) and the Completion of Calls on No Reply supplementary service (SS-CCNR). SS-CCBS allows completion of a call to a subscriber that was unsuccessful because of a busy condition and SS-CCNR allows completion of a call to a subscriber that was unsuccessful because the subscriber, although alerted, did not answer.
-    Supplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard specifies the stage 1 and stage 2 specifications of SS-CC. The stage 1 specifications (clauses 6 and 7) specify the supplementary services as seen by the users of PISNs. The stage 2 specification (clause 8) specifies the functional entities involved in the supplementary services and the information flows between them.
+  content: "This Ecma Standard, specifies supplementary services Call Completion (SS-CC), which are applicable to various basic services supported by Private Integrated Services Network (PISN). Basic services are specified in ECMA-142.\nSS-CC consists of two Supplementary services: the Completion of Calls to Busy Subscribers supplementary service (SS-CCBS) and the Completion of Calls on No Reply supplementary service (SS-CCNR). SS-CCBS allows completion of a call to a subscriber that was unsuccessful because of a busy condition and SS-CCNR allows completion of a call to a subscriber that was unsuccessful because the subscriber, although alerted, did not answer.\nSupplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard specifies the stage 1 and stage 2 specifications of SS-CC. The stage 1 specifications (clauses 6 and 7) specify the supplementary services as seen by the users of PISNs. The stage 2 specification (clause 8) specifies the functional entities involved in the supplementary services and the information flows between them."
 relation:
 - type: updates
   bibitem:

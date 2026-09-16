@@ -1,4 +1,3 @@
----
 id: ECMA205
 schema_version: v1.5.6
 type: standard
@@ -35,11 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The objective of this Ecma Standard is to define a widely accepted basic security functionality class for the commercial market. It is articulated in a structured way consistent with TCSEC, ITSEC and MSFR concepts. Readers unfamiliar with security and these concepts are encouraged to read TCSEC, ITSEC and MSFR if they wish to understand fully this text.
-    This standard addresses only IT security. Other security areas like personnel security, physical security and procedural security are not covered.
-    This standard defines a basic functionality class for the commercial market. It addresses multi-user, stand-alone IT-systems without considering networking or remote access. Multi-processor systems however are covered as long as a single system image is provided.
-    This Standard defines minimum functional requirements independent of any platform. It focuses on functions and not on mechanisms or implementation specific details.
+  content: "The objective of this Ecma Standard is to define a widely accepted basic security functionality class for the commercial market. It is articulated in a structured way consistent with TCSEC, ITSEC and MSFR concepts. Readers unfamiliar with security and these concepts are encouraged to read TCSEC, ITSEC and MSFR if they wish to understand fully this text.\nThis standard addresses only IT security. Other security areas like personnel security, physical security and procedural security are not covered.\nThis standard defines a basic functionality class for the commercial market. It addresses multi-user, stand-alone IT-systems without considering networking or remote access. Multi-processor systems however are covered as long as a single system image is provided.\nThis Standard defines minimum functional requirements independent of any platform. It focuses on functions and not on mechanisms or implementation specific details."
 place:
 - city: Geneva
 ext:

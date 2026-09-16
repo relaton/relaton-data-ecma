@@ -1,12 +1,10 @@
----
 id: ECMA224
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Transit counter additional network feature (ANF-TCSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Transit counter additional network feature (ANF-TCSD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-224/
@@ -36,9 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    ANF-TC is an additional network feature which limits the number of network exchanges that a call request may transit during call establishment, e.g. to protect the network against indefinite looping. There is no user involved in the provision or operation of ANF-TC.
-    Additional network feature specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of ANF-TC. The stage 1 specification (clause 6) specifies the general feature principles and capabilities. The stage 2 specification (clause 7) identifies the functional entities involved in the feature and the information flows between them.
+  content: "ANF-TC is an additional network feature which limits the number of network exchanges that a call request may transit during call establishment, e.g. to protect the network against indefinite looping. There is no user involved in the provision or operation of ANF-TC.\nAdditional network feature specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of ANF-TC. The stage 1 specification (clause 6) specifies the general feature principles and capabilities. The stage 2 specification (clause 7) identifies the functional entities involved in the feature and the information flows between them."
 relation:
 - type: updates
   bibitem:

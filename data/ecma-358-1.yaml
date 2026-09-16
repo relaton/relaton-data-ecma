@@ -1,4 +1,3 @@
----
 id: ECMA358
 schema_version: v1.5.6
 type: standard
@@ -35,10 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies measurement methods and limits for radiated emissions from Information and Communication Technology (ICT) equipment in the frequency range of 1 GHz to 6 GHz. This Standard is based on CISPR 22, which classifies ICT equipment into class A and class B ITE.
-    This Standard provides:
-     
+  content: "This Standard specifies measurement methods and limits for radiated emissions from Information and Communication Technology (ICT) equipment in the frequency range of 1 GHz to 6 GHz. This Standard is based on CISPR 22, which classifies ICT equipment into class A and class B ITE.\nThis Standard provides:\n "
 place:
 - city: Geneva
 ext:

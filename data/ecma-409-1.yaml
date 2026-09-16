@@ -1,4 +1,3 @@
----
 id: ECMA409
 schema_version: v1.5.6
 type: standard
@@ -33,10 +32,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies the message contents and the cryptographic methods for PID 02.
-    This Standard specifies cryptographic mechanisms that use the Elliptic Curves Diffie-Hellman (ECDH) protocol with a key length of 256 bits for key agreement and the AES algorithm in GCM mode to provide data authenticated encryption.
-    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
+  content: "This Standard specifies the message contents and the cryptographic methods for PID 02.\nThis Standard specifies cryptographic mechanisms that use the Elliptic Curves Diffie-Hellman (ECDH) protocol with a key length of 256 bits for key agreement and the AES algorithm in GCM mode to provide data authenticated encryption.\nThis Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1."
 relation:
 - type: updates
   bibitem:

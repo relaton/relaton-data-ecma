@@ -1,12 +1,10 @@
----
 id: ECMATR84
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Common Language Infrastructure (CLI) - Information derived from Partition
-    IV XML file
+  content: Common Language Infrastructure (CLI) - Information derived from Partition IV XML file
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-84/
@@ -36,10 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Technical Report is intended as an aid for understanding the libraries specified in Standard ECMA-335, Partition IV: Profiles and Libraries. That Partition includes a machine-readable specification, in XML, of the types that comprise the standard libraries.
-    This Technical Report, in companion files, provides the following items which help to form a traceable chain from the normative XML specification to a portable, printable representation of its contents:
-    See also TR/89, Common Language Infrastructure (CLI) – Common Generics
+  content: "This Technical Report is intended as an aid for understanding the libraries specified in Standard ECMA-335, Partition IV: Profiles and Libraries. That Partition includes a machine-readable specification, in XML, of the types that comprise the standard libraries.\nThis Technical Report, in companion files, provides the following items which help to form a traceable chain from the normative XML specification to a portable, printable representation of its contents:\nSee also TR/89, Common Language Infrastructure (CLI) – Common Generics"
 relation:
 - type: updates
   bibitem:

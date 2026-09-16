@@ -1,12 +1,10 @@
----
 id: ECMA218
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Protocol for Computer Supported Telecommunications Applications (CSTA)
-    Phase II
+  content: Protocol for Computer Supported Telecommunications Applications (CSTA) Phase II
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-218/
@@ -36,12 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard specifies application protocol data units (APDUs) for the services described in Standard ECMA-217, Services for Computer Supported Telecommunications Applications (CSTA) Phase II. The field of application of this Standard is the interconnection of switches and computers in a private telecommunications environment.
-    Phase II of CSTA extends the range of features offered by CSTA Phase I.
-    Section II (clause 5 to clause 7 inclusive) describes the concepts underlying the Remote Operations model, notation and service.
-    Section III (clause 8 to clause 19 inclusive) contains CSTA-specific protocol details and forms the main part of this Standard.
-    Further information on CSTA is also available.
+  content: "This Standard specifies application protocol data units (APDUs) for the services described in Standard ECMA-217, Services for Computer Supported Telecommunications Applications (CSTA) Phase II. The field of application of this Standard is the interconnection of switches and computers in a private telecommunications environment.\nPhase II of CSTA extends the range of features offered by CSTA Phase I.\nSection II (clause 5 to clause 7 inclusive) describes the concepts underlying the Remote Operations model, notation and service.\nSection III (clause 8 to clause 19 inclusive) contains CSTA-specific protocol details and forms the main part of this Standard.\nFurther information on CSTA is also available."
 relation:
 - type: updates
   bibitem:

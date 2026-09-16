@@ -1,13 +1,10 @@
----
 id: ECMA161
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Telecommunication Networks (PTN) - Signalling at the S reference
-    point - Generic feature key management protocol for the control of supplementary
-    services (SSIG-FK)
+  content: Private Telecommunication Networks (PTN) - Signalling at the S reference point - Generic feature key management protocol for the control of supplementary services (SSIG-FK)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-161/
@@ -37,10 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Standard defines the Feature Key Management signalling protocol for the purpose of supplementary service control at an interface at the S reference point between a Terminal Equipment (TE) and a Private Telecommunication Network (PTN).
-    The Feature Key Management protocol operates in conjunction with the signalling protocol specified in Standard ETS 300 192 for circuit-switched call control. It is based on the use of the two information elements, Feature activation and Feature indication. While the procedures associated with feature key invocation and indication are specified in this Standard, the allocation of actual codes used to designate individual supplementary services is outside the scope of this Standard.
-    This Standard is applicable to the user accesses of PTNs and to Tes which are intended for connection to PTNs.
+  content: "This Standard defines the Feature Key Management signalling protocol for the purpose of supplementary service control at an interface at the S reference point between a Terminal Equipment (TE) and a Private Telecommunication Network (PTN).\nThe Feature Key Management protocol operates in conjunction with the signalling protocol specified in Standard ETS 300 192 for circuit-switched call control. It is based on the use of the two information elements, Feature activation and Feature indication. While the procedures associated with feature key invocation and indication are specified in this Standard, the allocation of actual codes used to designate individual supplementary services is outside the scope of this Standard.\nThis Standard is applicable to the user accesses of PTNs and to Tes which are intended for connection to PTNs."
 relation:
 - type: updates
   bibitem:

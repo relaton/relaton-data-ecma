@@ -1,4 +1,3 @@
----
 id: ECMA398
 schema_version: v1.5.6
 type: standard
@@ -35,9 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Ecma Standard specifies a connection layer (CNL) and a physical layer (PHY) for transferring data between two close proximity entities using electric induction coupling.
-    ECMA-398 uses Specifier IDs that are maintained in this Register.
+  content: "This Ecma Standard specifies a connection layer (CNL) and a physical layer (PHY) for transferring data between two close proximity entities using electric induction coupling.\nECMA-398 uses Specifier IDs that are maintained in this Register."
 place:
 - city: Geneva
 ext:
