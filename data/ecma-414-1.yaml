@@ -1,3 +1,4 @@
+---
 id: ECMA414
 schema_version: v1.5.6
 type: standard
@@ -32,7 +33,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This International Standard defines the ECMAScript Specification Suite containing the ECMAScript programming language and its required and optional built-in libraries.\nIt defines all the necessary components (both normative and informative) that is needed to implement this suite of standards. This suite does not change if one or more components are updated by a new standard edition. The Suite changes only when new components are added and / or old components are removed from it."
+  content: |-
+    This International Standard defines the ECMAScript Specification Suite containing the ECMAScript programming language and its required and optional built-in libraries.
+    It defines all the necessary components (both normative and informative) that is needed to implement this suite of standards. This suite does not change if one or more components are updated by a new standard edition. The Suite changes only when new components are added and / or old components are removed from it.
 relation:
 - type: updates
   bibitem:

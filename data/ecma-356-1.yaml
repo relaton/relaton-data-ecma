@@ -1,3 +1,4 @@
+---
 id: ECMA356
 schema_version: v1.5.6
 type: standard
@@ -32,7 +33,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies RF-test methods for NFCIP-1 devices with antennas fitting within the rectangular area of 50 mm by 40 mm. This Ecma Standard is the companion of ECMA-362, both specify tests for ECMA-340 (NFCIP-1).\nThis Standard was originally developed by TC47. The work of TC47 was transferred to TC51-TG1."
+  content: |-
+    This Standard specifies RF-test methods for NFCIP-1 devices with antennas fitting within the rectangular area of 50 mm by 40 mm. This Ecma Standard is the companion of ECMA-362, both specify tests for ECMA-340 (NFCIP-1).
+    This Standard was originally developed by TC47. The work of TC47 was transferred to TC51-TG1.
 relation:
 - type: updates
   bibitem:

@@ -1,10 +1,12 @@
+---
 id: ECMA324
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Short message service (SMSSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Short message service (SMSSD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-324/
@@ -34,7 +36,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies the Short Message Service (SMS).\nSMS enables a user to send and receive Short Messages (SMs) to and from another user.\nNOTE 1 – This service is based on GSM 03.40. The Service Centre functionality described in this Standard is equal to the functionality of a Service Centre in GSM 03.40. Thus, for interoperability with a GSM network, it is only necessary to implement a QSIG interface and some interworking in the Service Centre in order to use it in the herein described network.\nNOTE 2 – The Short Message Service is a special kind of basic service but is described in this document in the style of a supplementary service.\nSupplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SMS. The stage 1 specification (clause 6) specifies the service as seen by users of PISNs. The stage 2 specification (clause 7) identifies the functional entities involved in the service and the information flows between them."
+  content: |-
+    This Standard specifies the Short Message Service (SMS).
+    SMS enables a user to send and receive Short Messages (SMs) to and from another user.
+    NOTE 1 – This service is based on GSM 03.40. The Service Centre functionality described in this Standard is equal to the functionality of a Service Centre in GSM 03.40. Thus, for interoperability with a GSM network, it is only necessary to implement a QSIG interface and some interworking in the Service Centre in order to use it in the herein described network.
+    NOTE 2 – The Short Message Service is a special kind of basic service but is described in this document in the style of a supplementary service.
+    Supplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SMS. The stage 1 specification (clause 6) specifies the service as seen by users of PISNs. The stage 2 specification (clause 7) identifies the functional entities involved in the service and the information flows between them.
 place:
 - city: Geneva
 ext:

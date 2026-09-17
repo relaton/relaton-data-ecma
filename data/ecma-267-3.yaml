@@ -1,3 +1,4 @@
+---
 id: ECMA267
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard specifies\nThis Ecma Standard provides for interchange of disks between disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems."
+  content: |-
+    This Ecma Standard specifies
+    This Ecma Standard provides for interchange of disks between disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
 relation:
 - type: updates
   bibitem:

@@ -1,3 +1,4 @@
+---
 id: ECMA341
 schema_version: v1.5.6
 type: standard
@@ -36,7 +37,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard applies to all audio/video, information and communication technology equipment marketed as final products, hereafter referred to as products.\nAlthough this Standard does not explicitly apply to individual components and subassemblies to be incorporated into final products, component manufacturers also need to consider this Standard, to enable manufacturers using such components to meet the requirements herein.\nOnly the intended use of products as defined by the manufacturer is within the scope of this Standard.\nThis Standard specifies requirements and recommendations for the design of environmentally sound products regarding\nThis Standard covers only criteria directly related to the environmental performance of the product. Criteria such as safety, ergonomics and electromagnetic compatibility (EMC) are outside the scope of this Standard and are covered by other standards.\nThis edition of ECMA-341 aims to align IEC 62075 and ECMA-341 again and to serve as the base for further revisions."
+  content: |-
+    This Standard applies to all audio/video, information and communication technology equipment marketed as final products, hereafter referred to as products.
+    Although this Standard does not explicitly apply to individual components and subassemblies to be incorporated into final products, component manufacturers also need to consider this Standard, to enable manufacturers using such components to meet the requirements herein.
+    Only the intended use of products as defined by the manufacturer is within the scope of this Standard.
+    This Standard specifies requirements and recommendations for the design of environmentally sound products regarding
+    This Standard covers only criteria directly related to the environmental performance of the product. Criteria such as safety, ergonomics and electromagnetic compatibility (EMC) are outside the scope of this Standard and are covered by other standards.
+    This edition of ECMA-341 aims to align IEC 62075 and ECMA-341 again and to serve as the base for further revisions.
 relation:
 - type: updates
   bibitem:

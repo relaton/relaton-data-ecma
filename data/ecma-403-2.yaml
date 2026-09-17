@@ -1,3 +1,4 @@
+---
 id: ECMA403
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies requirements to verify NFCIP-2 mode selection and initial communication in the selected modes.\nThe Test Management Service Data Units and the interface over which they are exchanged are out of scope.\nThis Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1."
+  content: |-
+    This Standard specifies requirements to verify NFCIP-2 mode selection and initial communication in the selected modes.
+    The Test Management Service Data Units and the interface over which they are exchanged are out of scope.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
 relation:
 - type: updates
   bibitem:

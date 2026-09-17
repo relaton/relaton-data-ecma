@@ -1,3 +1,4 @@
+---
 id: ECMA369
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard specifies the interface between implementations of the PHY and MAC as specified in ECMA-368.\nECMA-368 specifies the PHY and MAC for a high rate ultra wideband wireless transceiver.\nECMA-369 uses PHY IDs that are maintained in this Register."
+  content: |-
+    This Ecma Standard specifies the interface between implementations of the PHY and MAC as specified in ECMA-368.
+    ECMA-368 specifies the PHY and MAC for a high rate ultra wideband wireless transceiver.
+    ECMA-369 uses PHY IDs that are maintained in this Register.
 relation:
 - type: updates
   bibitem:

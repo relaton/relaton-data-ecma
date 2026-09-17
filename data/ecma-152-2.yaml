@@ -1,10 +1,12 @@
+---
 id: ECMA152
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data interchange on 12,7 mm 18-track magnetic tape cartridges - Extended format
+  content: Data interchange on 12,7 mm 18-track magnetic tape cartridges - Extended
+    format
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-152/
@@ -34,7 +36,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies the physical and magnetic characteristics of a 12,7 mm wide, 18-track magnetic tape cartridge, to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, the format and the recording method, thus allowing, together with Standard ECMA-13 for File Structure and Labelling of Magnetic Tapes, full data interchange by means of such magnetic tape cartridges.\nThe cartridge and recording method are identical with those described in Standard ECMA-120. This Standard specifies extensions to the transformation of data before it is formatted as in Standard ECMA-120.\nThese extensions:\nThe permissible routes for the flow of data are shown in annex J."
+  content: |-
+    This Standard specifies the physical and magnetic characteristics of a 12,7 mm wide, 18-track magnetic tape cartridge, to enable interchangeability of such cartridges. It also specifies the quality of the recorded signals, the format and the recording method, thus allowing, together with Standard ECMA-13 for File Structure and Labelling of Magnetic Tapes, full data interchange by means of such magnetic tape cartridges.
+    The cartridge and recording method are identical with those described in Standard ECMA-120. This Standard specifies extensions to the transformation of data before it is formatted as in Standard ECMA-120.
+    These extensions:
+    The permissible routes for the flow of data are shown in annex J.
 relation:
 - type: updates
   bibitem:

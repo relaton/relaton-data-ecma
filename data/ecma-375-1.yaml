@@ -1,3 +1,4 @@
+---
 id: ECMA375
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard specifies the characteristics of a case for use with a Read-only Holographic Versatile Disc (HVD-ROM).\nThis Ecma Standard specifies\n– the environments in which the case is to be operated and stored;\n– the dimensional and mechanical characteristics of the case, so as to provide mechanical interchangeability between data processing systems.\nThis Ecma Standard provides for mechanical interchange between holographic disk drives."
+  content: |-
+    This Ecma Standard specifies the characteristics of a case for use with a Read-only Holographic Versatile Disc (HVD-ROM).
+    This Ecma Standard specifies
+    – the environments in which the case is to be operated and stored;
+    – the dimensional and mechanical characteristics of the case, so as to provide mechanical interchangeability between data processing systems.
+    This Ecma Standard provides for mechanical interchange between holographic disk drives.
 place:
 - city: Geneva
 ext:

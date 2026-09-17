@@ -1,3 +1,4 @@
+---
 id: ECMA366
 schema_version: v1.5.6
 type: standard
@@ -32,7 +33,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies Web Services (in WSDL, in Clause 5) and SOAP bindings (in Clause 6) for the Application Session Services defined in ECMA-354. The Application Session Services allow Applications to create and maintain a relationship with Servers termed Application Session. The Web services specified herein, allow Service Requesters (Applications in ECMA-354) and Service Providers (Servers in ECMA-354) to create and maintain such Application Sessions.\nThis Standard builds upon and imports the XML schema definitions from ECMA-354. The method of making the WSDL description of the specified services available to Service Provider and Requester is out of the scope of this Standard.\nThe Notification WSDL specifies the ApplicationSessionTerminated operation. The operation specifies one input message for the event notification that Service Requesters receive from the Service Provider. Service Requesters may also receive the event notifications from web services, e.g. ECMA-348, that use this Standard for session management."
+  content: |-
+    This Standard specifies Web Services (in WSDL, in Clause 5) and SOAP bindings (in Clause 6) for the Application Session Services defined in ECMA-354. The Application Session Services allow Applications to create and maintain a relationship with Servers termed Application Session. The Web services specified herein, allow Service Requesters (Applications in ECMA-354) and Service Providers (Servers in ECMA-354) to create and maintain such Application Sessions.
+    This Standard builds upon and imports the XML schema definitions from ECMA-354. The method of making the WSDL description of the specified services available to Service Provider and Requester is out of the scope of this Standard.
+    The Notification WSDL specifies the ApplicationSessionTerminated operation. The operation specifies one input message for the event notification that Service Requesters receive from the Service Provider. Service Requesters may also receive the event notifications from web services, e.g. ECMA-348, that use this Standard for session management.
 relation:
 - type: updates
   bibitem:

@@ -1,3 +1,4 @@
+---
 id: ECMA206
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard:\nThis Standard does not:\nThe field of application of this Ecma Standard is the design and implementation of distributed open systems that support access of users to applications and access between distributed applications."
+  content: |-
+    This Standard:
+    This Standard does not:
+    The field of application of this Ecma Standard is the design and implementation of distributed open systems that support access of users to applications and access between distributed applications.
 place:
 - city: Geneva
 ext:

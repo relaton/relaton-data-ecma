@@ -1,3 +1,4 @@
+---
 id: ECMA121
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard defines a set of 153 graphic characters identified as Latin/Hebrew Alphabet, and specifies the coded representation of each of these characters by means of a single 8-bit byte. None of these characters are “non-spacing”.\nThe use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard."
+  content: |-
+    This Ecma Standard defines a set of 153 graphic characters identified as Latin/Hebrew Alphabet, and specifies the coded representation of each of these characters by means of a single 8-bit byte. None of these characters are “non-spacing”.
+    The use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard.
 relation:
 - type: updates
   bibitem:

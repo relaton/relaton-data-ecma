@@ -1,3 +1,4 @@
+---
 id: ECMA383
 schema_version: v1.5.6
 type: standard
@@ -32,7 +33,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Although the title is broader in scope, this 3rd edition of the Standard applies to: Desktop and notebook computers as defined in 5.1 that are marketed as final products and that are hereafter referred to as the Equipment Under Test (EUT) or product. \nThis Standard specifies:\nThis Standard does not set any pass/fail criteria for the EUT. Users of the test results should define such criteria."
+  content: |-
+    Although the title is broader in scope, this 3rd edition of the Standard applies to: Desktop and notebook computers as defined in 5.1 that are marketed as final products and that are hereafter referred to as the Equipment Under Test (EUT) or product. 
+    This Standard specifies:
+    This Standard does not set any pass/fail criteria for the EUT. Users of the test results should define such criteria.
 relation:
 - type: updates
   bibitem:

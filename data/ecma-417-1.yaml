@@ -1,3 +1,4 @@
+---
 id: ECMA417
 schema_version: v1.5.6
 type: standard
@@ -32,7 +33,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies the architecture for a distributed real-time access system.\nThe architecture specifies the function group concept of the system, functionalities of each function group, and interfaces. Communication between function group and functions are not in the scope of this Standard."
+  content: |-
+    This Standard specifies the architecture for a distributed real-time access system.
+    The architecture specifies the function group concept of the system, functionalities of each function group, and interfaces. Communication between function group and functions are not in the scope of this Standard.
 relation:
 - type: updates
   bibitem:

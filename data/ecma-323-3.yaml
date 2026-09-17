@@ -1,10 +1,12 @@
+---
 id: ECMA323
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: XML protocol for Computer Supported Telecommunications Applications (CSTA) Phase III
+  content: XML protocol for Computer Supported Telecommunications Applications (CSTA)
+    Phase III
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-323_3rd_edition_june_2004.pdf
@@ -32,7 +34,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies an XML protocol for the services described in ECMA-269, Services for Computer Supported Telecommunications Applications (CSTA) Phase III.\nThis Standard provides an alternative to the ASN.1 based protocol specified in ECMA-285.\nWSDL Standard ECMA-348 refers to the XML message types specified in this Standard.\nNOTE – The top-level schema is CSTA.xsd as specified in Clause 10 in ECMA-323; developers may delete unneeded or unimplemented features from CSTA.xsd.\nImplementations may refer to RFC 4119 specified data types to resolve the LocationInfo element."
+  content: |-
+    This Standard specifies an XML protocol for the services described in ECMA-269, Services for Computer Supported Telecommunications Applications (CSTA) Phase III.
+    This Standard provides an alternative to the ASN.1 based protocol specified in ECMA-285.
+    WSDL Standard ECMA-348 refers to the XML message types specified in this Standard.
+    NOTE – The top-level schema is CSTA.xsd as specified in Clause 10 in ECMA-323; developers may delete unneeded or unimplemented features from CSTA.xsd.
+    Implementations may refer to RFC 4119 specified data types to resolve the LocationInfo element.
 relation:
 - type: updates
   bibitem:

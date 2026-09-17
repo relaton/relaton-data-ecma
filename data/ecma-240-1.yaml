@@ -1,10 +1,12 @@
+---
 id: ECMA240
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 120 mm optical disk cartridges using phase change PD format - Capacity: 650 Mbytes per cartridge'
+  content: 'Data interchange on 120 mm optical disk cartridges using phase change
+    PD format - Capacity: 650 Mbytes per cartridge'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-240/
@@ -34,7 +36,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard specifies the characteristics of 120 mm Optical Disk Cartridges (ODCs) with a capacity of 650 Mbytes using Phase Change PD format. The present Ecma Standard specifies two related, but different implementations of such cartridges, viz.\nType R/W\nProvides for data to be written, read and overwritten many times over the whole recording surface of the disk using the phase change recording and read-out method.\nType WORM\nProvides for data to be written once and read many times over the whole recording surface of the disk using the phase change recording and read-out method.\nType R/W and Type WORM are also referred to as “rewritable” and “write-once” respectively.\nThis Ecma Standard specifies:\nThis Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems."
+  content: |-
+    This Ecma Standard specifies the characteristics of 120 mm Optical Disk Cartridges (ODCs) with a capacity of 650 Mbytes using Phase Change PD format. The present Ecma Standard specifies two related, but different implementations of such cartridges, viz.
+    Type R/W
+    Provides for data to be written, read and overwritten many times over the whole recording surface of the disk using the phase change recording and read-out method.
+    Type WORM
+    Provides for data to be written once and read many times over the whole recording surface of the disk using the phase change recording and read-out method.
+    Type R/W and Type WORM are also referred to as “rewritable” and “write-once” respectively.
+    This Ecma Standard specifies:
+    This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems.
 place:
 - city: Geneva
 ext:

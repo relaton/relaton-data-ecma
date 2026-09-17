@@ -1,3 +1,4 @@
+---
 id: ECMATR75
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Technical Report defines the work areas and contents of the standardization work programme for Corporate telecommunication Networks (CN). The aim is to manage, co-ordinate and give visibility to the standardization process spread over various technical bodies (TBs) in Ecma and ETSI. It can also be used to guide the international standardization process in ISO/IEC JTC1.
+  content: This Technical Report defines the work areas and contents of the standardization
+    work programme for Corporate telecommunication Networks (CN). The aim is to manage,
+    co-ordinate and give visibility to the standardization process spread over various
+    technical bodies (TBs) in Ecma and ETSI. It can also be used to guide the international
+    standardization process in ISO/IEC JTC1.
 relation:
 - type: updates
   bibitem:

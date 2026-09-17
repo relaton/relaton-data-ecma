@@ -1,3 +1,4 @@
+---
 id: ECMA114
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard specifies a set of 146 characters identified as the Arabic-Latin Alphabet and the coded representation of each of these characters by means of a single 8-bit byte.\nThe implementation of this Standard will require the use of specific control functions due to the fact that languages using the Latin script are written from left to right and Arabic is written from right to left. In addition, statements expressed with one of the scripts may have to be included in text using the other script. Also the insertion of numerical values may require a specific treatment. The specification of the control functions to be used with the set of graphic characters of this Standard is outside the scope of this Standard."
+  content: |-
+    This Ecma Standard specifies a set of 146 characters identified as the Arabic-Latin Alphabet and the coded representation of each of these characters by means of a single 8-bit byte.
+    The implementation of this Standard will require the use of specific control functions due to the fact that languages using the Latin script are written from left to right and Arabic is written from right to left. In addition, statements expressed with one of the scripts may have to be included in text using the other script. Also the insertion of numerical values may require a specific treatment. The specification of the control functions to be used with the set of graphic characters of this Standard is outside the scope of this Standard.
 relation:
 - type: updates
   bibitem:

@@ -1,3 +1,4 @@
+---
 id: ECMA235
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Following on from Standard ECMA-219, that defines services, data elements and operations for authentication, Privilege Attribute and key distribution applications (the APA-Application), this Standard ECMA-235 defines the syntax of the tokens that enable distributed applications implementing the APA-Application and related data elements specified in Standard ECMA-219 to interwork.\nThe tokens defined in this Standard are :\nIn order to provide a basic set of implementation options, this Standard also defines some key distribution schemes based on symmetric and asymmetric cryptographic technologies. These include specification of the encryption algorithms and methods to be used."
+  content: |-
+    Following on from Standard ECMA-219, that defines services, data elements and operations for authentication, Privilege Attribute and key distribution applications (the APA-Application), this Standard ECMA-235 defines the syntax of the tokens that enable distributed applications implementing the APA-Application and related data elements specified in Standard ECMA-219 to interwork.
+    The tokens defined in this Standard are :
+    In order to provide a basic set of implementation options, this Standard also defines some key distribution schemes based on symmetric and asymmetric cryptographic technologies. These include specification of the encryption algorithms and methods to be used.
 place:
 - city: Geneva
 ext:

@@ -1,3 +1,4 @@
+---
 id: ECMA432
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This specification defines how the Natural Language Interaction Protocol (NLIP) shall be implemented over the WebSocket protocol using CBOR (Concise Binary Object Representation, RFC 8949) for compact and efficient multimodal communication.\nIt also describes a fallback to UTF-8 encoded JSON text frames for compatibility."
+  content: |-
+    This specification defines how the Natural Language Interaction Protocol (NLIP) shall be implemented over the WebSocket protocol using CBOR (Concise Binary Object Representation, RFC 8949) for compact and efficient multimodal communication.
+    It also describes a fallback to UTF-8 encoded JSON text frames for compatibility.
 place:
 - city: Geneva
 ext:

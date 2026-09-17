@@ -1,10 +1,12 @@
+---
 id: ECMATR72
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Glossary of definitions and terminology for Computer Supported Telecommunications Applications (CSTA) Phase III
+  content: Glossary of definitions and terminology for Computer Supported Telecommunications
+    Applications (CSTA) Phase III
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-72/
@@ -34,7 +36,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Technical Report contains definitions of technical terms and acronyms used throughout the suite of publications comprising CSTA Phase III.
+  content: This Technical Report contains definitions of technical terms and acronyms
+    used throughout the suite of publications comprising CSTA Phase III.
 relation:
 - type: updates
   bibitem:

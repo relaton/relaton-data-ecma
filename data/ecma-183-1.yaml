@@ -1,10 +1,12 @@
+---
 id: ECMA183
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 130 mm optical disk cartridges - Capacity: 1 Gigabyte per cartridge'
+  content: 'Data interchange on 130 mm optical disk cartridges - Capacity: 1 Gigabyte
+    per cartridge'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-183/
@@ -34,7 +36,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard specifies the characteristics of 130 mm optical disk cartridges (ODCs) with a capacity of 1 Gigabyte per cartridge. The standard specifies two related, but different implementations of such cartridges:\nType R/W\nProvides for data to be written, read and erased many times over the whole of both recording surfaces of the disk using the thermo-magnetic and magneto-optical effects.\nType WO\nProvides write once, read multiple functionality on both disk surfaces using the thermo-magnetic and magneto-optical effects.\nThis Ecma Standard specifies:\nThis Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems. Interchange involves the ability to write, read and erase data without introducing any error."
+  content: |-
+    This Ecma Standard specifies the characteristics of 130 mm optical disk cartridges (ODCs) with a capacity of 1 Gigabyte per cartridge. The standard specifies two related, but different implementations of such cartridges:
+    Type R/W
+    Provides for data to be written, read and erased many times over the whole of both recording surfaces of the disk using the thermo-magnetic and magneto-optical effects.
+    Type WO
+    Provides write once, read multiple functionality on both disk surfaces using the thermo-magnetic and magneto-optical effects.
+    This Ecma Standard specifies:
+    This Ecma Standard provides for interchange between optical disk drives. Together with a standard for volume and file structure, it provides for full data interchange between data processing systems. Interchange involves the ability to write, read and erase data without introducing any error.
 place:
 - city: Geneva
 ext:

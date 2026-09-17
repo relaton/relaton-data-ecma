@@ -1,3 +1,4 @@
+---
 id: ECMA340
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard defines:\nThis document specifies:\nInformation interchange between systems is based on agreement between the interchange parties upon the interchange codes and the data structure.\nThis 4th edition is fully aligned with ISO/IEC 18092:2023.\nECMA-356 “NFCIP-1 – RF interface test methods” and ECMA-362 “NFCIP-1 – Protocol test methods” specify test methods for ECMA-340.\nECMA-373 specifies the two-wire interface between a Transceiver and a Front-end.\nThis Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1."
+  content: |-
+    This Standard defines:
+    This document specifies:
+    Information interchange between systems is based on agreement between the interchange parties upon the interchange codes and the data structure.
+    This 4th edition is fully aligned with ISO/IEC 18092:2023.
+    ECMA-356 “NFCIP-1 – RF interface test methods” and ECMA-362 “NFCIP-1 – Protocol test methods” specify test methods for ECMA-340.
+    ECMA-373 specifies the two-wire interface between a Transceiver and a Front-end.
+    This Standard was originally developed by TC47. The work of TC47 has been transferred to TC51-TG1.
 relation:
 - type: updates
   bibitem:

@@ -1,10 +1,12 @@
+---
 id: ECMA312
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Profile standard for the use of PSS1 (QSIG) in air traffic services networks
+  content: Private Integrated Services Network (PISN) - Profile standard for the use
+    of PSS1 (QSIG) in air traffic services networks
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-312_2nd_edition_june_2001.pdf
@@ -32,7 +34,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Profile Standard specifies the combination of base standards, together with the selection of appropriate options and parameter values, necessary to specify how QSIG / PSS1 can be used to provide digital signalling capabilities between Private Integrated services Networks eXchange (PINX) in an Air Traffic Services (ATS) PISN.\nThis Standard defines:\nThis Standard states requirements upon implementations in order to achieve interoperability between equipment in ATS PISNs.\nNOTE – Implementation of this Standard does not preclude a manufacturer from offering other means of interconnection.\nThis Standard does not specify requirements related to interworking between QSIG and other signalling systems used in ATS PISNs."
+  content: |-
+    This Profile Standard specifies the combination of base standards, together with the selection of appropriate options and parameter values, necessary to specify how QSIG / PSS1 can be used to provide digital signalling capabilities between Private Integrated services Networks eXchange (PINX) in an Air Traffic Services (ATS) PISN.
+    This Standard defines:
+    This Standard states requirements upon implementations in order to achieve interoperability between equipment in ATS PISNs.
+    NOTE – Implementation of this Standard does not preclude a manufacturer from offering other means of interconnection.
+    This Standard does not specify requirements related to interworking between QSIG and other signalling systems used in ATS PISNs.
 relation:
 - type: updates
   bibitem:

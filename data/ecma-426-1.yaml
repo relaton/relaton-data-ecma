@@ -1,3 +1,4 @@
+---
 id: ECMA426
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard defines the source map format, used by different types of developer tools to improve the debugging experience of code compiled to JavaScript, WebAssembly, and CSS.\nThe source map format has the following goals:\nKindly note that the normative copy is the HTML version; the PDF version has been produced to generate a printable document.\nThis edition has been prepared under the Ecma RF patent policy.\nThe latest drafts are available at: https://tc39.es/ecma426/."
+  content: |-
+    This Standard defines the source map format, used by different types of developer tools to improve the debugging experience of code compiled to JavaScript, WebAssembly, and CSS.
+    The source map format has the following goals:
+    Kindly note that the normative copy is the HTML version; the PDF version has been produced to generate a printable document.
+    This edition has been prepared under the Ecma RF patent policy.
+    The latest drafts are available at: https://tc39.es/ecma426/.
 place:
 - city: Geneva
 ext:

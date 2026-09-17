@@ -1,10 +1,13 @@
+---
 id: ECMA142
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Circuit mode 64kbit/s bearer services - Service description, functional capabilities and information flows (BCSD)
+  content: Private Integrated Services Network (PISN) - Circuit mode 64kbit/s bearer
+    services - Service description, functional capabilities and information flows
+    (BCSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-142_2nd_edition_june_1997.pdf
@@ -32,7 +35,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies the service description and control aspects, including functional capabilities and information flows, of standardised circuit-mode bearer services which may be supported by a Private Integrated Services Network (PISN).\nThis Standard includes the following basic services:\nA PISN shall support at least one of the above three bearer services to conform with this Standard.\nThe scope of this Standard does not include:\nThis Standard includes optional procedures for the provision of functions equivalent to the following public ISDN supplementary services: Subaddress and Multiple Subscriber Number."
+  content: |-
+    This Standard specifies the service description and control aspects, including functional capabilities and information flows, of standardised circuit-mode bearer services which may be supported by a Private Integrated Services Network (PISN).
+    This Standard includes the following basic services:
+    A PISN shall support at least one of the above three bearer services to conform with this Standard.
+    The scope of this Standard does not include:
+    This Standard includes optional procedures for the provision of functions equivalent to the following public ISDN supplementary services: Subaddress and Multiple Subscriber Number.
 relation:
 - type: updates
   bibitem:

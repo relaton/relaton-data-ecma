@@ -1,10 +1,12 @@
+---
 id: ECMA153
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information interchange on 130 mm optical disk cartridges of the Write Once, Read Multiple (WORM) type, using the magneto-optical effect
+  content: Information interchange on 130 mm optical disk cartridges of the Write
+    Once, Read Multiple (WORM) type, using the magneto-optical effect
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-153/

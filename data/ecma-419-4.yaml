@@ -1,3 +1,4 @@
+---
 id: ECMA419
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard defines application programming interfaces (APIs) for ECMAScript modules that support programs executing on embedded systems.\nThis Standard defines APIs for capabilities found in common across embedded systems. Implementations for embedded systems that include additional capabilities are encouraged to provide ECMAScript APIs for those using the many extensibility options provided by this Standard.\nThis Standard does not make any changes to the ECMAScript language as defined by ECMAScript language specification (ECMA-262). It does strongly encourage all deployments to execute only in strict-mode. It recommends hosts incorporate an engine that supports Hardened JavaScript and that script code is written to conform to the Hardened JavaScript runtime constraints."
+  content: |-
+    This Standard defines application programming interfaces (APIs) for ECMAScript modules that support programs executing on embedded systems.
+    This Standard defines APIs for capabilities found in common across embedded systems. Implementations for embedded systems that include additional capabilities are encouraged to provide ECMAScript APIs for those using the many extensibility options provided by this Standard.
+    This Standard does not make any changes to the ECMAScript language as defined by ECMAScript language specification (ECMA-262). It does strongly encourage all deployments to execute only in strict-mode. It recommends hosts incorporate an engine that supports Hardened JavaScript and that script code is written to conform to the Hardened JavaScript runtime constraints.
 relation:
 - type: updates
   bibitem:

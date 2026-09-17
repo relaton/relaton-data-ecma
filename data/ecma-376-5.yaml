@@ -1,3 +1,4 @@
+---
 id: ECMA376
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard defines Office Open XML’s vocabularies and document representation and packaging. It also specifies requirements for consumers and producers of Office Open XML. ECMA-376 contains 4 parts but only part 2 has been adopted in the last edition of the Standard.\nAn Office Open XML overview is available below under ressources.\nThe four parts of the Standard are the following:"
+  content: |-
+    This Standard defines Office Open XML’s vocabularies and document representation and packaging. It also specifies requirements for consumers and producers of Office Open XML. ECMA-376 contains 4 parts but only part 2 has been adopted in the last edition of the Standard.
+    An Office Open XML overview is available below under ressources.
+    The four parts of the Standard are the following:
 relation:
 - type: updates
   bibitem:

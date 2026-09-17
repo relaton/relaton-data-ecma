@@ -1,3 +1,4 @@
+---
 id: ECMA130
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard specifies the characteristics of 120 mm optical disks for information interchange between information processing systems and for information storage, called CD-ROM.\nThe optical disk specified by this Standard is of the type in which the information is recorded before delivery to the user and can only be read from the disk.\nThis Standard specifies:\nThese characteristics are specified for tracks recorded with digital data. According to this Standard, a disk may also contain one or more tracks recorded with digital audio data. Such tracks shall be recorded according to IEC Publication 908."
+  content: |-
+    This Ecma Standard specifies the characteristics of 120 mm optical disks for information interchange between information processing systems and for information storage, called CD-ROM.
+    The optical disk specified by this Standard is of the type in which the information is recorded before delivery to the user and can only be read from the disk.
+    This Standard specifies:
+    These characteristics are specified for tracks recorded with digital data. According to this Standard, a disk may also contain one or more tracks recorded with digital audio data. Such tracks shall be recorded according to IEC Publication 908.
 relation:
 - type: updates
   bibitem:

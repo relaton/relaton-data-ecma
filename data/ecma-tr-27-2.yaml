@@ -1,3 +1,4 @@
+---
 id: ECMATR27
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Ecma Technical Report specifies a method for the prediction of installation noise levels. This method takes into account the acoustical properties of the room in which computer and business equipment is installed, the location(s) of the noise emitting equipment and their noise emission level(s), determined in accordance with Standard ECMA-74, and the locations(s) of interest.
+  content: This Ecma Technical Report specifies a method for the prediction of installation
+    noise levels. This method takes into account the acoustical properties of the
+    room in which computer and business equipment is installed, the location(s) of
+    the noise emitting equipment and their noise emission level(s), determined in
+    accordance with Standard ECMA-74, and the locations(s) of interest.
 relation:
 - type: updates
   bibitem:

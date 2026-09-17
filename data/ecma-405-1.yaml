@@ -1,3 +1,4 @@
+---
 id: ECMA405
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies optical disk formats that provide parallel read/write methods with written data divided among 5 disks.\nThis Standard specifies two types of optical disk formats:\nThis Standard specifies the read/write area and the data structure."
+  content: |-
+    This Standard specifies optical disk formats that provide parallel read/write methods with written data divided among 5 disks.
+    This Standard specifies two types of optical disk formats:
+    This Standard specifies the read/write area and the data structure.
 place:
 - city: Geneva
 ext:

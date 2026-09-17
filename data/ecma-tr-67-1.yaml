@@ -1,3 +1,4 @@
+---
 id: ECMATR67
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Technical Report identifies a set of PTN Management Services representative of PTN networks. This list is not meant to be exhaustive nor constricting and, as such, will not be subject to standardization, at least not at this stage. Services identified in this Technical Report may not be complete or necessarily offered in a particular implementation. However, they will provide a check-list to guide the standardization process, ensuring that it supplies all the functionality that is necessary to support the perceived usage of a management implementation.\nEach PTN Management Service is briefly described in terms of its activity and identifiable separate component parts. From these the groupings of functions supporting these components are identified.\nThe range of PTN Management Services, the activity description and the components for each are not to be standardized. The function groupings will only be standardized in so far as they impact interfaces."
+  content: |-
+    This Technical Report identifies a set of PTN Management Services representative of PTN networks. This list is not meant to be exhaustive nor constricting and, as such, will not be subject to standardization, at least not at this stage. Services identified in this Technical Report may not be complete or necessarily offered in a particular implementation. However, they will provide a check-list to guide the standardization process, ensuring that it supplies all the functionality that is necessary to support the perceived usage of a management implementation.
+    Each PTN Management Service is briefly described in terms of its activity and identifiable separate component parts. From these the groupings of functions supporting these components are identified.
+    The range of PTN Management Services, the activity description and the components for each are not to be standardized. The function groupings will only be standardized in so far as they impact interfaces.
 place:
 - city: Geneva
 ext:

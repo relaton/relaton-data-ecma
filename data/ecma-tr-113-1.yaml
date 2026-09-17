@@ -1,3 +1,4 @@
+---
 id: ECMATR113
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Technical Report provides a supporting documentation for the NLIP specifications and binding documents.\nIt includes the motivation, the design philosophy, exemplar use-cases, and examples of sample exchanges. This is an informative document and does not define a standard. In the case of a conflict between this document and the NLIP standards, the standards documents take precedence."
+  content: |-
+    This Technical Report provides a supporting documentation for the NLIP specifications and binding documents.
+    It includes the motivation, the design philosophy, exemplar use-cases, and examples of sample exchanges. This is an informative document and does not define a standard. In the case of a conflict between this document and the NLIP standards, the standards documents take precedence.
 place:
 - city: Geneva
 ext:

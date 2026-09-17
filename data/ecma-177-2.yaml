@@ -1,10 +1,12 @@
+---
 id: ECMA177
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call transfer supplementary service (CTSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Call transfer supplementary service (CTSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-177_2nd_edition_september_1997.pdf
@@ -32,7 +34,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies Supplementary Service Call Transfer (SS-CT), which is applicable to various basic services supported by Private Integrated Services Networks (PISNs). Basic services are specified in ECMA-142.\nSS-CT is a supplementary service which enables a user to transform two of that user’s calls (of which one must be answered) into a new call between the other two users of the two calls.\nSupplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-CT. The stage 1 specification (clause 6) specifies the supplementary service as seen by users of PISNs. The stage 2 specification (clauses 7 and 8) identifies the functional entities involved in the supplementary service and the information flows between them.\nThis Standard contains two stage 2 specifications reflecting different ways of operating the service within the network: transfer by join and transfer by rerouteing."
+  content: |-
+    This Standard specifies Supplementary Service Call Transfer (SS-CT), which is applicable to various basic services supported by Private Integrated Services Networks (PISNs). Basic services are specified in ECMA-142.
+    SS-CT is a supplementary service which enables a user to transform two of that user’s calls (of which one must be answered) into a new call between the other two users of the two calls.
+    Supplementary service specifications are produced in three stages, according to the method described in ETS 300 387. This Standard contains the stage 1 and stage 2 specifications of SS-CT. The stage 1 specification (clause 6) specifies the supplementary service as seen by users of PISNs. The stage 2 specification (clauses 7 and 8) identifies the functional entities involved in the supplementary service and the information flows between them.
+    This Standard contains two stage 2 specifications reflecting different ways of operating the service within the network: transfer by join and transfer by rerouteing.
 relation:
 - type: updates
   bibitem:

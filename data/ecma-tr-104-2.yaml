@@ -1,3 +1,4 @@
+---
 id: ECMATR104
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Technical Report describes a test suite and harness developed by Technical Committee 39 members and other contributors to validate how well an implementation of the ECMAScript adheres to the ECMA-414 suite of standards.\nIt is assumed that readers are familiar with general software testing methodologies and the ECMA-262."
+  content: |-
+    This Ecma Technical Report describes a test suite and harness developed by Technical Committee 39 members and other contributors to validate how well an implementation of the ECMAScript adheres to the ECMA-414 suite of standards.
+    It is assumed that readers are familiar with general software testing methodologies and the ECMA-262.
 relation:
 - type: updates
   bibitem:

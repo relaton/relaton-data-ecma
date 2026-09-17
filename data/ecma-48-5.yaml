@@ -1,3 +1,4 @@
+---
 id: ECMA48
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard defines control functions and their coded representations for use in a 7-bit code, an extended 7-bit code, an 8-bit code or an extended 8-bit code, if such a code is structured in accordance with Standard ECMA-35.\nThe control functions are intended to be used embedded in character-coded data for interchange, in particular with character-imaging devices.\nIn general, the control functions are defined be their effects on a character-imaging input/output device. It is, therefore, necessary to make certain assumptions about the architecture of such a device. These assumptions are as unrestrictive as possible; they are specified in clause 6.\nIn addition to being performed the control functions may need to be represented by a graphic symbol.\nThe structure of this Standard is open-ended, so that more control functions can be included in future editions.\nOther standards specifying control functions may define more restricted definitions of them than those in this Standard.\nThe devices to which this Standard applies can vary greatly from each other depending on the application for which a device has been specifically designed. It is technically and economically impractical for one device to implement all the facilities specified in this Standard. The intention is that in any type of device only a limited selection of the facilities appropriate to the application will be implemented."
+  content: |-
+    This Ecma Standard defines control functions and their coded representations for use in a 7-bit code, an extended 7-bit code, an 8-bit code or an extended 8-bit code, if such a code is structured in accordance with Standard ECMA-35.
+    The control functions are intended to be used embedded in character-coded data for interchange, in particular with character-imaging devices.
+    In general, the control functions are defined be their effects on a character-imaging input/output device. It is, therefore, necessary to make certain assumptions about the architecture of such a device. These assumptions are as unrestrictive as possible; they are specified in clause 6.
+    In addition to being performed the control functions may need to be represented by a graphic symbol.
+    The structure of this Standard is open-ended, so that more control functions can be included in future editions.
+    Other standards specifying control functions may define more restricted definitions of them than those in this Standard.
+    The devices to which this Standard applies can vary greatly from each other depending on the application for which a device has been specifically designed. It is technically and economically impractical for one device to implement all the facilities specified in this Standard. The intention is that in any type of device only a limited selection of the facilities appropriate to the application will be implemented.
 relation:
 - type: updates
   bibitem:

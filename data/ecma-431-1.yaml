@@ -1,3 +1,4 @@
+---
 id: ECMA431
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard defines how the Natural Language Interaction Protocol (NLIP) should be implemented over the base transfer protocol of HTTP or HTTPS.\nThe exemplar use-cases for NLIP implementation over HTTP or HTTPS are out of scope of this Standard."
+  content: |-
+    This Standard defines how the Natural Language Interaction Protocol (NLIP) should be implemented over the base transfer protocol of HTTP or HTTPS.
+    The exemplar use-cases for NLIP implementation over HTTP or HTTPS are out of scope of this Standard.
 place:
 - city: Geneva
 ext:

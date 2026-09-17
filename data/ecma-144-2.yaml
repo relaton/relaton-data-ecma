@@ -1,3 +1,4 @@
+---
 id: ECMA144
 schema_version: v1.5.6
 type: standard
@@ -32,7 +33,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies a set of 191 graphic characters identified as Latin Alphabet No. 6, and specifies the coded representation of each of these characters by means of a single 8-bit byte. None of these characters are “non-spacing”.\nThe use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard."
+  content: |-
+    This Standard specifies a set of 191 graphic characters identified as Latin Alphabet No. 6, and specifies the coded representation of each of these characters by means of a single 8-bit byte. None of these characters are “non-spacing”.
+    The use of control functions, such as BACKSPACE or CARRIAGE RETURN for the coded representation of composite characters is prohibited by this Standard.
 relation:
 - type: updates
   bibitem:

@@ -1,3 +1,4 @@
+---
 id: ECMA352
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "ECMA-340, ISO/IEC 14443 and ISO/IEC 15693 standards specify the radio frequency signal interface, initialization, anti-collision and protocols for wireless interconnection of closely coupled devices and access to contactless integrated circuit cards operating at 13,56 MHz.\nThis Standard specifies the communication mode selection mechanism, designed not to disturb any ongoing communication at 13,56 MHz, for devices implementing ISO/IEC 18092, ISO/IEC 14443 or ISO/IEC 15693 series. The communication modes are specified in the respective International Standards and are outside of the scope of this document.\n"
+  content: |
+    ECMA-340, ISO/IEC 14443 and ISO/IEC 15693 standards specify the radio frequency signal interface, initialization, anti-collision and protocols for wireless interconnection of closely coupled devices and access to contactless integrated circuit cards operating at 13,56 MHz.
+    This Standard specifies the communication mode selection mechanism, designed not to disturb any ongoing communication at 13,56 MHz, for devices implementing ISO/IEC 18092, ISO/IEC 14443 or ISO/IEC 15693 series. The communication modes are specified in the respective International Standards and are outside of the scope of this document.
 relation:
 - type: updates
   bibitem:

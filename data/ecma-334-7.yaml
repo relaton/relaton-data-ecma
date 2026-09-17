@@ -1,3 +1,4 @@
+---
 id: ECMA334
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This specification describes the form and establishes the interpretation of programs written in the C# programming language.\nIt describes\nThis specification does not describe"
+  content: |-
+    This specification describes the form and establishes the interpretation of programs written in the C# programming language.
+    It describes
+    This specification does not describe
 relation:
 - type: updates
   bibitem:

@@ -1,3 +1,4 @@
+---
 id: ECMA406
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies the mechanical and physical characteristics of a disk cassette.\nThe disk cassette employs five disks of the same type with 120 mm diameter and almost 1,2 mm thickness."
+  content: |-
+    This Standard specifies the mechanical and physical characteristics of a disk cassette.
+    The disk cassette employs five disks of the same type with 120 mm diameter and almost 1,2 mm thickness.
 place:
 - city: Geneva
 ext:

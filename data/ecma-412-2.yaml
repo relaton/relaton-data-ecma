@@ -1,3 +1,4 @@
+---
 id: ECMA412
 schema_version: v1.5.6
 type: standard
@@ -32,7 +33,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies a framework for a distributed real-time access system.\nIt includes:"
+  content: |-
+    This Standard specifies a framework for a distributed real-time access system.
+    It includes:
 relation:
 - type: updates
   bibitem:

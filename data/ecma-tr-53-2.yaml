@@ -1,3 +1,4 @@
+---
 id: ECMATR53
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Technical Report specifies technical means to handle bi-directional text in character-imaging devices in case of:\nOther presentation directions may be the subject of further studies."
+  content: |-
+    This Ecma Technical Report specifies technical means to handle bi-directional text in character-imaging devices in case of:
+    Other presentation directions may be the subject of further studies.
 relation:
 - type: updates
   bibitem:

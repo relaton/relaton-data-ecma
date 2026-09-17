@@ -1,10 +1,12 @@
+---
 id: ECMA318
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Use of QSIG at the C reference point between a PINX and an interconnecting network
+  content: Private Integrated Services Network (PISN) - Use of QSIG at the C reference
+    point between a PINX and an interconnecting network
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-318/
@@ -34,7 +36,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Profile Standard specifies the combination of base standards, together with the selection of appropriate options and parameter values, necessary to specify how QSIG / PSS1 can be used to provide digital signalling capabilities at interfaces at the C reference point between a Private Integrated services Network eXchange (PINX) and an Interconnecting Network (ICN) to permit interoperability between equipment from different vendors and different public or private service providers.\nNOTE 1 – PINX in the sense of this Standard is used in the meaning of a PINX directly attached to the ICN.\nThis Standard is applicable to attached PINXs and Interconnecting Networks (ICN).\nThis Standard identifies the necessary or optional employment of particular functions, procedures and services when provided:\nThis Standard states requirements upon attached PINXs and Interconnecting Network (ICN) implementations in order to achieve interoperability between equipment in PISNs serving as Corporate telecommunication Networks (CNs).\nNOTE 2 – Implementation of this Standard does not preclude a manufacturer from offering other means of interconnection. It also does not preclude a VPN service provider to offer basic call communications between a PINX and other networks like PSTN or ISDN.\nISO/IEC TR 14475 specifies various access arrangements between a PINX and a public network where reference points C and T reside either at a single or at separate interfaces. The scope of this Standard is limited to cover the C reference point aspects at a separate interface.\nThe current version of this Standard does not intend to specify any gateway or end PINX requirements for the ICN side of the interface.\nTherefore it typically uses the term “virtual transit PINX” instead of Interconnecting Network (ICN)."
+  content: |-
+    This Profile Standard specifies the combination of base standards, together with the selection of appropriate options and parameter values, necessary to specify how QSIG / PSS1 can be used to provide digital signalling capabilities at interfaces at the C reference point between a Private Integrated services Network eXchange (PINX) and an Interconnecting Network (ICN) to permit interoperability between equipment from different vendors and different public or private service providers.
+    NOTE 1 – PINX in the sense of this Standard is used in the meaning of a PINX directly attached to the ICN.
+    This Standard is applicable to attached PINXs and Interconnecting Networks (ICN).
+    This Standard identifies the necessary or optional employment of particular functions, procedures and services when provided:
+    This Standard states requirements upon attached PINXs and Interconnecting Network (ICN) implementations in order to achieve interoperability between equipment in PISNs serving as Corporate telecommunication Networks (CNs).
+    NOTE 2 – Implementation of this Standard does not preclude a manufacturer from offering other means of interconnection. It also does not preclude a VPN service provider to offer basic call communications between a PINX and other networks like PSTN or ISDN.
+    ISO/IEC TR 14475 specifies various access arrangements between a PINX and a public network where reference points C and T reside either at a single or at separate interfaces. The scope of this Standard is limited to cover the C reference point aspects at a separate interface.
+    The current version of this Standard does not intend to specify any gateway or end PINX requirements for the ICN side of the interface.
+    Therefore it typically uses the term “virtual transit PINX” instead of Interconnecting Network (ICN).
 place:
 - city: Geneva
 ext:

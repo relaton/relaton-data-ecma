@@ -1,3 +1,4 @@
+---
 id: ECMATR114
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Runtime keys provide a consistent and predictable mechanism for identifying ECMAScript runtimes in a variety\nof contexts, including but not limited to project configuration files, package manifests, conditional exports, andruntime detection mechanisms.\nThis document focuses on providing informative identifiers primarily for webservers, though other ECMAScript server environments may find it useful. These keys are not intended to beused in web browsers, which should be referenced by other mechanisms such as the browserslist project.\nThis Report defines:\n• the canonical source of runtime keys and associated metadata,\n• guidance for future ECMAScript runtimes to submit runtime keys, and\n• TC55’s governance process for adding and modifying runtime keys to the Report."
+  content: |-
+    Runtime keys provide a consistent and predictable mechanism for identifying ECMAScript runtimes in a variety
+    of contexts, including but not limited to project configuration files, package manifests, conditional exports, andruntime detection mechanisms.
+    This document focuses on providing informative identifiers primarily for webservers, though other ECMAScript server environments may find it useful. These keys are not intended to beused in web browsers, which should be referenced by other mechanisms such as the browserslist project.
+    This Report defines:
+    • the canonical source of runtime keys and associated metadata,
+    • guidance for future ECMAScript runtimes to submit runtime keys, and
+    • TC55’s governance process for adding and modifying runtime keys to the Report.
 place:
 - city: Geneva
 ext:

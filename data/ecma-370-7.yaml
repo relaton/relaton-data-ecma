@@ -1,3 +1,4 @@
+---
 id: ECMA370
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies environmental attributes and measurement methods for ICT and CE products according to known regulations, standards, guidelines and currently accepted practices. The Standard is also applicable to products used as subassemblies, components, accessories and/or optional parts.\nThe standard addresses company programs and product related attributes, however not manufacturing processes and logistic aspects. Although the declaration templates, as defined in annexes B1 and B2, are optimized for application in the European Union, this Standard is intended for global use. Additional annexes may be added for other regions. The annexes cover the following items:\nThe Product environmental attributes are split into legal and market requirements on:\nThe attributes are listed without differentiation between products categories. Not all attributes do necessarily apply to each product category.\nBased on frequently asked questions from customers, some product attributes such as safety, and ergonomics have been included although they are not considered environmental matters.\nShould you have questions on the usage of ECMA-370, please review the answers to the frequently asked questions for Ecma TC38 and The Eco Declaration (TED).\nFor certain complex attributes, new guidance documents have been developed with two purposes, firstly to guide the user of the declaration to understand the attribute, ensure that the correct test methods are used and that correct information is entered in the declaration. The second aim is to ensure that the reader of the declaration understands the information and that it’s used correctly when comparing product attributes. Guidance documents are currently available for: acoustic noise, energy efficiency, chemical emissions, chemical substances, but others can be added in the future.\nA “change history” webpage is regularly updated.\nNOTE     The Guidance documents (shown below) are not part of the ECMA-370 Standard and can be amended without any prior notification."
+  content: |-
+    This Standard specifies environmental attributes and measurement methods for ICT and CE products according to known regulations, standards, guidelines and currently accepted practices. The Standard is also applicable to products used as subassemblies, components, accessories and/or optional parts.
+    The standard addresses company programs and product related attributes, however not manufacturing processes and logistic aspects. Although the declaration templates, as defined in annexes B1 and B2, are optimized for application in the European Union, this Standard is intended for global use. Additional annexes may be added for other regions. The annexes cover the following items:
+    The Product environmental attributes are split into legal and market requirements on:
+    The attributes are listed without differentiation between products categories. Not all attributes do necessarily apply to each product category.
+    Based on frequently asked questions from customers, some product attributes such as safety, and ergonomics have been included although they are not considered environmental matters.
+    Should you have questions on the usage of ECMA-370, please review the answers to the frequently asked questions for Ecma TC38 and The Eco Declaration (TED).
+    For certain complex attributes, new guidance documents have been developed with two purposes, firstly to guide the user of the declaration to understand the attribute, ensure that the correct test methods are used and that correct information is entered in the declaration. The second aim is to ensure that the reader of the declaration understands the information and that it’s used correctly when comparing product attributes. Guidance documents are currently available for: acoustic noise, energy efficiency, chemical emissions, chemical substances, but others can be added in the future.
+    A “change history” webpage is regularly updated.
+    NOTE     The Guidance documents (shown below) are not part of the ECMA-370 Standard and can be amended without any prior notification.
 relation:
 - type: updates
   bibitem:

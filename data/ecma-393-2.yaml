@@ -1,3 +1,4 @@
+---
 id: ECMA393
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard specifies maintenance of network connectivity and presence by proxies to extend the sleep duration of hosts.\nThis Standard specifies:\nThis Standard does not:"
+  content: |-
+    This Standard specifies maintenance of network connectivity and presence by proxies to extend the sleep duration of hosts.
+    This Standard specifies:
+    This Standard does not:
 relation:
 - type: updates
   bibitem:

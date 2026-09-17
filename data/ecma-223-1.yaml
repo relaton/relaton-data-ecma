@@ -1,10 +1,12 @@
+---
 id: ECMA223
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 90 mm optical disk cartridges - Capacity: 385 Megabytes per cartridge'
+  content: 'Data interchange on 90 mm optical disk cartridges - Capacity: 385 Megabytes
+    per cartridge'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-223/
@@ -34,7 +36,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Ecma Standard specifies the characteristics of 90 mm Optical Disk Cartridges, (ODCs) with a capacity of 385 Mbytes per cartridge. The Standard specifies one type of such cartridge, viz.\nType R/W\nProvides for data to be written, read and erased many times over the whole of the recording surface of the disk using the thermo-magnetic and magneto-optical effects.\nThis Ecma Standard specifies:\nThis Ecma Standard provides for media interchange between optical disk drives. Together with a Standard for volume and file structure, it provides for full data interchange between data processing systems."
+  content: |-
+    This Ecma Standard specifies the characteristics of 90 mm Optical Disk Cartridges, (ODCs) with a capacity of 385 Mbytes per cartridge. The Standard specifies one type of such cartridge, viz.
+    Type R/W
+    Provides for data to be written, read and erased many times over the whole of the recording surface of the disk using the thermo-magnetic and magneto-optical effects.
+    This Ecma Standard specifies:
+    This Ecma Standard provides for media interchange between optical disk drives. Together with a Standard for volume and file structure, it provides for full data interchange between data processing systems.
 place:
 - city: Geneva
 ext:

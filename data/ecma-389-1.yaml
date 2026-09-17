@@ -1,3 +1,4 @@
+---
 id: ECMA389
 schema_version: v1.5.6
 type: standard
@@ -34,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Standard specifies the procedure to be followed by the Registration Authority in preparing, maintaining and publishing International Registers of desktop, notebook and Ultra Low Energy (ULE) computer categories for use with ECMA-383.
+  content: This Standard specifies the procedure to be followed by the Registration
+    Authority in preparing, maintaining and publishing International Registers of
+    desktop, notebook and Ultra Low Energy (ULE) computer categories for use with ECMA-383.
 place:
 - city: Geneva
 ext:
