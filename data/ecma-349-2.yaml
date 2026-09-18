@@ -1,12 +1,10 @@
----
 id: ECMA349
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 120 mm and 80 mm optical disk using +R format - Capacity:
-    4,7 and 1,46 Gbytes per side (Recording speed up to 16X)'
+  content: 'Data interchange on 120 mm and 80 mm optical disk using +R format - Capacity: 4,7 and 1,46 Gbytes per side (Recording speed up to 16X)'
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-349_2nd_edition_june_2004.pdf

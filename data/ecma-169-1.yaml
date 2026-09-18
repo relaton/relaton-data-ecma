@@ -1,12 +1,10 @@
----
 id: ECMA169
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 8 mm wide magnetic tape cartridge dual azimuth format for information interchange
-    - Helical scan recording
+  content: 8 mm wide magnetic tape cartridge dual azimuth format for information interchange - Helical scan recording
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-169/

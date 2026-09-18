@@ -1,12 +1,10 @@
----
 id: ECMA377
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information interchange on Holographic Versatile Disc (HVD) recordable
-    cartridges – Capacity: 200 Gbytes per cartridge'
+  content: 'Information interchange on Holographic Versatile Disc (HVD) recordable cartridges – Capacity: 200 Gbytes per cartridge'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-377/

@@ -1,12 +1,10 @@
----
 id: ECMA254
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange
-    signalling protocol - Generic functional protocol (B-QSIG-GF)
+  content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange signalling protocol - Generic functional protocol (B-QSIG-GF)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-254_1st_edition_december_1996.pdf

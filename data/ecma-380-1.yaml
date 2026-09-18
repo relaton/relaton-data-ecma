@@ -1,12 +1,10 @@
----
 id: ECMA380
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 130 mm rewritable and write once read many Ultra Density
-    Optical (UDO) disk cartridges – Capacity: 60 Gbytes per cartridge – Second generation'
+  content: 'Data interchange on 130 mm rewritable and write once read many Ultra Density Optical (UDO) disk cartridges – Capacity: 60 Gbytes per cartridge – Second generation'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-380/

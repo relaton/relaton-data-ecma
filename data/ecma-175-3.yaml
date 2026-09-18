@@ -1,12 +1,10 @@
----
 id: ECMA175
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Path replacement additional network feature (ANF-PRSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Path replacement additional network feature (ANF-PRSD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-175/

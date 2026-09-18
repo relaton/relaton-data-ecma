@@ -1,12 +1,10 @@
----
 id: ECMA176
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Path replacement additional network feature (QSIG-PR)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Path replacement additional network feature (QSIG-PR)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-176_2nd_edition_september_1997.pdf

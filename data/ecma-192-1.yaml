@@ -1,12 +1,10 @@
----
 id: ECMA192
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Call offer supplementary service (QSIG-CO)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Call offer supplementary service (QSIG-CO)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/Ecma-192-1st-edition-June-1993.pdf

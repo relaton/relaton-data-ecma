@@ -1,12 +1,10 @@
----
 id: ECMA168
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Volume and file structure of read-only and write-once compact disk media
-    for information interchange
+  content: Volume and file structure of read-only and write-once compact disk media for information interchange
 docidentifier:
 - content: ECMA-168
   type: ECMA

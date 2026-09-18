@@ -1,12 +1,10 @@
----
 id: ECMA219
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Authentication and privilege attribute security application with related
-    key distribution functions - Part 1, 2 and 3
+  content: Authentication and privilege attribute security application with related key distribution functions - Part 1, 2 and 3
 docidentifier:
 - content: ECMA-219
   type: ECMA

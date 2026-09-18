@@ -1,12 +1,10 @@
----
 id: ECMA378
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information interchange on Read-Only Memory Holographic Versatile Disc
-    (HVD-ROM) – Capacity: 100 Gbytes per disk'
+  content: 'Information interchange on Read-Only Memory Holographic Versatile Disc (HVD-ROM) – Capacity: 100 Gbytes per disk'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-378/

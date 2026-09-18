@@ -1,12 +1,10 @@
----
 id: ECMA177
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Call transfer supplementary service (CTSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call transfer supplementary service (CTSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-177_2nd_edition_september_1997.pdf

@@ -1,12 +1,10 @@
----
 id: ECMA74
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Measurement of Airborne Noise emitted by Information Technology and Telecommunications
-    Equipment
+  content: Measurement of Airborne Noise emitted by Information Technology and Telecommunications Equipment
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-74/

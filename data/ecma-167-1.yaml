@@ -1,12 +1,10 @@
----
 id: ECMA167
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Volume and file structure for write-once and rewritable media using non-sequential
-    recording for information interchange
+  content: Volume and file structure for write-once and rewritable media using non-sequential recording for information interchange
 docidentifier:
 - content: ECMA-167
   type: ECMA

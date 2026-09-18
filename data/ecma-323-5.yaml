@@ -1,12 +1,10 @@
----
 id: ECMA323
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: XML protocol for Computer Supported Telecommunications Applications (CSTA)
-    Phase III
+  content: XML protocol for Computer Supported Telecommunications Applications (CSTA) Phase III
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-323_5th_edition_june_2009.pdf

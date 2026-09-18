@@ -1,12 +1,10 @@
----
 id: ECMA148
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Identification supplementary services (ISSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Identification supplementary services (ISSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-148_1st_edition_december_1990.pdf

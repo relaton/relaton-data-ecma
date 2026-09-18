@@ -1,12 +1,10 @@
----
 id: ECMATR94
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Assessment of the human exposure to electromagnetic fields for low power
-    electronic and electrical apparatus according to EN 50371:2002
+  content: Assessment of the human exposure to electromagnetic fields for low power electronic and electrical apparatus according to EN 50371:2002
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-94/

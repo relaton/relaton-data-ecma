@@ -1,13 +1,10 @@
----
 id: ECMA142
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Circuit mode 64kbit/s bearer
-    services - Service description, functional capabilities and information flows
-    (BCSD)
+  content: Private Integrated Services Network (PISN) - Circuit mode 64kbit/s bearer services - Service description, functional capabilities and information flows (BCSD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-142/

@@ -1,12 +1,10 @@
----
 id: ECMA291
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 8 mm wide magnetic tape cartridge for information interchange - Helical
-    scan recording AIT-1 with MIC format
+  content: 8 mm wide magnetic tape cartridge for information interchange - Helical scan recording AIT-1 with MIC format
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-291/

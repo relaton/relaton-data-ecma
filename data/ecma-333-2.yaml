@@ -1,12 +1,10 @@
----
 id: ECMA333
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Mapping functions for the
-    tunnelling of QSIG through H.323 networks
+  content: Private Integrated Services Network (PISN) - Mapping functions for the tunnelling of QSIG through H.323 networks
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-333/

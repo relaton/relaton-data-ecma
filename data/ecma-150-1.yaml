@@ -1,12 +1,10 @@
----
 id: ECMA150
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical
-    scan recording - DDS-DC format using 60 m and 90 m length tapes
+  content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical scan recording - DDS-DC format using 60 m and 90 m length tapes
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-150_1st_edition_june_1991.pdf

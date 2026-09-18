@@ -1,12 +1,10 @@
----
 id: ECMA275
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Measurement of structure-borne vibration induced by small air moving devices
-    (AMDs)
+  content: Measurement of structure-borne vibration induced by small air moving devices (AMDs)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-275_3rd_edition_june_2015.pdf

@@ -1,12 +1,10 @@
----
 id: ECMATR84
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Common Language Infrastructure (CLI) - Information derived from Partition
-    IV XML file
+  content: Common Language Infrastructure (CLI) - Information derived from Partition IV XML file
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-84/

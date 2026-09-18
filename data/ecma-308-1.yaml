@@ -1,12 +1,10 @@
----
 id: ECMA308
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Corporate telecommunication networks - Signalling interworking between
-    QSIG and H.323 - Call transfer supplementary services
+  content: Corporate telecommunication networks - Signalling interworking between QSIG and H.323 - Call transfer supplementary services
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-308_1st_edition_june_2000.pdf

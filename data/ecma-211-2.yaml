@@ -1,12 +1,10 @@
----
 id: ECMA211
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Advice of charge supplementary services (AOCSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Advice of charge supplementary services (AOCSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-211_2nd_edition_june_1997.pdf

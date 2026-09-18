@@ -1,12 +1,10 @@
----
 id: ECMA203
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Call intrusion supplementary service (QSIG-CI)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Call intrusion supplementary service (QSIG-CI)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-203_3rd_edition_june-1997.pdf

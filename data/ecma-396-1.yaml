@@ -1,12 +1,10 @@
----
 id: ECMA396
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Test method for the estimation of lifetime of optical disks for long-term
-    data storage
+  content: Test method for the estimation of lifetime of optical disks for long-term data storage
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-396_1st_edition_december_2010-1.pdf

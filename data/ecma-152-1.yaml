@@ -1,12 +1,10 @@
----
 id: ECMA152
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data interchange on 12,7 mm 18-track magnetic tape cartridges - Extended
-    format
+  content: Data interchange on 12,7 mm 18-track magnetic tape cartridges - Extended format
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-152_1st_edition_june_1991.pdf

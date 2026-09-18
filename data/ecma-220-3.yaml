@@ -1,12 +1,10 @@
----
 id: ECMA220
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Call interception additional network feature (ANF-CINTSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call interception additional network feature (ANF-CINTSD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-220/

@@ -1,13 +1,10 @@
----
 id: ECMA264
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Call priority interruption and call priority interruption protection
-    supplementary services (QSIG-CPI(P))
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Call priority interruption and call priority interruption protection supplementary services (QSIG-CPI(P))
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-264_1st_edition_september_1997.pdf

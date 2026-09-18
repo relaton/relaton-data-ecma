@@ -1,13 +1,10 @@
----
 id: ECMA263
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Call priority interruption and call priority interruption
-    protection supplementary services (CPI(P)SD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call priority interruption and call priority interruption protection supplementary services (CPI(P)SD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-263_2nd_edition_december_1998.pdf

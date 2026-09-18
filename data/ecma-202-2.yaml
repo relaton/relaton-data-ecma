@@ -1,12 +1,10 @@
----
 id: ECMA202
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Call intrusion supplementary service (CISD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call intrusion supplementary service (CISD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-202/

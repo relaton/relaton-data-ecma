@@ -1,13 +1,10 @@
----
 id: ECMA284
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Private User Mobility (PUM) - Call handling additional network features
-    (QSIG-PUMCH)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Private User Mobility (PUM) - Call handling additional network features (QSIG-PUMCH)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-284_1st_edition_december_1998.pdf

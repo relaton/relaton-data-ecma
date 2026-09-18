@@ -1,13 +1,10 @@
----
 id: ECMA165
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Generic functional protocol
-    for the support of supplementary services - Inter-exchange signalling procedures
-    and protocol (QSIG-GF)
+  content: Private Integrated Services Network (PISN) - Generic functional protocol for the support of supplementary services - Inter-exchange signalling procedures and protocol (QSIG-GF)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-165/

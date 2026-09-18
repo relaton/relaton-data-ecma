@@ -1,12 +1,10 @@
----
 id: ECMA350
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 130 mm rewritable and write once read many Ultra Density
-    Optical (UDO) disk cartridges - Capacity: 30 Gbytes per cartridge - First generation'
+  content: 'Data interchange on 130 mm rewritable and write once read many Ultra Density Optical (UDO) disk cartridges - Capacity: 30 Gbytes per cartridge - First generation'
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-350_1st_edition_december_2003.pdf

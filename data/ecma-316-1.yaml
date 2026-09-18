@@ -1,12 +1,10 @@
----
 id: ECMA316
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 8 mm wide magnetic tape cartridge for information interchange - Helical
-    scan recording - VXA-1 format
+  content: 8 mm wide magnetic tape cartridge for information interchange - Helical scan recording - VXA-1 format
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-316_1st_edition_december_2000.pdf

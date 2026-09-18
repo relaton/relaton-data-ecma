@@ -1,12 +1,10 @@
----
 id: ECMA330
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 120 mm (4,7 Gbytes per side) and 80 mm (1,46 Gbytes per side) DVD rewritable
-    disk (DVD-RAM)
+  content: 120 mm (4,7 Gbytes per side) and 80 mm (1,46 Gbytes per side) DVD rewritable disk (DVD-RAM)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-330_1st_edition_december_2001.pdf

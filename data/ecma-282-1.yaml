@@ -1,12 +1,10 @@
----
 id: ECMA282
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Private User Mobility (PUM) - Registration supplementary service (QSIG-PUMR)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Private User Mobility (PUM) - Registration supplementary service (QSIG-PUMR)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-282_1st_edition_december_1998.pdf

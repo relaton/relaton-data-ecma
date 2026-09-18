@@ -1,12 +1,10 @@
----
 id: ECMA242
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Message waiting indication supplementary service (QSIG-MWI)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Message waiting indication supplementary service (QSIG-MWI)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-242_2nd_edition_september_1997.pdf

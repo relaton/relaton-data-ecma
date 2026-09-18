@@ -1,12 +1,10 @@
----
 id: ECMA214
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Recall supplementary service (QSIG-RE)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Recall supplementary service (QSIG-RE)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-214/

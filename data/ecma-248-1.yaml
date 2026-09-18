@@ -1,12 +1,10 @@
----
 id: ECMA248
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 12,65 mm wide magnetic tape cassette for information interchange - Helical
-    scan recording - DTF-1 format
+  content: 12,65 mm wide magnetic tape cassette for information interchange - Helical scan recording - DTF-1 format
 docidentifier:
 - content: ECMA-248
   type: ECMA

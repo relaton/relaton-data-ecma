@@ -1,12 +1,10 @@
----
 id: ECMA270
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Portable Common Tool Environment (PCTE) - Mapping from CASE Data Interchange
-    Format (CDIF) to PCTE
+  content: Portable Common Tool Environment (PCTE) - Mapping from CASE Data Interchange Format (CDIF) to PCTE
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-270/

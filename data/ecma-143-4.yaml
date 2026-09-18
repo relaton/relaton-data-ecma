@@ -1,12 +1,10 @@
----
 id: ECMA143
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Circuit mode bearer services
-    - Inter-exchange signalling procedures and protocol (QSIG-BC)
+  content: Private Integrated Services Network (PISN) - Circuit mode bearer services - Inter-exchange signalling procedures and protocol (QSIG-BC)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-143/

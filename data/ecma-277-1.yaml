@@ -1,12 +1,10 @@
----
 id: ECMA277
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Circuit emulation specification
-    - Emulation of basic access by ATM networks
+  content: Private Integrated Services Network (PISN) - Circuit emulation specification - Emulation of basic access by ATM networks
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-277/

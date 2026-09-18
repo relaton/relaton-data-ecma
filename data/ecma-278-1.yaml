@@ -1,12 +1,10 @@
----
 id: ECMA278
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data interchange on 12,7 mm 128-track magnetic tape cartridge - Parallel
-    serpentine format
+  content: Data interchange on 12,7 mm 128-track magnetic tape cartridge - Parallel serpentine format
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-278_1st_edition_december_1998.pdf

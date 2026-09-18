@@ -1,12 +1,10 @@
----
 id: ECMA106
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Telecommunication Networks (PTN) - Signalling protocol at the S
-    reference point - Circuit mode basic services (SSIG-BC)
+  content: Private Telecommunication Networks (PTN) - Signalling protocol at the S reference point - Circuit mode basic services (SSIG-BC)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-106_1st_edition_september_1985.pdf

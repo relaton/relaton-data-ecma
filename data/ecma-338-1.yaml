@@ -1,12 +1,10 @@
----
 id: ECMA338
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 80 mm (1,46 Gbytes per side) and 120 mm (4,70 Gbytes per side) DVD re-recordable
-    disk (DVD-RW)
+  content: 80 mm (1,46 Gbytes per side) and 120 mm (4,70 Gbytes per side) DVD re-recordable disk (DVD-RW)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-338/

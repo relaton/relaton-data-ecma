@@ -1,12 +1,10 @@
----
 id: ECMA232
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Profile standard for the connection
-    of Radio Paging Equipment (RPE) to a PISN
+  content: Private Integrated Services Network (PISN) - Profile standard for the connection of Radio Paging Equipment (RPE) to a PISN
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-232/

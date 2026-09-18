@@ -1,12 +1,10 @@
----
 id: ECMA319
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data interchange on 12,7 mm - 384-track magnetic tape cartridges - Ultrium-1
-    format
+  content: Data interchange on 12,7 mm - 384-track magnetic tape cartridges - Ultrium-1 format
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-319/

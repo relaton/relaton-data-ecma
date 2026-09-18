@@ -1,12 +1,10 @@
----
 id: ECMA164
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Name identification supplementary services (QSIG-NA)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Name identification supplementary services (QSIG-NA)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-164_2nd_edition_june_1993.pdf

@@ -1,12 +1,10 @@
----
 id: ECMA250
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Common information additional network feature (ANF-CMNSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Common information additional network feature (ANF-CMNSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-250_1st_edition_december_1996.pdf

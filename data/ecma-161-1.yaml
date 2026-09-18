@@ -1,13 +1,10 @@
----
 id: ECMA161
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Telecommunication Networks (PTN) - Signalling at the S reference
-    point - Generic feature key management protocol for the control of supplementary
-    services (SSIG-FK)
+  content: Private Telecommunication Networks (PTN) - Signalling at the S reference point - Generic feature key management protocol for the control of supplementary services (SSIG-FK)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-161_1st_edition_december_1991.pdf

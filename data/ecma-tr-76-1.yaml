@@ -1,12 +1,10 @@
----
 id: ECMATR76
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Networks (PISN) - Architecture and Scenarios
-    for Private Integrated Services Networking
+  content: Private Integrated Services Networks (PISN) - Architecture and Scenarios for Private Integrated Services Networking
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-76/

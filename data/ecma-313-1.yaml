@@ -1,13 +1,10 @@
----
 id: ECMA313
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Call Identification and Call Linkage additional
-    network feature (CIDLSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call Identification and Call Linkage additional network feature (CIDLSD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-313/

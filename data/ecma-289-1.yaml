@@ -1,13 +1,10 @@
----
 id: ECMA289
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Mapping functions for the
-    employment of 64 kbit/s circuit mode connections with 8 kbit/s sub-multiplexing
-    (Mapping/8)
+  content: Private Integrated Services Network (PISN) - Mapping functions for the employment of 64 kbit/s circuit mode connections with 8 kbit/s sub-multiplexing (Mapping/8)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-289_1st_edition_june_1999.pdf

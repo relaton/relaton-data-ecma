@@ -1,12 +1,10 @@
----
 id: ECMA421
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Quality discrimination method for optical disks and operating method of
-    storage systems for long-term data preservation
+  content: Quality discrimination method for optical disks and operating method of storage systems for long-term data preservation
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-421/

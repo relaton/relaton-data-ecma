@@ -1,12 +1,10 @@
----
 id: ECMA425
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Statistical background correction for information technology and telecommunications
-    equipment noise measurements
+  content: Statistical background correction for information technology and telecommunications equipment noise measurements
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-425_1st_edition_december_2024.pdf

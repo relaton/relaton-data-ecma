@@ -1,12 +1,10 @@
----
 id: ECMA226
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Mapping functions for the
-    employment of dedicated circuit mode connections as inter-PTNX connections (MAPPING-CM-STATIC)
+  content: Private Integrated Services Network (PISN) - Mapping functions for the employment of dedicated circuit mode connections as inter-PTNX connections (MAPPING-CM-STATIC)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-226/

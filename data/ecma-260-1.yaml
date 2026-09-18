@@ -1,12 +1,10 @@
----
 id: ECMA260
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 356 mm optical disk cartridges - WORM, using phase
-    change technology capacity: 14,8 and 25 Gbytes per cartridge'
+  content: 'Data interchange on 356 mm optical disk cartridges - WORM, using phase change technology capacity: 14,8 and 25 Gbytes per cartridge'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-260/

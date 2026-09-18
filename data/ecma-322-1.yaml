@@ -1,12 +1,10 @@
----
 id: ECMA322
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 130 mm magneto-optical disk cartridges - Capacity:
-    9,1 Gbytes per cartridge'
+  content: 'Data interchange on 130 mm magneto-optical disk cartridges - Capacity: 9,1 Gbytes per cartridge'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-322/

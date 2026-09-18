@@ -1,12 +1,10 @@
----
 id: ECMA230
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Portable Common Tool Environment (PCTE) - IDL binding (Interface Definition
-    Language)
+  content: Portable Common Tool Environment (PCTE) - IDL binding (Interface Definition Language)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-230/

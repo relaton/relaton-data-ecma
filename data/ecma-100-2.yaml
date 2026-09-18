@@ -1,12 +1,10 @@
----
 id: ECMA100
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data interchange on 90 mm flexible disk cartridges using MFM recording
-    at 7 958 ftprad on 80 tracks on each side - ISO type 301
+  content: Data interchange on 90 mm flexible disk cartridges using MFM recording at 7 958 ftprad on 80 tracks on each side - ISO type 301
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-100/

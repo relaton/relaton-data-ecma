@@ -1,12 +1,10 @@
----
 id: ECMA246
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 8 mm wide magnetic tape cartridge for information interchange - Helical
-    scan recording - AIT-1 format
+  content: 8 mm wide magnetic tape cartridge for information interchange - Helical scan recording - AIT-1 format
 docidentifier:
 - content: ECMA-246
   type: ECMA

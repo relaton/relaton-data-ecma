@@ -1,12 +1,10 @@
----
 id: ECMA382
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 120 mm (8,54 Gbytes per side) and 80 mm (2,66 Gbytes per side) DVD recordable
-    dsk for dual layer (DVD-R for DL)
+  content: 120 mm (8,54 Gbytes per side) and 80 mm (2,66 Gbytes per side) DVD recordable dsk for dual layer (DVD-R for DL)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-382/

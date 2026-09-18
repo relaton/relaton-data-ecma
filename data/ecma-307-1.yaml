@@ -1,13 +1,10 @@
----
 id: ECMA307
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Corporate telecommunication networks - Signalling interworking between
-    QSIG and H.323 - Generic functional protocol for the support of supplementary
-    services
+  content: Corporate telecommunication networks - Signalling interworking between QSIG and H.323 - Generic functional protocol for the support of supplementary services
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-307/

@@ -1,12 +1,10 @@
----
 id: ECMA109
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Declared noise emission values of information technology and telecommunications
-    equipment
+  content: Declared noise emission values of information technology and telecommunications equipment
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-109_6th_edition_december_2012.pdf

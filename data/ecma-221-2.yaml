@@ -1,12 +1,10 @@
----
 id: ECMA221
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Call interception additional network feature (QSIG-CINT)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Call interception additional network feature (QSIG-CINT)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-221_2nd_edition_june_1997.pdf

@@ -1,12 +1,10 @@
----
 id: ECMA269
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Services for Computer Supported Telecommunications Applications (CSTA)
-    Phase III
+  content: Services for Computer Supported Telecommunications Applications (CSTA) Phase III
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-269_7th_edition_december_2006.pdf

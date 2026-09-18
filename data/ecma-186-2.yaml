@@ -1,12 +1,10 @@
----
 id: ECMA186
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Call completion supplementary services (QSIG-CC)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Call completion supplementary services (QSIG-CC)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-186_2nd_edition_june_1997.pdf

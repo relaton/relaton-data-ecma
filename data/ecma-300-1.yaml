@@ -1,12 +1,10 @@
----
 id: ECMA300
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Single step call transfer supplementary service (QSIG-SSCT)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Single step call transfer supplementary service (QSIG-SSCT)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-300_1st_edition_february_2000.pdf

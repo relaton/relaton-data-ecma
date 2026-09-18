@@ -1,14 +1,10 @@
----
 id: ECMA294
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'B-ISDN and B-PISN - Digital Subscriber Signalling System No. two (DSS2),
-    Broadband Inter-Exchange Signalling (B-QSIG), and Signalling System No. 7 (SS7)
-    - Call control in a separated call and bearer control environment - Part 1: Protocol
-    specification'
+  content: 'B-ISDN and B-PISN - Digital Subscriber Signalling System No. two (DSS2), Broadband Inter-Exchange Signalling (B-QSIG), and Signalling System No. 7 (SS7) - Call control in a separated call and bearer control environment - Part 1: Protocol specification'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-294/

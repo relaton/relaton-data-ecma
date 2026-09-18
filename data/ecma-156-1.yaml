@@ -1,12 +1,10 @@
----
 id: ECMA156
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Telecommunication Networks (PTN) - Signalling at the S reference
-    point - Generic keypad protocol for the support of supplementary services (SSIG-KP)
+  content: Private Telecommunication Networks (PTN) - Signalling at the S reference point - Generic keypad protocol for the support of supplementary services (SSIG-KP)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-156_1st_edition_june_1991.pdf

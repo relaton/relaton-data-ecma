@@ -1,12 +1,10 @@
----
 id: ECMA420
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Device interface information for high-speed collation using holographic
-    optical correlation
+  content: Device interface information for high-speed collation using holographic optical correlation
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-420/

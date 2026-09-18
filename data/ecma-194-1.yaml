@@ -1,12 +1,10 @@
----
 id: ECMA194
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Do not disturb and do not disturb override supplementary services (QSIG-DND(O))
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Do not disturb and do not disturb override supplementary services (QSIG-DND(O))
 docidentifier:
 - content: ECMA-194
   type: ECMA

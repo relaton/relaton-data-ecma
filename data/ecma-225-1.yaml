@@ -1,12 +1,10 @@
----
 id: ECMA225
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Transit counter additional network feature (QSIG-TC)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Transit counter additional network feature (QSIG-TC)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-225_1st_edition_june_1995.pdf

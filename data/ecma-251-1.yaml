@@ -1,12 +1,10 @@
----
 id: ECMA251
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Common information additional network feature (QSIG-CMN)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Common information additional network feature (QSIG-CMN)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-251_1st_edition_december_1996.pdf

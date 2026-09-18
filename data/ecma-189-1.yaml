@@ -1,12 +1,10 @@
----
 id: ECMA189
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information interchange on 300 mm optical disk cartridges of the Write
-    Once, Read Multiple (WORM) type using the SSF method
+  content: Information interchange on 300 mm optical disk cartridges of the Write Once, Read Multiple (WORM) type using the SSF method
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-189/
