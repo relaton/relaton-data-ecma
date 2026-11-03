@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call interception additional network feature (ANF-CINTSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Call interception additional network feature (ANF-CINTSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-220_1st_edition_march_1995.pdf

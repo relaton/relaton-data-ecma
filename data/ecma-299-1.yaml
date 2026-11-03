@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Single step call transfer supplementary service (SSCT-SD)
+  content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Single step call transfer supplementary service
+    (SSCT-SD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-299_1st_edition_february_2000.pdf

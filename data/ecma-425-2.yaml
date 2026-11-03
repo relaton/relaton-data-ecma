@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Statistical background correction for information technology and telecommunications equipment noise measurements
+  content: Statistical background correction for information technology and telecommunications
+    equipment noise measurements
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-425/

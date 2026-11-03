@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Telecommunication Networks (PTN) - Signalling protocol at the S reference point - Identification supplementary services (SSIG-ID)
+  content: Private Telecommunication Networks (PTN) - Signalling protocol at the S
+    reference point - Identification supplementary services (SSIG-ID)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-157_1st_edition_june_1991-1.pdf

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Corporate telecommunication networks - Signalling interworking between QSIG and H.323 - Call diversion supplementary services
+  content: Corporate telecommunication networks - Signalling interworking between
+    QSIG and H.323 - Call diversion supplementary services
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-309_1st_edition_june_2000.pdf

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Scenarios for Computer Supported Telecommunications Applications (CSTA) Phase III
+  content: Scenarios for Computer Supported Telecommunications Applications (CSTA)
+    Phase III
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-82/

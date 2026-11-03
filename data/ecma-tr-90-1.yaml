@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Session management, Event notification, and computing function services - Amendments for ECMA-348
+  content: Session management, Event notification, and computing function services
+    - Amendments for ECMA-348
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-90/

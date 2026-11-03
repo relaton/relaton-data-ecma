@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange signalling protocol - Basic call/Connection control (B-QSIG-BC)
+  content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange
+    signalling protocol - Basic call/Connection control (B-QSIG-BC)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-266/

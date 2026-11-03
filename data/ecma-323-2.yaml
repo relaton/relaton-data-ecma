@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: XML protocol for Computer Supported Telecommunications Applications (CSTA) Phase III
+  content: XML protocol for Computer Supported Telecommunications Applications (CSTA)
+    Phase III
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-323_2nd_edition_december_2002.pdf
