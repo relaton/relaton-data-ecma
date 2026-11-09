@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Networks (PISN) - Wireless Terminal Mobility
-    (WTM) - WTM between networks - Requirements
+  content: Private Integrated Services Networks (PISN) - Wireless Terminal Mobility (WTM) - WTM between networks - Requirements
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-79/

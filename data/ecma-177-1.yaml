@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Call transfer supplementary service (CTSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call transfer supplementary service (CTSD)
 docidentifier:
 - content: ECMA-177
   type: ECMA

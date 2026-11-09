@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange
-    signalling protocol - Signalling ATM adaptation layer (B-QSIG-SAAL)
+  content: Broadband Private Integrated Services Network (B-PISN) - Inter-exchange signalling protocol - Signalling ATM adaptation layer (B-QSIG-SAAL)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-265/

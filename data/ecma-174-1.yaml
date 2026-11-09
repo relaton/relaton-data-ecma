@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
-    protocol - Call diversion supplementary services (QSIG-CF)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Call diversion supplementary services (QSIG-CF)
 docidentifier:
 - content: ECMA-174
   type: ECMA

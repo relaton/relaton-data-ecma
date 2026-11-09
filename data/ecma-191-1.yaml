@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Call offer supplementary service (COSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call offer supplementary service (COSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-191_1st_edition_june_1993.pdf

@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Measurement of structure-borne vibration induced by small air moving devices
-    (AMDs)
+  content: Measurement of structure-borne vibration induced by small air moving devices (AMDs)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-275_1st_edition_june_1998.pdf

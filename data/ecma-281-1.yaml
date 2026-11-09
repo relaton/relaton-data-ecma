@@ -5,9 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Private User Mobility (PUM) - Registration supplementary
-    service (PUMRSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Private User Mobility (PUM) - Registration supplementary service (PUMRSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-281_1st_edition_december_1998.pdf

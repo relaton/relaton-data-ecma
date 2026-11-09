@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical
-    scan recording - DDS-4 format
+  content: 3,81 mm wide magnetic tape cartridge for information interchange - Helical scan recording - DDS-4 format
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-288/

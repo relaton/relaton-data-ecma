@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Broadband Private Integrated Services Network (B-PISN) - Service description
-    - Broadband connection oriented bearer services (B-BCSD)
+  content: Broadband Private Integrated Services Network (B-PISN) - Service description - Broadband connection oriented bearer services (B-BCSD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-261/

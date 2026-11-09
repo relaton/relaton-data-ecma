@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 90 mm optical disk cartridges - HS-1 format - Capacity:
-    650 Megabytes per cartridge'
+  content: 'Data interchange on 90 mm optical disk cartridges - HS-1 format - Capacity: 650 Megabytes per cartridge'
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-239/

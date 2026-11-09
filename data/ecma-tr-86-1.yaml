@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Corporate Telecommunication Networks - User identification in a SIP/QSIG
-    environment
+  content: Corporate Telecommunication Networks - User identification in a SIP/QSIG environment
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-86/

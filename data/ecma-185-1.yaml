@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Call completion supplementary services (CCSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Call completion supplementary services (CCSD)
 docidentifier:
 - content: ECMA-185
   type: ECMA

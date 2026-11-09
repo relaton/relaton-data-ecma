@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Services for Computer Supported Telecommunications Applications (CSTA)
-    Phase III
+  content: Services for Computer Supported Telecommunications Applications (CSTA) Phase III
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-269/

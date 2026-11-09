@@ -35,8 +35,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Ecma Standard defines the Windows Application Program Interfaces to
-    the C Programming Language.
+  content: This Ecma Standard defines the Windows Application Program Interfaces to the C Programming Language.
 place:
 - city: Geneva
 ext:

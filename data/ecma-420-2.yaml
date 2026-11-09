@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Device interface information for high-speed collation using holographic
-    optical correlation
+  content: Device interface information for high-speed collation using holographic optical correlation
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-420_2nd_edition_december_2022.pdf

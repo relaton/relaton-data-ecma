@@ -5,9 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Wireless Terminal Call Handling additional network
-    features (WTMCH-SD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Wireless Terminal Call Handling additional network features (WTMCH-SD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-303/

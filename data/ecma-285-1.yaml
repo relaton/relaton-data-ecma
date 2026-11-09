@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ASN.1 for Computer Supported Telecommunications Applications (CSTA) phase
-    III
+  content: ASN.1 for Computer Supported Telecommunications Applications (CSTA) phase III
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-285_1st_edition_december_1998.pdf

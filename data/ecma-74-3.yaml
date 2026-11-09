@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Measurement of Airborne Noise emitted by Information Technology and Telecommunications
-    Equipment
+  content: Measurement of Airborne Noise emitted by Information Technology and Telecommunications Equipment
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-74_3rd_edition_december_1992.pdf

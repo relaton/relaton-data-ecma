@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional
-    model and information flows - Transit counter additional network feature (ANF-TCSD)
+  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Transit counter additional network feature (ANF-TCSD)
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-224_1st_edition_june_1995.pdf

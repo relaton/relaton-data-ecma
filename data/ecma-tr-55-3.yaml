@@ -35,8 +35,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Technical Report describes a reference model for Software Engineering
-    Environment Frameworks.
+  content: This Technical Report describes a reference model for Software Engineering Environment Frameworks.
 relation:
 - type: updates
   bibitem:

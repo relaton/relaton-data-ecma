@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 12,65 mm wide magnetic tape cassette for information interchange - Helical
-    scan recording - DTF-2
+  content: 12,65 mm wide magnetic tape cassette for information interchange - Helical scan recording - DTF-2
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-315/
