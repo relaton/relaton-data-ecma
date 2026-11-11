@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Specification, functional model and information flows - Name identification supplementary services (NISD)
+  content: Private Integrated Services Network (PISN) - Specification, functional
+    model and information flows - Name identification supplementary services (NISD)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-163/

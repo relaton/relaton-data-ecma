@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Enterprise communication in Next Generation Corporate Networks (NGCN) involving public Next Generation Networks (NGN)
+  content: Enterprise communication in Next Generation Corporate Networks (NGCN) involving
+    public Next Generation Networks (NGN)
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-91/

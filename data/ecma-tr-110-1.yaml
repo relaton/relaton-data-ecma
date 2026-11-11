@@ -35,7 +35,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is non-normative and intended to provide TC53 practitioners with guidance related to designing and implementing connected systems capable of capturing and transmitting useful and integrous data.
+  content: This document is non-normative and intended to provide TC53 practitioners
+    with guidance related to designing and implementing connected systems capable
+    of capturing and transmitting useful and integrous data.
 place:
 - city: Geneva
 ext:

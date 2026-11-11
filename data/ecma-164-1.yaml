@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) - Inter-exchange signalling protocol - Name identification supplementary services (QSIG-NA)
+  content: Private Integrated Services Network (PISN) - Inter-exchange signalling
+    protocol - Name identification supplementary services (QSIG-NA)
 docidentifier:
 - content: ECMA-164
   type: ECMA

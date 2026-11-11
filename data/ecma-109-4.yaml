@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Declared noise emission values of information technology and telecommunications equipment
+  content: Declared noise emission values of information technology and telecommunications
+    equipment
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-109_4th_edition_december_1996.pdf

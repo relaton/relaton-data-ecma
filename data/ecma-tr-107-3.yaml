@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: An optional alternate background noise correction sensitive to the steadiness of background noise
+  content: An optional alternate background noise correction sensitive to the steadiness
+    of background noise
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/technical-reports/ecma-tr-107/

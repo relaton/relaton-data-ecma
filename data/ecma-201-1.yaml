@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data interchange on 90 mm optical disk cartridges - Capacity: 230 Megabytes per cartridge'
+  content: 'Data interchange on 90 mm optical disk cartridges - Capacity: 230 Megabytes
+    per cartridge'
 source:
 - type: pdf
   content: https://ecma-international.org/wp-content/uploads/ECMA-201_1st_edition_december_1993.pdf
