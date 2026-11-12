@@ -5,8 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Private Integrated Services Network (PISN) – Use of QSIG for Message Centre
-    Access (MCA) profile standard
+  content: Private Integrated Services Network (PISN) – Use of QSIG for Message
+    Centre Access (MCA) profile standard
 source:
 - type: src
   content: https://ecma-international.org/publications-and-standards/standards/ecma-345/
